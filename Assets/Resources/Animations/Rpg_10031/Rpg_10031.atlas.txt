@@ -1,0 +1,300 @@
+
+Rpg_10031.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_L
+  rotate: true
+  xy: 370, 184
+  size: 60, 30
+  orig: 60, 30
+  offset: 0, 0
+  index: -1
+arm_R1
+  rotate: false
+  xy: 328, 749
+  size: 37, 23
+  orig: 37, 23
+  offset: 0, 0
+  index: -1
+arm_R2
+  rotate: false
+  xy: 316, 122
+  size: 17, 15
+  orig: 17, 15
+  offset: 0, 0
+  index: -1
+atk1_arm_L
+  rotate: true
+  xy: 316, 139
+  size: 58, 37
+  orig: 58, 37
+  offset: 0, 0
+  index: -1
+atk1_arm_R
+  rotate: false
+  xy: 648, 739
+  size: 95, 43
+  orig: 95, 43
+  offset: 0, 0
+  index: -1
+atk1_robe_B
+  rotate: true
+  xy: 248, 366
+  size: 111, 110
+  orig: 111, 110
+  offset: 0, 0
+  index: -1
+atk1_robe_R
+  rotate: false
+  xy: 548, 666
+  size: 41, 106
+  orig: 41, 106
+  offset: 0, 0
+  index: -1
+atk1_sickle
+  rotate: false
+  xy: 2, 33
+  size: 181, 216
+  orig: 181, 216
+  offset: 0, 0
+  index: -1
+atk2_arm_L
+  rotate: false
+  xy: 248, 298
+  size: 89, 66
+  orig: 89, 66
+  offset: 0, 0
+  index: -1
+atk2_arm_R
+  rotate: false
+  xy: 2, 2
+  size: 84, 29
+  orig: 84, 29
+  offset: 0, 0
+  index: -1
+atk2_robe_B
+  rotate: false
+  xy: 185, 9
+  size: 123, 109
+  orig: 123, 109
+  offset: 0, 0
+  index: -1
+atk2_robe_L
+  rotate: false
+  xy: 591, 684
+  size: 55, 98
+  orig: 55, 98
+  offset: 0, 0
+  index: -1
+atk2_sickle
+  rotate: true
+  xy: 271, 510
+  size: 237, 102
+  orig: 237, 102
+  offset: 0, 0
+  index: -1
+atk3_arm_L
+  rotate: false
+  xy: 648, 664
+  size: 83, 32
+  orig: 83, 32
+  offset: 0, 0
+  index: -1
+atk3_shoulder_L
+  rotate: true
+  xy: 1003, 974
+  size: 48, 17
+  orig: 48, 17
+  offset: 0, 0
+  index: -1
+chest
+  rotate: false
+  xy: 648, 698
+  size: 83, 39
+  orig: 83, 39
+  offset: 0, 0
+  index: -1
+chest_armor
+  rotate: false
+  xy: 248, 251
+  size: 78, 45
+  orig: 78, 45
+  offset: 0, 0
+  index: -1
+eff_flash
+  rotate: false
+  xy: 375, 639
+  size: 171, 133
+  orig: 171, 133
+  offset: 0, 0
+  index: -1
+eff_flash_round
+  rotate: false
+  xy: 185, 120
+  size: 129, 129
+  orig: 129, 129
+  offset: 0, 0
+  index: -1
+eff_light_round
+  rotate: false
+  xy: 925, 773
+  size: 93, 95
+  orig: 93, 95
+  offset: 0, 0
+  index: -1
+eff_slashing
+  rotate: false
+  xy: 569, 784
+  size: 204, 238
+  orig: 204, 238
+  offset: 0, 0
+  index: -1
+eff_smoke_1
+  rotate: false
+  xy: 2, 749
+  size: 324, 273
+  orig: 324, 273
+  offset: 0, 0
+  index: -1
+eff_smoke_2
+  rotate: false
+  xy: 2, 251
+  size: 244, 226
+  orig: 244, 226
+  offset: 0, 0
+  index: -1
+eff_smoke_3
+  rotate: false
+  xy: 2, 479
+  size: 267, 268
+  orig: 267, 268
+  offset: 0, 0
+  index: -1
+eff_smoke_4
+  rotate: false
+  xy: 328, 774
+  size: 239, 248
+  orig: 239, 248
+  offset: 0, 0
+  index: -1
+eye
+  rotate: false
+  xy: 548, 639
+  size: 51, 23
+  orig: 51, 23
+  offset: 0, 0
+  index: -1
+eye_atk
+  rotate: false
+  xy: 88, 4
+  size: 51, 27
+  orig: 51, 27
+  offset: 0, 0
+  index: -1
+eye_dmg
+  rotate: false
+  xy: 296, 485
+  size: 51, 23
+  orig: 51, 23
+  offset: 0, 0
+  index: -1
+face
+  rotate: true
+  xy: 339, 296
+  size: 68, 47
+  orig: 68, 47
+  offset: 0, 0
+  index: -1
+hair_B
+  rotate: false
+  xy: 375, 521
+  size: 145, 116
+  orig: 145, 116
+  offset: 0, 0
+  index: -1
+hair_F_L
+  rotate: false
+  xy: 785, 753
+  size: 28, 34
+  orig: 28, 34
+  offset: 0, 0
+  index: -1
+hair_F_R
+  rotate: false
+  xy: 271, 479
+  size: 23, 29
+  orig: 23, 29
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 925, 870
+  size: 152, 76
+  orig: 152, 76
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: true
+  xy: 141, 2
+  size: 10, 16
+  orig: 10, 16
+  offset: 0, 0
+  index: -1
+mouth2
+  rotate: false
+  xy: 355, 181
+  size: 11, 16
+  orig: 11, 16
+  offset: 0, 0
+  index: -1
+robe_B
+  rotate: true
+  xy: 522, 522
+  size: 115, 87
+  orig: 115, 87
+  offset: 0, 0
+  index: -1
+robe_L
+  rotate: true
+  xy: 328, 246
+  size: 48, 72
+  orig: 48, 72
+  offset: 0, 0
+  index: -1
+shoulder_L
+  rotate: false
+  xy: 141, 14
+  size: 42, 17
+  orig: 42, 17
+  offset: 0, 0
+  index: -1
+shoulder_R
+  rotate: false
+  xy: 815, 766
+  size: 39, 21
+  orig: 39, 21
+  offset: 0, 0
+  index: -1
+sickle
+  rotate: false
+  xy: 775, 789
+  size: 148, 233
+  orig: 148, 233
+  offset: 0, 0
+  index: -1
+tail_1
+  rotate: false
+  xy: 316, 199
+  size: 52, 45
+  orig: 52, 45
+  offset: 0, 0
+  index: -1
+tail_2
+  rotate: false
+  xy: 745, 734
+  size: 38, 48
+  orig: 38, 48
+  offset: 0, 0
+  index: -1

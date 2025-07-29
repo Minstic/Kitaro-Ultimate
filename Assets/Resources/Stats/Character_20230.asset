@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c1ab2b1b2f492bb4d825b1f0fb5efb22, type: 3}
+  m_Name: Character_20230
+  m_EditorClassIdentifier: 
+  HP: 122222
+  HB: 3
+  Speed: 20
+  AtkRange: 350
+  MinLD: 0
+  MaxLD: 0
+  Atk: 4800
+  Atk2: 0
+  Atk3: 0
+  AreaAtk: 1
+  TBA: 0.8
+  AttacksAllies: 0
+  rarity: 6
+  Cost: 450
+  CD: 50
+  UnitRole: 64
+  MaxLevel: 40
+  MaxPlusLevel: 0
+  HPMaginificationLvl30: 30
+  AtkMaginificationLvl30: 50
+  MinLayer: 10
+  MaxLayer: 100
+  SelfTrait: 0
+  TargetTraits: 0
+  SecondaryType: 69632
+  TraitAbilityData: []
+  NeutralAbilityData: []
+  StatsBoost: []

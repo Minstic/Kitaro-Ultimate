@@ -1,0 +1,160 @@
+
+Character_00942.png
+size: 614,156
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Light emission1
+  rotate: false
+  xy: 145, 23
+  size: 131, 131
+  orig: 131, 131
+  offset: 0, 0
+  index: -1
+Light emission2
+  rotate: false
+  xy: 2, 13
+  size: 141, 141
+  orig: 141, 141
+  offset: 0, 0
+  index: -1
+arm_l_attack1
+  rotate: false
+  xy: 233, 4
+  size: 35, 17
+  orig: 35, 17
+  offset: 0, 0
+  index: -1
+arm_l_attack2
+  rotate: true
+  xy: 145, 2
+  size: 19, 32
+  orig: 19, 32
+  offset: 0, 0
+  index: -1
+arm_l_default
+  rotate: false
+  xy: 500, 94
+  size: 22, 60
+  orig: 22, 60
+  offset: 0, 0
+  index: -1
+arm_r_attack_01
+  rotate: true
+  xy: 436, 78
+  size: 76, 62
+  orig: 76, 62
+  offset: 0, 0
+  index: -1
+arm_r_attack_02
+  rotate: true
+  xy: 524, 60
+  size: 41, 51
+  orig: 41, 51
+  offset: 0, 0
+  index: -1
+arm_r_default
+  rotate: false
+  xy: 353, 5
+  size: 20, 65
+  orig: 20, 65
+  offset: 0, 0
+  index: -1
+body_attack
+  rotate: true
+  xy: 452, 4
+  size: 72, 59
+  orig: 72, 59
+  offset: 0, 0
+  index: -1
+body_default
+  rotate: false
+  xy: 294, 2
+  size: 57, 68
+  orig: 57, 68
+  offset: 0, 0
+  index: -1
+face_damage
+  rotate: false
+  xy: 524, 103
+  size: 57, 51
+  orig: 57, 51
+  offset: 0, 0
+  index: -1
+face_default
+  rotate: false
+  xy: 577, 65
+  size: 35, 23
+  orig: 35, 23
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 358, 72
+  size: 82, 76
+  orig: 82, 76
+  offset: 0, 0
+  index: -1
+head2
+  rotate: true
+  xy: 278, 72
+  size: 82, 78
+  orig: 82, 78
+  offset: 0, 0
+  index: -1
+leg_l
+  rotate: false
+  xy: 270, 4
+  size: 22, 17
+  orig: 22, 17
+  offset: 0, 0
+  index: -1
+leg_l_attack
+  rotate: true
+  xy: 583, 90
+  size: 36, 25
+  orig: 36, 25
+  offset: 0, 0
+  index: -1
+leg_r
+  rotate: true
+  xy: 577, 16
+  size: 47, 33
+  orig: 47, 33
+  offset: 0, 0
+  index: -1
+leg_r_attack
+  rotate: false
+  xy: 583, 128
+  size: 28, 26
+  orig: 28, 26
+  offset: 0, 0
+  index: -1
+megane_W
+  rotate: false
+  xy: 179, 4
+  size: 52, 17
+  orig: 52, 17
+  offset: 0, 0
+  index: -1
+megane_right
+  rotate: true
+  xy: 278, 24
+  size: 46, 13
+  orig: 46, 13
+  offset: 0, 0
+  index: -1
+shell_default
+  rotate: true
+  xy: 375, 6
+  size: 64, 75
+  orig: 64, 75
+  offset: 0, 0
+  index: -1
+shirikodama2
+  rotate: false
+  xy: 513, 14
+  size: 44, 44
+  orig: 44, 44
+  offset: 0, 0
+  index: -1

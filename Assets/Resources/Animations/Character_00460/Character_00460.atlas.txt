@@ -1,0 +1,69 @@
+
+Character_00460.png
+size: 238,267
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_l
+  rotate: false
+  xy: 212, 98
+  size: 19, 17
+  orig: 19, 17
+  offset: 0, 0
+  index: -1
+arm_r
+  rotate: false
+  xy: 83, 2
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+body_attack
+  rotate: false
+  xy: 2, 71
+  size: 126, 125
+  orig: 126, 125
+  offset: 0, 0
+  index: -1
+body_default
+  rotate: true
+  xy: 2, 198
+  size: 67, 133
+  orig: 67, 133
+  offset: 0, 0
+  index: -1
+collar
+  rotate: true
+  xy: 135, 17
+  size: 98, 75
+  orig: 98, 75
+  offset: 0, 0
+  index: -1
+hand_attack
+  rotate: false
+  xy: 2, 16
+  size: 79, 53
+  orig: 79, 53
+  offset: 0, 0
+  index: -1
+hand_default
+  rotate: false
+  xy: 83, 18
+  size: 50, 51
+  orig: 50, 51
+  offset: 0, 0
+  index: -1
+head_damage
+  rotate: false
+  xy: 137, 192
+  size: 99, 73
+  orig: 99, 73
+  offset: 0, 0
+  index: -1
+head_default
+  rotate: false
+  xy: 135, 117
+  size: 99, 73
+  orig: 99, 73
+  offset: 0, 0
+  index: -1

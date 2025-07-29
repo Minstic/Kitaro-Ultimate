@@ -1,0 +1,20 @@
+
+HyakkiChara_02.png
+size: 68,58
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+HyakkiChara_02
+  rotate: true
+  xy: 0, 8
+  size: 50, 68
+  orig: 50, 68
+  offset: 0, 0
+  index: -1
+HyakkiShadow
+  rotate: false
+  xy: 0, 0
+  size: 64, 8
+  orig: 64, 8
+  offset: 0, 0
+  index: -1

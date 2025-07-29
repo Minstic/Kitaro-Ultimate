@@ -1,0 +1,258 @@
+
+Character_30240.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+attack_eff_1
+  rotate: false
+  xy: 322, 47
+  size: 56, 63
+  orig: 56, 63
+  offset: 0, 0
+  index: -1
+attack_eff_2
+  rotate: true
+  xy: 380, 49
+  size: 61, 57
+  orig: 61, 57
+  offset: 0, 0
+  index: -1
+attack_eff_3
+  rotate: false
+  xy: 245, 112
+  size: 186, 142
+  orig: 186, 142
+  offset: 0, 0
+  index: -1
+attack_eff_4
+  rotate: false
+  xy: 2, 2
+  size: 132, 130
+  orig: 132, 130
+  offset: 0, 0
+  index: -1
+jiniya_AT_arm_l
+  rotate: false
+  xy: 439, 53
+  size: 38, 20
+  orig: 38, 20
+  offset: 0, 0
+  index: -1
+jiniya_AT_arm_r
+  rotate: true
+  xy: 634, 164
+  size: 12, 18
+  orig: 12, 18
+  offset: 0, 0
+  index: -1
+jiniya_AT_hand_r
+  rotate: false
+  xy: 707, 189
+  size: 14, 13
+  orig: 14, 13
+  offset: 0, 0
+  index: -1
+jiniya_arm_l
+  rotate: true
+  xy: 244, 2
+  size: 30, 39
+  orig: 30, 39
+  offset: 0, 0
+  index: -1
+jiniya_arm_r
+  rotate: false
+  xy: 613, 159
+  size: 19, 39
+  orig: 19, 39
+  offset: 0, 0
+  index: -1
+jiniya_body
+  rotate: false
+  xy: 856, 202
+  size: 50, 52
+  orig: 50, 52
+  offset: 0, 0
+  index: -1
+jiniya_broom
+  rotate: false
+  xy: 433, 200
+  size: 197, 54
+  orig: 197, 54
+  offset: 0, 0
+  index: -1
+jiniya_face_damage
+  rotate: false
+  xy: 908, 220
+  size: 45, 34
+  orig: 45, 34
+  offset: 0, 0
+  index: -1
+jiniya_face_default
+  rotate: false
+  xy: 539, 120
+  size: 40, 25
+  orig: 40, 25
+  offset: 0, 0
+  index: -1
+jiniya_flower_n
+  rotate: true
+  xy: 203, 9
+  size: 36, 39
+  orig: 36, 39
+  offset: 0, 0
+  index: -1
+jiniya_flower_r
+  rotate: false
+  xy: 439, 75
+  size: 36, 38
+  orig: 36, 38
+  offset: 0, 0
+  index: -1
+jiniya_hair_b
+  rotate: false
+  xy: 632, 204
+  size: 90, 50
+  orig: 90, 50
+  offset: 0, 0
+  index: -1
+jiniya_hair_f
+  rotate: false
+  xy: 724, 215
+  size: 72, 39
+  orig: 72, 39
+  offset: 0, 0
+  index: -1
+jiniya_head
+  rotate: false
+  xy: 798, 200
+  size: 56, 54
+  orig: 56, 54
+  offset: 0, 0
+  index: -1
+jiniya_leg_l_1
+  rotate: false
+  xy: 634, 178
+  size: 22, 24
+  orig: 22, 24
+  offset: 0, 0
+  index: -1
+jiniya_leg_l_2
+  rotate: true
+  xy: 908, 198
+  size: 20, 36
+  orig: 20, 36
+  offset: 0, 0
+  index: -1
+jiniya_leg_r_1
+  rotate: false
+  xy: 658, 178
+  size: 22, 24
+  orig: 22, 24
+  offset: 0, 0
+  index: -1
+jiniya_leg_r_2
+  rotate: true
+  xy: 285, 8
+  size: 24, 34
+  orig: 24, 34
+  offset: 0, 0
+  index: -1
+jiniya_mant_b
+  rotate: false
+  xy: 433, 145
+  size: 99, 53
+  orig: 99, 53
+  offset: 0, 0
+  index: -1
+jiniya_mant_f
+  rotate: false
+  xy: 955, 227
+  size: 48, 27
+  orig: 48, 27
+  offset: 0, 0
+  index: -1
+jiniya_ribbon_l
+  rotate: true
+  xy: 581, 127
+  size: 18, 29
+  orig: 18, 29
+  offset: 0, 0
+  index: -1
+jiniya_ribbon_r
+  rotate: true
+  xy: 322, 34
+  size: 11, 29
+  orig: 11, 29
+  offset: 0, 0
+  index: -1
+majin_arm_l
+  rotate: true
+  xy: 136, 9
+  size: 36, 65
+  orig: 36, 65
+  offset: 0, 0
+  index: -1
+majin_arm_r
+  rotate: true
+  xy: 433, 115
+  size: 28, 52
+  orig: 28, 52
+  offset: 0, 0
+  index: -1
+majin_body
+  rotate: false
+  xy: 244, 34
+  size: 76, 76
+  orig: 76, 76
+  offset: 0, 0
+  index: -1
+majin_bress
+  rotate: false
+  xy: 2, 134
+  size: 241, 120
+  orig: 241, 120
+  offset: 0, 0
+  index: -1
+majin_eye
+  rotate: false
+  xy: 487, 120
+  size: 50, 23
+  orig: 50, 23
+  offset: 0, 0
+  index: -1
+majin_hand
+  rotate: false
+  xy: 682, 184
+  size: 23, 18
+  orig: 23, 18
+  offset: 0, 0
+  index: -1
+majin_head
+  rotate: false
+  xy: 136, 47
+  size: 106, 85
+  orig: 106, 85
+  offset: 0, 0
+  index: -1
+majin_leg
+  rotate: false
+  xy: 534, 147
+  size: 77, 51
+  orig: 77, 51
+  offset: 0, 0
+  index: -1
+majin_mouth_01
+  rotate: true
+  xy: 1005, 228
+  size: 26, 16
+  orig: 26, 16
+  offset: 0, 0
+  index: -1
+majin_mouth_02
+  rotate: false
+  xy: 321, 11
+  size: 20, 21
+  orig: 20, 21
+  offset: 0, 0
+  index: -1

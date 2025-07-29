@@ -1,0 +1,76 @@
+
+Character_20018.png
+size: 128,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_l
+  rotate: false
+  xy: 106, 33
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+arm_r
+  rotate: false
+  xy: 116, 36
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 2
+  size: 71, 53
+  orig: 71, 53
+  offset: 0, 0
+  index: -1
+eye_brows
+  rotate: false
+  xy: 92, 43
+  size: 15, 12
+  orig: 15, 12
+  offset: 0, 0
+  index: -1
+eye_l1
+  rotate: false
+  xy: 75, 42
+  size: 15, 13
+  orig: 15, 13
+  offset: 0, 0
+  index: -1
+eye_l2
+  rotate: false
+  xy: 75, 27
+  size: 15, 13
+  orig: 15, 13
+  offset: 0, 0
+  index: -1
+eye_r1
+  rotate: false
+  xy: 75, 13
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+eye_r2
+  rotate: false
+  xy: 92, 29
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+leg_l
+  rotate: true
+  xy: 109, 46
+  size: 9, 14
+  orig: 9, 14
+  offset: 0, 0
+  index: -1
+leg_r
+  rotate: true
+  xy: 75, 3
+  size: 8, 13
+  orig: 8, 13
+  offset: 0, 0
+  index: -1

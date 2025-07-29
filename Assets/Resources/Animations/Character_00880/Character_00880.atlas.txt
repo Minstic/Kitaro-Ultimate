@@ -1,0 +1,97 @@
+
+Character_00880.png
+size: 278,111
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_l
+  rotate: false
+  xy: 245, 63
+  size: 31, 46
+  orig: 31, 46
+  offset: 0, 0
+  index: -1
+arm_r_a
+  rotate: true
+  xy: 175, 9
+  size: 38, 51
+  orig: 38, 51
+  offset: 0, 0
+  index: -1
+arm_r_b
+  rotate: false
+  xy: 228, 2
+  size: 47, 47
+  orig: 47, 47
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 131, 49
+  size: 56, 60
+  orig: 56, 60
+  offset: 0, 0
+  index: -1
+face_damage
+  rotate: true
+  xy: 189, 51
+  size: 58, 54
+  orig: 58, 54
+  offset: 0, 0
+  index: -1
+face_default
+  rotate: true
+  xy: 83, 39
+  size: 70, 46
+  orig: 70, 46
+  offset: 0, 0
+  index: -1
+hand_r
+  rotate: true
+  xy: 24, 7
+  size: 17, 51
+  orig: 17, 51
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 2, 26
+  size: 83, 79
+  orig: 83, 79
+  offset: 0, 0
+  index: -1
+hip
+  rotate: false
+  xy: 135, 8
+  size: 38, 39
+  orig: 38, 39
+  offset: 0, 0
+  index: -1
+leg_l
+  rotate: false
+  xy: 13, 5
+  size: 9, 19
+  orig: 9, 19
+  offset: 0, 0
+  index: -1
+leg_r
+  rotate: false
+  xy: 2, 4
+  size: 9, 20
+  orig: 9, 20
+  offset: 0, 0
+  index: -1
+wound
+  rotate: true
+  xy: 83, 5
+  size: 32, 24
+  orig: 32, 24
+  offset: 0, 0
+  index: -1
+wound_re
+  rotate: true
+  xy: 109, 5
+  size: 32, 24
+  orig: 32, 24
+  offset: 0, 0
+  index: -1

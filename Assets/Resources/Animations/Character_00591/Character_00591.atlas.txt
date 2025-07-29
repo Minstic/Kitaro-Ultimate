@@ -1,0 +1,76 @@
+
+Character_00591.png
+size: 665,427
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+base
+  rotate: true
+  xy: 2, 2
+  size: 423, 408
+  orig: 423, 408
+  offset: 0, 0
+  index: -1
+eff_l
+  rotate: true
+  xy: 412, 294
+  size: 131, 181
+  orig: 131, 181
+  offset: 0, 0
+  index: -1
+eff_r
+  rotate: true
+  xy: 412, 12
+  size: 132, 148
+  orig: 132, 148
+  offset: 0, 0
+  index: -1
+eff_wind
+  rotate: false
+  xy: 412, 146
+  size: 165, 146
+  orig: 165, 146
+  offset: 0, 0
+  index: -1
+face_attack
+  rotate: true
+  xy: 595, 319
+  size: 106, 66
+  orig: 106, 66
+  offset: 0, 0
+  index: -1
+face_damage
+  rotate: true
+  xy: 579, 98
+  size: 111, 58
+  orig: 111, 58
+  offset: 0, 0
+  index: -1
+face_default
+  rotate: true
+  xy: 595, 211
+  size: 106, 66
+  orig: 106, 66
+  offset: 0, 0
+  index: -1
+mouth_attack01
+  rotate: false
+  xy: 562, 40
+  size: 35, 56
+  orig: 35, 56
+  offset: 0, 0
+  index: -1
+mouth_attack02
+  rotate: true
+  xy: 639, 182
+  size: 27, 24
+  orig: 27, 24
+  offset: 0, 0
+  index: -1
+mouth_default
+  rotate: true
+  xy: 562, 4
+  size: 34, 41
+  orig: 34, 41
+  offset: 0, 0
+  index: -1

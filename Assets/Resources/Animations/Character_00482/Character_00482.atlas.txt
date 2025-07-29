@@ -1,0 +1,90 @@
+
+Character_00482.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+eff
+  rotate: true
+  xy: 203, 262
+  size: 59, 53
+  orig: 59, 53
+  offset: 0, 0
+  index: -1
+face_AT
+  rotate: false
+  xy: 922, 430
+  size: 96, 78
+  orig: 96, 78
+  offset: 0, 0
+  index: -1
+face_attack
+  rotate: true
+  xy: 140, 69
+  size: 64, 59
+  orig: 64, 59
+  offset: 0, 0
+  index: -1
+face_damage
+  rotate: false
+  xy: 809, 359
+  size: 65, 63
+  orig: 65, 63
+  offset: 0, 0
+  index: -1
+face_default
+  rotate: true
+  xy: 140, 2
+  size: 65, 58
+  orig: 65, 58
+  offset: 0, 0
+  index: -1
+fire
+  rotate: false
+  xy: 2, 135
+  size: 199, 186
+  orig: 199, 186
+  offset: 0, 0
+  index: -1
+fire2
+  rotate: false
+  xy: 450, 329
+  size: 193, 179
+  orig: 193, 179
+  offset: 0, 0
+  index: -1
+fire3
+  rotate: false
+  xy: 250, 330
+  size: 198, 178
+  orig: 198, 178
+  offset: 0, 0
+  index: -1
+fire_08
+  rotate: false
+  xy: 645, 353
+  size: 162, 155
+  orig: 162, 155
+  offset: 0, 0
+  index: -1
+flame
+  rotate: false
+  xy: 2, 323
+  size: 246, 185
+  orig: 246, 185
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 809, 424
+  size: 111, 84
+  orig: 111, 84
+  offset: 0, 0
+  index: -1
+wheel
+  rotate: false
+  xy: 2, 6
+  size: 136, 127
+  orig: 136, 127
+  offset: 0, 0
+  index: -1

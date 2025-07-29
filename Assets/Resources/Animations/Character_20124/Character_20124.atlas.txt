@@ -1,0 +1,90 @@
+
+Character_20124.png
+size: 575,527
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_l
+  rotate: false
+  xy: 206, 9
+  size: 103, 183
+  orig: 103, 183
+  offset: 0, 0
+  index: -1
+arm_r
+  rotate: true
+  xy: 206, 194
+  size: 79, 187
+  orig: 79, 187
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 189, 275
+  size: 228, 250
+  orig: 228, 250
+  offset: 0, 0
+  index: -1
+eff
+  rotate: false
+  xy: 2, 236
+  size: 185, 289
+  orig: 185, 289
+  offset: 0, 0
+  index: -1
+face_attack
+  rotate: true
+  xy: 419, 249
+  size: 98, 126
+  orig: 98, 126
+  offset: 0, 0
+  index: -1
+face_damage
+  rotate: false
+  xy: 311, 8
+  size: 92, 126
+  orig: 92, 126
+  offset: 0, 0
+  index: -1
+face_default
+  rotate: false
+  xy: 405, 8
+  size: 92, 126
+  orig: 92, 126
+  offset: 0, 0
+  index: -1
+foot_l
+  rotate: false
+  xy: 499, 93
+  size: 41, 41
+  orig: 41, 41
+  offset: 0, 0
+  index: -1
+foot_r
+  rotate: false
+  xy: 311, 150
+  size: 41, 42
+  orig: 41, 42
+  offset: 0, 0
+  index: -1
+hair
+  rotate: true
+  xy: 395, 136
+  size: 111, 164
+  orig: 111, 164
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 2, 2
+  size: 202, 232
+  orig: 202, 232
+  offset: 0, 0
+  index: -1
+mask
+  rotate: true
+  xy: 419, 349
+  size: 176, 154
+  orig: 176, 154
+  offset: 0, 0
+  index: -1

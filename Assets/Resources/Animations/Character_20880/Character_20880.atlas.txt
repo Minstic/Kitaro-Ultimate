@@ -1,0 +1,41 @@
+
+Character_20880.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_l
+  rotate: false
+  xy: 275, 179
+  size: 79, 67
+  orig: 79, 67
+  offset: 0, 0
+  index: -1
+arm_r
+  rotate: false
+  xy: 275, 111
+  size: 76, 66
+  orig: 76, 66
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 2, 21
+  size: 225, 271
+  orig: 225, 271
+  offset: 0, 0
+  index: -1
+crown
+  rotate: false
+  xy: 356, 188
+  size: 59, 58
+  orig: 59, 58
+  offset: 0, 0
+  index: -1
+face_default
+  rotate: false
+  xy: 2, 2
+  size: 44, 17
+  orig: 44, 17
+  offset: 0, 0
+  index: -1

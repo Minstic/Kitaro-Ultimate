@@ -1,0 +1,153 @@
+
+Character_00061.png
+size: 866,113
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a_arm_l
+  rotate: false
+  xy: 656, 2
+  size: 46, 45
+  orig: 46, 45
+  offset: 0, 0
+  index: -1
+a_arm_r
+  rotate: true
+  xy: 653, 49
+  size: 62, 36
+  orig: 62, 36
+  offset: 0, 0
+  index: -1
+a_hand_l
+  rotate: false
+  xy: 823, 14
+  size: 27, 29
+  orig: 27, 29
+  offset: 0, 0
+  index: -1
+a_hand_r
+  rotate: true
+  xy: 620, 2
+  size: 28, 34
+  orig: 28, 34
+  offset: 0, 0
+  index: -1
+a_leg_l
+  rotate: false
+  xy: 795, 88
+  size: 26, 23
+  orig: 26, 23
+  offset: 0, 0
+  index: -1
+a_leg_r
+  rotate: true
+  xy: 823, 45
+  size: 33, 36
+  orig: 33, 36
+  offset: 0, 0
+  index: -1
+b_arm_l
+  rotate: true
+  xy: 823, 80
+  size: 31, 41
+  orig: 31, 41
+  offset: 0, 0
+  index: -1
+b_arm_r
+  rotate: true
+  xy: 783, 20
+  size: 43, 38
+  orig: 43, 38
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 691, 52
+  size: 57, 59
+  orig: 57, 59
+  offset: 0, 0
+  index: -1
+body_attack
+  rotate: false
+  xy: 486, 16
+  size: 95, 95
+  orig: 95, 95
+  offset: 0, 0
+  index: -1
+cloak
+  rotate: true
+  xy: 303, 8
+  size: 103, 68
+  orig: 103, 68
+  offset: 0, 0
+  index: -1
+face_attack
+  rotate: true
+  xy: 752, 18
+  size: 45, 29
+  orig: 45, 29
+  offset: 0, 0
+  index: -1
+face_damage
+  rotate: false
+  xy: 704, 4
+  size: 46, 46
+  orig: 46, 46
+  offset: 0, 0
+  index: -1
+face_default
+  rotate: true
+  xy: 750, 65
+  size: 46, 43
+  orig: 46, 43
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 583, 32
+  size: 79, 68
+  orig: 79, 68
+  offset: 0, 0
+  index: -1
+konaki_attack_eff03
+  rotate: true
+  xy: 583, 2
+  size: 28, 35
+  orig: 28, 35
+  offset: 0, 0
+  index: -1
+revolve_01
+  rotate: true
+  xy: 198, 5
+  size: 106, 103
+  orig: 106, 103
+  offset: 0, 0
+  index: -1
+revolve_02
+  rotate: false
+  xy: 2, 2
+  size: 113, 109
+  orig: 113, 109
+  offset: 0, 0
+  index: -1
+revolve_03
+  rotate: false
+  xy: 373, 9
+  size: 111, 102
+  orig: 111, 102
+  offset: 0, 0
+  index: -1
+revolve_line
+  rotate: true
+  xy: 117, 3
+  size: 108, 79
+  orig: 108, 79
+  offset: 0, 0
+  index: -1
+ribbon
+  rotate: false
+  xy: 795, 67
+  size: 23, 19
+  orig: 23, 19
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,181 @@
+
+Character_01090.png
+size: 533,141
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_l
+  rotate: false
+  xy: 461, 23
+  size: 21, 56
+  orig: 21, 56
+  offset: 0, 0
+  index: -1
+arm_l_attack_02
+  rotate: false
+  xy: 2, 2
+  size: 53, 29
+  orig: 53, 29
+  offset: 0, 0
+  index: -1
+arm_r_attack_01
+  rotate: true
+  xy: 133, 2
+  size: 43, 50
+  orig: 43, 50
+  offset: 0, 0
+  index: -1
+arm_r_default
+  rotate: false
+  xy: 484, 23
+  size: 21, 56
+  orig: 21, 56
+  offset: 0, 0
+  index: -1
+bell
+  rotate: false
+  xy: 105, 11
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 373, 15
+  size: 58, 65
+  orig: 58, 65
+  offset: 0, 0
+  index: -1
+eff_01
+  rotate: true
+  xy: 325, 24
+  size: 63, 46
+  orig: 63, 46
+  offset: 0, 0
+  index: -1
+eff_02
+  rotate: false
+  xy: 133, 47
+  size: 122, 92
+  orig: 122, 92
+  offset: 0, 0
+  index: -1
+face_damage
+  rotate: false
+  xy: 57, 2
+  size: 46, 29
+  orig: 46, 29
+  offset: 0, 0
+  index: -1
+face_default
+  rotate: false
+  xy: 209, 18
+  size: 46, 27
+  orig: 46, 27
+  offset: 0, 0
+  index: -1
+hair_01
+  rotate: true
+  xy: 257, 89
+  size: 50, 115
+  orig: 50, 115
+  offset: 0, 0
+  index: -1
+hair_02
+  rotate: false
+  xy: 257, 41
+  size: 66, 46
+  orig: 66, 46
+  offset: 0, 0
+  index: -1
+hair_03
+  rotate: false
+  xy: 185, 2
+  size: 22, 43
+  orig: 22, 43
+  offset: 0, 0
+  index: -1
+hair_04
+  rotate: true
+  xy: 320, 5
+  size: 17, 45
+  orig: 17, 45
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 374, 75
+  size: 75, 64
+  orig: 75, 64
+  offset: 0, 0
+  index: -1
+head_acc
+  rotate: false
+  xy: 451, 81
+  size: 70, 58
+  orig: 70, 58
+  offset: 0, 0
+  index: -1
+head_acc+
+  rotate: false
+  xy: 209, 2
+  size: 19, 14
+  orig: 19, 14
+  offset: 0, 0
+  index: -1
+leaf1
+  rotate: false
+  xy: 498, 12
+  size: 5, 9
+  orig: 5, 9
+  offset: 0, 0
+  index: -1
+leaf2
+  rotate: false
+  xy: 498, 2
+  size: 6, 8
+  orig: 6, 8
+  offset: 0, 0
+  index: -1
+leaf3
+  rotate: false
+  xy: 523, 133
+  size: 8, 6
+  orig: 8, 6
+  offset: 0, 0
+  index: -1
+leg_l
+  rotate: false
+  xy: 440, 12
+  size: 19, 61
+  orig: 19, 61
+  offset: 0, 0
+  index: -1
+leg_r
+  rotate: true
+  xy: 257, 17
+  size: 22, 61
+  orig: 22, 61
+  offset: 0, 0
+  index: -1
+ribbon
+  rotate: false
+  xy: 461, 2
+  size: 35, 19
+  orig: 35, 19
+  offset: 0, 0
+  index: -1
+scarf
+  rotate: true
+  xy: 507, 32
+  size: 47, 21
+  orig: 47, 21
+  offset: 0, 0
+  index: -1
+tree
+  rotate: false
+  xy: 2, 33
+  size: 129, 106
+  orig: 129, 106
+  offset: 0, 0
+  index: -1

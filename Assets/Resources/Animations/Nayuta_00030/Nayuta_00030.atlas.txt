@@ -1,0 +1,195 @@
+
+Nayuta_00030.png
+size: 282,267
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+_Touch
+  rotate: false
+  xy: 256, 197
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+body01
+  rotate: false
+  xy: 2, 115
+  size: 117, 79
+  orig: 117, 79
+  offset: 0, 0
+  index: -1
+body02
+  rotate: false
+  xy: 2, 35
+  size: 95, 78
+  orig: 95, 78
+  offset: 0, 0
+  index: -1
+body03
+  rotate: false
+  xy: 121, 121
+  size: 73, 73
+  orig: 73, 73
+  offset: 0, 0
+  index: -1
+face01
+  rotate: true
+  xy: 233, 143
+  size: 52, 36
+  orig: 52, 36
+  offset: 0, 0
+  index: -1
+face02
+  rotate: true
+  xy: 239, 89
+  size: 52, 36
+  orig: 52, 36
+  offset: 0, 0
+  index: -1
+face03
+  rotate: true
+  xy: 206, 20
+  size: 52, 36
+  orig: 52, 36
+  offset: 0, 0
+  index: -1
+face04
+  rotate: true
+  xy: 244, 35
+  size: 52, 36
+  orig: 52, 36
+  offset: 0, 0
+  index: -1
+face05
+  rotate: true
+  xy: 199, 74
+  size: 55, 38
+  orig: 55, 38
+  offset: 0, 0
+  index: -1
+face06
+  rotate: true
+  xy: 196, 131
+  size: 64, 35
+  orig: 64, 35
+  offset: 0, 0
+  index: -1
+face07
+  rotate: true
+  xy: 162, 56
+  size: 63, 35
+  orig: 63, 35
+  offset: 0, 0
+  index: -1
+face_dmg
+  rotate: true
+  xy: 162, 2
+  size: 52, 42
+  orig: 52, 42
+  offset: 0, 0
+  index: -1
+huroshiki01
+  rotate: false
+  xy: 2, 196
+  size: 137, 69
+  orig: 137, 69
+  offset: 0, 0
+  index: -1
+huroshiki02
+  rotate: false
+  xy: 141, 197
+  size: 113, 68
+  orig: 113, 68
+  offset: 0, 0
+  index: -1
+huroshiki03
+  rotate: true
+  xy: 99, 31
+  size: 82, 61
+  orig: 82, 61
+  offset: 0, 0
+  index: -1
+huroshiki_ura01
+  rotate: false
+  xy: 66, 10
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+huroshiki_ura02
+  rotate: true
+  xy: 248, 7
+  size: 12, 11
+  orig: 12, 11
+  offset: 0, 0
+  index: -1
+leg_bl_01
+  rotate: true
+  xy: 228, 2
+  size: 16, 18
+  orig: 16, 18
+  offset: 0, 0
+  index: -1
+leg_bl_02
+  rotate: true
+  xy: 206, 2
+  size: 16, 20
+  orig: 16, 20
+  offset: 0, 0
+  index: -1
+leg_bl_03
+  rotate: true
+  xy: 261, 17
+  size: 16, 18
+  orig: 16, 18
+  offset: 0, 0
+  index: -1
+leg_br
+  rotate: true
+  xy: 244, 21
+  size: 12, 15
+  orig: 12, 15
+  offset: 0, 0
+  index: -1
+leg_fl_01
+  rotate: false
+  xy: 108, 14
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+leg_fl_02
+  rotate: false
+  xy: 91, 13
+  size: 15, 16
+  orig: 15, 16
+  offset: 0, 0
+  index: -1
+leg_fr
+  rotate: true
+  xy: 2, 4
+  size: 12, 15
+  orig: 12, 15
+  offset: 0, 0
+  index: -1
+leg_fr_02
+  rotate: true
+  xy: 19, 4
+  size: 12, 15
+  orig: 12, 15
+  offset: 0, 0
+  index: -1
+tail
+  rotate: true
+  xy: 256, 204
+  size: 61, 16
+  orig: 61, 16
+  offset: 0, 0
+  index: -1
+tail_dmg
+  rotate: false
+  xy: 2, 18
+  size: 62, 15
+  orig: 62, 15
+  offset: 0, 0
+  index: -1

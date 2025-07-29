@@ -1,0 +1,223 @@
+
+YokaiWatch_00011.png
+size: 676,393
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Eff_B2_2
+  rotate: false
+  xy: 2, 17
+  size: 126, 162
+  orig: 126, 162
+  offset: 0, 0
+  index: -1
+Punch_Eff
+  rotate: true
+  xy: 587, 23
+  size: 52, 21
+  orig: 52, 21
+  offset: 0, 0
+  index: -1
+ball
+  rotate: true
+  xy: 22, 4
+  size: 11, 10
+  orig: 11, 10
+  offset: 0, 0
+  index: -1
+body_1
+  rotate: true
+  xy: 639, 167
+  size: 42, 34
+  orig: 42, 34
+  offset: 0, 0
+  index: -1
+body_1_In
+  rotate: true
+  xy: 639, 123
+  size: 42, 34
+  orig: 42, 34
+  offset: 0, 0
+  index: -1
+body_2
+  rotate: false
+  xy: 513, 5
+  size: 49, 16
+  orig: 49, 16
+  offset: 0, 0
+  index: -1
+body_2_In
+  rotate: false
+  xy: 564, 5
+  size: 49, 16
+  orig: 49, 16
+  offset: 0, 0
+  index: -1
+eff_AT1
+  rotate: false
+  xy: 130, 30
+  size: 143, 149
+  orig: 143, 149
+  offset: 0, 0
+  index: -1
+eff_AT2
+  rotate: true
+  xy: 462, 23
+  size: 135, 123
+  orig: 135, 123
+  offset: 0, 0
+  index: -1
+eff_B1
+  rotate: false
+  xy: 391, 207
+  size: 182, 184
+  orig: 182, 184
+  offset: 0, 0
+  index: -1
+eff_B2
+  rotate: true
+  xy: 2, 181
+  size: 210, 200
+  orig: 210, 200
+  offset: 0, 0
+  index: -1
+eff_B3
+  rotate: false
+  xy: 204, 198
+  size: 185, 193
+  orig: 185, 193
+  offset: 0, 0
+  index: -1
+eff_B4
+  rotate: true
+  xy: 277, 7
+  size: 189, 183
+  orig: 189, 183
+  offset: 0, 0
+  index: -1
+face_AT
+  rotate: false
+  xy: 179, 3
+  size: 48, 25
+  orig: 48, 25
+  offset: 0, 0
+  index: -1
+face_close
+  rotate: false
+  xy: 204, 181
+  size: 48, 15
+  orig: 48, 15
+  offset: 0, 0
+  index: -1
+face_damage
+  rotate: true
+  xy: 615, 12
+  size: 48, 23
+  orig: 48, 23
+  offset: 0, 0
+  index: -1
+face_default
+  rotate: false
+  xy: 130, 2
+  size: 47, 26
+  orig: 47, 26
+  offset: 0, 0
+  index: -1
+hand_l
+  rotate: false
+  xy: 255, 3
+  size: 20, 25
+  orig: 20, 25
+  offset: 0, 0
+  index: -1
+hand_l_In
+  rotate: true
+  xy: 587, 77
+  size: 22, 24
+  orig: 22, 24
+  offset: 0, 0
+  index: -1
+hand_r
+  rotate: false
+  xy: 640, 37
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+hand_r_In
+  rotate: false
+  xy: 229, 3
+  size: 24, 25
+  orig: 24, 25
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 575, 302
+  size: 99, 89
+  orig: 99, 89
+  offset: 0, 0
+  index: -1
+head_In
+  rotate: false
+  xy: 575, 211
+  size: 99, 89
+  orig: 99, 89
+  offset: 0, 0
+  index: -1
+leg
+  rotate: true
+  xy: 462, 161
+  size: 44, 23
+  orig: 44, 23
+  offset: 0, 0
+  index: -1
+leg_R
+  rotate: true
+  xy: 2, 3
+  size: 12, 18
+  orig: 12, 18
+  offset: 0, 0
+  index: -1
+mantle
+  rotate: true
+  xy: 587, 101
+  size: 57, 50
+  orig: 57, 50
+  offset: 0, 0
+  index: -1
+shoulder_L
+  rotate: true
+  xy: 639, 101
+  size: 20, 16
+  orig: 20, 16
+  offset: 0, 0
+  index: -1
+shoulder_R
+  rotate: true
+  xy: 254, 182
+  size: 14, 17
+  orig: 14, 17
+  offset: 0, 0
+  index: -1
+tail_l
+  rotate: true
+  xy: 575, 160
+  size: 49, 62
+  orig: 49, 62
+  offset: 0, 0
+  index: -1
+tail_r
+  rotate: true
+  xy: 615, 62
+  size: 37, 55
+  orig: 37, 55
+  offset: 0, 0
+  index: -1
+waist
+  rotate: false
+  xy: 462, 2
+  size: 49, 19
+  orig: 49, 19
+  offset: 0, 0
+  index: -1

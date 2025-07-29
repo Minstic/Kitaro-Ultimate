@@ -1,0 +1,125 @@
+
+Character_00611.png
+size: 410,269
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_l
+  rotate: false
+  xy: 366, 135
+  size: 42, 50
+  orig: 42, 50
+  offset: 0, 0
+  index: -1
+arm_r
+  rotate: false
+  xy: 366, 87
+  size: 37, 46
+  orig: 37, 46
+  offset: 0, 0
+  index: -1
+bag
+  rotate: false
+  xy: 2, 31
+  size: 274, 236
+  orig: 274, 236
+  offset: 0, 0
+  index: -1
+bell_l
+  rotate: false
+  xy: 366, 5
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+bell_r
+  rotate: false
+  xy: 343, 4
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 278, 183
+  size: 84, 60
+  orig: 84, 60
+  offset: 0, 0
+  index: -1
+cloth
+  rotate: false
+  xy: 278, 2
+  size: 63, 48
+  orig: 63, 48
+  offset: 0, 0
+  index: -1
+face_damage
+  rotate: false
+  xy: 2, 9
+  size: 57, 20
+  orig: 57, 20
+  offset: 0, 0
+  index: -1
+face_default
+  rotate: false
+  xy: 343, 27
+  size: 60, 28
+  orig: 60, 28
+  offset: 0, 0
+  index: -1
+hand_r
+  rotate: false
+  xy: 392, 223
+  size: 16, 17
+  orig: 16, 17
+  offset: 0, 0
+  index: -1
+hat
+  rotate: true
+  xy: 278, 52
+  size: 129, 52
+  orig: 129, 52
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 340, 187
+  size: 80, 50
+  orig: 80, 50
+  offset: 0, 0
+  index: -1
+knot_l
+  rotate: false
+  xy: 388, 5
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+knot_r
+  rotate: false
+  xy: 392, 242
+  size: 16, 25
+  orig: 16, 25
+  offset: 0, 0
+  index: -1
+leg_l
+  rotate: true
+  xy: 366, 67
+  size: 18, 25
+  orig: 18, 25
+  offset: 0, 0
+  index: -1
+leg_r
+  rotate: true
+  xy: 61, 12
+  size: 17, 25
+  orig: 17, 25
+  offset: 0, 0
+  index: -1
+rod
+  rotate: false
+  xy: 332, 57
+  size: 32, 124
+  orig: 32, 124
+  offset: 0, 0
+  index: -1

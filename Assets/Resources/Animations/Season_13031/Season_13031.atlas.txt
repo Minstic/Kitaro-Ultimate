@@ -1,0 +1,419 @@
+
+Season_13031.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+book_close
+  rotate: false
+  xy: 180, 309
+  size: 69, 36
+  orig: 69, 36
+  offset: 0, 0
+  index: -1
+book_open
+  rotate: false
+  xy: 424, 640
+  size: 91, 16
+  orig: 91, 16
+  offset: 0, 0
+  index: -1
+book_page
+  rotate: true
+  xy: 486, 783
+  size: 43, 20
+  orig: 43, 20
+  offset: 0, 0
+  index: -1
+book_sub1
+  rotate: true
+  xy: 148, 54
+  size: 53, 23
+  orig: 53, 23
+  offset: 0, 0
+  index: -1
+book_sub2
+  rotate: true
+  xy: 148, 165
+  size: 55, 26
+  orig: 55, 26
+  offset: 0, 0
+  index: -1
+crow_arm_l1
+  rotate: true
+  xy: 301, 435
+  size: 25, 73
+  orig: 25, 73
+  offset: 0, 0
+  index: -1
+crow_arm_l2
+  rotate: false
+  xy: 928, 809
+  size: 62, 67
+  orig: 62, 67
+  offset: 0, 0
+  index: -1
+crow_arm_r1
+  rotate: true
+  xy: 928, 780
+  size: 27, 70
+  orig: 27, 70
+  offset: 0, 0
+  index: -1
+crow_arm_r2
+  rotate: true
+  xy: 992, 827
+  size: 49, 20
+  orig: 49, 20
+  offset: 0, 0
+  index: -1
+crow_body_low
+  rotate: false
+  xy: 180, 347
+  size: 58, 80
+  orig: 58, 80
+  offset: 0, 0
+  index: -1
+crow_body_up2
+  rotate: false
+  xy: 180, 429
+  size: 68, 85
+  orig: 68, 85
+  offset: 0, 0
+  index: -1
+crow_body_wing_l
+  rotate: false
+  xy: 843, 787
+  size: 83, 88
+  orig: 83, 88
+  offset: 0, 0
+  index: -1
+crow_body_wing_r
+  rotate: false
+  xy: 922, 929
+  size: 81, 92
+  orig: 81, 92
+  offset: 0, 0
+  index: -1
+crow_eff_text1
+  rotate: false
+  xy: 175, 113
+  size: 25, 50
+  orig: 25, 50
+  offset: 0, 0
+  index: -1
+crow_eff_text1_rev
+  rotate: false
+  xy: 517, 805
+  size: 28, 52
+  orig: 28, 52
+  offset: 0, 0
+  index: -1
+crow_eff_text2
+  rotate: false
+  xy: 663, 744
+  size: 69, 113
+  orig: 69, 113
+  offset: 0, 0
+  index: -1
+crow_face_damage
+  rotate: false
+  xy: 814, 751
+  size: 47, 31
+  orig: 47, 31
+  offset: 0, 0
+  index: -1
+crow_face_default
+  rotate: false
+  xy: 148, 222
+  size: 50, 32
+  orig: 50, 32
+  offset: 0, 0
+  index: -1
+crow_glasses
+  rotate: true
+  xy: 148, 109
+  size: 54, 25
+  orig: 54, 25
+  offset: 0, 0
+  index: -1
+crow_hand_l2
+  rotate: true
+  xy: 176, 165
+  size: 55, 20
+  orig: 55, 20
+  offset: 0, 0
+  index: -1
+crow_head
+  rotate: false
+  xy: 667, 631
+  size: 79, 111
+  orig: 79, 111
+  offset: 0, 0
+  index: -1
+crow_leg_l
+  rotate: false
+  xy: 847, 723
+  size: 14, 26
+  orig: 14, 26
+  offset: 0, 0
+  index: -1
+crow_leg_r
+  rotate: true
+  xy: 517, 644
+  size: 12, 24
+  orig: 12, 24
+  offset: 0, 0
+  index: -1
+crow_scroll_middle
+  rotate: false
+  xy: 250, 435
+  size: 49, 79
+  orig: 49, 79
+  offset: 0, 0
+  index: -1
+crow_scroll_middle_rev
+  rotate: true
+  xy: 925, 878
+  size: 49, 79
+  orig: 49, 79
+  offset: 0, 0
+  index: -1
+eff1
+  rotate: false
+  xy: 1005, 962
+  size: 17, 20
+  orig: 17, 20
+  offset: 0, 0
+  index: -1
+eff2
+  rotate: true
+  xy: 180, 517
+  size: 13, 15
+  orig: 13, 15
+  offset: 0, 0
+  index: -1
+eff3
+  rotate: false
+  xy: 197, 516
+  size: 98, 54
+  orig: 98, 54
+  offset: 0, 0
+  index: -1
+eff_text1
+  rotate: true
+  xy: 715, 919
+  size: 102, 205
+  orig: 102, 205
+  offset: 0, 0
+  index: -1
+eff_text1_rev
+  rotate: false
+  xy: 197, 572
+  size: 102, 205
+  orig: 102, 205
+  offset: 0, 0
+  index: -1
+eff_text2
+  rotate: false
+  xy: 2, 262
+  size: 156, 268
+  orig: 156, 268
+  offset: 0, 0
+  index: -1
+oh_arm_l
+  rotate: false
+  xy: 748, 678
+  size: 55, 71
+  orig: 55, 71
+  offset: 0, 0
+  index: -1
+oh_arm_r
+  rotate: true
+  xy: 748, 631
+  size: 45, 67
+  orig: 45, 67
+  offset: 0, 0
+  index: -1
+oh_arm_r2
+  rotate: false
+  xy: 863, 748
+  size: 40, 37
+  orig: 40, 37
+  offset: 0, 0
+  index: -1
+oh_body
+  rotate: true
+  xy: 517, 859
+  size: 162, 196
+  orig: 162, 196
+  offset: 0, 0
+  index: -1
+oh_chair
+  rotate: false
+  xy: 2, 779
+  size: 266, 242
+  orig: 266, 242
+  offset: 0, 0
+  index: -1
+oh_desk
+  rotate: true
+  xy: 2, 46
+  size: 214, 144
+  orig: 214, 144
+  offset: 0, 0
+  index: -1
+oh_desk_flag
+  rotate: true
+  xy: 301, 517
+  size: 114, 118
+  orig: 114, 118
+  offset: 0, 0
+  index: -1
+oh_desk_flag_rev
+  rotate: false
+  xy: 547, 739
+  size: 114, 118
+  orig: 114, 118
+  offset: 0, 0
+  index: -1
+oh_face_attack
+  rotate: false
+  xy: 2, 2
+  size: 78, 42
+  orig: 78, 42
+  offset: 0, 0
+  index: -1
+oh_face_attack_02
+  rotate: false
+  xy: 82, 2
+  size: 78, 42
+  orig: 78, 42
+  offset: 0, 0
+  index: -1
+oh_face_damage
+  rotate: false
+  xy: 301, 462
+  size: 77, 53
+  orig: 77, 53
+  offset: 0, 0
+  index: -1
+oh_face_default
+  rotate: true
+  xy: 380, 450
+  size: 65, 44
+  orig: 65, 44
+  offset: 0, 0
+  index: -1
+oh_glasses
+  rotate: false
+  xy: 734, 751
+  size: 78, 31
+  orig: 78, 31
+  offset: 0, 0
+  index: -1
+oh_hammer
+  rotate: false
+  xy: 805, 709
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+oh_hand_l1
+  rotate: false
+  xy: 805, 689
+  size: 33, 18
+  orig: 33, 18
+  offset: 0, 0
+  index: -1
+oh_hand_r1
+  rotate: false
+  xy: 1005, 940
+  size: 17, 20
+  orig: 17, 20
+  offset: 0, 0
+  index: -1
+oh_hand_r2
+  rotate: true
+  xy: 1005, 984
+  size: 37, 17
+  orig: 37, 17
+  offset: 0, 0
+  index: -1
+oh_hand_r3
+  rotate: true
+  xy: 216, 257
+  size: 50, 38
+  orig: 50, 38
+  offset: 0, 0
+  index: -1
+oh_head
+  rotate: false
+  xy: 301, 633
+  size: 121, 147
+  orig: 121, 147
+  offset: 0, 0
+  index: -1
+oh_scroll_bottom
+  rotate: true
+  xy: 160, 319
+  size: 211, 18
+  orig: 211, 18
+  offset: 0, 0
+  index: -1
+oh_scroll_close
+  rotate: false
+  xy: 270, 782
+  size: 214, 44
+  orig: 214, 44
+  offset: 0, 0
+  index: -1
+oh_scroll_middle
+  rotate: false
+  xy: 2, 532
+  size: 193, 245
+  orig: 193, 245
+  offset: 0, 0
+  index: -1
+oh_scroll_middle_rev
+  rotate: true
+  xy: 270, 828
+  size: 193, 245
+  orig: 193, 245
+  offset: 0, 0
+  index: -1
+oh_scroll_top
+  rotate: false
+  xy: 715, 877
+  size: 208, 40
+  orig: 208, 40
+  offset: 0, 0
+  index: -1
+scroll_smoke_01
+  rotate: false
+  xy: 424, 658
+  size: 121, 122
+  orig: 121, 122
+  offset: 0, 0
+  index: -1
+scroll_smoke_02
+  rotate: false
+  xy: 547, 626
+  size: 118, 111
+  orig: 118, 111
+  offset: 0, 0
+  index: -1
+scroll_smoke_03
+  rotate: false
+  xy: 734, 784
+  size: 107, 91
+  orig: 107, 91
+  offset: 0, 0
+  index: -1
+scroll_smoke_04
+  rotate: false
+  xy: 160, 256
+  size: 54, 51
+  orig: 54, 51
+  offset: 0, 0
+  index: -1

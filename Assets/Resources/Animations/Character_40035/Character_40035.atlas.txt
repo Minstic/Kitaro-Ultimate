@@ -1,0 +1,27 @@
+
+Character_40035.png
+size: 232,237
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+antena
+  rotate: false
+  xy: 212, 140
+  size: 13, 37
+  orig: 13, 37
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 2
+  size: 208, 233
+  orig: 208, 233
+  offset: 0, 0
+  index: -1
+face_default
+  rotate: true
+  xy: 212, 179
+  size: 56, 18
+  orig: 56, 18
+  offset: 0, 0
+  index: -1

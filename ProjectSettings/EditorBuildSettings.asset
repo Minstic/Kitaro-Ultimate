@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Main Menu.unity
+    guid: fb2a12b1def6f284d9f1fdc628343602
+  - enabled: 1
+    path: Assets/Scenes/Animation Viewer.unity
+    guid: fd8bea04b24c9ae48b099f9452f3364e
+  - enabled: 1
+    path: Assets/Scenes/Battle Scene.unity
+    guid: 8c9cfa26abfee488c85f1582747f6a02
+  m_configObjects:
+    com.unity.addressableassets: {fileID: 11400000, guid: e911dcf48cee85d45b38d20c7492ebee, type: 2}

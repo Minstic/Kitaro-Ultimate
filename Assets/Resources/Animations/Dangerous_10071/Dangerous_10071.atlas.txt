@@ -1,0 +1,209 @@
+
+Dangerous_10071.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 739
+  size: 380, 283
+  orig: 380, 283
+  offset: 0, 0
+  index: -1
+car_1
+  rotate: true
+  xy: 2, 117
+  size: 360, 172
+  orig: 360, 172
+  offset: 0, 0
+  index: -1
+car_2
+  rotate: false
+  xy: 384, 690
+  size: 221, 121
+  orig: 221, 121
+  offset: 0, 0
+  index: -1
+car_3
+  rotate: false
+  xy: 762, 828
+  size: 201, 194
+  orig: 201, 194
+  offset: 0, 0
+  index: -1
+car_smoke
+  rotate: true
+  xy: 965, 936
+  size: 86, 40
+  orig: 86, 40
+  offset: 0, 0
+  index: -1
+eff
+  rotate: true
+  xy: 176, 115
+  size: 150, 154
+  orig: 150, 154
+  offset: 0, 0
+  index: -1
+eff2
+  rotate: false
+  xy: 332, 127
+  size: 124, 143
+  orig: 124, 143
+  offset: 0, 0
+  index: -1
+eff_beam_Light
+  rotate: false
+  xy: 2, 2
+  size: 135, 113
+  orig: 135, 113
+  offset: 0, 0
+  index: -1
+eff_smoke1
+  rotate: false
+  xy: 384, 813
+  size: 376, 209
+  orig: 376, 209
+  offset: 0, 0
+  index: -1
+eff_smoke3
+  rotate: false
+  xy: 872, 393
+  size: 122, 69
+  orig: 122, 69
+  offset: 0, 0
+  index: -1
+eye
+  rotate: false
+  xy: 517, 396
+  size: 149, 125
+  orig: 149, 125
+  offset: 0, 0
+  index: -1
+eye_damage
+  rotate: false
+  xy: 607, 680
+  size: 207, 131
+  orig: 207, 131
+  offset: 0, 0
+  index: -1
+eye_default
+  rotate: false
+  xy: 139, 2
+  size: 168, 111
+  orig: 168, 111
+  offset: 0, 0
+  index: -1
+lightning
+  rotate: true
+  xy: 176, 267
+  size: 210, 151
+  orig: 210, 151
+  offset: 0, 0
+  index: -1
+lightning2
+  rotate: false
+  xy: 345, 538
+  size: 190, 150
+  orig: 190, 150
+  offset: 0, 0
+  index: -1
+lightning3
+  rotate: false
+  xy: 2, 479
+  size: 341, 258
+  orig: 341, 258
+  offset: 0, 0
+  index: -1
+moji
+  rotate: true
+  xy: 668, 396
+  size: 125, 75
+  orig: 125, 75
+  offset: 0, 0
+  index: -1
+moji_re
+  rotate: false
+  xy: 745, 382
+  size: 125, 80
+  orig: 125, 80
+  offset: 0, 0
+  index: -1
+tire_1
+  rotate: false
+  xy: 329, 272
+  size: 139, 107
+  orig: 139, 107
+  offset: 0, 0
+  index: -1
+tire_1_2
+  rotate: false
+  xy: 809, 563
+  size: 139, 106
+  orig: 139, 106
+  offset: 0, 0
+  index: -1
+tire_2
+  rotate: false
+  xy: 816, 671
+  size: 170, 155
+  orig: 170, 155
+  offset: 0, 0
+  index: -1
+tire_2_2
+  rotate: false
+  xy: 537, 523
+  size: 170, 155
+  orig: 170, 155
+  offset: 0, 0
+  index: -1
+tire_2_3
+  rotate: false
+  xy: 345, 381
+  size: 170, 155
+  orig: 170, 155
+  offset: 0, 0
+  index: -1
+tire_3
+  rotate: false
+  xy: 745, 464
+  size: 112, 97
+  orig: 112, 97
+  offset: 0, 0
+  index: -1
+tire_3_2
+  rotate: false
+  xy: 859, 464
+  size: 112, 97
+  orig: 112, 97
+  offset: 0, 0
+  index: -1
+tire_3_3
+  rotate: true
+  xy: 709, 563
+  size: 115, 98
+  orig: 115, 98
+  offset: 0, 0
+  index: -1
+tire_4
+  rotate: false
+  xy: 548, 315
+  size: 74, 79
+  orig: 74, 79
+  offset: 0, 0
+  index: -1
+tire_4_2
+  rotate: false
+  xy: 624, 315
+  size: 74, 79
+  orig: 74, 79
+  offset: 0, 0
+  index: -1
+tire_4_3
+  rotate: false
+  xy: 470, 299
+  size: 76, 80
+  orig: 76, 80
+  offset: 0, 0
+  index: -1

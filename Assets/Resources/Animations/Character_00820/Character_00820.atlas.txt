@@ -1,0 +1,83 @@
+
+Character_00820.png
+size: 695,158
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body_attack
+  rotate: false
+  xy: 2, 13
+  size: 195, 143
+  orig: 195, 143
+  offset: 0, 0
+  index: -1
+body_default
+  rotate: false
+  xy: 199, 5
+  size: 178, 151
+  orig: 178, 151
+  offset: 0, 0
+  index: -1
+eff_attack
+  rotate: true
+  xy: 629, 6
+  size: 33, 36
+  orig: 33, 36
+  offset: 0, 0
+  index: -1
+face_attack_01
+  rotate: false
+  xy: 379, 33
+  size: 114, 123
+  orig: 114, 123
+  offset: 0, 0
+  index: -1
+face_attack_02
+  rotate: false
+  xy: 495, 12
+  size: 132, 67
+  orig: 132, 67
+  offset: 0, 0
+  index: -1
+face_damage
+  rotate: true
+  xy: 634, 41
+  size: 115, 56
+  orig: 115, 56
+  offset: 0, 0
+  index: -1
+face_default
+  rotate: false
+  xy: 495, 81
+  size: 137, 75
+  orig: 137, 75
+  offset: 0, 0
+  index: -1
+foot_l_01
+  rotate: false
+  xy: 667, 2
+  size: 21, 16
+  orig: 21, 16
+  offset: 0, 0
+  index: -1
+foot_l_02
+  rotate: true
+  xy: 379, 2
+  size: 29, 24
+  orig: 29, 24
+  offset: 0, 0
+  index: -1
+foot_r_01
+  rotate: false
+  xy: 667, 20
+  size: 26, 19
+  orig: 26, 19
+  offset: 0, 0
+  index: -1
+foot_r_02
+  rotate: true
+  xy: 405, 10
+  size: 21, 31
+  orig: 21, 31
+  offset: 0, 0
+  index: -1

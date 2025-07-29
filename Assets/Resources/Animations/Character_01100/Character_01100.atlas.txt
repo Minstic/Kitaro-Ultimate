@@ -1,0 +1,132 @@
+
+Character_01100.png
+size: 537,265
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+beard_attack
+  rotate: false
+  xy: 315, 26
+  size: 11, 14
+  orig: 11, 14
+  offset: 0, 0
+  index: -1
+beard_l
+  rotate: false
+  xy: 283, 5
+  size: 14, 10
+  orig: 14, 10
+  offset: 0, 0
+  index: -1
+beard_r
+  rotate: true
+  xy: 315, 10
+  size: 14, 11
+  orig: 14, 11
+  offset: 0, 0
+  index: -1
+body_attack
+  rotate: false
+  xy: 102, 2
+  size: 83, 95
+  orig: 83, 95
+  offset: 0, 0
+  index: -1
+body_default
+  rotate: true
+  xy: 2, 2
+  size: 95, 98
+  orig: 95, 98
+  offset: 0, 0
+  index: -1
+eff_hit
+  rotate: false
+  xy: 426, 129
+  size: 109, 134
+  orig: 109, 134
+  offset: 0, 0
+  index: -1
+face_attack
+  rotate: false
+  xy: 253, 15
+  size: 28, 25
+  orig: 28, 25
+  offset: 0, 0
+  index: -1
+face_damage
+  rotate: false
+  xy: 187, 9
+  size: 64, 31
+  orig: 64, 31
+  offset: 0, 0
+  index: -1
+face_default
+  rotate: false
+  xy: 283, 17
+  size: 30, 23
+  orig: 30, 23
+  offset: 0, 0
+  index: -1
+face_eye_l
+  rotate: false
+  xy: 187, 91
+  size: 4, 6
+  orig: 4, 6
+  offset: 0, 0
+  index: -1
+face_eye_r
+  rotate: false
+  xy: 187, 85
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+glove
+  rotate: false
+  xy: 194, 139
+  size: 147, 124
+  orig: 147, 124
+  offset: 0, 0
+  index: -1
+hagoita
+  rotate: false
+  xy: 194, 42
+  size: 136, 95
+  orig: 136, 95
+  offset: 0, 0
+  index: -1
+head_attack
+  rotate: false
+  xy: 435, 61
+  size: 61, 66
+  orig: 61, 66
+  offset: 0, 0
+  index: -1
+head_default
+  rotate: true
+  xy: 435, 3
+  size: 56, 61
+  orig: 56, 61
+  offset: 0, 0
+  index: -1
+spring
+  rotate: false
+  xy: 2, 99
+  size: 190, 164
+  orig: 190, 164
+  offset: 0, 0
+  index: -1
+ufo_body
+  rotate: true
+  xy: 343, 91
+  size: 172, 81
+  orig: 172, 81
+  offset: 0, 0
+  index: -1
+ufo_head
+  rotate: true
+  xy: 332, 8
+  size: 81, 101
+  orig: 81, 101
+  offset: 0, 0
+  index: -1

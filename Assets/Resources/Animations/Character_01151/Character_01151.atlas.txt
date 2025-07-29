@@ -1,0 +1,139 @@
+
+Character_01151.png
+size: 961,840
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ami_net
+  rotate: false
+  xy: 835, 482
+  size: 124, 105
+  orig: 124, 105
+  offset: 0, 0
+  index: -1
+ami_ring_1
+  rotate: false
+  xy: 470, 723
+  size: 40, 115
+  orig: 40, 115
+  offset: 0, 0
+  index: -1
+ami_ring_2
+  rotate: true
+  xy: 835, 117
+  size: 29, 114
+  orig: 29, 114
+  offset: 0, 0
+  index: -1
+ami_stick
+  rotate: false
+  xy: 517, 12
+  size: 55, 217
+  orig: 55, 217
+  offset: 0, 0
+  index: -1
+arm_l2
+  rotate: true
+  xy: 780, 16
+  size: 74, 53
+  orig: 74, 53
+  offset: 0, 0
+  index: -1
+arm_r
+  rotate: true
+  xy: 574, 16
+  size: 74, 204
+  orig: 74, 204
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 295
+  size: 466, 543
+  orig: 466, 543
+  offset: 0, 0
+  index: -1
+cap
+  rotate: false
+  xy: 574, 92
+  size: 247, 142
+  orig: 247, 142
+  offset: 0, 0
+  index: -1
+eff_dust
+  rotate: false
+  xy: 823, 148
+  size: 130, 81
+  orig: 130, 81
+  offset: 0, 0
+  index: -1
+eye_damage
+  rotate: true
+  xy: 2, 2
+  size: 291, 154
+  orig: 291, 154
+  offset: 0, 0
+  index: -1
+eye_default
+  rotate: true
+  xy: 367, 25
+  size: 268, 148
+  orig: 268, 148
+  offset: 0, 0
+  index: -1
+hair_l
+  rotate: false
+  xy: 158, 13
+  size: 207, 280
+  orig: 207, 280
+  offset: 0, 0
+  index: -1
+hair_r
+  rotate: true
+  xy: 517, 450
+  size: 153, 316
+  orig: 153, 316
+  offset: 0, 0
+  index: -1
+kago
+  rotate: true
+  xy: 837, 589
+  size: 249, 122
+  orig: 249, 122
+  offset: 0, 0
+  index: -1
+kago_rev
+  rotate: true
+  xy: 835, 231
+  size: 249, 122
+  orig: 249, 122
+  offset: 0, 0
+  index: -1
+leg_l
+  rotate: false
+  xy: 835, 13
+  size: 60, 102
+  orig: 60, 102
+  offset: 0, 0
+  index: -1
+leg_r
+  rotate: false
+  xy: 897, 23
+  size: 59, 92
+  orig: 59, 92
+  offset: 0, 0
+  index: -1
+mouth_damage
+  rotate: false
+  xy: 517, 605
+  size: 318, 233
+  orig: 318, 233
+  offset: 0, 0
+  index: -1
+mouth_default
+  rotate: false
+  xy: 517, 236
+  size: 312, 212
+  orig: 312, 212
+  offset: 0, 0
+  index: -1

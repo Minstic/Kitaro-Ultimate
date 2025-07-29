@@ -1,0 +1,90 @@
+
+Character_00540.png
+size: 346,150
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arms
+  rotate: false
+  xy: 78, 14
+  size: 34, 134
+  orig: 34, 134
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 179, 72
+  size: 76, 73
+  orig: 76, 73
+  offset: 0, 0
+  index: -1
+eff
+  rotate: true
+  xy: 2, 2
+  size: 146, 74
+  orig: 146, 74
+  offset: 0, 0
+  index: -1
+face_attack
+  rotate: true
+  xy: 182, 7
+  size: 63, 37
+  orig: 63, 37
+  offset: 0, 0
+  index: -1
+face_damage
+  rotate: true
+  xy: 221, 10
+  size: 60, 40
+  orig: 60, 40
+  offset: 0, 0
+  index: -1
+face_default
+  rotate: true
+  xy: 309, 88
+  size: 60, 35
+  orig: 60, 35
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 114, 37
+  size: 111, 63
+  orig: 111, 63
+  offset: 0, 0
+  index: -1
+leg_l
+  rotate: false
+  xy: 114, 7
+  size: 20, 28
+  orig: 20, 28
+  offset: 0, 0
+  index: -1
+leg_r
+  rotate: false
+  xy: 136, 8
+  size: 21, 27
+  orig: 21, 27
+  offset: 0, 0
+  index: -1
+line
+  rotate: false
+  xy: 159, 10
+  size: 21, 25
+  orig: 21, 25
+  offset: 0, 0
+  index: -1
+mino_default_l
+  rotate: true
+  xy: 263, 18
+  size: 52, 70
+  orig: 52, 70
+  offset: 0, 0
+  index: -1
+mino_default_r
+  rotate: false
+  xy: 254, 72
+  size: 53, 76
+  orig: 53, 76
+  offset: 0, 0
+  index: -1

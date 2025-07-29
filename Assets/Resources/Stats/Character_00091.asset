@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c1ab2b1b2f492bb4d825b1f0fb5efb22, type: 3}
+  m_Name: Character_00091
+  m_EditorClassIdentifier: 
+  HP: 7310
+  HB: 2
+  Speed: 18
+  AtkRange: 300
+  MinLD: 0
+  MaxLD: 0
+  Atk: 1870
+  Atk2: 0
+  Atk3: 0
+  AreaAtk: 0
+  TBA: 2
+  AttacksAllies: 0
+  rarity: 0
+  Cost: 600
+  CD: 5.2
+  UnitRole: 72
+  MaxLevel: 30
+  MaxPlusLevel: 80
+  MinLayer: 10
+  MaxLayer: 100
+  SelfTrait: 0
+  TargetTraits: 0
+  SecondaryType: 65568
+  TraitAbilityData: []
+  NeutralAbilityData: []
+  StatsBoost:
+  - UnlockAtPlus: 30
+    stat: 3
+    StatBoost: 200

@@ -1,0 +1,97 @@
+
+Character_00251.png
+size: 397,204
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_l
+  rotate: true
+  xy: 321, 80
+  size: 30, 37
+  orig: 30, 37
+  offset: 0, 0
+  index: -1
+arm_r
+  rotate: true
+  xy: 350, 35
+  size: 21, 31
+  orig: 21, 31
+  offset: 0, 0
+  index: -1
+body_1
+  rotate: false
+  xy: 188, 15
+  size: 131, 187
+  orig: 131, 187
+  offset: 0, 0
+  index: -1
+body_2
+  rotate: false
+  xy: 2, 13
+  size: 184, 189
+  orig: 184, 189
+  offset: 0, 0
+  index: -1
+eye_1
+  rotate: false
+  xy: 350, 58
+  size: 35, 20
+  orig: 35, 20
+  offset: 0, 0
+  index: -1
+eye_2
+  rotate: false
+  xy: 2, 2
+  size: 27, 9
+  orig: 27, 9
+  offset: 0, 0
+  index: -1
+face_1
+  rotate: false
+  xy: 321, 112
+  size: 46, 28
+  orig: 46, 28
+  offset: 0, 0
+  index: -1
+face_2
+  rotate: true
+  xy: 321, 3
+  size: 75, 27
+  orig: 75, 27
+  offset: 0, 0
+  index: -1
+face_mustache
+  rotate: true
+  xy: 321, 142
+  size: 60, 68
+  orig: 60, 68
+  offset: 0, 0
+  index: -1
+leg_l
+  rotate: true
+  xy: 369, 80
+  size: 41, 25
+  orig: 41, 25
+  offset: 0, 0
+  index: -1
+leg_l_j
+  rotate: true
+  xy: 368, 5
+  size: 28, 15
+  orig: 28, 15
+  offset: 0, 0
+  index: -1
+leg_r
+  rotate: false
+  xy: 369, 123
+  size: 26, 17
+  orig: 26, 17
+  offset: 0, 0
+  index: -1
+leg_r_j
+  rotate: true
+  xy: 350, 3
+  size: 30, 16
+  orig: 30, 16
+  offset: 0, 0
+  index: -1

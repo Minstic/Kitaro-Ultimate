@@ -1,0 +1,664 @@
+
+Vehicle_10011.png
+size: 977,677
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+door_01
+  rotate: true
+  xy: 642, 376
+  size: 73, 113
+  orig: 73, 113
+  offset: 0, 0
+  index: -1
+door_02
+  rotate: true
+  xy: 535, 143
+  size: 71, 111
+  orig: 71, 111
+  offset: 0, 0
+  index: -1
+eff_1
+  rotate: true
+  xy: 581, 500
+  size: 114, 239
+  orig: 114, 239
+  offset: 0, 0
+  index: -1
+eff_3
+  rotate: false
+  xy: 581, 646
+  size: 389, 29
+  orig: 389, 29
+  offset: 0, 0
+  index: -1
+eff_4
+  rotate: false
+  xy: 2, 122
+  size: 389, 228
+  orig: 389, 228
+  offset: 0, 0
+  index: -1
+ghost_01
+  rotate: true
+  xy: 393, 206
+  size: 144, 140
+  orig: 144, 140
+  offset: 0, 0
+  index: -1
+ghost_01a
+  rotate: false
+  xy: 882, 51
+  size: 39, 32
+  orig: 39, 32
+  offset: 0, 0
+  index: -1
+ghost_02
+  rotate: false
+  xy: 393, 128
+  size: 140, 76
+  orig: 140, 76
+  offset: 0, 0
+  index: -1
+ghost_02a
+  rotate: true
+  xy: 925, 107
+  size: 33, 30
+  orig: 33, 30
+  offset: 0, 0
+  index: -1
+ghost_03
+  rotate: true
+  xy: 822, 405
+  size: 68, 108
+  orig: 68, 108
+  offset: 0, 0
+  index: -1
+ghost_03a
+  rotate: false
+  xy: 920, 241
+  size: 33, 33
+  orig: 33, 33
+  offset: 0, 0
+  index: -1
+ghost_04
+  rotate: false
+  xy: 535, 216
+  size: 109, 145
+  orig: 109, 145
+  offset: 0, 0
+  index: -1
+ghost_04a
+  rotate: false
+  xy: 922, 345
+  size: 29, 39
+  orig: 29, 39
+  offset: 0, 0
+  index: -1
+ghost_05
+  rotate: true
+  xy: 664, 47
+  size: 59, 121
+  orig: 59, 121
+  offset: 0, 0
+  index: -1
+heart
+  rotate: false
+  xy: 571, 465
+  size: 8, 14
+  orig: 8, 14
+  offset: 0, 0
+  index: -1
+ittan_arm_l
+  rotate: false
+  xy: 535, 126
+  size: 14, 15
+  orig: 14, 15
+  offset: 0, 0
+  index: -1
+ittan_arm_r
+  rotate: true
+  xy: 959, 68
+  size: 12, 16
+  orig: 12, 16
+  offset: 0, 0
+  index: -1
+ittan_body
+  rotate: false
+  xy: 2, 2
+  size: 223, 67
+  orig: 223, 67
+  offset: 0, 0
+  index: -1
+ittan_face_dam
+  rotate: false
+  xy: 464, 5
+  size: 43, 16
+  orig: 43, 16
+  offset: 0, 0
+  index: -1
+ittan_face_del
+  rotate: true
+  xy: 914, 197
+  size: 39, 12
+  orig: 39, 12
+  offset: 0, 0
+  index: -1
+ittan_shadow
+  rotate: false
+  xy: 227, 4
+  size: 155, 17
+  orig: 155, 17
+  offset: 0, 0
+  index: -1
+kitaro_arm
+  rotate: false
+  xy: 959, 283
+  size: 16, 17
+  orig: 16, 17
+  offset: 0, 0
+  index: -1
+kitaro_body
+  rotate: false
+  xy: 925, 82
+  size: 37, 23
+  orig: 37, 23
+  offset: 0, 0
+  index: -1
+kitaro_face_dam
+  rotate: true
+  xy: 929, 276
+  size: 26, 28
+  orig: 26, 28
+  offset: 0, 0
+  index: -1
+kitaro_face_def
+  rotate: true
+  xy: 596, 2
+  size: 19, 18
+  orig: 19, 18
+  offset: 0, 0
+  index: -1
+kitaro_face_def_a
+  rotate: true
+  xy: 616, 2
+  size: 19, 18
+  orig: 19, 18
+  offset: 0, 0
+  index: -1
+kitaro_face_def_a_re
+  rotate: true
+  xy: 959, 264
+  size: 17, 16
+  orig: 17, 16
+  offset: 0, 0
+  index: -1
+kitaro_face_def_mouth
+  rotate: true
+  xy: 551, 71
+  size: 7, 8
+  orig: 7, 8
+  offset: 0, 0
+  index: -1
+kitaro_face_def_mouth_re
+  rotate: false
+  xy: 571, 455
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+kitaro_face_def_re
+  rotate: false
+  xy: 958, 168
+  size: 17, 16
+  orig: 17, 16
+  offset: 0, 0
+  index: -1
+kitaro_hand_phone
+  rotate: true
+  xy: 636, 7
+  size: 14, 22
+  orig: 14, 22
+  offset: 0, 0
+  index: -1
+kitaro_hat
+  rotate: false
+  xy: 785, 115
+  size: 63, 26
+  orig: 63, 26
+  offset: 0, 0
+  index: -1
+kitaro_head
+  rotate: false
+  xy: 816, 278
+  size: 65, 52
+  orig: 65, 52
+  offset: 0, 0
+  index: -1
+kitaro_head_re
+  rotate: true
+  xy: 757, 377
+  size: 69, 52
+  orig: 69, 52
+  offset: 0, 0
+  index: -1
+kitaro_phone
+  rotate: true
+  xy: 899, 388
+  size: 15, 18
+  orig: 15, 18
+  offset: 0, 0
+  index: -1
+kitaro_phonecode
+  rotate: true
+  xy: 384, 7
+  size: 14, 78
+  orig: 14, 78
+  offset: 0, 0
+  index: -1
+konaki_arm
+  rotate: true
+  xy: 850, 117
+  size: 23, 30
+  orig: 23, 30
+  offset: 0, 0
+  index: -1
+konaki_body
+  rotate: true
+  xy: 828, 234
+  size: 42, 59
+  orig: 42, 59
+  offset: 0, 0
+  index: -1
+konaki_dam_eff
+  rotate: true
+  xy: 953, 350
+  size: 34, 22
+  orig: 34, 22
+  offset: 0, 0
+  index: -1
+konaki_face_dam
+  rotate: true
+  xy: 754, 2
+  size: 43, 35
+  orig: 43, 35
+  offset: 0, 0
+  index: -1
+konaki_face_def
+  rotate: false
+  xy: 776, 234
+  size: 50, 37
+  orig: 50, 37
+  offset: 0, 0
+  index: -1
+konaki_head
+  rotate: false
+  xy: 808, 178
+  size: 60, 54
+  orig: 60, 54
+  offset: 0, 0
+  index: -1
+konaki_suna
+  rotate: true
+  xy: 928, 201
+  size: 38, 28
+  orig: 38, 28
+  offset: 0, 0
+  index: -1
+konaki_tubo
+  rotate: true
+  xy: 791, 5
+  size: 46, 50
+  orig: 46, 50
+  offset: 0, 0
+  index: -1
+light_l
+  rotate: false
+  xy: 227, 23
+  size: 435, 46
+  orig: 435, 46
+  offset: 0, 0
+  index: -1
+light_r
+  rotate: false
+  xy: 2, 71
+  size: 547, 49
+  orig: 547, 49
+  offset: 0, 0
+  index: -1
+light_train
+  rotate: true
+  xy: 785, 143
+  size: 89, 21
+  orig: 89, 21
+  offset: 0, 0
+  index: -1
+neko_face_dam
+  rotate: false
+  xy: 923, 62
+  size: 34, 18
+  orig: 34, 18
+  offset: 0, 0
+  index: -1
+neko_face_def
+  rotate: true
+  xy: 958, 224
+  size: 38, 17
+  orig: 38, 17
+  offset: 0, 0
+  index: -1
+neko_face_def_a
+  rotate: true
+  xy: 958, 186
+  size: 36, 17
+  orig: 36, 17
+  offset: 0, 0
+  index: -1
+neko_head
+  rotate: true
+  xy: 870, 181
+  size: 51, 42
+  orig: 51, 42
+  offset: 0, 0
+  index: -1
+neko_ribbon
+  rotate: true
+  xy: 929, 304
+  size: 39, 28
+  orig: 39, 28
+  offset: 0, 0
+  index: -1
+nezumi_arm
+  rotate: false
+  xy: 875, 142
+  size: 39, 37
+  orig: 39, 37
+  offset: 0, 0
+  index: -1
+nezumi_face_dam
+  rotate: false
+  xy: 808, 143
+  size: 65, 33
+  orig: 65, 33
+  offset: 0, 0
+  index: -1
+nezumi_face_def
+  rotate: true
+  xy: 906, 282
+  size: 48, 21
+  orig: 48, 21
+  offset: 0, 0
+  index: -1
+nezumi_face_def_a
+  rotate: true
+  xy: 843, 2
+  size: 47, 21
+  orig: 47, 21
+  offset: 0, 0
+  index: -1
+nezumi_head
+  rotate: false
+  xy: 787, 53
+  size: 54, 60
+  orig: 54, 60
+  offset: 0, 0
+  index: -1
+nuri_body
+  rotate: false
+  xy: 822, 475
+  size: 142, 139
+  orig: 142, 139
+  offset: 0, 0
+  index: -1
+nuri_fase_dam
+  rotate: true
+  xy: 866, 3
+  size: 46, 33
+  orig: 46, 33
+  offset: 0, 0
+  index: -1
+nuri_fase_def
+  rotate: false
+  xy: 524, 451
+  size: 45, 28
+  orig: 45, 28
+  offset: 0, 0
+  index: -1
+nuri_fase_eye
+  rotate: false
+  xy: 916, 142
+  size: 36, 18
+  orig: 36, 18
+  offset: 0, 0
+  index: -1
+onp_1
+  rotate: true
+  xy: 916, 167
+  size: 11, 10
+  orig: 11, 10
+  offset: 0, 0
+  index: -1
+onp_2
+  rotate: false
+  xy: 524, 352
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+onp_3
+  rotate: false
+  xy: 642, 79
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+oyaji_arm_a
+  rotate: true
+  xy: 554, 6
+  size: 15, 40
+  orig: 15, 40
+  offset: 0, 0
+  index: -1
+oyaji_arm_l
+  rotate: false
+  xy: 561, 71
+  size: 8, 7
+  orig: 8, 7
+  offset: 0, 0
+  index: -1
+oyaji_arm_r
+  rotate: false
+  xy: 571, 71
+  size: 8, 7
+  orig: 8, 7
+  offset: 0, 0
+  index: -1
+oyaji_face_dam
+  rotate: true
+  xy: 959, 326
+  size: 22, 16
+  orig: 22, 16
+  offset: 0, 0
+  index: -1
+oyaji_face_def
+  rotate: true
+  xy: 959, 302
+  size: 22, 16
+  orig: 22, 16
+  offset: 0, 0
+  index: -1
+oyaji_hat
+  rotate: false
+  xy: 509, 5
+  size: 43, 16
+  orig: 43, 16
+  offset: 0, 0
+  index: -1
+oyaji_head
+  rotate: true
+  xy: 901, 5
+  size: 44, 29
+  orig: 44, 29
+  offset: 0, 0
+  index: -1
+pantograph_01
+  rotate: false
+  xy: 664, 2
+  size: 88, 43
+  orig: 88, 43
+  offset: 0, 0
+  index: -1
+pantograph_02
+  rotate: true
+  xy: 932, 386
+  size: 87, 37
+  orig: 87, 37
+  offset: 0, 0
+  index: -1
+shadow_01
+  rotate: true
+  xy: 648, 108
+  size: 124, 135
+  orig: 124, 135
+  offset: 0, 0
+  index: -1
+shadow_02
+  rotate: false
+  xy: 776, 273
+  size: 38, 102
+  orig: 38, 102
+  offset: 0, 0
+  index: -1
+shadow_03
+  rotate: false
+  xy: 916, 180
+  size: 10, 15
+  orig: 10, 15
+  offset: 0, 0
+  index: -1
+shadow_04
+  rotate: false
+  xy: 883, 281
+  size: 21, 49
+  orig: 21, 49
+  offset: 0, 0
+  index: -1
+shadow_05
+  rotate: true
+  xy: 646, 234
+  size: 140, 128
+  orig: 140, 128
+  offset: 0, 0
+  index: -1
+shadow_06
+  rotate: false
+  xy: 919, 387
+  size: 11, 16
+  orig: 11, 16
+  offset: 0, 0
+  index: -1
+shadow_07
+  rotate: false
+  xy: 843, 51
+  size: 37, 62
+  orig: 37, 62
+  offset: 0, 0
+  index: -1
+shadow_08
+  rotate: false
+  xy: 642, 91
+  size: 12, 15
+  orig: 12, 15
+  offset: 0, 0
+  index: -1
+shadow_09
+  rotate: false
+  xy: 524, 363
+  size: 116, 86
+  orig: 116, 86
+  offset: 0, 0
+  index: -1
+shadow_10
+  rotate: false
+  xy: 581, 451
+  size: 187, 47
+  orig: 187, 47
+  offset: 0, 0
+  index: -1
+shoadow_a
+  rotate: false
+  xy: 581, 616
+  size: 386, 28
+  orig: 386, 28
+  offset: 0, 0
+  index: -1
+suna_shadow
+  rotate: false
+  xy: 811, 378
+  size: 86, 25
+  orig: 86, 25
+  offset: 0, 0
+  index: -1
+sunakake_body
+  rotate: false
+  xy: 816, 332
+  size: 75, 44
+  orig: 75, 44
+  offset: 0, 0
+  index: -1
+sunakake_face_atk
+  rotate: true
+  xy: 889, 238
+  size: 41, 29
+  orig: 41, 29
+  offset: 0, 0
+  index: -1
+sunakake_face_dam
+  rotate: true
+  xy: 893, 332
+  size: 44, 27
+  orig: 44, 27
+  offset: 0, 0
+  index: -1
+sunakake_face_def
+  rotate: true
+  xy: 928, 162
+  size: 37, 28
+  orig: 37, 28
+  offset: 0, 0
+  index: -1
+sunakake_hair
+  rotate: false
+  xy: 551, 80
+  size: 89, 61
+  orig: 89, 61
+  offset: 0, 0
+  index: -1
+sunakake_head
+  rotate: true
+  xy: 882, 85
+  size: 55, 41
+  orig: 55, 41
+  offset: 0, 0
+  index: -1
+train_base
+  rotate: false
+  xy: 2, 481
+  size: 577, 194
+  orig: 577, 194
+  offset: 0, 0
+  index: -1
+train_inner
+  rotate: false
+  xy: 2, 352
+  size: 520, 127
+  orig: 520, 127
+  offset: 0, 0
+  index: -1
+wheel
+  rotate: false
+  xy: 770, 448
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1

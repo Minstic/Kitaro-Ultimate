@@ -1,0 +1,293 @@
+
+Season_15050.png
+size: 330,267
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baggage
+  rotate: false
+  xy: 34, 12
+  size: 64, 90
+  orig: 64, 90
+  offset: 0, 0
+  index: -1
+dog01_body
+  rotate: true
+  xy: 117, 104
+  size: 76, 47
+  orig: 76, 47
+  offset: 0, 0
+  index: -1
+dog01_head_damage
+  rotate: false
+  xy: 165, 204
+  size: 84, 61
+  orig: 84, 61
+  offset: 0, 0
+  index: -1
+dog01_head_default
+  rotate: true
+  xy: 100, 18
+  size: 84, 64
+  orig: 84, 64
+  offset: 0, 0
+  index: -1
+dog01_leg_01_l
+  rotate: false
+  xy: 304, 109
+  size: 20, 31
+  orig: 20, 31
+  offset: 0, 0
+  index: -1
+dog01_tail
+  rotate: true
+  xy: 166, 2
+  size: 21, 40
+  orig: 21, 40
+  offset: 0, 0
+  index: -1
+dog02_head
+  rotate: false
+  xy: 251, 206
+  size: 72, 59
+  orig: 72, 59
+  offset: 0, 0
+  index: -1
+dog02_head_damage
+  rotate: true
+  xy: 166, 70
+  size: 72, 51
+  orig: 72, 51
+  offset: 0, 0
+  index: -1
+dog_01_eff
+  rotate: true
+  xy: 248, 114
+  size: 38, 18
+  orig: 38, 18
+  offset: 0, 0
+  index: -1
+dog_01_eff2
+  rotate: false
+  xy: 268, 175
+  size: 43, 29
+  orig: 43, 29
+  offset: 0, 0
+  index: -1
+dog_01_eye_damage
+  rotate: false
+  xy: 290, 3
+  size: 18, 16
+  orig: 18, 16
+  offset: 0, 0
+  index: -1
+dog_01_eye_default
+  rotate: false
+  xy: 100, 2
+  size: 21, 14
+  orig: 21, 14
+  offset: 0, 0
+  index: -1
+dog_01_leg_01_r
+  rotate: false
+  xy: 249, 19
+  size: 16, 31
+  orig: 16, 31
+  offset: 0, 0
+  index: -1
+dog_01_leg_02_l
+  rotate: true
+  xy: 263, 85
+  size: 22, 37
+  orig: 22, 37
+  offset: 0, 0
+  index: -1
+dog_01_leg_02_r
+  rotate: false
+  xy: 302, 79
+  size: 20, 28
+  orig: 20, 28
+  offset: 0, 0
+  index: -1
+dog_02_eye
+  rotate: false
+  xy: 267, 19
+  size: 21, 11
+  orig: 21, 11
+  offset: 0, 0
+  index: -1
+dog_02_eye_damage
+  rotate: false
+  xy: 123, 4
+  size: 19, 12
+  orig: 19, 12
+  offset: 0, 0
+  index: -1
+dog_fang_01
+  rotate: true
+  xy: 208, 6
+  size: 17, 9
+  orig: 17, 9
+  offset: 0, 0
+  index: -1
+dog_fang_02
+  rotate: true
+  xy: 320, 46
+  size: 10, 8
+  orig: 10, 8
+  offset: 0, 0
+  index: -1
+eff_03
+  rotate: false
+  xy: 313, 182
+  size: 15, 22
+  orig: 15, 22
+  offset: 0, 0
+  index: -1
+eff_04
+  rotate: false
+  xy: 299, 39
+  size: 19, 17
+  orig: 19, 17
+  offset: 0, 0
+  index: -1
+eff_choco1
+  rotate: true
+  xy: 219, 51
+  size: 91, 27
+  orig: 91, 27
+  offset: 0, 0
+  index: -1
+eff_choco10
+  rotate: false
+  xy: 311, 142
+  size: 17, 31
+  orig: 17, 31
+  offset: 0, 0
+  index: -1
+eff_choco2
+  rotate: false
+  xy: 301, 58
+  size: 27, 19
+  orig: 27, 19
+  offset: 0, 0
+  index: -1
+eff_choco3
+  rotate: true
+  xy: 299, 21
+  size: 16, 20
+  orig: 16, 20
+  offset: 0, 0
+  index: -1
+eff_choco4
+  rotate: true
+  xy: 248, 73
+  size: 39, 13
+  orig: 39, 13
+  offset: 0, 0
+  index: -1
+rope_01
+  rotate: true
+  xy: 2, 14
+  size: 166, 30
+  orig: 166, 30
+  offset: 0, 0
+  index: -1
+rope_02
+  rotate: false
+  xy: 249, 2
+  size: 19, 15
+  orig: 19, 15
+  offset: 0, 0
+  index: -1
+sled_01
+  rotate: false
+  xy: 2, 224
+  size: 161, 41
+  orig: 161, 41
+  offset: 0, 0
+  index: -1
+sled_02
+  rotate: false
+  xy: 2, 182
+  size: 160, 40
+  orig: 160, 40
+  offset: 0, 0
+  index: -1
+snowlady_arm_l
+  rotate: true
+  xy: 268, 109
+  size: 33, 34
+  orig: 33, 34
+  offset: 0, 0
+  index: -1
+snowlady_arm_r
+  rotate: false
+  xy: 219, 18
+  size: 28, 31
+  orig: 28, 31
+  offset: 0, 0
+  index: -1
+snowlady_body
+  rotate: false
+  xy: 166, 25
+  size: 51, 43
+  orig: 51, 43
+  offset: 0, 0
+  index: -1
+snowlady_cap
+  rotate: false
+  xy: 238, 154
+  size: 28, 48
+  orig: 28, 48
+  offset: 0, 0
+  index: -1
+snowlady_face_damage
+  rotate: false
+  xy: 267, 32
+  size: 30, 29
+  orig: 30, 29
+  offset: 0, 0
+  index: -1
+snowlady_face_default
+  rotate: false
+  xy: 263, 63
+  size: 36, 20
+  orig: 36, 20
+  offset: 0, 0
+  index: -1
+snowlady_hair
+  rotate: false
+  xy: 166, 144
+  size: 70, 58
+  orig: 70, 58
+  offset: 0, 0
+  index: -1
+snowlady_hand_r
+  rotate: true
+  xy: 2, 2
+  size: 10, 11
+  orig: 10, 11
+  offset: 0, 0
+  index: -1
+snowlady_head
+  rotate: false
+  xy: 34, 104
+  size: 81, 76
+  orig: 81, 76
+  offset: 0, 0
+  index: -1
+snowlady_leg_r
+  rotate: true
+  xy: 248, 52
+  size: 19, 13
+  orig: 19, 13
+  offset: 0, 0
+  index: -1
+snowman
+  rotate: true
+  xy: 268, 144
+  size: 29, 41
+  orig: 29, 41
+  offset: 0, 0
+  index: -1

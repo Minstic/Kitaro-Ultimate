@@ -1,0 +1,90 @@
+
+Character_01250.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_l
+  rotate: false
+  xy: 52, 87
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+arm_r
+  rotate: false
+  xy: 69, 101
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 85
+  size: 48, 39
+  orig: 48, 39
+  offset: 0, 0
+  index: -1
+eye_brows
+  rotate: false
+  xy: 52, 97
+  size: 15, 12
+  orig: 15, 12
+  offset: 0, 0
+  index: -1
+eye_l1
+  rotate: true
+  xy: 2, 9
+  size: 15, 13
+  orig: 15, 13
+  offset: 0, 0
+  index: -1
+eye_l2
+  rotate: false
+  xy: 18, 70
+  size: 15, 13
+  orig: 15, 13
+  offset: 0, 0
+  index: -1
+eye_r1
+  rotate: false
+  xy: 98, 112
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+eye_r2
+  rotate: false
+  xy: 18, 56
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+float
+  rotate: true
+  xy: 2, 26
+  size: 57, 14
+  orig: 57, 14
+  offset: 0, 0
+  index: -1
+hat
+  rotate: false
+  xy: 52, 111
+  size: 44, 13
+  orig: 44, 13
+  offset: 0, 0
+  index: -1
+leg_l
+  rotate: true
+  xy: 112, 115
+  size: 9, 14
+  orig: 9, 14
+  offset: 0, 0
+  index: -1
+leg_r
+  rotate: false
+  xy: 35, 70
+  size: 8, 13
+  orig: 8, 13
+  offset: 0, 0
+  index: -1

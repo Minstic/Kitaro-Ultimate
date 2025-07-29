@@ -1,0 +1,97 @@
+
+Character_00720.png
+size: 235,142
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_l01
+  rotate: true
+  xy: 53, 21
+  size: 23, 46
+  orig: 23, 46
+  offset: 0, 0
+  index: -1
+arm_r01
+  rotate: false
+  xy: 208, 44
+  size: 22, 45
+  orig: 22, 45
+  offset: 0, 0
+  index: -1
+arm_r02
+  rotate: false
+  xy: 101, 2
+  size: 54, 31
+  orig: 54, 31
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 2, 3
+  size: 41, 49
+  orig: 41, 49
+  offset: 0, 0
+  index: -1
+face_attack
+  rotate: true
+  xy: 201, 91
+  size: 49, 29
+  orig: 49, 29
+  offset: 0, 0
+  index: -1
+face_damage
+  rotate: false
+  xy: 153, 45
+  size: 49, 30
+  orig: 49, 30
+  offset: 0, 0
+  index: -1
+face_default
+  rotate: false
+  xy: 157, 14
+  size: 49, 29
+  orig: 49, 29
+  offset: 0, 0
+  index: -1
+flower
+  rotate: true
+  xy: 208, 16
+  size: 26, 25
+  orig: 26, 25
+  offset: 0, 0
+  index: -1
+hair
+  rotate: true
+  xy: 2, 46
+  size: 94, 99
+  orig: 94, 99
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 153, 77
+  size: 63, 46
+  orig: 63, 46
+  offset: 0, 0
+  index: -1
+leg_l
+  rotate: true
+  xy: 53, 11
+  size: 8, 16
+  orig: 8, 16
+  offset: 0, 0
+  index: -1
+leg_r
+  rotate: true
+  xy: 71, 11
+  size: 8, 15
+  orig: 8, 15
+  offset: 0, 0
+  index: -1
+sand_01
+  rotate: true
+  xy: 103, 35
+  size: 105, 48
+  orig: 105, 48
+  offset: 0, 0
+  index: -1

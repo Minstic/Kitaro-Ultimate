@@ -1,0 +1,104 @@
+
+Character_00420.png
+size: 412,78
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_l
+  rotate: false
+  xy: 382, 25
+  size: 27, 24
+  orig: 27, 24
+  offset: 0, 0
+  index: -1
+arm_r
+  rotate: true
+  xy: 382, 51
+  size: 25, 28
+  orig: 25, 28
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 320, 9
+  size: 60, 67
+  orig: 60, 67
+  offset: 0, 0
+  index: -1
+face_base_default
+  rotate: false
+  xy: 219, 25
+  size: 94, 51
+  orig: 94, 51
+  offset: 0, 0
+  index: -1
+face_damage
+  rotate: false
+  xy: 116, 22
+  size: 101, 54
+  orig: 101, 54
+  offset: 0, 0
+  index: -1
+face_eye_default
+  rotate: false
+  xy: 2, 5
+  size: 43, 6
+  orig: 43, 6
+  offset: 0, 0
+  index: -1
+fish_l_01
+  rotate: true
+  xy: 116, 5
+  size: 15, 45
+  orig: 15, 45
+  offset: 0, 0
+  index: -1
+fish_r_01
+  rotate: true
+  xy: 163, 5
+  size: 15, 44
+  orig: 15, 44
+  offset: 0, 0
+  index: -1
+hand_l
+  rotate: false
+  xy: 396, 7
+  size: 12, 16
+  orig: 12, 16
+  offset: 0, 0
+  index: -1
+hand_r
+  rotate: true
+  xy: 382, 5
+  size: 18, 12
+  orig: 18, 12
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 2, 13
+  size: 112, 63
+  orig: 112, 63
+  offset: 0, 0
+  index: -1
+leg_l
+  rotate: false
+  xy: 302, 7
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+leg_r
+  rotate: false
+  xy: 209, 2
+  size: 20, 18
+  orig: 20, 18
+  offset: 0, 0
+  index: -1
+mouth_default
+  rotate: false
+  xy: 231, 3
+  size: 69, 20
+  orig: 69, 20
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,20 @@
+
+Character_00069.png
+size: 130,99
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body_attack
+  rotate: false
+  xy: 2, 2
+  size: 95, 95
+  orig: 95, 95
+  offset: 0, 0
+  index: -1
+face_attack
+  rotate: true
+  xy: 99, 52
+  size: 45, 29
+  orig: 45, 29
+  offset: 0, 0
+  index: -1

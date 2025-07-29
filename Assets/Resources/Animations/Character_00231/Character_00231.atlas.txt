@@ -1,0 +1,132 @@
+
+Character_00231.png
+size: 726,520
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+air
+  rotate: false
+  xy: 397, 344
+  size: 249, 174
+  orig: 249, 174
+  offset: 0, 0
+  index: -1
+belt
+  rotate: false
+  xy: 578, 72
+  size: 133, 147
+  orig: 133, 147
+  offset: 0, 0
+  index: -1
+body_a_01
+  rotate: false
+  xy: 2, 42
+  size: 390, 211
+  orig: 390, 211
+  offset: 0, 0
+  index: -1
+body_a_02
+  rotate: false
+  xy: 394, 39
+  size: 182, 180
+  orig: 182, 180
+  offset: 0, 0
+  index: -1
+body_b_01
+  rotate: false
+  xy: 2, 255
+  size: 393, 263
+  orig: 393, 263
+  offset: 0, 0
+  index: -1
+body_b_02
+  rotate: false
+  xy: 397, 221
+  size: 211, 121
+  orig: 211, 121
+  offset: 0, 0
+  index: -1
+gr_01_eye
+  rotate: true
+  xy: 133, 2
+  size: 20, 8
+  orig: 20, 8
+  offset: 0, 0
+  index: -1
+gr_02_eye
+  rotate: false
+  xy: 133, 24
+  size: 24, 16
+  orig: 24, 16
+  offset: 0, 0
+  index: -1
+gr_body
+  rotate: false
+  xy: 98, 8
+  size: 33, 32
+  orig: 33, 32
+  offset: 0, 0
+  index: -1
+gr_head
+  rotate: false
+  xy: 2, 6
+  size: 53, 34
+  orig: 53, 34
+  offset: 0, 0
+  index: -1
+leg_l_a
+  rotate: false
+  xy: 648, 461
+  size: 62, 57
+  orig: 62, 57
+  offset: 0, 0
+  index: -1
+leg_l_b
+  rotate: true
+  xy: 578, 22
+  size: 48, 63
+  orig: 48, 63
+  offset: 0, 0
+  index: -1
+leg_r_a
+  rotate: true
+  xy: 643, 30
+  size: 40, 52
+  orig: 40, 52
+  offset: 0, 0
+  index: -1
+leg_r_b
+  rotate: false
+  xy: 648, 388
+  size: 46, 71
+  orig: 46, 71
+  offset: 0, 0
+  index: -1
+mouse_eye_01
+  rotate: true
+  xy: 57, 7
+  size: 33, 39
+  orig: 33, 39
+  offset: 0, 0
+  index: -1
+mouse_eye_02
+  rotate: true
+  xy: 712, 488
+  size: 30, 12
+  orig: 30, 12
+  offset: 0, 0
+  index: -1
+mouse_head
+  rotate: false
+  xy: 610, 237
+  size: 81, 105
+  orig: 81, 105
+  offset: 0, 0
+  index: -1
+mouse_patch
+  rotate: false
+  xy: 648, 350
+  size: 48, 36
+  orig: 48, 36
+  offset: 0, 0
+  index: -1

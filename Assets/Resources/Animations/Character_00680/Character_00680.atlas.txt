@@ -1,0 +1,153 @@
+
+Character_00680.png
+size: 566,93
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_l_a
+  rotate: false
+  xy: 180, 22
+  size: 26, 69
+  orig: 26, 69
+  offset: 0, 0
+  index: -1
+arm_l_b
+  rotate: true
+  xy: 235, 3
+  size: 23, 58
+  orig: 23, 58
+  offset: 0, 0
+  index: -1
+arm_r_a_01
+  rotate: false
+  xy: 345, 37
+  size: 23, 54
+  orig: 23, 54
+  offset: 0, 0
+  index: -1
+arm_r_a_01_layer
+  rotate: true
+  xy: 370, 40
+  size: 51, 95
+  orig: 51, 95
+  offset: 0, 0
+  index: -1
+arm_r_a_02
+  rotate: true
+  xy: 336, 2
+  size: 31, 30
+  orig: 31, 30
+  offset: 0, 0
+  index: -1
+arm_r_b
+  rotate: false
+  xy: 315, 35
+  size: 28, 56
+  orig: 28, 56
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 208, 28
+  size: 54, 63
+  orig: 54, 63
+  offset: 0, 0
+  index: -1
+collar
+  rotate: true
+  xy: 498, 4
+  size: 38, 26
+  orig: 38, 26
+  offset: 0, 0
+  index: -1
+debris_01
+  rotate: false
+  xy: 467, 39
+  size: 9, 12
+  orig: 9, 12
+  offset: 0, 0
+  index: -1
+debris_02
+  rotate: true
+  xy: 86, 2
+  size: 5, 6
+  orig: 5, 6
+  offset: 0, 0
+  index: -1
+debris_03
+  rotate: true
+  xy: 86, 2
+  size: 5, 6
+  orig: 5, 6
+  offset: 0, 0
+  index: -1
+face_damage
+  rotate: false
+  xy: 526, 22
+  size: 29, 29
+  orig: 29, 29
+  offset: 0, 0
+  index: -1
+face_default
+  rotate: false
+  xy: 295, 2
+  size: 39, 26
+  orig: 39, 26
+  offset: 0, 0
+  index: -1
+hair_01
+  rotate: true
+  xy: 86, 9
+  size: 82, 92
+  orig: 82, 92
+  offset: 0, 0
+  index: -1
+hair_02
+  rotate: true
+  xy: 2, 5
+  size: 86, 82
+  orig: 86, 82
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 264, 30
+  size: 49, 61
+  orig: 49, 61
+  offset: 0, 0
+  index: -1
+icicle
+  rotate: true
+  xy: 368, 3
+  size: 32, 128
+  orig: 32, 128
+  offset: 0, 0
+  index: -1
+leg_l
+  rotate: true
+  xy: 180, 2
+  size: 18, 24
+  orig: 18, 24
+  offset: 0, 0
+  index: -1
+leg_r
+  rotate: true
+  xy: 206, 7
+  size: 13, 27
+  orig: 13, 27
+  offset: 0, 0
+  index: -1
+shade_line
+  rotate: false
+  xy: 478, 44
+  size: 36, 7
+  orig: 36, 7
+  offset: 0, 0
+  index: -1
+weapon
+  rotate: false
+  xy: 467, 53
+  size: 97, 38
+  orig: 97, 38
+  offset: 0, 0
+  index: -1

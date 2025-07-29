@@ -1,0 +1,41 @@
+
+Character_41040.png
+size: 346,262
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_l
+  rotate: false
+  xy: 256, 96
+  size: 79, 67
+  orig: 79, 67
+  offset: 0, 0
+  index: -1
+arm_r
+  rotate: false
+  xy: 256, 28
+  size: 76, 66
+  orig: 76, 66
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 2, 2
+  size: 258, 252
+  orig: 258, 252
+  offset: 0, 0
+  index: -1
+crown
+  rotate: false
+  xy: 256, 165
+  size: 88, 95
+  orig: 88, 95
+  offset: 0, 0
+  index: -1
+face_default
+  rotate: false
+  xy: 256, 9
+  size: 44, 17
+  orig: 44, 17
+  offset: 0, 0
+  index: -1

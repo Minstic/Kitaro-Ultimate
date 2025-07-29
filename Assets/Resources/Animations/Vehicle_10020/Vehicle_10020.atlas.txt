@@ -1,0 +1,293 @@
+
+Vehicle_10020.png
+size: 709,109
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+blast_dust_01
+  rotate: false
+  xy: 319, 10
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+blast_dust_02
+  rotate: true
+  xy: 418, 40
+  size: 5, 17
+  orig: 5, 17
+  offset: 0, 0
+  index: -1
+blast_dust_03
+  rotate: false
+  xy: 298, 2
+  size: 16, 5
+  orig: 16, 5
+  offset: 0, 0
+  index: -1
+blast_dust_04
+  rotate: true
+  xy: 279, 2
+  size: 3, 4
+  orig: 3, 4
+  offset: 0, 0
+  index: -1
+blast_dust_05
+  rotate: true
+  xy: 493, 2
+  size: 3, 5
+  orig: 3, 5
+  offset: 0, 0
+  index: -1
+blast_orb_01
+  rotate: false
+  xy: 134, 8
+  size: 18, 9
+  orig: 18, 9
+  offset: 0, 0
+  index: -1
+blast_orb_02
+  rotate: true
+  xy: 354, 67
+  size: 8, 6
+  orig: 8, 6
+  offset: 0, 0
+  index: -1
+blast_orb_03
+  rotate: false
+  xy: 316, 2
+  size: 13, 5
+  orig: 13, 5
+  offset: 0, 0
+  index: -1
+blast_puf_01
+  rotate: true
+  xy: 408, 2
+  size: 36, 31
+  orig: 36, 31
+  offset: 0, 0
+  index: -1
+blast_puf_02
+  rotate: false
+  xy: 674, 15
+  size: 31, 38
+  orig: 31, 38
+  offset: 0, 0
+  index: -1
+blast_put_03
+  rotate: true
+  xy: 279, 7
+  size: 21, 17
+  orig: 21, 17
+  offset: 0, 0
+  index: -1
+blast_smoke_01
+  rotate: false
+  xy: 612, 63
+  size: 71, 44
+  orig: 71, 44
+  offset: 0, 0
+  index: -1
+blast_smoke_02
+  rotate: false
+  xy: 95, 19
+  size: 70, 56
+  orig: 70, 56
+  offset: 0, 0
+  index: -1
+blast_smoke_03
+  rotate: false
+  xy: 2, 8
+  size: 91, 67
+  orig: 91, 67
+  offset: 0, 0
+  index: -1
+blast_smoke_04
+  rotate: false
+  xy: 167, 33
+  size: 69, 42
+  orig: 69, 42
+  offset: 0, 0
+  index: -1
+blast_spike_01
+  rotate: false
+  xy: 612, 26
+  size: 60, 35
+  orig: 60, 35
+  offset: 0, 0
+  index: -1
+blast_spike_02
+  rotate: false
+  xy: 301, 25
+  size: 51, 50
+  orig: 51, 50
+  offset: 0, 0
+  index: -1
+blast_spike_03
+  rotate: true
+  xy: 167, 12
+  size: 19, 69
+  orig: 19, 69
+  offset: 0, 0
+  index: -1
+blast_spike_04
+  rotate: true
+  xy: 418, 47
+  size: 35, 49
+  orig: 35, 49
+  offset: 0, 0
+  index: -1
+blast_spike_05
+  rotate: false
+  xy: 545, 3
+  size: 37, 23
+  orig: 37, 23
+  offset: 0, 0
+  index: -1
+bomber_yashi
+  rotate: false
+  xy: 354, 2
+  size: 52, 36
+  orig: 52, 36
+  offset: 0, 0
+  index: -1
+glider
+  rotate: false
+  xy: 2, 77
+  size: 358, 30
+  orig: 358, 30
+  offset: 0, 0
+  index: -1
+glider_l
+  rotate: false
+  xy: 362, 40
+  size: 54, 42
+  orig: 54, 42
+  offset: 0, 0
+  index: -1
+glider_r
+  rotate: true
+  xy: 441, 4
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+ittan_arm_l
+  rotate: true
+  xy: 154, 8
+  size: 9, 11
+  orig: 9, 11
+  offset: 0, 0
+  index: -1
+ittan_arm_r
+  rotate: false
+  xy: 95, 2
+  size: 12, 15
+  orig: 12, 15
+  offset: 0, 0
+  index: -1
+ittan_body
+  rotate: false
+  xy: 493, 28
+  size: 117, 79
+  orig: 117, 79
+  offset: 0, 0
+  index: -1
+ittan_face_dam
+  rotate: true
+  xy: 685, 55
+  size: 52, 22
+  orig: 52, 22
+  offset: 0, 0
+  index: -1
+ittan_face_def
+  rotate: false
+  xy: 493, 7
+  size: 50, 19
+  orig: 50, 19
+  offset: 0, 0
+  index: -1
+ittan_tail
+  rotate: false
+  xy: 362, 84
+  size: 129, 23
+  orig: 129, 23
+  offset: 0, 0
+  index: -1
+kiji_arm_l_a
+  rotate: false
+  xy: 334, 13
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+kiji_arm_r_a
+  rotate: false
+  xy: 334, 2
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+kiji_body_a
+  rotate: false
+  xy: 238, 30
+  size: 61, 45
+  orig: 61, 45
+  offset: 0, 0
+  index: -1
+kiji_cheek_a
+  rotate: true
+  xy: 477, 36
+  size: 46, 14
+  orig: 46, 14
+  offset: 0, 0
+  index: -1
+kiji_eye_black_a
+  rotate: true
+  xy: 469, 75
+  size: 7, 6
+  orig: 7, 6
+  offset: 0, 0
+  index: -1
+kiji_eye_black_b
+  rotate: true
+  xy: 674, 55
+  size: 6, 5
+  orig: 6, 5
+  offset: 0, 0
+  index: -1
+kiji_eye_dam_a
+  rotate: false
+  xy: 238, 2
+  size: 39, 26
+  orig: 39, 26
+  offset: 0, 0
+  index: -1
+kiji_eye_def_a
+  rotate: true
+  xy: 477, 2
+  size: 32, 14
+  orig: 32, 14
+  offset: 0, 0
+  index: -1
+kiji_face_eff_a
+  rotate: false
+  xy: 584, 10
+  size: 18, 16
+  orig: 18, 16
+  offset: 0, 0
+  index: -1
+kiji_lip_dam_a
+  rotate: false
+  xy: 298, 9
+  size: 19, 14
+  orig: 19, 14
+  offset: 0, 0
+  index: -1
+kiji_lip_def_a
+  rotate: false
+  xy: 109, 6
+  size: 23, 11
+  orig: 23, 11
+  offset: 0, 0
+  index: -1

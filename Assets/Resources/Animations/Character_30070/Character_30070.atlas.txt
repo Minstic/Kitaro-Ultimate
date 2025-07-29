@@ -1,0 +1,125 @@
+
+Character_30070.png
+size: 969,870
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a_eff_01
+  rotate: false
+  xy: 255, 154
+  size: 231, 239
+  orig: 231, 239
+  offset: 0, 0
+  index: -1
+a_eff_02
+  rotate: true
+  xy: 816, 108
+  size: 142, 140
+  orig: 142, 140
+  offset: 0, 0
+  index: -1
+a_eff_03
+  rotate: true
+  xy: 519, 354
+  size: 140, 185
+  orig: 140, 185
+  offset: 0, 0
+  index: -1
+a_eff_04
+  rotate: true
+  xy: 668, 41
+  size: 160, 146
+  orig: 160, 146
+  offset: 0, 0
+  index: -1
+a_eff_05
+  rotate: false
+  xy: 255, 2
+  size: 259, 150
+  orig: 259, 150
+  offset: 0, 0
+  index: -1
+a_eff_06
+  rotate: false
+  xy: 488, 158
+  size: 146, 194
+  orig: 146, 194
+  offset: 0, 0
+  index: -1
+b_eff_01
+  rotate: false
+  xy: 2, 20
+  size: 251, 373
+  orig: 251, 373
+  offset: 0, 0
+  index: -1
+b_eff_02
+  rotate: false
+  xy: 519, 496
+  size: 170, 372
+  orig: 170, 372
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 395
+  size: 515, 473
+  orig: 515, 473
+  offset: 0, 0
+  index: -1
+eye_EF
+  rotate: false
+  xy: 516, 6
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+eye_EF_2
+  rotate: true
+  xy: 2, 10
+  size: 8, 45
+  orig: 8, 45
+  offset: 0, 0
+  index: -1
+eye_EF_B
+  rotate: true
+  xy: 816, 53
+  size: 53, 71
+  orig: 53, 71
+  offset: 0, 0
+  index: -1
+eye_damage
+  rotate: true
+  xy: 691, 561
+  size: 307, 163
+  orig: 307, 163
+  offset: 0, 0
+  index: -1
+eye_default_eyelid
+  rotate: true
+  xy: 856, 546
+  size: 322, 111
+  orig: 322, 111
+  offset: 0, 0
+  index: -1
+eye_default_eyelid_up
+  rotate: true
+  xy: 828, 252
+  size: 292, 116
+  orig: 292, 116
+  offset: 0, 0
+  index: -1
+eye_default_pupil
+  rotate: false
+  xy: 636, 203
+  size: 127, 94
+  orig: 127, 94
+  offset: 0, 0
+  index: -1
+eye_default_white
+  rotate: true
+  xy: 706, 299
+  size: 260, 120
+  orig: 260, 120
+  offset: 0, 0
+  index: -1

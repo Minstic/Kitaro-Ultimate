@@ -1,0 +1,195 @@
+
+Rpg_10051.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_l
+  rotate: false
+  xy: 381, 303
+  size: 30, 65
+  orig: 30, 65
+  offset: 0, 0
+  index: -1
+arm_r_1
+  rotate: false
+  xy: 264, 180
+  size: 28, 19
+  orig: 28, 19
+  offset: 0, 0
+  index: -1
+arm_r_2
+  rotate: false
+  xy: 269, 201
+  size: 47, 17
+  orig: 47, 17
+  offset: 0, 0
+  index: -1
+atk_arm_l_1
+  rotate: false
+  xy: 218, 148
+  size: 44, 51
+  orig: 44, 51
+  offset: 0, 0
+  index: -1
+atk_arm_l_2
+  rotate: true
+  xy: 179, 68
+  size: 67, 31
+  orig: 67, 31
+  offset: 0, 0
+  index: -1
+atk_eye
+  rotate: false
+  xy: 951, 995
+  size: 48, 25
+  orig: 48, 25
+  offset: 0, 0
+  index: -1
+bazooka
+  rotate: false
+  xy: 269, 370
+  size: 160, 102
+  orig: 160, 102
+  offset: 0, 0
+  index: -1
+blast_1
+  rotate: true
+  xy: 2, 2
+  size: 133, 175
+  orig: 133, 175
+  offset: 0, 0
+  index: -1
+blast_2
+  rotate: false
+  xy: 2, 458
+  size: 226, 342
+  orig: 226, 342
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 269, 220
+  size: 110, 148
+  orig: 110, 148
+  offset: 0, 0
+  index: -1
+body_2
+  rotate: true
+  xy: 801, 824
+  size: 100, 56
+  orig: 100, 56
+  offset: 0, 0
+  index: -1
+body_3
+  rotate: false
+  xy: 431, 371
+  size: 193, 43
+  orig: 193, 43
+  offset: 0, 0
+  index: -1
+bullet
+  rotate: true
+  xy: 381, 266
+  size: 35, 23
+  orig: 35, 23
+  offset: 0, 0
+  index: -1
+dmg_eye
+  rotate: true
+  xy: 179, 20
+  size: 46, 26
+  orig: 46, 26
+  offset: 0, 0
+  index: -1
+dome
+  rotate: false
+  xy: 2, 802
+  size: 403, 218
+  orig: 403, 218
+  offset: 0, 0
+  index: -1
+eff_smoke_1
+  rotate: true
+  xy: 230, 474
+  size: 326, 204
+  orig: 326, 204
+  offset: 0, 0
+  index: -1
+eff_smoke_2
+  rotate: true
+  xy: 2, 137
+  size: 319, 214
+  orig: 319, 214
+  offset: 0, 0
+  index: -1
+effect
+  rotate: false
+  xy: 436, 530
+  size: 242, 287
+  orig: 242, 287
+  offset: 0, 0
+  index: -1
+eye
+  rotate: false
+  xy: 781, 500
+  size: 48, 28
+  orig: 48, 28
+  offset: 0, 0
+  index: -1
+momen_smoke_1
+  rotate: false
+  xy: 680, 497
+  size: 99, 320
+  orig: 99, 320
+  offset: 0, 0
+  index: -1
+momen_smoke_2
+  rotate: true
+  xy: 407, 819
+  size: 105, 392
+  orig: 105, 392
+  offset: 0, 0
+  index: -1
+momen_smoke_3
+  rotate: true
+  xy: 407, 926
+  size: 94, 462
+  orig: 94, 462
+  offset: 0, 0
+  index: -1
+muzzle_blast
+  rotate: false
+  xy: 871, 936
+  size: 78, 84
+  orig: 78, 84
+  offset: 0, 0
+  index: -1
+smoke_1
+  rotate: false
+  xy: 436, 468
+  size: 224, 60
+  orig: 224, 60
+  offset: 0, 0
+  index: -1
+smoke_2
+  rotate: false
+  xy: 431, 416
+  size: 210, 50
+  orig: 210, 50
+  offset: 0, 0
+  index: -1
+smoke_3
+  rotate: true
+  xy: 218, 201
+  size: 255, 49
+  orig: 255, 49
+  offset: 0, 0
+  index: -1
+smoke_4
+  rotate: true
+  xy: 781, 530
+  size: 287, 49
+  orig: 287, 49
+  offset: 0, 0
+  index: -1

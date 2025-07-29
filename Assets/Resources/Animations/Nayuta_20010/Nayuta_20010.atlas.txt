@@ -1,0 +1,335 @@
+
+Nayuta_20010.png
+size: 993,961
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+EF_water01
+  rotate: false
+  xy: 616, 664
+  size: 172, 187
+  orig: 172, 187
+  offset: 0, 0
+  index: -1
+EF_water02
+  rotate: true
+  xy: 261, 81
+  size: 133, 175
+  orig: 133, 175
+  offset: 0, 0
+  index: -1
+EF_water03
+  rotate: false
+  xy: 951, 605
+  size: 40, 67
+  orig: 40, 67
+  offset: 0, 0
+  index: -1
+EF_water04
+  rotate: true
+  xy: 438, 133
+  size: 71, 217
+  orig: 71, 217
+  offset: 0, 0
+  index: -1
+EF_water05
+  rotate: false
+  xy: 938, 4
+  size: 38, 69
+  orig: 38, 69
+  offset: 0, 0
+  index: -1
+EF_water06
+  rotate: true
+  xy: 261, 216
+  size: 107, 255
+  orig: 107, 255
+  offset: 0, 0
+  index: -1
+_Touch
+  rotate: false
+  xy: 951, 570
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+arm_L01
+  rotate: false
+  xy: 887, 75
+  size: 75, 89
+  orig: 75, 89
+  offset: 0, 0
+  index: -1
+arm_L03
+  rotate: true
+  xy: 518, 206
+  size: 117, 135
+  orig: 117, 135
+  offset: 0, 0
+  index: -1
+arm_L04
+  rotate: false
+  xy: 790, 662
+  size: 97, 189
+  orig: 97, 189
+  offset: 0, 0
+  index: -1
+arm_R01
+  rotate: false
+  xy: 778, 166
+  size: 93, 87
+  orig: 93, 87
+  offset: 0, 0
+  index: -1
+arm_R01_1
+  rotate: false
+  xy: 892, 331
+  size: 67, 75
+  orig: 67, 75
+  offset: 0, 0
+  index: -1
+arm_R02
+  rotate: false
+  xy: 655, 250
+  size: 114, 136
+  orig: 114, 136
+  offset: 0, 0
+  index: -1
+arm_R03
+  rotate: true
+  xy: 895, 822
+  size: 137, 95
+  orig: 137, 95
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 70
+  size: 257, 253
+  orig: 257, 253
+  offset: 0, 0
+  index: -1
+damage
+  rotate: false
+  xy: 2, 520
+  size: 612, 439
+  orig: 612, 439
+  offset: 0, 0
+  index: -1
+eye
+  rotate: true
+  xy: 232, 39
+  size: 29, 23
+  orig: 29, 23
+  offset: 0, 0
+  index: -1
+eye_01
+  rotate: false
+  xy: 405, 4
+  size: 44, 43
+  orig: 44, 43
+  offset: 0, 0
+  index: -1
+foot_L01
+  rotate: false
+  xy: 261, 32
+  size: 72, 47
+  orig: 72, 47
+  offset: 0, 0
+  index: -1
+foot_R01
+  rotate: false
+  xy: 886, 408
+  size: 73, 73
+  orig: 73, 73
+  offset: 0, 0
+  index: -1
+hand_L01
+  rotate: false
+  xy: 335, 12
+  size: 68, 67
+  orig: 68, 67
+  offset: 0, 0
+  index: -1
+hand_L02
+  rotate: false
+  xy: 71, 3
+  size: 79, 65
+  orig: 79, 65
+  offset: 0, 0
+  index: -1
+hand_R01
+  rotate: true
+  xy: 2, 2
+  size: 66, 67
+  orig: 66, 67
+  offset: 0, 0
+  index: -1
+hand_R02
+  rotate: true
+  xy: 451, 5
+  size: 42, 44
+  orig: 42, 44
+  offset: 0, 0
+  index: -1
+hand_R03
+  rotate: false
+  xy: 778, 95
+  size: 107, 69
+  orig: 107, 69
+  offset: 0, 0
+  index: -1
+head_01
+  rotate: false
+  xy: 616, 547
+  size: 164, 115
+  orig: 164, 115
+  offset: 0, 0
+  index: -1
+head_01_1
+  rotate: false
+  xy: 438, 49
+  size: 172, 82
+  orig: 172, 82
+  offset: 0, 0
+  index: -1
+head_02
+  rotate: true
+  xy: 638, 388
+  size: 157, 149
+  orig: 157, 149
+  offset: 0, 0
+  index: -1
+head_03
+  rotate: false
+  xy: 657, 120
+  size: 119, 128
+  orig: 119, 128
+  offset: 0, 0
+  index: -1
+head_03_1
+  rotate: false
+  xy: 892, 255
+  size: 62, 74
+  orig: 62, 74
+  offset: 0, 0
+  index: -1
+head_03_2
+  rotate: true
+  xy: 789, 399
+  size: 148, 95
+  orig: 148, 95
+  offset: 0, 0
+  index: -1
+leg_L01
+  rotate: false
+  xy: 853, 3
+  size: 83, 70
+  orig: 83, 70
+  offset: 0, 0
+  index: -1
+leg_L02
+  rotate: false
+  xy: 152, 6
+  size: 78, 62
+  orig: 78, 62
+  offset: 0, 0
+  index: -1
+leg_R01
+  rotate: false
+  xy: 754, 18
+  size: 97, 75
+  orig: 97, 75
+  offset: 0, 0
+  index: -1
+leg_R02
+  rotate: true
+  xy: 876, 570
+  size: 90, 73
+  orig: 90, 73
+  offset: 0, 0
+  index: -1
+rope_back_L
+  rotate: true
+  xy: 782, 549
+  size: 111, 92
+  orig: 111, 92
+  offset: 0, 0
+  index: -1
+rope_back_R
+  rotate: true
+  xy: 771, 255
+  size: 131, 119
+  orig: 131, 119
+  offset: 0, 0
+  index: -1
+rope_waist
+  rotate: false
+  xy: 616, 853
+  size: 277, 106
+  orig: 277, 106
+  offset: 0, 0
+  index: -1
+rope_waist_acs01
+  rotate: false
+  xy: 946, 207
+  size: 36, 46
+  orig: 36, 46
+  offset: 0, 0
+  index: -1
+rope_waist_acs02
+  rotate: false
+  xy: 946, 207
+  size: 36, 46
+  orig: 36, 46
+  offset: 0, 0
+  index: -1
+rope_waist_acs03
+  rotate: true
+  xy: 951, 577
+  size: 26, 38
+  orig: 26, 38
+  offset: 0, 0
+  index: -1
+rope_waist_back
+  rotate: false
+  xy: 886, 483
+  size: 84, 85
+  orig: 84, 85
+  offset: 0, 0
+  index: -1
+shoulder_R
+  rotate: false
+  xy: 889, 674
+  size: 101, 146
+  orig: 101, 146
+  offset: 0, 0
+  index: -1
+tongue_01
+  rotate: true
+  xy: 612, 30
+  size: 88, 140
+  orig: 88, 140
+  offset: 0, 0
+  index: -1
+weapon
+  rotate: false
+  xy: 2, 325
+  size: 634, 193
+  orig: 634, 193
+  offset: 0, 0
+  index: -1
+weapon_rope01
+  rotate: true
+  xy: 873, 166
+  size: 87, 71
+  orig: 87, 71
+  offset: 0, 0
+  index: -1
+weapon_rope02
+  rotate: false
+  xy: 961, 421
+  size: 30, 60
+  orig: 30, 60
+  offset: 0, 0
+  index: -1

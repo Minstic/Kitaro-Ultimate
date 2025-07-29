@@ -1,0 +1,76 @@
+
+Character_00149.png
+size: 256,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 0, 39
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
+eff
+  rotate: false
+  xy: 77, 15
+  size: 46, 49
+  orig: 46, 49
+  offset: 0, 0
+  index: -1
+face_damage
+  rotate: false
+  xy: 215, 34
+  size: 33, 30
+  orig: 33, 30
+  offset: 0, 0
+  index: -1
+face_normal_eye
+  rotate: false
+  xy: 77, 5
+  size: 24, 10
+  orig: 24, 10
+  offset: 0, 0
+  index: -1
+mouth_attack
+  rotate: false
+  xy: 164, 15
+  size: 37, 20
+  orig: 37, 20
+  offset: 0, 0
+  index: -1
+mouth_default
+  rotate: false
+  xy: 123, 7
+  size: 33, 16
+  orig: 33, 16
+  offset: 0, 0
+  index: -1
+wing_l_01
+  rotate: true
+  xy: 35, 2
+  size: 37, 42
+  orig: 37, 42
+  offset: 0, 0
+  index: -1
+wing_l_02
+  rotate: false
+  xy: 123, 23
+  size: 41, 41
+  orig: 41, 41
+  offset: 0, 0
+  index: -1
+wing_r_01
+  rotate: false
+  xy: 0, 0
+  size: 35, 39
+  orig: 35, 39
+  offset: 0, 0
+  index: -1
+wing_r_02
+  rotate: false
+  xy: 164, 35
+  size: 51, 29
+  orig: 51, 29
+  offset: 0, 0
+  index: -1

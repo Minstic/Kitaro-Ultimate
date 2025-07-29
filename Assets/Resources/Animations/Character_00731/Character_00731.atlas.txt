@@ -1,0 +1,160 @@
+
+Character_00731.png
+size: 93,516
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_l_a
+  rotate: false
+  xy: 39, 38
+  size: 33, 35
+  orig: 33, 35
+  offset: 0, 0
+  index: -1
+arm_l_b
+  rotate: true
+  xy: 51, 126
+  size: 49, 40
+  orig: 49, 40
+  offset: 0, 0
+  index: -1
+arm_l_b_patch
+  rotate: true
+  xy: 51, 75
+  size: 49, 40
+  orig: 49, 40
+  offset: 0, 0
+  index: -1
+arm_r_a
+  rotate: false
+  xy: 61, 199
+  size: 29, 42
+  orig: 29, 42
+  offset: 0, 0
+  index: -1
+belt
+  rotate: false
+  xy: 61, 183
+  size: 13, 14
+  orig: 13, 14
+  offset: 0, 0
+  index: -1
+body_01
+  rotate: false
+  xy: 2, 127
+  size: 47, 48
+  orig: 47, 48
+  offset: 0, 0
+  index: -1
+body_01_re
+  rotate: false
+  xy: 2, 77
+  size: 47, 48
+  orig: 47, 48
+  offset: 0, 0
+  index: -1
+body_02
+  rotate: true
+  xy: 53, 465
+  size: 49, 35
+  orig: 49, 35
+  offset: 0, 0
+  index: -1
+body_02_re
+  rotate: true
+  xy: 2, 26
+  size: 49, 35
+  orig: 49, 35
+  offset: 0, 0
+  index: -1
+face_attack
+  rotate: true
+  xy: 63, 352
+  size: 52, 28
+  orig: 52, 28
+  offset: 0, 0
+  index: -1
+face_damage
+  rotate: true
+  xy: 53, 406
+  size: 57, 27
+  orig: 57, 27
+  offset: 0, 0
+  index: -1
+face_default
+  rotate: true
+  xy: 68, 243
+  size: 53, 21
+  orig: 53, 21
+  offset: 0, 0
+  index: -1
+hand_l_a
+  rotate: false
+  xy: 39, 25
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+hand_r_a
+  rotate: false
+  xy: 76, 186
+  size: 12, 11
+  orig: 12, 11
+  offset: 0, 0
+  index: -1
+hand_r_b
+  rotate: false
+  xy: 2, 2
+  size: 23, 22
+  orig: 23, 22
+  offset: 0, 0
+  index: -1
+hat
+  rotate: true
+  xy: 2, 406
+  size: 108, 49
+  orig: 108, 49
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 2, 313
+  size: 91, 59
+  orig: 91, 59
+  offset: 0, 0
+  index: -1
+leg_l
+  rotate: true
+  xy: 63, 329
+  size: 21, 28
+  orig: 21, 28
+  offset: 0, 0
+  index: -1
+leg_r
+  rotate: false
+  xy: 68, 298
+  size: 23, 29
+  orig: 23, 29
+  offset: 0, 0
+  index: -1
+tail
+  rotate: true
+  xy: 74, 29
+  size: 44, 17
+  orig: 44, 17
+  offset: 0, 0
+  index: -1
+weapon_a
+  rotate: false
+  xy: 2, 177
+  size: 57, 65
+  orig: 57, 65
+  offset: 0, 0
+  index: -1
+weapon_b
+  rotate: true
+  xy: 2, 244
+  size: 67, 64
+  orig: 67, 64
+  offset: 0, 0
+  index: -1

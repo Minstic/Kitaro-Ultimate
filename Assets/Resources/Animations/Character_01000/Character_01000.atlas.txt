@@ -1,0 +1,272 @@
+
+Character_01000.png
+size: 960,156
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chair
+  rotate: true
+  xy: 758, 2
+  size: 59, 38
+  orig: 59, 38
+  offset: 0, 0
+  index: -1
+hose_arm_l_1
+  rotate: true
+  xy: 268, 9
+  size: 29, 28
+  orig: 29, 28
+  offset: 0, 0
+  index: -1
+hose_arm_l_2
+  rotate: true
+  xy: 838, 129
+  size: 25, 26
+  orig: 25, 26
+  offset: 0, 0
+  index: -1
+hose_arm_r_1
+  rotate: true
+  xy: 212, 2
+  size: 36, 23
+  orig: 36, 23
+  offset: 0, 0
+  index: -1
+hose_arm_r_2
+  rotate: true
+  xy: 298, 10
+  size: 28, 26
+  orig: 28, 26
+  offset: 0, 0
+  index: -1
+hose_body
+  rotate: true
+  xy: 115, 14
+  size: 140, 95
+  orig: 140, 95
+  offset: 0, 0
+  index: -1
+hose_body_attack_2
+  rotate: true
+  xy: 2, 11
+  size: 143, 111
+  orig: 143, 111
+  offset: 0, 0
+  index: -1
+hose_bosy_attack_1
+  rotate: true
+  xy: 501, 54
+  size: 100, 83
+  orig: 100, 83
+  offset: 0, 0
+  index: -1
+hose_ear_l
+  rotate: true
+  xy: 870, 2
+  size: 18, 25
+  orig: 18, 25
+  offset: 0, 0
+  index: -1
+hose_ear_r
+  rotate: true
+  xy: 838, 111
+  size: 16, 26
+  orig: 16, 26
+  offset: 0, 0
+  index: -1
+hose_eya_attack_l
+  rotate: true
+  xy: 897, 2
+  size: 18, 19
+  orig: 18, 19
+  offset: 0, 0
+  index: -1
+hose_eya_attack_r
+  rotate: true
+  xy: 938, 8
+  size: 12, 20
+  orig: 12, 20
+  offset: 0, 0
+  index: -1
+hose_eye1
+  rotate: false
+  xy: 918, 2
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+hose_eye2
+  rotate: false
+  xy: 2, 3
+  size: 6, 6
+  orig: 6, 6
+  offset: 0, 0
+  index: -1
+hose_head
+  rotate: true
+  xy: 315, 43
+  size: 111, 87
+  orig: 111, 87
+  offset: 0, 0
+  index: -1
+hose_head_attack_1
+  rotate: false
+  xy: 212, 40
+  size: 101, 114
+  orig: 101, 114
+  offset: 0, 0
+  index: -1
+hose_head_attack_2
+  rotate: false
+  xy: 650, 57
+  size: 95, 97
+  orig: 95, 97
+  offset: 0, 0
+  index: -1
+hose_leg_lb
+  rotate: false
+  xy: 714, 13
+  size: 20, 42
+  orig: 20, 42
+  offset: 0, 0
+  index: -1
+hose_leg_lb_attack_1
+  rotate: false
+  xy: 687, 12
+  size: 25, 43
+  orig: 25, 43
+  offset: 0, 0
+  index: -1
+hose_leg_lb_attack_2
+  rotate: false
+  xy: 838, 68
+  size: 22, 41
+  orig: 22, 41
+  offset: 0, 0
+  index: -1
+hose_leg_lf
+  rotate: false
+  xy: 736, 13
+  size: 20, 42
+  orig: 20, 42
+  offset: 0, 0
+  index: -1
+hose_leg_lf_attack_2
+  rotate: false
+  xy: 489, 4
+  size: 20, 47
+  orig: 20, 47
+  offset: 0, 0
+  index: -1
+hose_leg_rb
+  rotate: false
+  xy: 583, 8
+  size: 17, 44
+  orig: 17, 44
+  offset: 0, 0
+  index: -1
+hose_leg_rb_attack_1
+  rotate: false
+  xy: 565, 6
+  size: 16, 46
+  orig: 16, 46
+  offset: 0, 0
+  index: -1
+hose_leg_rb_attack_2
+  rotate: false
+  xy: 415, 2
+  size: 18, 49
+  orig: 18, 49
+  offset: 0, 0
+  index: -1
+hose_tail
+  rotate: true
+  xy: 326, 2
+  size: 39, 87
+  orig: 39, 87
+  offset: 0, 0
+  index: -1
+hose_tail_attack_1
+  rotate: true
+  xy: 798, 6
+  size: 55, 70
+  orig: 55, 70
+  offset: 0, 0
+  index: -1
+hose_tail_attack_2
+  rotate: true
+  xy: 870, 100
+  size: 54, 87
+  orig: 54, 87
+  offset: 0, 0
+  index: -1
+impact1
+  rotate: true
+  xy: 586, 56
+  size: 98, 62
+  orig: 98, 62
+  offset: 0, 0
+  index: -1
+yagyo_arm_l
+  rotate: false
+  xy: 642, 11
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: -1
+yagyo_arm_r
+  rotate: false
+  xy: 237, 5
+  size: 29, 33
+  orig: 29, 33
+  offset: 0, 0
+  index: -1
+yagyo_body
+  rotate: true
+  xy: 435, 4
+  size: 47, 52
+  orig: 47, 52
+  offset: 0, 0
+  index: -1
+yagyo_eye
+  rotate: false
+  xy: 115, 3
+  size: 11, 9
+  orig: 11, 9
+  offset: 0, 0
+  index: -1
+yagyo_face
+  rotate: true
+  xy: 602, 2
+  size: 52, 38
+  orig: 52, 38
+  offset: 0, 0
+  index: -1
+yagyo_face_damage
+  rotate: false
+  xy: 511, 6
+  size: 52, 46
+  orig: 52, 46
+  offset: 0, 0
+  index: -1
+yagyo_head
+  rotate: false
+  xy: 747, 63
+  size: 89, 91
+  orig: 89, 91
+  offset: 0, 0
+  index: -1
+yagyo_head_attack_1
+  rotate: false
+  xy: 870, 22
+  size: 86, 76
+  orig: 86, 76
+  offset: 0, 0
+  index: -1
+yagyo_head_attack_2
+  rotate: false
+  xy: 404, 53
+  size: 95, 101
+  orig: 95, 101
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,104 @@
+
+Character_00961.png
+size: 219,141
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+G_default
+  rotate: true
+  xy: 191, 17
+  size: 16, 12
+  orig: 16, 12
+  offset: 0, 0
+  index: -1
+G_flip
+  rotate: true
+  xy: 205, 17
+  size: 16, 12
+  orig: 16, 12
+  offset: 0, 0
+  index: -1
+arm_l_attack
+  rotate: false
+  xy: 169, 55
+  size: 37, 27
+  orig: 37, 27
+  offset: 0, 0
+  index: -1
+arm_l_default
+  rotate: false
+  xy: 155, 12
+  size: 15, 31
+  orig: 15, 31
+  offset: 0, 0
+  index: -1
+arm_r_default
+  rotate: false
+  xy: 172, 22
+  size: 15, 31
+  orig: 15, 31
+  offset: 0, 0
+  index: -1
+body_evo
+  rotate: true
+  xy: 166, 84
+  size: 55, 45
+  orig: 55, 45
+  offset: 0, 0
+  index: -1
+eff_flower_1
+  rotate: true
+  xy: 172, 2
+  size: 18, 17
+  orig: 18, 17
+  offset: 0, 0
+  index: -1
+eff_flower_2
+  rotate: false
+  xy: 191, 8
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+eff_flower_3
+  rotate: false
+  xy: 200, 8
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+eff_flower_4
+  rotate: true
+  xy: 189, 35
+  size: 18, 16
+  orig: 18, 16
+  offset: 0, 0
+  index: -1
+eff_smile
+  rotate: false
+  xy: 2, 81
+  size: 162, 58
+  orig: 162, 58
+  offset: 0, 0
+  index: -1
+face_damage
+  rotate: false
+  xy: 92, 45
+  size: 75, 34
+  orig: 75, 34
+  offset: 0, 0
+  index: -1
+face_default
+  rotate: false
+  xy: 92, 9
+  size: 61, 34
+  orig: 61, 34
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 2, 8
+  size: 88, 71
+  orig: 88, 71
+  offset: 0, 0
+  index: -1

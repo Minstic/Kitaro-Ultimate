@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c1ab2b1b2f492bb4d825b1f0fb5efb22, type: 3}
+  m_Name: Character_00011
+  m_EditorClassIdentifier: 
+  HP: 37060
+  HB: 4
+  Speed: 15
+  AtkRange: 350
+  MinLD: 0
+  MaxLD: 0
+  Atk: 2550
+  Atk2: 0
+  Atk3: 0
+  AreaAtk: 0
+  TBA: 3.5
+  AttacksAllies: 0
+  rarity: 0
+  Cost: 300
+  CD: 51.2
+  UnitRole: 64
+  MaxLevel: 30
+  MaxPlusLevel: 80
+  MinLayer: 10
+  MaxLayer: 100
+  SelfTrait: 0
+  TargetTraits: 0
+  SecondaryType: 1048577
+  TraitAbilityData: []
+  NeutralAbilityData:
+  - UnlockAtPlus: 30
+    Ability: 4
+    Percent: 20
+    Power: 0
+    DurationSeconds: 0
+    Distance: 0
+    NumberOfTimes: 0
+    UnitID: 
+    yabaSize: 0
+    yabaTrait: 0
+    subTarget: 0
+  StatsBoost:
+  - UnlockAtPlus: 15
+    stat: 3
+    StatBoost: 3000

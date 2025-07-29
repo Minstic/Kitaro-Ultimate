@@ -1,0 +1,237 @@
+
+Season_15031.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_R_bottom_01
+  rotate: false
+  xy: 336, 358
+  size: 113, 135
+  orig: 113, 135
+  offset: 0, 0
+  index: -1
+arm_R_top_01
+  rotate: false
+  xy: 751, 107
+  size: 224, 99
+  orig: 224, 99
+  offset: 0, 0
+  index: -1
+arm_l
+  rotate: true
+  xy: 463, 705
+  size: 147, 340
+  orig: 147, 340
+  offset: 0, 0
+  index: -1
+arm_r_02
+  rotate: true
+  xy: 805, 614
+  size: 95, 214
+  orig: 95, 214
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 743
+  size: 459, 276
+  orig: 459, 276
+  offset: 0, 0
+  index: -1
+cap_b
+  rotate: false
+  xy: 2, 2
+  size: 172, 241
+  orig: 172, 241
+  offset: 0, 0
+  index: -1
+cap_f
+  rotate: true
+  xy: 810, 711
+  size: 308, 201
+  orig: 308, 201
+  offset: 0, 0
+  index: -1
+ef_explosion
+  rotate: false
+  xy: 176, 128
+  size: 272, 154
+  orig: 272, 154
+  offset: 0, 0
+  index: -1
+ef_explosion_dust
+  rotate: false
+  xy: 758, 208
+  size: 246, 96
+  orig: 246, 96
+  offset: 0, 0
+  index: -1
+ef_sand_1
+  rotate: true
+  xy: 176, 284
+  size: 176, 157
+  orig: 176, 157
+  offset: 0, 0
+  index: -1
+ef_sand_2
+  rotate: false
+  xy: 2, 315
+  size: 156, 145
+  orig: 156, 145
+  offset: 0, 0
+  index: -1
+ef_sand_3
+  rotate: true
+  xy: 336, 495
+  size: 129, 118
+  orig: 129, 118
+  offset: 0, 0
+  index: -1
+ef_smoke
+  rotate: false
+  xy: 2, 257
+  size: 74, 56
+  orig: 74, 56
+  offset: 0, 0
+  index: -1
+eff_ornament1
+  rotate: false
+  xy: 385, 316
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+eff_ornament2
+  rotate: false
+  xy: 367, 86
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+eff_ornament3
+  rotate: false
+  xy: 367, 44
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+eff_present1
+  rotate: true
+  xy: 336, 626
+  size: 115, 122
+  orig: 115, 122
+  offset: 0, 0
+  index: -1
+eff_present2
+  rotate: false
+  xy: 176, 18
+  size: 93, 108
+  orig: 93, 108
+  offset: 0, 0
+  index: -1
+eff_present3
+  rotate: true
+  xy: 616, 169
+  size: 74, 133
+  orig: 74, 133
+  offset: 0, 0
+  index: -1
+eye_ball_l
+  rotate: false
+  xy: 78, 268
+  size: 44, 45
+  orig: 44, 45
+  offset: 0, 0
+  index: -1
+eye_ball_r
+  rotate: true
+  xy: 124, 274
+  size: 39, 41
+  orig: 39, 41
+  offset: 0, 0
+  index: -1
+eye_damage_l
+  rotate: true
+  xy: 271, 26
+  size: 100, 94
+  orig: 100, 94
+  offset: 0, 0
+  index: -1
+eye_damage_r
+  rotate: false
+  xy: 712, 8
+  size: 95, 97
+  orig: 95, 97
+  offset: 0, 0
+  index: -1
+eye_holl_l
+  rotate: true
+  xy: 616, 5
+  size: 100, 94
+  orig: 100, 94
+  offset: 0, 0
+  index: -1
+eye_holl_r
+  rotate: false
+  xy: 809, 8
+  size: 95, 97
+  orig: 95, 97
+  offset: 0, 0
+  index: -1
+hand_R_01
+  rotate: true
+  xy: 450, 13
+  size: 230, 164
+  orig: 230, 164
+  offset: 0, 0
+  index: -1
+hand_R_02
+  rotate: false
+  xy: 768, 460
+  size: 249, 152
+  orig: 249, 152
+  offset: 0, 0
+  index: -1
+hand_R_02_burn
+  rotate: false
+  xy: 758, 306
+  size: 249, 152
+  orig: 249, 152
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 456, 245
+  size: 300, 277
+  orig: 300, 277
+  offset: 0, 0
+  index: -1
+hige
+  rotate: true
+  xy: 2, 462
+  size: 279, 332
+  orig: 279, 332
+  offset: 0, 0
+  index: -1
+leg_l
+  rotate: true
+  xy: 463, 854
+  size: 165, 345
+  orig: 165, 345
+  offset: 0, 0
+  index: -1
+leg_r
+  rotate: true
+  xy: 460, 524
+  size: 179, 306
+  orig: 179, 306
+  offset: 0, 0
+  index: -1
+nose
+  rotate: false
+  xy: 335, 284
+  size: 48, 72
+  orig: 48, 72
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,104 @@
+
+Character_00332.png
+size: 817,185
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body_damage
+  rotate: true
+  xy: 2, 2
+  size: 181, 265
+  orig: 181, 265
+  offset: 0, 0
+  index: -1
+body_default
+  rotate: true
+  xy: 269, 21
+  size: 162, 227
+  orig: 162, 227
+  offset: 0, 0
+  index: -1
+eff_steam1
+  rotate: false
+  xy: 759, 127
+  size: 56, 56
+  orig: 56, 56
+  offset: 0, 0
+  index: -1
+eff_steam2
+  rotate: true
+  xy: 730, 25
+  size: 54, 83
+  orig: 54, 83
+  offset: 0, 0
+  index: -1
+eff_steam3
+  rotate: false
+  xy: 759, 92
+  size: 47, 33
+  orig: 47, 33
+  offset: 0, 0
+  index: -1
+eff_steam4
+  rotate: false
+  xy: 661, 81
+  size: 96, 102
+  orig: 96, 102
+  offset: 0, 0
+  index: -1
+eff_steam5
+  rotate: true
+  xy: 661, 14
+  size: 65, 67
+  orig: 65, 67
+  offset: 0, 0
+  index: -1
+face_damage
+  rotate: false
+  xy: 498, 3
+  size: 33, 28
+  orig: 33, 28
+  offset: 0, 0
+  index: -1
+face_damage_re
+  rotate: false
+  xy: 533, 3
+  size: 33, 28
+  orig: 33, 28
+  offset: 0, 0
+  index: -1
+face_default
+  rotate: false
+  xy: 568, 6
+  size: 33, 25
+  orig: 33, 25
+  offset: 0, 0
+  index: -1
+face_default_re
+  rotate: false
+  xy: 603, 6
+  size: 33, 25
+  orig: 33, 25
+  offset: 0, 0
+  index: -1
+hand_l
+  rotate: true
+  xy: 638, 11
+  size: 20, 16
+  orig: 20, 16
+  offset: 0, 0
+  index: -1
+hand_r
+  rotate: false
+  xy: 730, 4
+  size: 21, 19
+  orig: 21, 19
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 498, 33
+  size: 150, 161
+  orig: 150, 161
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,475 @@
+
+Season_11011.png
+size: 847,330
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_l
+  rotate: true
+  xy: 441, 2
+  size: 64, 95
+  orig: 64, 95
+  offset: 0, 0
+  index: -1
+arm_r
+  rotate: false
+  xy: 602, 145
+  size: 33, 80
+  orig: 33, 80
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 267, 34
+  size: 85, 109
+  orig: 85, 109
+  offset: 0, 0
+  index: -1
+body_flip
+  rotate: false
+  xy: 354, 44
+  size: 85, 109
+  orig: 85, 109
+  offset: 0, 0
+  index: -1
+cape_opt_1
+  rotate: false
+  xy: 755, 14
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+cape_opt_2
+  rotate: false
+  xy: 773, 7
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+cape_opt_3
+  rotate: false
+  xy: 824, 49
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+cape_opt_4
+  rotate: false
+  xy: 791, 24
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+cape_opt_5
+  rotate: false
+  xy: 825, 33
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+cape_opt_6
+  rotate: false
+  xy: 825, 17
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+cape_opt_7
+  rotate: false
+  xy: 808, 24
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+cape_opt_8
+  rotate: false
+  xy: 805, 8
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+cape_opt_9
+  rotate: false
+  xy: 773, 23
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+eff_circle
+  rotate: false
+  xy: 632, 231
+  size: 147, 97
+  orig: 147, 97
+  offset: 0, 0
+  index: -1
+eff_dome
+  rotate: false
+  xy: 267, 11
+  size: 76, 21
+  orig: 76, 21
+  offset: 0, 0
+  index: -1
+eff_dust_l1
+  rotate: false
+  xy: 625, 73
+  size: 55, 70
+  orig: 55, 70
+  offset: 0, 0
+  index: -1
+eff_dust_l2
+  rotate: true
+  xy: 781, 225
+  size: 103, 64
+  orig: 103, 64
+  offset: 0, 0
+  index: -1
+eff_dust_l3
+  rotate: false
+  xy: 768, 41
+  size: 22, 32
+  orig: 22, 32
+  offset: 0, 0
+  index: -1
+eff_dust_l4
+  rotate: false
+  xy: 793, 109
+  size: 49, 38
+  orig: 49, 38
+  offset: 0, 0
+  index: -1
+eff_dust_l5
+  rotate: true
+  xy: 793, 68
+  size: 39, 47
+  orig: 39, 47
+  offset: 0, 0
+  index: -1
+eff_dust_s1
+  rotate: true
+  xy: 637, 145
+  size: 6, 13
+  orig: 6, 13
+  offset: 0, 0
+  index: -1
+eff_dust_s2
+  rotate: false
+  xy: 255, 8
+  size: 10, 14
+  orig: 10, 14
+  offset: 0, 0
+  index: -1
+eff_dust_s3
+  rotate: true
+  xy: 335, 145
+  size: 8, 13
+  orig: 8, 13
+  offset: 0, 0
+  index: -1
+eff_dust_s4
+  rotate: true
+  xy: 318, 145
+  size: 8, 15
+  orig: 8, 15
+  offset: 0, 0
+  index: -1
+eff_dust_s5
+  rotate: false
+  xy: 345, 18
+  size: 7, 14
+  orig: 7, 14
+  offset: 0, 0
+  index: -1
+eff_explosion_1
+  rotate: false
+  xy: 2, 57
+  size: 126, 271
+  orig: 126, 271
+  offset: 0, 0
+  index: -1
+eff_explosion_2
+  rotate: false
+  xy: 318, 173
+  size: 149, 155
+  orig: 149, 155
+  offset: 0, 0
+  index: -1
+eff_explosion_3
+  rotate: true
+  xy: 130, 24
+  size: 119, 135
+  orig: 119, 135
+  offset: 0, 0
+  index: -1
+eff_mist
+  rotate: false
+  xy: 130, 145
+  size: 186, 183
+  orig: 186, 183
+  offset: 0, 0
+  index: -1
+eff_ribbon
+  rotate: true
+  xy: 318, 155
+  size: 16, 147
+  orig: 16, 147
+  offset: 0, 0
+  index: -1
+eff_shine
+  rotate: false
+  xy: 354, 2
+  size: 38, 40
+  orig: 38, 40
+  offset: 0, 0
+  index: -1
+eff_smoke_b1
+  rotate: true
+  xy: 107, 13
+  size: 42, 21
+  orig: 42, 21
+  offset: 0, 0
+  index: -1
+eff_smoke_b2
+  rotate: true
+  xy: 586, 2
+  size: 62, 31
+  orig: 62, 31
+  offset: 0, 0
+  index: -1
+eff_smoke_b3
+  rotate: false
+  xy: 216, 3
+  size: 37, 19
+  orig: 37, 19
+  offset: 0, 0
+  index: -1
+eff_smoke_b4
+  rotate: true
+  xy: 648, 5
+  size: 66, 31
+  orig: 66, 31
+  offset: 0, 0
+  index: -1
+face_damage
+  rotate: false
+  xy: 744, 75
+  size: 47, 27
+  orig: 47, 27
+  offset: 0, 0
+  index: -1
+face_default_eye01
+  rotate: false
+  xy: 130, 2
+  size: 42, 20
+  orig: 42, 20
+  offset: 0, 0
+  index: -1
+face_default_eye02
+  rotate: false
+  xy: 681, 5
+  size: 43, 10
+  orig: 43, 10
+  offset: 0, 0
+  index: -1
+face_default_eye03
+  rotate: false
+  xy: 2, 2
+  size: 43, 8
+  orig: 43, 8
+  offset: 0, 0
+  index: -1
+face_default_mouth
+  rotate: false
+  xy: 174, 5
+  size: 40, 17
+  orig: 40, 17
+  offset: 0, 0
+  index: -1
+face_default_smile
+  rotate: true
+  xy: 719, 100
+  size: 51, 23
+  orig: 51, 23
+  offset: 0, 0
+  index: -1
+hair_back
+  rotate: true
+  xy: 469, 142
+  size: 83, 131
+  orig: 83, 131
+  offset: 0, 0
+  index: -1
+hair_l
+  rotate: false
+  xy: 682, 88
+  size: 35, 63
+  orig: 35, 63
+  offset: 0, 0
+  index: -1
+hair_r
+  rotate: false
+  xy: 729, 155
+  size: 34, 74
+  orig: 34, 74
+  offset: 0, 0
+  index: -1
+hand_l
+  rotate: true
+  xy: 538, 2
+  size: 62, 46
+  orig: 62, 46
+  offset: 0, 0
+  index: -1
+hand_r
+  rotate: false
+  xy: 469, 227
+  size: 161, 101
+  orig: 161, 101
+  offset: 0, 0
+  index: -1
+haori_l
+  rotate: true
+  xy: 441, 68
+  size: 72, 103
+  orig: 72, 103
+  offset: 0, 0
+  index: -1
+haori_r
+  rotate: true
+  xy: 2, 12
+  size: 43, 103
+  orig: 43, 103
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 546, 66
+  size: 77, 74
+  orig: 77, 74
+  offset: 0, 0
+  index: -1
+head_flip
+  rotate: false
+  xy: 765, 149
+  size: 77, 74
+  orig: 77, 74
+  offset: 0, 0
+  index: -1
+head_shades
+  rotate: true
+  xy: 619, 2
+  size: 62, 27
+  orig: 62, 27
+  offset: 0, 0
+  index: -1
+hime_eff_kira_L
+  rotate: false
+  xy: 726, 2
+  size: 27, 28
+  orig: 27, 28
+  offset: 0, 0
+  index: -1
+hime_eff_kira_LL
+  rotate: false
+  xy: 394, 2
+  size: 38, 40
+  orig: 38, 40
+  offset: 0, 0
+  index: -1
+hime_eff_kira_M
+  rotate: true
+  xy: 719, 77
+  size: 21, 23
+  orig: 21, 23
+  offset: 0, 0
+  index: -1
+hime_eff_kira_S
+  rotate: true
+  xy: 789, 2
+  size: 13, 14
+  orig: 13, 14
+  offset: 0, 0
+  index: -1
+hime_eff_prism_L
+  rotate: true
+  xy: 47, 2
+  size: 8, 14
+  orig: 8, 14
+  offset: 0, 0
+  index: -1
+hime_eff_prism_M
+  rotate: false
+  xy: 63, 2
+  size: 10, 8
+  orig: 10, 8
+  offset: 0, 0
+  index: -1
+hime_eff_prism_S
+  rotate: true
+  xy: 434, 33
+  size: 9, 5
+  orig: 9, 5
+  offset: 0, 0
+  index: -1
+hime_eff_sphere_L
+  rotate: false
+  xy: 755, 2
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+hime_eff_sphere_M
+  rotate: false
+  xy: 75, 2
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+hime_eff_sphere_S
+  rotate: false
+  xy: 625, 66
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+obi
+  rotate: false
+  xy: 744, 104
+  size: 47, 43
+  orig: 47, 43
+  offset: 0, 0
+  index: -1
+snowball
+  rotate: false
+  xy: 637, 153
+  size: 90, 76
+  orig: 90, 76
+  offset: 0, 0
+  index: -1
+toy_bell
+  rotate: true
+  xy: 792, 41
+  size: 25, 30
+  orig: 25, 30
+  offset: 0, 0
+  index: -1
+toy_presents1
+  rotate: true
+  xy: 681, 17
+  size: 42, 41
+  orig: 42, 41
+  offset: 0, 0
+  index: -1
+toy_presents2
+  rotate: false
+  xy: 724, 32
+  size: 42, 41
+  orig: 42, 41
+  offset: 0, 0
+  index: -1
+toy_stick
+  rotate: true
+  xy: 682, 61
+  size: 25, 34
+  orig: 25, 34
+  offset: 0, 0
+  index: -1

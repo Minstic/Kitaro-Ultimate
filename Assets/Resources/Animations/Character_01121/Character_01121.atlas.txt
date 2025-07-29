@@ -1,0 +1,118 @@
+
+Character_01121.png
+size: 186,264
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+banboo
+  rotate: false
+  xy: 106, 168
+  size: 19, 94
+  orig: 19, 94
+  offset: 0, 0
+  index: -1
+mummy_arm_l
+  rotate: false
+  xy: 133, 40
+  size: 45, 50
+  orig: 45, 50
+  offset: 0, 0
+  index: -1
+mummy_arm_r
+  rotate: false
+  xy: 2, 11
+  size: 62, 35
+  orig: 62, 35
+  offset: 0, 0
+  index: -1
+mummy_body
+  rotate: true
+  xy: 2, 48
+  size: 90, 107
+  orig: 90, 107
+  offset: 0, 0
+  index: -1
+mummy_eye_l
+  rotate: true
+  xy: 177, 255
+  size: 7, 5
+  orig: 7, 5
+  offset: 0, 0
+  index: -1
+mummy_eye_r
+  rotate: true
+  xy: 177, 247
+  size: 6, 4
+  orig: 6, 4
+  offset: 0, 0
+  index: -1
+mummy_face_attack
+  rotate: false
+  xy: 111, 92
+  size: 47, 48
+  orig: 47, 48
+  offset: 0, 0
+  index: -1
+mummy_face_damage
+  rotate: false
+  xy: 127, 213
+  size: 48, 49
+  orig: 48, 49
+  offset: 0, 0
+  index: -1
+mummy_face_default
+  rotate: false
+  xy: 127, 168
+  size: 49, 43
+  orig: 49, 43
+  offset: 0, 0
+  index: -1
+mummy_hand_r
+  rotate: false
+  xy: 97, 10
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+mummy_head
+  rotate: false
+  xy: 2, 140
+  size: 102, 122
+  orig: 102, 122
+  offset: 0, 0
+  index: -1
+mummy_leg_l
+  rotate: false
+  xy: 66, 6
+  size: 29, 40
+  orig: 29, 40
+  offset: 0, 0
+  index: -1
+mummy_leg_l_move
+  rotate: false
+  xy: 160, 99
+  size: 24, 41
+  orig: 24, 41
+  offset: 0, 0
+  index: -1
+mummy_leg_r
+  rotate: true
+  xy: 133, 2
+  size: 36, 47
+  orig: 36, 47
+  offset: 0, 0
+  index: -1
+mummy_tai
+  rotate: true
+  xy: 106, 142
+  size: 24, 69
+  orig: 24, 69
+  offset: 0, 0
+  index: -1
+mummy_whistle
+  rotate: false
+  xy: 111, 23
+  size: 20, 67
+  orig: 20, 67
+  offset: 0, 0
+  index: -1

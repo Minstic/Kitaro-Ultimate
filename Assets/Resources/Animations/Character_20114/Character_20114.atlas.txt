@@ -1,0 +1,69 @@
+
+Character_20114.png
+size: 846,543
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 225
+  size: 422, 316
+  orig: 422, 316
+  offset: 0, 0
+  index: -1
+body_skull
+  rotate: true
+  xy: 426, 149
+  size: 392, 198
+  orig: 392, 198
+  offset: 0, 0
+  index: -1
+face_01
+  rotate: true
+  xy: 744, 39
+  size: 125, 74
+  orig: 125, 74
+  offset: 0, 0
+  index: -1
+face_02
+  rotate: true
+  xy: 302, 68
+  size: 155, 77
+  orig: 155, 77
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 2, 8
+  size: 298, 215
+  orig: 298, 215
+  offset: 0, 0
+  index: -1
+leg_l_01
+  rotate: false
+  xy: 381, 2
+  size: 153, 145
+  orig: 153, 145
+  offset: 0, 0
+  index: -1
+leg_l_02
+  rotate: true
+  xy: 626, 327
+  size: 214, 166
+  orig: 214, 166
+  offset: 0, 0
+  index: -1
+leg_r_01
+  rotate: false
+  xy: 536, 16
+  size: 206, 131
+  orig: 206, 131
+  offset: 0, 0
+  index: -1
+leg_r_02
+  rotate: false
+  xy: 626, 166
+  size: 218, 159
+  orig: 218, 159
+  offset: 0, 0
+  index: -1

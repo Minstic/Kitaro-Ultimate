@@ -1,0 +1,118 @@
+
+Effect_00030.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bubble1
+  rotate: false
+  xy: 789, 224
+  size: 126, 179
+  orig: 126, 179
+  offset: 0, 0
+  index: -1
+bubble2
+  rotate: false
+  xy: 641, 216
+  size: 146, 187
+  orig: 146, 187
+  offset: 0, 0
+  index: -1
+bubble3
+  rotate: false
+  xy: 415, 164
+  size: 125, 248
+  orig: 125, 248
+  offset: 0, 0
+  index: -1
+bubble4
+  rotate: false
+  xy: 917, 195
+  size: 98, 208
+  orig: 98, 208
+  offset: 0, 0
+  index: -1
+eff1
+  rotate: true
+  xy: 689, 405
+  size: 93, 276
+  orig: 93, 276
+  offset: 0, 0
+  index: -1
+eff2
+  rotate: false
+  xy: 179, 50
+  size: 111, 362
+  orig: 111, 362
+  offset: 0, 0
+  index: -1
+eff3
+  rotate: false
+  xy: 292, 99
+  size: 121, 313
+  orig: 121, 313
+  offset: 0, 0
+  index: -1
+eff4
+  rotate: false
+  xy: 542, 155
+  size: 97, 257
+  orig: 97, 257
+  offset: 0, 0
+  index: -1
+pillar1
+  rotate: true
+  xy: 990, 62
+  size: 131, 31
+  orig: 131, 31
+  offset: 0, 0
+  index: -1
+pillar2
+  rotate: false
+  xy: 2, 2
+  size: 175, 496
+  orig: 175, 496
+  offset: 0, 0
+  index: -1
+pillar3
+  rotate: true
+  xy: 179, 414
+  size: 84, 508
+  orig: 84, 508
+  offset: 0, 0
+  index: -1
+water1
+  rotate: false
+  xy: 641, 152
+  size: 163, 62
+  orig: 163, 62
+  offset: 0, 0
+  index: -1
+water2
+  rotate: false
+  xy: 292, 26
+  size: 171, 71
+  orig: 171, 71
+  offset: 0, 0
+  index: -1
+water3
+  rotate: true
+  xy: 902, 37
+  size: 156, 86
+  orig: 156, 86
+  offset: 0, 0
+  index: -1
+water4
+  rotate: true
+  xy: 806, 67
+  size: 155, 94
+  orig: 155, 94
+  offset: 0, 0
+  index: -1
+waterring1
+  rotate: false
+  xy: 465, 114
+  size: 231, 36
+  orig: 231, 36
+  offset: 0, 0
+  index: -1

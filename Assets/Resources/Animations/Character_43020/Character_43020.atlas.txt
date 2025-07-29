@@ -1,0 +1,55 @@
+
+Character_43020.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 66, 20
+  size: 50, 106
+  orig: 50, 106
+  offset: 0, 0
+  index: -1
+face_default
+  rotate: false
+  xy: 118, 108
+  size: 30, 18
+  orig: 30, 18
+  offset: 0, 0
+  index: -1
+mitarashi
+  rotate: false
+  xy: 2, 16
+  size: 62, 110
+  orig: 62, 110
+  offset: 0, 0
+  index: -1
+mitarashi_h1
+  rotate: false
+  xy: 2, 5
+  size: 25, 9
+  orig: 25, 9
+  offset: 0, 0
+  index: -1
+mitarashi_h2
+  rotate: false
+  xy: 150, 120
+  size: 3, 6
+  orig: 3, 6
+  offset: 0, 0
+  index: -1
+mitarashi_h3
+  rotate: false
+  xy: 29, 2
+  size: 4, 12
+  orig: 4, 12
+  offset: 0, 0
+  index: -1
+mitarashi_h4
+  rotate: false
+  xy: 118, 102
+  size: 13, 4
+  orig: 13, 4
+  offset: 0, 0
+  index: -1

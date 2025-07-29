@@ -1,0 +1,83 @@
+
+Biggest_10030.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+eye_ball_l
+  rotate: false
+  xy: 295, 2
+  size: 74, 74
+  orig: 74, 74
+  offset: 0, 0
+  index: -1
+eye_ball_r
+  rotate: false
+  xy: 371, 8
+  size: 65, 68
+  orig: 65, 68
+  offset: 0, 0
+  index: -1
+eye_damage_l
+  rotate: true
+  xy: 295, 78
+  size: 167, 157
+  orig: 167, 157
+  offset: 0, 0
+  index: -1
+eye_damage_r
+  rotate: true
+  xy: 844, 339
+  size: 158, 161
+  orig: 158, 161
+  offset: 0, 0
+  index: -1
+eye_holl_l
+  rotate: false
+  xy: 675, 340
+  size: 167, 157
+  orig: 167, 157
+  offset: 0, 0
+  index: -1
+eye_holl_r
+  rotate: false
+  xy: 454, 189
+  size: 158, 161
+  orig: 158, 161
+  offset: 0, 0
+  index: -1
+lip_damage
+  rotate: false
+  xy: 2, 33
+  size: 291, 212
+  orig: 291, 212
+  offset: 0, 0
+  index: -1
+lip_default_bottom
+  rotate: false
+  xy: 407, 352
+  size: 260, 73
+  orig: 260, 73
+  offset: 0, 0
+  index: -1
+lip_default_top
+  rotate: false
+  xy: 407, 427
+  size: 266, 70
+  orig: 266, 70
+  offset: 0, 0
+  index: -1
+lip_open
+  rotate: false
+  xy: 2, 247
+  size: 403, 250
+  orig: 403, 250
+  offset: 0, 0
+  index: -1
+nose
+  rotate: true
+  xy: 454, 106
+  size: 81, 121
+  orig: 81, 121
+  offset: 0, 0
+  index: -1

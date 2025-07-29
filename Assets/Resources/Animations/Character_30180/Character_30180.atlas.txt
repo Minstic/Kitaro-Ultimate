@@ -1,0 +1,146 @@
+
+Character_30180.png
+size: 999,866
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_l
+  rotate: true
+  xy: 731, 401
+  size: 55, 36
+  orig: 55, 36
+  offset: 0, 0
+  index: -1
+arm_r
+  rotate: false
+  xy: 711, 2
+  size: 46, 31
+  orig: 46, 31
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 7
+  size: 215, 346
+  orig: 215, 346
+  offset: 0, 0
+  index: -1
+body2
+  rotate: false
+  xy: 219, 7
+  size: 215, 346
+  orig: 215, 346
+  offset: 0, 0
+  index: -1
+body3
+  rotate: false
+  xy: 711, 35
+  size: 215, 346
+  orig: 215, 346
+  offset: 0, 0
+  index: -1
+eff
+  rotate: true
+  xy: 260, 452
+  size: 412, 283
+  orig: 412, 283
+  offset: 0, 0
+  index: -1
+eff2
+  rotate: true
+  xy: 545, 458
+  size: 406, 286
+  orig: 406, 286
+  offset: 0, 0
+  index: -1
+eff3
+  rotate: true
+  xy: 436, 22
+  size: 354, 273
+  orig: 354, 273
+  offset: 0, 0
+  index: -1
+eff4
+  rotate: true
+  xy: 833, 527
+  size: 142, 146
+  orig: 142, 146
+  offset: 0, 0
+  index: -1
+eff_fire1
+  rotate: false
+  xy: 517, 383
+  size: 212, 67
+  orig: 212, 67
+  offset: 0, 0
+  index: -1
+eff_fire2
+  rotate: false
+  xy: 260, 378
+  size: 211, 72
+  orig: 211, 72
+  offset: 0, 0
+  index: -1
+eff_floor4
+  rotate: true
+  xy: 928, 81
+  size: 406, 36
+  orig: 406, 36
+  offset: 0, 0
+  index: -1
+eye_damage
+  rotate: true
+  xy: 473, 380
+  size: 70, 42
+  orig: 70, 42
+  offset: 0, 0
+  index: -1
+eye_default
+  rotate: false
+  xy: 759, 6
+  size: 56, 27
+  orig: 56, 27
+  offset: 0, 0
+  index: -1
+floor
+  rotate: true
+  xy: 2, 355
+  size: 509, 84
+  orig: 509, 84
+  offset: 0, 0
+  index: -1
+floor2
+  rotate: true
+  xy: 88, 355
+  size: 509, 84
+  orig: 509, 84
+  offset: 0, 0
+  index: -1
+floor3
+  rotate: true
+  xy: 174, 355
+  size: 509, 84
+  orig: 509, 84
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 833, 671
+  size: 193, 164
+  orig: 193, 164
+  offset: 0, 0
+  index: -1
+mouth_AT
+  rotate: false
+  xy: 769, 406
+  size: 106, 50
+  orig: 106, 50
+  offset: 0, 0
+  index: -1
+mouth_default
+  rotate: false
+  xy: 877, 489
+  size: 103, 36
+  orig: 103, 36
+  offset: 0, 0
+  index: -1

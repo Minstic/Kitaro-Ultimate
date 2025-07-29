@@ -1,0 +1,258 @@
+
+Character_20174.png
+size: 519,141
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_l
+  rotate: true
+  xy: 2, 15
+  size: 46, 100
+  orig: 46, 100
+  offset: 0, 0
+  index: -1
+arm_r
+  rotate: true
+  xy: 134, 19
+  size: 38, 80
+  orig: 38, 80
+  offset: 0, 0
+  index: -1
+bowknot
+  rotate: true
+  xy: 403, 5
+  size: 7, 14
+  orig: 7, 14
+  offset: 0, 0
+  index: -1
+bowknot_l
+  rotate: true
+  xy: 134, 2
+  size: 15, 48
+  orig: 15, 48
+  offset: 0, 0
+  index: -1
+bowknot_r
+  rotate: true
+  xy: 436, 6
+  size: 14, 37
+  orig: 14, 37
+  offset: 0, 0
+  index: -1
+collar
+  rotate: true
+  xy: 271, 2
+  size: 28, 35
+  orig: 28, 35
+  offset: 0, 0
+  index: -1
+face_damage
+  rotate: true
+  xy: 308, 2
+  size: 28, 22
+  orig: 28, 22
+  offset: 0, 0
+  index: -1
+face_default
+  rotate: true
+  xy: 469, 23
+  size: 31, 20
+  orig: 31, 20
+  offset: 0, 0
+  index: -1
+hair
+  rotate: false
+  xy: 330, 64
+  size: 55, 75
+  orig: 55, 75
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 387, 65
+  size: 55, 74
+  orig: 55, 74
+  offset: 0, 0
+  index: -1
+hip
+  rotate: true
+  xy: 179, 59
+  size: 80, 89
+  orig: 80, 89
+  offset: 0, 0
+  index: -1
+mask_numagozen
+  rotate: false
+  xy: 444, 67
+  size: 49, 72
+  orig: 49, 72
+  offset: 0, 0
+  index: -1
+mask_snake_a
+  rotate: false
+  xy: 369, 7
+  size: 32, 40
+  orig: 32, 40
+  offset: 0, 0
+  index: -1
+mask_snake_b
+  rotate: false
+  xy: 104, 14
+  size: 28, 47
+  orig: 28, 47
+  offset: 0, 0
+  index: -1
+ripple_01
+  rotate: true
+  xy: 358, 2
+  size: 39, 9
+  orig: 39, 9
+  offset: 0, 0
+  index: -1
+ripple_02
+  rotate: false
+  xy: 444, 56
+  size: 44, 9
+  orig: 44, 9
+  offset: 0, 0
+  index: -1
+ripple_03
+  rotate: false
+  xy: 330, 54
+  size: 43, 8
+  orig: 43, 8
+  offset: 0, 0
+  index: -1
+ripple_04
+  rotate: false
+  xy: 92, 2
+  size: 25, 10
+  orig: 25, 10
+  offset: 0, 0
+  index: -1
+ripple_05
+  rotate: false
+  xy: 184, 10
+  size: 25, 7
+  orig: 25, 7
+  offset: 0, 0
+  index: -1
+snake_a_body
+  rotate: true
+  xy: 216, 3
+  size: 26, 45
+  orig: 26, 45
+  offset: 0, 0
+  index: -1
+snake_a_face_01_def
+  rotate: true
+  xy: 332, 2
+  size: 39, 24
+  orig: 39, 24
+  offset: 0, 0
+  index: -1
+snake_a_face_att
+  rotate: false
+  xy: 271, 32
+  size: 44, 28
+  orig: 44, 28
+  offset: 0, 0
+  index: -1
+snake_a_face_dam
+  rotate: false
+  xy: 216, 31
+  size: 53, 26
+  orig: 53, 26
+  offset: 0, 0
+  index: -1
+snake_a_face_def
+  rotate: false
+  xy: 475, 10
+  size: 33, 11
+  orig: 33, 11
+  offset: 0, 0
+  index: -1
+snake_b_body
+  rotate: true
+  xy: 2, 63
+  size: 36, 139
+  orig: 36, 139
+  offset: 0, 0
+  index: -1
+snake_b_face_01_def
+  rotate: false
+  xy: 436, 22
+  size: 31, 32
+  orig: 31, 32
+  offset: 0, 0
+  index: -1
+snake_b_face_02_def
+  rotate: false
+  xy: 491, 25
+  size: 26, 16
+  orig: 26, 16
+  offset: 0, 0
+  index: -1
+snake_b_face_att
+  rotate: false
+  xy: 403, 14
+  size: 31, 33
+  orig: 31, 33
+  offset: 0, 0
+  index: -1
+snake_b_face_dam
+  rotate: true
+  xy: 143, 61
+  size: 38, 34
+  orig: 38, 34
+  offset: 0, 0
+  index: -1
+spine
+  rotate: false
+  xy: 270, 62
+  size: 58, 77
+  orig: 58, 77
+  offset: 0, 0
+  index: -1
+tan_a
+  rotate: false
+  xy: 317, 32
+  size: 4, 20
+  orig: 4, 20
+  offset: 0, 0
+  index: -1
+tan_b
+  rotate: false
+  xy: 263, 5
+  size: 6, 24
+  orig: 6, 24
+  offset: 0, 0
+  index: -1
+water_01
+  rotate: false
+  xy: 2, 101
+  size: 175, 38
+  orig: 175, 38
+  offset: 0, 0
+  index: -1
+water_02
+  rotate: false
+  xy: 2, 3
+  size: 88, 10
+  orig: 88, 10
+  offset: 0, 0
+  index: -1
+water_03
+  rotate: false
+  xy: 387, 49
+  size: 41, 14
+  orig: 41, 14
+  offset: 0, 0
+  index: -1
+water_add
+  rotate: true
+  xy: 495, 43
+  size: 96, 16
+  orig: 96, 16
+  offset: 0, 0
+  index: -1

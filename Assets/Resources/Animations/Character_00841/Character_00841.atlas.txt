@@ -1,0 +1,188 @@
+
+Character_00841.png
+size: 958,156
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_l
+  rotate: true
+  xy: 262, 3
+  size: 35, 63
+  orig: 35, 63
+  offset: 0, 0
+  index: -1
+arm_r_attack_01
+  rotate: false
+  xy: 507, 50
+  size: 43, 104
+  orig: 43, 104
+  offset: 0, 0
+  index: -1
+arm_r_attack_02
+  rotate: false
+  xy: 411, 6
+  size: 72, 32
+  orig: 72, 32
+  offset: 0, 0
+  index: -1
+arm_r_default
+  rotate: true
+  xy: 347, 5
+  size: 33, 62
+  orig: 33, 62
+  offset: 0, 0
+  index: -1
+body_01
+  rotate: true
+  xy: 806, 14
+  size: 53, 79
+  orig: 53, 79
+  offset: 0, 0
+  index: -1
+body_01_re
+  rotate: false
+  xy: 891, 26
+  size: 53, 79
+  orig: 53, 79
+  offset: 0, 0
+  index: -1
+body_02
+  rotate: true
+  xy: 552, 51
+  size: 103, 86
+  orig: 103, 86
+  offset: 0, 0
+  index: -1
+body_03
+  rotate: false
+  xy: 836, 69
+  size: 32, 25
+  orig: 32, 25
+  offset: 0, 0
+  index: -1
+eff_02
+  rotate: false
+  xy: 584, 2
+  size: 84, 47
+  orig: 84, 47
+  offset: 0, 0
+  index: -1
+eff_03
+  rotate: true
+  xy: 426, 41
+  size: 113, 79
+  orig: 113, 79
+  offset: 0, 0
+  index: -1
+face_damage
+  rotate: false
+  xy: 836, 125
+  size: 46, 29
+  orig: 46, 29
+  offset: 0, 0
+  index: -1
+face_default
+  rotate: false
+  xy: 836, 96
+  size: 46, 27
+  orig: 46, 27
+  offset: 0, 0
+  index: -1
+hair_01
+  rotate: false
+  xy: 187, 12
+  size: 73, 142
+  orig: 73, 142
+  offset: 0, 0
+  index: -1
+hair_02
+  rotate: false
+  xy: 516, 2
+  size: 66, 46
+  orig: 66, 46
+  offset: 0, 0
+  index: -1
+hair_03
+  rotate: false
+  xy: 327, 4
+  size: 18, 34
+  orig: 18, 34
+  offset: 0, 0
+  index: -1
+hair_04
+  rotate: true
+  xy: 887, 7
+  size: 17, 45
+  orig: 17, 45
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 670, 4
+  size: 76, 63
+  orig: 76, 63
+  offset: 0, 0
+  index: -1
+ice_01
+  rotate: false
+  xy: 640, 69
+  size: 194, 85
+  orig: 194, 85
+  offset: 0, 0
+  index: -1
+ice_02
+  rotate: false
+  xy: 205, 2
+  size: 10, 8
+  orig: 10, 8
+  offset: 0, 0
+  index: -1
+ice_03
+  rotate: false
+  xy: 485, 7
+  size: 29, 32
+  orig: 29, 32
+  offset: 0, 0
+  index: -1
+ice_04
+  rotate: true
+  xy: 887, 107
+  size: 47, 69
+  orig: 47, 69
+  offset: 0, 0
+  index: -1
+ice_05
+  rotate: false
+  xy: 870, 69
+  size: 19, 25
+  orig: 19, 25
+  offset: 0, 0
+  index: -1
+ice_06
+  rotate: true
+  xy: 187, 2
+  size: 8, 16
+  orig: 8, 16
+  offset: 0, 0
+  index: -1
+ribbon
+  rotate: true
+  xy: 748, 10
+  size: 57, 56
+  orig: 57, 56
+  offset: 0, 0
+  index: -1
+snow_eff_01
+  rotate: false
+  xy: 262, 40
+  size: 162, 114
+  orig: 162, 114
+  offset: 0, 0
+  index: -1
+snow_eff_02
+  rotate: false
+  xy: 2, 4
+  size: 183, 150
+  orig: 183, 150
+  offset: 0, 0
+  index: -1

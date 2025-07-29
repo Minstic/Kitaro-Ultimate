@@ -1,0 +1,146 @@
+
+Character_00421.png
+size: 188,267
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_l
+  rotate: false
+  xy: 159, 172
+  size: 27, 24
+  orig: 27, 24
+  offset: 0, 0
+  index: -1
+arm_r
+  rotate: false
+  xy: 132, 168
+  size: 25, 28
+  orig: 25, 28
+  offset: 0, 0
+  index: -1
+bamboo_l
+  rotate: false
+  xy: 18, 55
+  size: 9, 210
+  orig: 9, 210
+  offset: 0, 0
+  index: -1
+bamboo_r
+  rotate: false
+  xy: 2, 55
+  size: 14, 210
+  orig: 14, 210
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 29, 77
+  size: 60, 67
+  orig: 60, 67
+  offset: 0, 0
+  index: -1
+face_base_default
+  rotate: false
+  xy: 2, 2
+  size: 94, 51
+  orig: 94, 51
+  offset: 0, 0
+  index: -1
+face_damage
+  rotate: false
+  xy: 29, 146
+  size: 101, 54
+  orig: 101, 54
+  offset: 0, 0
+  index: -1
+face_eye_default
+  rotate: true
+  xy: 178, 222
+  size: 43, 6
+  orig: 43, 6
+  offset: 0, 0
+  index: -1
+fish_damage
+  rotate: true
+  xy: 143, 198
+  size: 67, 33
+  orig: 67, 33
+  offset: 0, 0
+  index: -1
+fish_l_01
+  rotate: true
+  xy: 29, 60
+  size: 15, 45
+  orig: 15, 45
+  offset: 0, 0
+  index: -1
+fish_l_02
+  rotate: false
+  xy: 98, 20
+  size: 57, 57
+  orig: 57, 57
+  offset: 0, 0
+  index: -1
+fish_r_01
+  rotate: true
+  xy: 98, 3
+  size: 15, 44
+  orig: 15, 44
+  offset: 0, 0
+  index: -1
+fish_r_02
+  rotate: false
+  xy: 91, 79
+  size: 47, 65
+  orig: 47, 65
+  offset: 0, 0
+  index: -1
+hand_l
+  rotate: true
+  xy: 157, 22
+  size: 12, 16
+  orig: 12, 16
+  offset: 0, 0
+  index: -1
+hand_r
+  rotate: true
+  xy: 140, 79
+  size: 18, 12
+  orig: 18, 12
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 29, 202
+  size: 112, 63
+  orig: 112, 63
+  offset: 0, 0
+  index: -1
+leg_l
+  rotate: false
+  xy: 144, 2
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+leg_r
+  rotate: false
+  xy: 76, 57
+  size: 20, 18
+  orig: 20, 18
+  offset: 0, 0
+  index: -1
+mouth_default
+  rotate: true
+  xy: 140, 99
+  size: 67, 25
+  orig: 67, 25
+  offset: 0, 0
+  index: -1
+mouth_fish_default
+  rotate: false
+  xy: 157, 36
+  size: 21, 61
+  orig: 21, 61
+  offset: 0, 0
+  index: -1

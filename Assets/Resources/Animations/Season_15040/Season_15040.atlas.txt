@@ -1,0 +1,293 @@
+
+Season_15040.png
+size: 1009,960
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a_body
+  rotate: true
+  xy: 302, 2
+  size: 206, 237
+  orig: 206, 237
+  offset: 0, 0
+  index: -1
+a_drool1
+  rotate: true
+  xy: 230, 571
+  size: 10, 23
+  orig: 10, 23
+  offset: 0, 0
+  index: -1
+a_drool2
+  rotate: true
+  xy: 125, 184
+  size: 7, 10
+  orig: 7, 10
+  offset: 0, 0
+  index: -1
+a_drool3
+  rotate: true
+  xy: 137, 184
+  size: 7, 10
+  orig: 7, 10
+  offset: 0, 0
+  index: -1
+a_face_damage
+  rotate: true
+  xy: 986, 738
+  size: 47, 21
+  orig: 47, 21
+  offset: 0, 0
+  index: -1
+a_face_default
+  rotate: true
+  xy: 975, 478
+  size: 52, 23
+  orig: 52, 23
+  offset: 0, 0
+  index: -1
+a_head
+  rotate: true
+  xy: 640, 237
+  size: 158, 117
+  orig: 158, 117
+  offset: 0, 0
+  index: -1
+a_joe
+  rotate: false
+  xy: 878, 271
+  size: 102, 44
+  orig: 102, 44
+  offset: 0, 0
+  index: -1
+b_body
+  rotate: true
+  xy: 640, 397
+  size: 133, 333
+  orig: 133, 333
+  offset: 0, 0
+  index: -1
+b_drool1
+  rotate: false
+  xy: 85, 182
+  size: 7, 9
+  orig: 7, 9
+  offset: 0, 0
+  index: -1
+b_drool2
+  rotate: true
+  xy: 103, 183
+  size: 8, 20
+  orig: 8, 20
+  offset: 0, 0
+  index: -1
+b_drool3
+  rotate: false
+  xy: 94, 182
+  size: 7, 9
+  orig: 7, 9
+  offset: 0, 0
+  index: -1
+b_face_damage
+  rotate: true
+  xy: 986, 689
+  size: 47, 21
+  orig: 47, 21
+  offset: 0, 0
+  index: -1
+b_face_default
+  rotate: true
+  xy: 975, 424
+  size: 52, 23
+  orig: 52, 23
+  offset: 0, 0
+  index: -1
+b_head
+  rotate: true
+  xy: 759, 237
+  size: 158, 117
+  orig: 158, 117
+  offset: 0, 0
+  index: -1
+b_joe
+  rotate: true
+  xy: 918, 120
+  size: 102, 44
+  orig: 102, 44
+  offset: 0, 0
+  index: -1
+c_body
+  rotate: false
+  xy: 2, 570
+  size: 180, 388
+  orig: 180, 388
+  offset: 0, 0
+  index: -1
+c_drool1
+  rotate: true
+  xy: 32, 182
+  size: 9, 38
+  orig: 9, 38
+  offset: 0, 0
+  index: -1
+c_drool2
+  rotate: true
+  xy: 72, 182
+  size: 9, 11
+  orig: 9, 11
+  offset: 0, 0
+  index: -1
+c_face_damage
+  rotate: false
+  xy: 184, 570
+  size: 44, 11
+  orig: 44, 11
+  offset: 0, 0
+  index: -1
+c_face_default
+  rotate: false
+  xy: 522, 210
+  size: 43, 14
+  orig: 43, 14
+  offset: 0, 0
+  index: -1
+c_head
+  rotate: true
+  xy: 541, 6
+  size: 202, 84
+  orig: 202, 84
+  offset: 0, 0
+  index: -1
+c_joe
+  rotate: false
+  xy: 918, 317
+  size: 88, 78
+  orig: 88, 78
+  offset: 0, 0
+  index: -1
+c_tan
+  rotate: false
+  xy: 918, 224
+  size: 54, 45
+  orig: 54, 45
+  offset: 0, 0
+  index: -1
+chocowave_01
+  rotate: false
+  xy: 640, 532
+  size: 351, 29
+  orig: 351, 29
+  offset: 0, 0
+  index: -1
+chocowave_02
+  rotate: false
+  xy: 640, 563
+  size: 360, 28
+  orig: 360, 28
+  offset: 0, 0
+  index: -1
+chocowave_03
+  rotate: true
+  xy: 2, 182
+  size: 386, 28
+  orig: 386, 28
+  offset: 0, 0
+  index: -1
+chocowave_04
+  rotate: true
+  xy: 429, 590
+  size: 368, 28
+  orig: 368, 28
+  offset: 0, 0
+  index: -1
+chocowave_05
+  rotate: false
+  xy: 2, 9
+  size: 298, 171
+  orig: 298, 171
+  offset: 0, 0
+  index: -1
+chocowave_06
+  rotate: false
+  xy: 695, 605
+  size: 289, 180
+  orig: 289, 180
+  offset: 0, 0
+  index: -1
+eff_choco1
+  rotate: true
+  xy: 32, 193
+  size: 375, 119
+  orig: 375, 119
+  offset: 0, 0
+  index: -1
+eff_choco2
+  rotate: true
+  xy: 459, 593
+  size: 365, 116
+  orig: 365, 116
+  offset: 0, 0
+  index: -1
+eff_choco3
+  rotate: true
+  xy: 274, 210
+  size: 371, 122
+  orig: 371, 122
+  offset: 0, 0
+  index: -1
+eff_strawberry1
+  rotate: true
+  xy: 153, 193
+  size: 375, 119
+  orig: 375, 119
+  offset: 0, 0
+  index: -1
+eff_strawberry2
+  rotate: true
+  xy: 522, 226
+  size: 365, 116
+  orig: 365, 116
+  offset: 0, 0
+  index: -1
+eff_strawberry3
+  rotate: true
+  xy: 305, 587
+  size: 371, 122
+  orig: 371, 122
+  offset: 0, 0
+  index: -1
+eff_whitechoco1
+  rotate: true
+  xy: 184, 583
+  size: 375, 119
+  orig: 375, 119
+  offset: 0, 0
+  index: -1
+eff_whitechoco2
+  rotate: true
+  xy: 577, 593
+  size: 365, 116
+  orig: 365, 116
+  offset: 0, 0
+  index: -1
+eff_whitechoco3
+  rotate: true
+  xy: 398, 214
+  size: 371, 122
+  orig: 371, 122
+  offset: 0, 0
+  index: -1
+strawberrywave_02
+  rotate: false
+  xy: 627, 44
+  size: 289, 180
+  orig: 289, 180
+  offset: 0, 0
+  index: -1
+whitechocowave_01
+  rotate: false
+  xy: 695, 787
+  size: 298, 171
+  orig: 298, 171
+  offset: 0, 0
+  index: -1

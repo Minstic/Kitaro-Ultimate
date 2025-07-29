@@ -1,0 +1,370 @@
+
+Family_10032.png
+size: 961,709
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01_kozou_body
+  rotate: true
+  xy: 800, 246
+  size: 58, 78
+  orig: 58, 78
+  offset: 0, 0
+  index: -1
+01_kozou_body_re
+  rotate: true
+  xy: 879, 318
+  size: 58, 78
+  orig: 58, 78
+  offset: 0, 0
+  index: -1
+01_kozou_chan_l
+  rotate: true
+  xy: 476, 11
+  size: 32, 54
+  orig: 32, 54
+  offset: 0, 0
+  index: -1
+01_kozou_chan_r
+  rotate: true
+  xy: 726, 2
+  size: 18, 51
+  orig: 18, 51
+  offset: 0, 0
+  index: -1
+01_kozou_default_geta_r
+  rotate: true
+  xy: 940, 296
+  size: 20, 19
+  orig: 20, 19
+  offset: 0, 0
+  index: -1
+01_kozou_default_leg_l
+  rotate: true
+  xy: 922, 505
+  size: 20, 27
+  orig: 20, 27
+  offset: 0, 0
+  index: -1
+01_kozou_default_leg_r
+  rotate: false
+  xy: 859, 24
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+01_kozou_eye_black
+  rotate: true
+  xy: 862, 2
+  size: 20, 16
+  orig: 20, 16
+  offset: 0, 0
+  index: -1
+01_kozou_face_damage
+  rotate: true
+  xy: 915, 221
+  size: 36, 44
+  orig: 36, 44
+  offset: 0, 0
+  index: -1
+01_kozou_face_default
+  rotate: false
+  xy: 532, 3
+  size: 43, 40
+  orig: 43, 40
+  offset: 0, 0
+  index: -1
+01_kozou_hand_l_1
+  rotate: false
+  xy: 783, 151
+  size: 42, 91
+  orig: 42, 91
+  offset: 0, 0
+  index: -1
+01_kozou_hand_l_1_re
+  rotate: false
+  xy: 827, 153
+  size: 42, 91
+  orig: 42, 91
+  offset: 0, 0
+  index: -1
+01_kozou_hand_l_2
+  rotate: false
+  xy: 726, 22
+  size: 53, 99
+  orig: 53, 99
+  offset: 0, 0
+  index: -1
+01_kozou_hand_l_2_re
+  rotate: false
+  xy: 904, 398
+  size: 53, 99
+  orig: 53, 99
+  offset: 0, 0
+  index: -1
+01_kozou_hand_r_1
+  rotate: false
+  xy: 871, 154
+  size: 42, 90
+  orig: 42, 90
+  offset: 0, 0
+  index: -1
+01_kozou_hand_r_1_re
+  rotate: false
+  xy: 781, 31
+  size: 42, 90
+  orig: 42, 90
+  offset: 0, 0
+  index: -1
+01_kozou_hand_r_2
+  rotate: false
+  xy: 626, 2
+  size: 48, 91
+  orig: 48, 91
+  offset: 0, 0
+  index: -1
+01_kozou_hand_r_2_re
+  rotate: false
+  xy: 676, 2
+  size: 48, 91
+  orig: 48, 91
+  offset: 0, 0
+  index: -1
+01_kozou_head
+  rotate: false
+  xy: 800, 306
+  size: 77, 70
+  orig: 77, 70
+  offset: 0, 0
+  index: -1
+01_kozou_mouth_default
+  rotate: true
+  xy: 934, 65
+  size: 24, 22
+  orig: 24, 22
+  offset: 0, 0
+  index: -1
+02_oyaji_1_Body
+  rotate: false
+  xy: 922, 654
+  size: 31, 53
+  orig: 31, 53
+  offset: 0, 0
+  index: -1
+02_oyaji_3_Body
+  rotate: false
+  xy: 904, 378
+  size: 31, 18
+  orig: 31, 18
+  offset: 0, 0
+  index: -1
+02_oyaji_3_Head
+  rotate: false
+  xy: 827, 19
+  size: 30, 28
+  orig: 30, 28
+  offset: 0, 0
+  index: -1
+02_oyaji_damege
+  rotate: false
+  xy: 577, 4
+  size: 36, 39
+  orig: 36, 39
+  offset: 0, 0
+  index: -1
+02_oyaji_eye_default
+  rotate: false
+  xy: 827, 2
+  size: 17, 15
+  orig: 17, 15
+  offset: 0, 0
+  index: -1
+03_ke_1_Body
+  rotate: false
+  xy: 899, 60
+  size: 33, 29
+  orig: 33, 29
+  offset: 0, 0
+  index: -1
+03_ke_1_Head
+  rotate: true
+  xy: 922, 571
+  size: 39, 34
+  orig: 39, 34
+  offset: 0, 0
+  index: -1
+03_ke_2_Body
+  rotate: false
+  xy: 689, 100
+  size: 35, 21
+  orig: 35, 21
+  offset: 0, 0
+  index: -1
+03_ke_2_Head
+  rotate: true
+  xy: 922, 612
+  size: 40, 35
+  orig: 40, 35
+  offset: 0, 0
+  index: -1
+03_ke_damage
+  rotate: false
+  xy: 915, 174
+  size: 42, 45
+  orig: 42, 45
+  offset: 0, 0
+  index: -1
+03_kemedama_eye_default
+  rotate: true
+  xy: 846, 2
+  size: 15, 14
+  orig: 15, 14
+  offset: 0, 0
+  index: -1
+04_ichi_attack_pose
+  rotate: false
+  xy: 693, 380
+  size: 147, 117
+  orig: 147, 117
+  offset: 0, 0
+  index: -1
+04_ichi_base
+  rotate: false
+  xy: 693, 499
+  size: 227, 208
+  orig: 227, 208
+  offset: 0, 0
+  index: -1
+04_ichi_damage
+  rotate: true
+  xy: 689, 123
+  size: 119, 92
+  orig: 119, 92
+  offset: 0, 0
+  index: -1
+04_ichi_default_base
+  rotate: true
+  xy: 842, 378
+  size: 119, 60
+  orig: 119, 60
+  offset: 0, 0
+  index: -1
+04_ichi_default_eye
+  rotate: false
+  xy: 830, 129
+  size: 31, 22
+  orig: 31, 22
+  offset: 0, 0
+  index: -1
+04_ichi_default_face
+  rotate: false
+  xy: 326, 2
+  size: 148, 91
+  orig: 148, 91
+  offset: 0, 0
+  index: -1
+04_ichi_eye_end
+  rotate: false
+  xy: 476, 45
+  size: 148, 48
+  orig: 148, 48
+  offset: 0, 0
+  index: -1
+ball
+  rotate: false
+  xy: 899, 91
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+brush
+  rotate: true
+  xy: 783, 125
+  size: 24, 45
+  orig: 24, 45
+  offset: 0, 0
+  index: -1
+cone
+  rotate: false
+  xy: 825, 49
+  size: 72, 74
+  orig: 72, 74
+  offset: 0, 0
+  index: -1
+eff_base
+  rotate: false
+  xy: 340, 95
+  size: 347, 306
+  orig: 347, 306
+  offset: 0, 0
+  index: -1
+eff_hit
+  rotate: false
+  xy: 689, 244
+  size: 109, 134
+  orig: 109, 134
+  offset: 0, 0
+  index: -1
+eff_litepink
+  rotate: true
+  xy: 2, 13
+  size: 351, 322
+  orig: 351, 322
+  offset: 0, 0
+  index: -1
+eff_panic_1
+  rotate: false
+  xy: 781, 2
+  size: 44, 27
+  orig: 44, 27
+  offset: 0, 0
+  index: -1
+eff_panic_2
+  rotate: false
+  xy: 915, 143
+  size: 39, 29
+  orig: 39, 29
+  offset: 0, 0
+  index: -1
+eff_pink
+  rotate: false
+  xy: 340, 403
+  size: 351, 304
+  orig: 351, 304
+  offset: 0, 0
+  index: -1
+eff_white
+  rotate: false
+  xy: 2, 366
+  size: 336, 341
+  orig: 336, 341
+  offset: 0, 0
+  index: -1
+pot
+  rotate: false
+  xy: 880, 259
+  size: 58, 57
+  orig: 58, 57
+  offset: 0, 0
+  index: -1
+reaf_1
+  rotate: true
+  xy: 940, 279
+  size: 15, 19
+  orig: 15, 19
+  offset: 0, 0
+  index: -1
+reaf_2
+  rotate: true
+  xy: 326, 344
+  size: 20, 12
+  orig: 20, 12
+  offset: 0, 0
+  index: -1
+slipper
+  rotate: false
+  xy: 922, 527
+  size: 28, 42
+  orig: 28, 42
+  offset: 0, 0
+  index: -1

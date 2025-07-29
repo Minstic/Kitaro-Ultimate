@@ -1,0 +1,83 @@
+
+Season_15030.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ef_sand_2
+  rotate: false
+  xy: 2, 125
+  size: 260, 241
+  orig: 260, 241
+  offset: 0, 0
+  index: -1
+ef_sand_3
+  rotate: false
+  xy: 551, 821
+  size: 215, 197
+  orig: 215, 197
+  offset: 0, 0
+  index: -1
+eff_attack
+  rotate: true
+  xy: 551, 366
+  size: 131, 137
+  orig: 131, 137
+  offset: 0, 0
+  index: -1
+eye_ball_l
+  rotate: false
+  xy: 264, 133
+  size: 74, 74
+  orig: 74, 74
+  offset: 0, 0
+  index: -1
+eye_ball_r
+  rotate: false
+  xy: 928, 950
+  size: 65, 68
+  orig: 65, 68
+  offset: 0, 0
+  index: -1
+eye_damage_l
+  rotate: false
+  xy: 264, 209
+  size: 167, 157
+  orig: 167, 157
+  offset: 0, 0
+  index: -1
+eye_damage_r
+  rotate: false
+  xy: 768, 857
+  size: 158, 161
+  orig: 158, 161
+  offset: 0, 0
+  index: -1
+eye_holl_l
+  rotate: false
+  xy: 551, 662
+  size: 167, 157
+  orig: 167, 157
+  offset: 0, 0
+  index: -1
+eye_holl_r
+  rotate: false
+  xy: 551, 499
+  size: 158, 161
+  orig: 158, 161
+  offset: 0, 0
+  index: -1
+hige
+  rotate: false
+  xy: 2, 368
+  size: 547, 650
+  orig: 547, 650
+  offset: 0, 0
+  index: -1
+nose
+  rotate: false
+  xy: 2, 2
+  size: 81, 121
+  orig: 81, 121
+  offset: 0, 0
+  index: -1

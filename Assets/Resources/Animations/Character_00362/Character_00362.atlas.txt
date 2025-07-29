@@ -1,0 +1,132 @@
+
+Character_00362.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Hit_Eff_AT
+  rotate: false
+  xy: 738, 145
+  size: 126, 109
+  orig: 126, 109
+  offset: 0, 0
+  index: -1
+body_1
+  rotate: false
+  xy: 866, 167
+  size: 100, 87
+  orig: 100, 87
+  offset: 0, 0
+  index: -1
+body_1_ef
+  rotate: true
+  xy: 488, 34
+  size: 100, 87
+  orig: 100, 87
+  offset: 0, 0
+  index: -1
+body_2
+  rotate: false
+  xy: 197, 53
+  size: 45, 24
+  orig: 45, 24
+  offset: 0, 0
+  index: -1
+body_2_ef
+  rotate: false
+  xy: 517, 8
+  size: 45, 24
+  orig: 45, 24
+  offset: 0, 0
+  index: -1
+eff_1
+  rotate: false
+  xy: 244, 49
+  size: 35, 28
+  orig: 35, 28
+  offset: 0, 0
+  index: -1
+eff_2
+  rotate: false
+  xy: 537, 182
+  size: 44, 37
+  orig: 44, 37
+  offset: 0, 0
+  index: -1
+eff_3
+  rotate: true
+  xy: 537, 136
+  size: 44, 32
+  orig: 44, 32
+  offset: 0, 0
+  index: -1
+eff_4
+  rotate: false
+  xy: 488, 2
+  size: 27, 30
+  orig: 27, 30
+  offset: 0, 0
+  index: -1
+eff_impactdust
+  rotate: false
+  xy: 285, 136
+  size: 250, 83
+  orig: 250, 83
+  offset: 0, 0
+  index: -1
+eff_impactdust2
+  rotate: false
+  xy: 285, 54
+  size: 144, 80
+  orig: 144, 80
+  offset: 0, 0
+  index: -1
+eff_impactdust4
+  rotate: false
+  xy: 592, 167
+  size: 144, 87
+  orig: 144, 87
+  offset: 0, 0
+  index: -1
+eff_impactring
+  rotate: false
+  xy: 285, 221
+  size: 305, 33
+  orig: 305, 33
+  offset: 0, 0
+  index: -1
+eff_nova
+  rotate: false
+  xy: 2, 79
+  size: 281, 175
+  orig: 281, 175
+  offset: 0, 0
+  index: -1
+eff_smoke_l_B1
+  rotate: false
+  xy: 2, 22
+  size: 134, 55
+  orig: 134, 55
+  offset: 0, 0
+  index: -1
+eff_smoke_r_B1
+  rotate: true
+  xy: 431, 2
+  size: 132, 55
+  orig: 132, 55
+  offset: 0, 0
+  index: -1
+face_damage
+  rotate: true
+  xy: 968, 191
+  size: 63, 54
+  orig: 63, 54
+  offset: 0, 0
+  index: -1
+face_default
+  rotate: false
+  xy: 138, 37
+  size: 57, 40
+  orig: 57, 40
+  offset: 0, 0
+  index: -1

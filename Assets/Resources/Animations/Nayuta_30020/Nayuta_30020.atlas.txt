@@ -1,0 +1,251 @@
+
+Nayuta_30020.png
+size: 1023,1021
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1_head_A
+  rotate: false
+  xy: 2, 186
+  size: 250, 280
+  orig: 250, 280
+  offset: 0, 0
+  index: -1
+1_head_B1
+  rotate: false
+  xy: 2, 2
+  size: 250, 182
+  orig: 250, 182
+  offset: 0, 0
+  index: -1
+1_head_B2
+  rotate: false
+  xy: 779, 77
+  size: 142, 116
+  orig: 142, 116
+  offset: 0, 0
+  index: -1
+1_head_Bin
+  rotate: true
+  xy: 929, 480
+  size: 139, 86
+  orig: 139, 86
+  offset: 0, 0
+  index: -1
+1_head_ef
+  rotate: false
+  xy: 497, 24
+  size: 56, 56
+  orig: 56, 56
+  offset: 0, 0
+  index: -1
+1_head_eye
+  rotate: false
+  xy: 639, 567
+  size: 10, 39
+  orig: 10, 39
+  offset: 0, 0
+  index: -1
+1_head_eye_base
+  rotate: false
+  xy: 670, 78
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: -1
+1_head_eye_base2
+  rotate: false
+  xy: 555, 12
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: -1
+1_head_eyeside1
+  rotate: false
+  xy: 578, 550
+  size: 59, 56
+  orig: 59, 56
+  offset: 0, 0
+  index: -1
+1_head_eyeside2
+  rotate: true
+  xy: 661, 822
+  size: 40, 45
+  orig: 40, 45
+  offset: 0, 0
+  index: -1
+1_head_jaw_1
+  rotate: false
+  xy: 354, 82
+  size: 205, 173
+  orig: 205, 173
+  offset: 0, 0
+  index: -1
+1_head_jaw_2
+  rotate: false
+  xy: 346, 621
+  size: 30, 38
+  orig: 30, 38
+  offset: 0, 0
+  index: -1
+2_neck
+  rotate: false
+  xy: 399, 608
+  size: 260, 254
+  orig: 260, 254
+  offset: 0, 0
+  index: -1
+2_neck_paper
+  rotate: true
+  xy: 346, 22
+  size: 58, 149
+  orig: 58, 149
+  offset: 0, 0
+  index: -1
+2_neck_rope1
+  rotate: true
+  xy: 813, 357
+  size: 208, 114
+  orig: 208, 114
+  offset: 0, 0
+  index: -1
+2_neck_rope2
+  rotate: false
+  xy: 612, 13
+  size: 54, 54
+  orig: 54, 54
+  offset: 0, 0
+  index: -1
+2_neck_rope3
+  rotate: false
+  xy: 929, 384
+  size: 76, 94
+  orig: 76, 94
+  offset: 0, 0
+  index: -1
+2_neck_rope4
+  rotate: true
+  xy: 779, 195
+  size: 160, 136
+  orig: 160, 136
+  offset: 0, 0
+  index: -1
+2_neck_rope5
+  rotate: false
+  xy: 254, 19
+  size: 90, 136
+  orig: 90, 136
+  offset: 0, 0
+  index: -1
+3_body
+  rotate: false
+  xy: 661, 567
+  size: 258, 252
+  orig: 258, 252
+  offset: 0, 0
+  index: -1
+4_body
+  rotate: true
+  xy: 743, 821
+  size: 198, 265
+  orig: 198, 265
+  offset: 0, 0
+  index: -1
+5_body
+  rotate: false
+  xy: 2, 661
+  size: 390, 174
+  orig: 390, 174
+  offset: 0, 0
+  index: -1
+6_body
+  rotate: false
+  xy: 645, 362
+  size: 166, 203
+  orig: 166, 203
+  offset: 0, 0
+  index: -1
+7_body
+  rotate: false
+  xy: 2, 837
+  size: 395, 182
+  orig: 395, 182
+  offset: 0, 0
+  index: -1
+8_body
+  rotate: true
+  xy: 354, 257
+  size: 241, 183
+  orig: 241, 183
+  offset: 0, 0
+  index: -1
+9_tale
+  rotate: false
+  xy: 2, 468
+  size: 342, 191
+  orig: 342, 191
+  offset: 0, 0
+  index: -1
+_Touch
+  rotate: false
+  xy: 539, 257
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+fire_1
+  rotate: false
+  xy: 561, 69
+  size: 107, 201
+  orig: 107, 201
+  offset: 0, 0
+  index: -1
+fire_2
+  rotate: false
+  xy: 539, 272
+  size: 104, 226
+  orig: 104, 226
+  offset: 0, 0
+  index: -1
+fire_3
+  rotate: true
+  xy: 346, 500
+  size: 106, 230
+  orig: 106, 230
+  offset: 0, 0
+  index: -1
+fire_4
+  rotate: false
+  xy: 670, 135
+  size: 107, 225
+  orig: 107, 225
+  offset: 0, 0
+  index: -1
+fire_5
+  rotate: false
+  xy: 923, 159
+  size: 98, 196
+  orig: 98, 196
+  offset: 0, 0
+  index: -1
+fire_6
+  rotate: false
+  xy: 921, 621
+  size: 100, 198
+  orig: 100, 198
+  offset: 0, 0
+  index: -1
+fire_bottom
+  rotate: true
+  xy: 254, 157
+  size: 309, 98
+  orig: 309, 98
+  offset: 0, 0
+  index: -1
+fire_head
+  rotate: true
+  xy: 399, 864
+  size: 155, 342
+  orig: 155, 342
+  offset: 0, 0
+  index: -1

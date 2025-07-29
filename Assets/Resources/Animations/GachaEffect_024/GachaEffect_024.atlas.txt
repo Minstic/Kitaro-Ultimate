@@ -1,0 +1,202 @@
+
+GachaEffect_024.png
+size: 697,1032
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_L1
+  rotate: true
+  xy: 419, 238
+  size: 115, 169
+  orig: 115, 169
+  offset: 0, 0
+  index: -1
+arm_L2
+  rotate: false
+  xy: 475, 577
+  size: 165, 137
+  orig: 165, 137
+  offset: 0, 0
+  index: -1
+arm_R1
+  rotate: true
+  xy: 535, 899
+  size: 131, 160
+  orig: 131, 160
+  offset: 0, 0
+  index: -1
+arm_R2
+  rotate: true
+  xy: 460, 6
+  size: 91, 113
+  orig: 91, 113
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 334, 741
+  size: 199, 289
+  orig: 199, 289
+  offset: 0, 0
+  index: -1
+chan_L
+  rotate: false
+  xy: 229, 212
+  size: 104, 298
+  orig: 104, 298
+  offset: 0, 0
+  index: -1
+chan_R
+  rotate: false
+  xy: 335, 220
+  size: 82, 290
+  orig: 82, 290
+  offset: 0, 0
+  index: -1
+eye
+  rotate: true
+  xy: 678, 884
+  size: 13, 17
+  orig: 13, 17
+  offset: 0, 0
+  index: -1
+eyeline
+  rotate: false
+  xy: 575, 28
+  size: 56, 69
+  orig: 56, 69
+  offset: 0, 0
+  index: -1
+eyeline_close
+  rotate: false
+  xy: 633, 30
+  size: 56, 69
+  orig: 56, 69
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 2, 190
+  size: 225, 256
+  orig: 225, 256
+  offset: 0, 0
+  index: -1
+hair_B
+  rotate: false
+  xy: 2, 720
+  size: 330, 310
+  orig: 330, 310
+  offset: 0, 0
+  index: -1
+hair_L
+  rotate: false
+  xy: 2, 448
+  size: 223, 270
+  orig: 223, 270
+  offset: 0, 0
+  index: -1
+hair_R
+  rotate: false
+  xy: 419, 355
+  size: 87, 184
+  orig: 87, 184
+  offset: 0, 0
+  index: -1
+hair_R_B
+  rotate: false
+  xy: 596, 176
+  size: 71, 104
+  orig: 71, 104
+  offset: 0, 0
+  index: -1
+leg_L1
+  rotate: false
+  xy: 508, 395
+  size: 122, 180
+  orig: 122, 180
+  offset: 0, 0
+  index: -1
+leg_L2
+  rotate: false
+  xy: 267, 2
+  size: 97, 208
+  orig: 97, 208
+  offset: 0, 0
+  index: -1
+leg_L3
+  rotate: false
+  xy: 460, 99
+  size: 134, 137
+  orig: 134, 137
+  offset: 0, 0
+  index: -1
+leg_R1
+  rotate: false
+  xy: 338, 541
+  size: 135, 198
+  orig: 135, 198
+  offset: 0, 0
+  index: -1
+leg_R2
+  rotate: false
+  xy: 227, 512
+  size: 109, 206
+  orig: 109, 206
+  offset: 0, 0
+  index: -1
+leg_R3
+  rotate: true
+  xy: 535, 716
+  size: 181, 141
+  orig: 181, 141
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: false
+  xy: 508, 364
+  size: 80, 29
+  orig: 80, 29
+  offset: 0, 0
+  index: -1
+name
+  rotate: false
+  xy: 2, 24
+  size: 263, 164
+  orig: 263, 164
+  offset: 0, 0
+  index: -1
+neck
+  rotate: false
+  xy: 590, 282
+  size: 93, 111
+  orig: 93, 111
+  offset: 0, 0
+  index: -1
+nose
+  rotate: false
+  xy: 475, 717
+  size: 50, 22
+  orig: 50, 22
+  offset: 0, 0
+  index: -1
+pants
+  rotate: true
+  xy: 366, 13
+  size: 205, 92
+  orig: 205, 92
+  offset: 0, 0
+  index: -1
+ribbon_B
+  rotate: true
+  xy: 642, 587
+  size: 127, 46
+  orig: 127, 46
+  offset: 0, 0
+  index: -1
+ribbon_F
+  rotate: false
+  xy: 596, 101
+  size: 54, 73
+  orig: 54, 73
+  offset: 0, 0
+  index: -1

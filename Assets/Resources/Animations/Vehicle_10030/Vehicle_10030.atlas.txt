@@ -1,0 +1,237 @@
+
+Vehicle_10030.png
+size: 740,267
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+att_eff_1
+  rotate: false
+  xy: 285, 17
+  size: 89, 90
+  orig: 89, 90
+  offset: 0, 0
+  index: -1
+att_eff_2
+  rotate: false
+  xy: 592, 117
+  size: 96, 92
+  orig: 96, 92
+  offset: 0, 0
+  index: -1
+eff_1
+  rotate: true
+  xy: 404, 157
+  size: 23, 19
+  orig: 23, 19
+  offset: 0, 0
+  index: -1
+eff_2
+  rotate: false
+  xy: 404, 141
+  size: 16, 14
+  orig: 16, 14
+  offset: 0, 0
+  index: -1
+ship_back_1
+  rotate: false
+  xy: 2, 32
+  size: 116, 233
+  orig: 116, 233
+  offset: 0, 0
+  index: -1
+ship_back_2
+  rotate: true
+  xy: 425, 58
+  size: 151, 165
+  orig: 151, 165
+  offset: 0, 0
+  index: -1
+ship_back_3
+  rotate: false
+  xy: 2, 2
+  size: 281, 28
+  orig: 281, 28
+  offset: 0, 0
+  index: -1
+ship_front
+  rotate: false
+  xy: 120, 136
+  size: 282, 44
+  orig: 282, 44
+  offset: 0, 0
+  index: -1
+shiro_arm_l_01
+  rotate: false
+  xy: 120, 36
+  size: 36, 29
+  orig: 36, 29
+  offset: 0, 0
+  index: -1
+shiro_arm_r_01
+  rotate: false
+  xy: 376, 33
+  size: 32, 31
+  orig: 32, 31
+  offset: 0, 0
+  index: -1
+shiro_arm_r_02
+  rotate: false
+  xy: 376, 66
+  size: 32, 41
+  orig: 32, 41
+  offset: 0, 0
+  index: -1
+shiro_body
+  rotate: true
+  xy: 592, 25
+  size: 90, 96
+  orig: 90, 96
+  offset: 0, 0
+  index: -1
+shiro_face_dam
+  rotate: false
+  xy: 240, 55
+  size: 43, 52
+  orig: 43, 52
+  offset: 0, 0
+  index: -1
+shiro_face_def
+  rotate: true
+  xy: 690, 75
+  size: 36, 21
+  orig: 36, 21
+  offset: 0, 0
+  index: -1
+spirit_01
+  rotate: true
+  xy: 410, 7
+  size: 49, 56
+  orig: 49, 56
+  offset: 0, 0
+  index: -1
+spirit_02
+  rotate: false
+  xy: 120, 67
+  size: 118, 40
+  orig: 118, 40
+  offset: 0, 0
+  index: -1
+spirit_03
+  rotate: false
+  xy: 468, 27
+  size: 30, 29
+  orig: 30, 29
+  offset: 0, 0
+  index: -1
+spirit_04
+  rotate: true
+  xy: 376, 2
+  size: 29, 32
+  orig: 29, 32
+  offset: 0, 0
+  index: -1
+spirit_05
+  rotate: false
+  xy: 714, 175
+  size: 24, 34
+  orig: 24, 34
+  offset: 0, 0
+  index: -1
+spirit_06
+  rotate: true
+  xy: 158, 38
+  size: 27, 34
+  orig: 27, 34
+  offset: 0, 0
+  index: -1
+spirit_07
+  rotate: false
+  xy: 500, 28
+  size: 30, 28
+  orig: 30, 28
+  offset: 0, 0
+  index: -1
+splach_02
+  rotate: true
+  xy: 728, 217
+  size: 20, 10
+  orig: 20, 10
+  offset: 0, 0
+  index: -1
+splash_01
+  rotate: true
+  xy: 729, 253
+  size: 12, 9
+  orig: 12, 9
+  offset: 0, 0
+  index: -1
+splash_03
+  rotate: true
+  xy: 307, 2
+  size: 13, 7
+  orig: 13, 7
+  offset: 0, 0
+  index: -1
+splash_04
+  rotate: false
+  xy: 285, 3
+  size: 20, 12
+  orig: 20, 12
+  offset: 0, 0
+  index: -1
+splash_05
+  rotate: false
+  xy: 714, 159
+  size: 20, 14
+  orig: 20, 14
+  offset: 0, 0
+  index: -1
+wave_1
+  rotate: false
+  xy: 120, 210
+  size: 303, 26
+  orig: 303, 26
+  offset: 0, 0
+  index: -1
+wave_2
+  rotate: false
+  xy: 425, 239
+  size: 302, 26
+  orig: 302, 26
+  offset: 0, 0
+  index: -1
+wave_3
+  rotate: false
+  xy: 120, 238
+  size: 303, 27
+  orig: 303, 27
+  offset: 0, 0
+  index: -1
+wave_4
+  rotate: false
+  xy: 120, 182
+  size: 302, 26
+  orig: 302, 26
+  offset: 0, 0
+  index: -1
+wave_5
+  rotate: false
+  xy: 120, 109
+  size: 301, 25
+  orig: 301, 25
+  offset: 0, 0
+  index: -1
+wave_6
+  rotate: false
+  xy: 425, 211
+  size: 301, 26
+  orig: 301, 26
+  offset: 0, 0
+  index: -1
+wave_side
+  rotate: true
+  xy: 690, 113
+  size: 96, 22
+  orig: 96, 22
+  offset: 0, 0
+  index: -1

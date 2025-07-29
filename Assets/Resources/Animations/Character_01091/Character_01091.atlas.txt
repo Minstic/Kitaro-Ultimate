@@ -1,0 +1,174 @@
+
+Character_01091.png
+size: 279,267
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+_Shadow
+  rotate: false
+  xy: 106, 169
+  size: 16, 2
+  orig: 16, 2
+  offset: 0, 0
+  index: -1
+arm_l
+  rotate: true
+  xy: 204, 71
+  size: 19, 55
+  orig: 19, 55
+  offset: 0, 0
+  index: -1
+arm_l_attack_02
+  rotate: false
+  xy: 50, 14
+  size: 51, 27
+  orig: 51, 27
+  offset: 0, 0
+  index: -1
+arm_r_attack_01
+  rotate: true
+  xy: 2, 2
+  size: 39, 46
+  orig: 39, 46
+  offset: 0, 0
+  index: -1
+arm_r_default
+  rotate: true
+  xy: 197, 4
+  size: 19, 52
+  orig: 19, 52
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 126, 140
+  size: 76, 73
+  orig: 76, 73
+  offset: 0, 0
+  index: -1
+box
+  rotate: true
+  xy: 202, 25
+  size: 44, 49
+  orig: 44, 49
+  offset: 0, 0
+  index: -1
+cap
+  rotate: false
+  xy: 2, 107
+  size: 102, 64
+  orig: 102, 64
+  offset: 0, 0
+  index: -1
+eff_01
+  rotate: false
+  xy: 106, 26
+  size: 63, 46
+  orig: 63, 46
+  offset: 0, 0
+  index: -1
+eff_02
+  rotate: false
+  xy: 2, 173
+  size: 122, 92
+  orig: 122, 92
+  offset: 0, 0
+  index: -1
+face_damage
+  rotate: true
+  xy: 171, 26
+  size: 46, 29
+  orig: 46, 29
+  offset: 0, 0
+  index: -1
+face_default
+  rotate: true
+  xy: 243, 219
+  size: 46, 27
+  orig: 46, 27
+  offset: 0, 0
+  index: -1
+hair_01
+  rotate: true
+  xy: 126, 215
+  size: 50, 115
+  orig: 50, 115
+  offset: 0, 0
+  index: -1
+hair_02
+  rotate: true
+  xy: 204, 147
+  size: 66, 46
+  orig: 66, 46
+  offset: 0, 0
+  index: -1
+hair_03
+  rotate: true
+  xy: 152, 2
+  size: 22, 43
+  orig: 22, 43
+  offset: 0, 0
+  index: -1
+hair_04
+  rotate: false
+  xy: 257, 109
+  size: 17, 45
+  orig: 17, 45
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 106, 74
+  size: 75, 64
+  orig: 75, 64
+  offset: 0, 0
+  index: -1
+leaf
+  rotate: false
+  xy: 253, 39
+  size: 24, 30
+  orig: 24, 30
+  offset: 0, 0
+  index: -1
+leg_l
+  rotate: false
+  xy: 183, 77
+  size: 19, 61
+  orig: 19, 61
+  offset: 0, 0
+  index: -1
+leg_r
+  rotate: false
+  xy: 252, 156
+  size: 21, 61
+  orig: 21, 61
+  offset: 0, 0
+  index: -1
+scarf
+  rotate: false
+  xy: 103, 2
+  size: 47, 22
+  orig: 47, 22
+  offset: 0, 0
+  index: -1
+socks
+  rotate: false
+  xy: 204, 92
+  size: 51, 53
+  orig: 51, 53
+  offset: 0, 0
+  index: -1
+star
+  rotate: false
+  xy: 251, 2
+  size: 19, 21
+  orig: 19, 21
+  offset: 0, 0
+  index: -1
+stick
+  rotate: false
+  xy: 2, 43
+  size: 102, 62
+  orig: 102, 62
+  offset: 0, 0
+  index: -1

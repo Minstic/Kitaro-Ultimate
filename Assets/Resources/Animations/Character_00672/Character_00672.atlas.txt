@@ -1,0 +1,69 @@
+
+Character_00672.png
+size: 326,267
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_l
+  rotate: false
+  xy: 257, 113
+  size: 19, 17
+  orig: 19, 17
+  offset: 0, 0
+  index: -1
+arm_r
+  rotate: false
+  xy: 278, 116
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+body_attack
+  rotate: false
+  xy: 2, 140
+  size: 144, 125
+  orig: 144, 125
+  offset: 0, 0
+  index: -1
+body_default
+  rotate: false
+  xy: 257, 132
+  size: 67, 133
+  orig: 67, 133
+  offset: 0, 0
+  index: -1
+collar
+  rotate: false
+  xy: 2, 55
+  size: 139, 83
+  orig: 139, 83
+  offset: 0, 0
+  index: -1
+constellation
+  rotate: false
+  xy: 148, 103
+  size: 107, 162
+  orig: 107, 162
+  offset: 0, 0
+  index: -1
+hand_default
+  rotate: false
+  xy: 2, 2
+  size: 57, 51
+  orig: 57, 51
+  offset: 0, 0
+  index: -1
+head_damage
+  rotate: false
+  xy: 143, 28
+  size: 99, 73
+  orig: 99, 73
+  offset: 0, 0
+  index: -1
+head_default
+  rotate: true
+  xy: 244, 2
+  size: 99, 73
+  orig: 99, 73
+  offset: 0, 0
+  index: -1

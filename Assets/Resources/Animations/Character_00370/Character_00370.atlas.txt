@@ -1,0 +1,132 @@
+
+Character_00370.png
+size: 379,141
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_l
+  rotate: true
+  xy: 173, 27
+  size: 27, 46
+  orig: 27, 46
+  offset: 0, 0
+  index: -1
+arm_r
+  rotate: true
+  xy: 221, 29
+  size: 24, 40
+  orig: 24, 40
+  offset: 0, 0
+  index: -1
+attack
+  rotate: false
+  xy: 221, 55
+  size: 85, 84
+  orig: 85, 84
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 72
+  size: 125, 67
+  orig: 125, 67
+  offset: 0, 0
+  index: -1
+bubble_a
+  rotate: true
+  xy: 308, 28
+  size: 111, 34
+  orig: 111, 34
+  offset: 0, 0
+  index: -1
+face_damage
+  rotate: false
+  xy: 173, 2
+  size: 35, 23
+  orig: 35, 23
+  offset: 0, 0
+  index: -1
+face_default
+  rotate: false
+  xy: 263, 31
+  size: 35, 22
+  orig: 35, 22
+  offset: 0, 0
+  index: -1
+hair_01
+  rotate: false
+  xy: 129, 56
+  size: 90, 83
+  orig: 90, 83
+  offset: 0, 0
+  index: -1
+hair_02
+  rotate: false
+  xy: 74, 2
+  size: 42, 68
+  orig: 42, 68
+  offset: 0, 0
+  index: -1
+hair_03
+  rotate: true
+  xy: 2, 2
+  size: 68, 70
+  orig: 68, 70
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 118, 4
+  size: 53, 50
+  orig: 53, 50
+  offset: 0, 0
+  index: -1
+tail
+  rotate: false
+  xy: 344, 29
+  size: 27, 32
+  orig: 27, 32
+  offset: 0, 0
+  index: -1
+thorn_01
+  rotate: true
+  xy: 344, 100
+  size: 39, 33
+  orig: 39, 33
+  offset: 0, 0
+  index: -1
+thorn_02
+  rotate: true
+  xy: 344, 63
+  size: 35, 27
+  orig: 35, 27
+  offset: 0, 0
+  index: -1
+thorn_03
+  rotate: false
+  xy: 210, 4
+  size: 30, 21
+  orig: 30, 21
+  offset: 0, 0
+  index: -1
+thorn_04
+  rotate: true
+  xy: 242, 2
+  size: 25, 13
+  orig: 25, 13
+  offset: 0, 0
+  index: -1
+thorn_05
+  rotate: true
+  xy: 257, 2
+  size: 24, 10
+  orig: 24, 10
+  offset: 0, 0
+  index: -1
+thorn_06
+  rotate: false
+  xy: 269, 20
+  size: 18, 9
+  orig: 18, 9
+  offset: 0, 0
+  index: -1

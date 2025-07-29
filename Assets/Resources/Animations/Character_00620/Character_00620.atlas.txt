@@ -1,0 +1,167 @@
+
+Character_00620.png
+size: 141,141
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a_arm_attack01
+  rotate: true
+  xy: 117, 97
+  size: 42, 22
+  orig: 42, 22
+  offset: 0, 0
+  index: -1
+a_arm_l_01
+  rotate: true
+  xy: 2, 5
+  size: 17, 35
+  orig: 17, 35
+  offset: 0, 0
+  index: -1
+b_arm_l
+  rotate: true
+  xy: 2, 5
+  size: 17, 35
+  orig: 17, 35
+  offset: 0, 0
+  index: -1
+a_arm_r
+  rotate: true
+  xy: 72, 15
+  size: 17, 34
+  orig: 17, 34
+  offset: 0, 0
+  index: -1
+b_arm_r
+  rotate: true
+  xy: 72, 15
+  size: 17, 34
+  orig: 17, 34
+  offset: 0, 0
+  index: -1
+a_body
+  rotate: true
+  xy: 74, 63
+  size: 33, 41
+  orig: 33, 41
+  offset: 0, 0
+  index: -1
+b_body
+  rotate: true
+  xy: 74, 63
+  size: 33, 41
+  orig: 33, 41
+  offset: 0, 0
+  index: -1
+a_face_damage
+  rotate: false
+  xy: 2, 24
+  size: 40, 46
+  orig: 40, 46
+  offset: 0, 0
+  index: -1
+b_face_damage
+  rotate: false
+  xy: 2, 24
+  size: 40, 46
+  orig: 40, 46
+  offset: 0, 0
+  index: -1
+a_face_default
+  rotate: false
+  xy: 74, 98
+  size: 41, 41
+  orig: 41, 41
+  offset: 0, 0
+  index: -1
+b_face_default
+  rotate: false
+  xy: 74, 98
+  size: 41, 41
+  orig: 41, 41
+  offset: 0, 0
+  index: -1
+a_face_eye_default
+  rotate: false
+  xy: 66, 9
+  size: 26, 4
+  orig: 26, 4
+  offset: 0, 0
+  index: -1
+b_face_eye_default
+  rotate: false
+  xy: 66, 9
+  size: 26, 4
+  orig: 26, 4
+  offset: 0, 0
+  index: -1
+a_head
+  rotate: false
+  xy: 2, 72
+  size: 70, 67
+  orig: 70, 67
+  offset: 0, 0
+  index: -1
+b_head
+  rotate: false
+  xy: 2, 72
+  size: 70, 67
+  orig: 70, 67
+  offset: 0, 0
+  index: -1
+a_leg_l
+  rotate: false
+  xy: 53, 2
+  size: 11, 19
+  orig: 11, 19
+  offset: 0, 0
+  index: -1
+b_leg_l
+  rotate: false
+  xy: 53, 2
+  size: 11, 19
+  orig: 11, 19
+  offset: 0, 0
+  index: -1
+a_leg_r
+  rotate: false
+  xy: 39, 2
+  size: 12, 19
+  orig: 12, 19
+  offset: 0, 0
+  index: -1
+b_leg_r
+  rotate: false
+  xy: 39, 2
+  size: 12, 19
+  orig: 12, 19
+  offset: 0, 0
+  index: -1
+arm_attack02
+  rotate: false
+  xy: 117, 32
+  size: 21, 37
+  orig: 21, 37
+  offset: 0, 0
+  index: -1
+arm_attack03
+  rotate: false
+  xy: 72, 34
+  size: 43, 27
+  orig: 43, 27
+  offset: 0, 0
+  index: -1
+b_arm_attack01
+  rotate: true
+  xy: 44, 23
+  size: 47, 26
+  orig: 47, 26
+  offset: 0, 0
+  index: -1
+pinecone
+  rotate: false
+  xy: 117, 71
+  size: 22, 24
+  orig: 22, 24
+  offset: 0, 0
+  index: -1

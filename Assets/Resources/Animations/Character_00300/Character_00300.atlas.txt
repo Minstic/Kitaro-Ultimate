@@ -1,0 +1,111 @@
+
+Character_00300.png
+size: 235,270
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+b_body
+  rotate: false
+  xy: 93, 36
+  size: 50, 63
+  orig: 50, 63
+  offset: 0, 0
+  index: -1
+b_head
+  rotate: false
+  xy: 2, 8
+  size: 89, 145
+  orig: 89, 145
+  offset: 0, 0
+  index: -1
+bag
+  rotate: true
+  xy: 145, 2
+  size: 28, 45
+  orig: 28, 45
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 145, 58
+  size: 50, 63
+  orig: 50, 63
+  offset: 0, 0
+  index: -1
+eff_attack
+  rotate: false
+  xy: 2, 155
+  size: 135, 113
+  orig: 135, 113
+  offset: 0, 0
+  index: -1
+face_attack
+  rotate: false
+  xy: 93, 9
+  size: 50, 25
+  orig: 50, 25
+  offset: 0, 0
+  index: -1
+face_damage
+  rotate: true
+  xy: 93, 101
+  size: 52, 29
+  orig: 52, 29
+  offset: 0, 0
+  index: -1
+face_default
+  rotate: false
+  xy: 145, 32
+  size: 50, 24
+  orig: 50, 24
+  offset: 0, 0
+  index: -1
+face_default_add
+  rotate: true
+  xy: 197, 70
+  size: 51, 18
+  orig: 51, 18
+  offset: 0, 0
+  index: -1
+hair
+  rotate: true
+  xy: 192, 6
+  size: 24, 37
+  orig: 24, 37
+  offset: 0, 0
+  index: -1
+hand_l
+  rotate: false
+  xy: 217, 38
+  size: 16, 40
+  orig: 16, 40
+  offset: 0, 0
+  index: -1
+hand_r
+  rotate: false
+  xy: 217, 80
+  size: 16, 41
+  orig: 16, 41
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 139, 123
+  size: 89, 145
+  orig: 89, 145
+  offset: 0, 0
+  index: -1
+leg_l
+  rotate: false
+  xy: 197, 44
+  size: 16, 24
+  orig: 16, 24
+  offset: 0, 0
+  index: -1
+leg_r
+  rotate: false
+  xy: 124, 129
+  size: 12, 24
+  orig: 12, 24
+  offset: 0, 0
+  index: -1

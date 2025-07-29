@@ -1,0 +1,195 @@
+
+6thAnime_00051.png
+size: 173,517
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+AT_arm_l1
+  rotate: true
+  xy: 92, 8
+  size: 56, 36
+  orig: 56, 36
+  offset: 0, 0
+  index: -1
+AT_arm_l2
+  rotate: false
+  xy: 117, 465
+  size: 53, 50
+  orig: 53, 50
+  offset: 0, 0
+  index: -1
+AT_arm_r1
+  rotate: false
+  xy: 117, 386
+  size: 52, 38
+  orig: 52, 38
+  offset: 0, 0
+  index: -1
+AT_arm_r2
+  rotate: false
+  xy: 92, 131
+  size: 72, 57
+  orig: 72, 57
+  offset: 0, 0
+  index: -1
+AT_body
+  rotate: false
+  xy: 92, 190
+  size: 76, 68
+  orig: 76, 68
+  offset: 0, 0
+  index: -1
+AT_leg_l
+  rotate: false
+  xy: 59, 48
+  size: 31, 38
+  orig: 31, 38
+  offset: 0, 0
+  index: -1
+AT_leg_r
+  rotate: false
+  xy: 2, 92
+  size: 28, 35
+  orig: 28, 35
+  offset: 0, 0
+  index: -1
+ahoge
+  rotate: false
+  xy: 48, 21
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+attack
+  rotate: false
+  xy: 92, 66
+  size: 63, 63
+  orig: 63, 63
+  offset: 0, 0
+  index: -1
+default_arm_l1
+  rotate: false
+  xy: 117, 426
+  size: 53, 37
+  orig: 53, 37
+  offset: 0, 0
+  index: -1
+default_arm_l2
+  rotate: false
+  xy: 2, 5
+  size: 44, 59
+  orig: 44, 59
+  offset: 0, 0
+  index: -1
+default_arm_r1
+  rotate: false
+  xy: 117, 348
+  size: 47, 36
+  orig: 47, 36
+  offset: 0, 0
+  index: -1
+default_arm_r2
+  rotate: false
+  xy: 130, 8
+  size: 36, 56
+  orig: 36, 56
+  offset: 0, 0
+  index: -1
+default_body
+  rotate: false
+  xy: 107, 260
+  size: 64, 66
+  orig: 64, 66
+  offset: 0, 0
+  index: -1
+default_leg_l
+  rotate: true
+  xy: 2, 66
+  size: 20, 32
+  orig: 20, 32
+  offset: 0, 0
+  index: -1
+default_leg_r1
+  rotate: true
+  xy: 36, 66
+  size: 20, 21
+  orig: 20, 21
+  offset: 0, 0
+  index: -1
+default_leg_r2
+  rotate: true
+  xy: 48, 2
+  size: 17, 16
+  orig: 17, 16
+  offset: 0, 0
+  index: -1
+eff_attack
+  rotate: true
+  xy: 2, 260
+  size: 75, 103
+  orig: 75, 103
+  offset: 0, 0
+  index: -1
+eye
+  rotate: false
+  xy: 117, 328
+  size: 46, 18
+  orig: 46, 18
+  offset: 0, 0
+  index: -1
+eye_close
+  rotate: false
+  xy: 48, 88
+  size: 42, 7
+  orig: 42, 7
+  offset: 0, 0
+  index: -1
+eye_damage
+  rotate: false
+  xy: 48, 97
+  size: 42, 30
+  orig: 42, 30
+  offset: 0, 0
+  index: -1
+hair_b1
+  rotate: false
+  xy: 2, 426
+  size: 113, 89
+  orig: 113, 89
+  offset: 0, 0
+  index: -1
+hair_b1_re
+  rotate: false
+  xy: 2, 337
+  size: 113, 87
+  orig: 113, 87
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 2, 193
+  size: 88, 65
+  orig: 88, 65
+  offset: 0, 0
+  index: -1
+head_re
+  rotate: false
+  xy: 2, 129
+  size: 88, 62
+  orig: 88, 62
+  offset: 0, 0
+  index: -1
+mouth_attack
+  rotate: true
+  xy: 166, 366
+  size: 18, 4
+  orig: 18, 4
+  offset: 0, 0
+  index: -1
+mouth_default
+  rotate: true
+  xy: 157, 110
+  size: 19, 13
+  orig: 19, 13
+  offset: 0, 0
+  index: -1

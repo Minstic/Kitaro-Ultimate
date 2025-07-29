@@ -1,0 +1,118 @@
+
+Effect_00061.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bubble1
+  rotate: true
+  xy: 231, 30
+  size: 9, 4
+  orig: 9, 4
+  offset: 0, 0
+  index: -1
+bubble2
+  rotate: false
+  xy: 2, 2
+  size: 23, 12
+  orig: 23, 12
+  offset: 0, 0
+  index: -1
+bubble3
+  rotate: false
+  xy: 298, 56
+  size: 25, 17
+  orig: 25, 17
+  offset: 0, 0
+  index: -1
+bubble4
+  rotate: false
+  xy: 269, 50
+  size: 27, 23
+  orig: 27, 23
+  offset: 0, 0
+  index: -1
+bubble5
+  rotate: false
+  xy: 433, 135
+  size: 29, 28
+  orig: 29, 28
+  offset: 0, 0
+  index: -1
+bubble6
+  rotate: false
+  xy: 433, 105
+  size: 29, 28
+  orig: 29, 28
+  offset: 0, 0
+  index: -1
+bubble7
+  rotate: false
+  xy: 433, 165
+  size: 31, 28
+  orig: 31, 28
+  offset: 0, 0
+  index: -1
+lava1
+  rotate: false
+  xy: 2, 16
+  size: 227, 23
+  orig: 227, 23
+  offset: 0, 0
+  index: -1
+lava2
+  rotate: false
+  xy: 229, 75
+  size: 228, 19
+  orig: 228, 19
+  offset: 0, 0
+  index: -1
+pillar1
+  rotate: false
+  xy: 2, 41
+  size: 237, 25
+  orig: 237, 25
+  offset: 0, 0
+  index: -1
+poison1
+  rotate: false
+  xy: 241, 47
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+poison2
+  rotate: false
+  xy: 433, 195
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+poison3
+  rotate: false
+  xy: 470, 226
+  size: 33, 27
+  orig: 33, 27
+  offset: 0, 0
+  index: -1
+poison4
+  rotate: false
+  xy: 433, 225
+  size: 35, 28
+  orig: 35, 28
+  offset: 0, 0
+  index: -1
+smoke1
+  rotate: false
+  xy: 2, 68
+  size: 225, 185
+  orig: 225, 185
+  offset: 0, 0
+  index: -1
+smoke2
+  rotate: false
+  xy: 229, 96
+  size: 202, 157
+  orig: 202, 157
+  offset: 0, 0
+  index: -1

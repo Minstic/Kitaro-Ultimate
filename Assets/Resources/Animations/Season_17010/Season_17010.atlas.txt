@@ -1,0 +1,202 @@
+
+Season_17010.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+airframe_b
+  rotate: true
+  xy: 271, 8
+  size: 46, 40
+  orig: 46, 40
+  offset: 0, 0
+  index: -1
+airframe_f
+  rotate: true
+  xy: 221, 56
+  size: 70, 83
+  orig: 70, 83
+  offset: 0, 0
+  index: -1
+basket
+  rotate: false
+  xy: 2, 13
+  size: 101, 31
+  orig: 101, 31
+  offset: 0, 0
+  index: -1
+eff_02
+  rotate: false
+  xy: 361, 37
+  size: 46, 30
+  orig: 46, 30
+  offset: 0, 0
+  index: -1
+eff_03
+  rotate: false
+  xy: 313, 24
+  size: 46, 43
+  orig: 46, 43
+  offset: 0, 0
+  index: -1
+eff_4
+  rotate: true
+  xy: 742, 81
+  size: 45, 75
+  orig: 45, 75
+  offset: 0, 0
+  index: -1
+eff_fire_1
+  rotate: true
+  xy: 582, 72
+  size: 54, 80
+  orig: 54, 80
+  offset: 0, 0
+  index: -1
+eff_fire_2
+  rotate: true
+  xy: 664, 69
+  size: 57, 76
+  orig: 57, 76
+  offset: 0, 0
+  index: -1
+eff_smoke_1
+  rotate: false
+  xy: 2, 46
+  size: 109, 80
+  orig: 109, 80
+  offset: 0, 0
+  index: -1
+eff_smoke_2
+  rotate: false
+  xy: 113, 48
+  size: 106, 78
+  orig: 106, 78
+  offset: 0, 0
+  index: -1
+eff_smoke_3
+  rotate: true
+  xy: 221, 2
+  size: 52, 48
+  orig: 52, 48
+  offset: 0, 0
+  index: -1
+egg_1
+  rotate: true
+  xy: 448, 38
+  size: 29, 37
+  orig: 29, 37
+  offset: 0, 0
+  index: -1
+egg_2
+  rotate: true
+  xy: 361, 2
+  size: 33, 34
+  orig: 33, 34
+  offset: 0, 0
+  index: -1
+egg_3
+  rotate: true
+  xy: 397, 4
+  size: 31, 36
+  orig: 31, 36
+  offset: 0, 0
+  index: -1
+egg_4
+  rotate: true
+  xy: 409, 37
+  size: 30, 37
+  orig: 30, 37
+  offset: 0, 0
+  index: -1
+egg_5
+  rotate: true
+  xy: 487, 36
+  size: 31, 36
+  orig: 31, 36
+  offset: 0, 0
+  index: -1
+oyaji_body
+  rotate: false
+  xy: 525, 38
+  size: 28, 29
+  orig: 28, 29
+  offset: 0, 0
+  index: -1
+oyaji_eye_damage
+  rotate: false
+  xy: 313, 8
+  size: 18, 14
+  orig: 18, 14
+  offset: 0, 0
+  index: -1
+oyaji_eye_default
+  rotate: false
+  xy: 944, 113
+  size: 16, 13
+  orig: 16, 13
+  offset: 0, 0
+  index: -1
+oyaji_tears
+  rotate: true
+  xy: 2, 2
+  size: 9, 6
+  orig: 9, 6
+  offset: 0, 0
+  index: -1
+tire_1
+  rotate: false
+  xy: 923, 111
+  size: 19, 15
+  orig: 19, 15
+  offset: 0, 0
+  index: -1
+tire_2
+  rotate: false
+  xy: 555, 50
+  size: 19, 17
+  orig: 19, 17
+  offset: 0, 0
+  index: -1
+tire_3
+  rotate: false
+  xy: 900, 109
+  size: 21, 17
+  orig: 21, 17
+  offset: 0, 0
+  index: -1
+wheel_1_2
+  rotate: false
+  xy: 306, 69
+  size: 90, 57
+  orig: 90, 57
+  offset: 0, 0
+  index: -1
+wheel_1_3
+  rotate: false
+  xy: 398, 69
+  size: 90, 57
+  orig: 90, 57
+  offset: 0, 0
+  index: -1
+wheel_1_4
+  rotate: false
+  xy: 490, 69
+  size: 90, 57
+  orig: 90, 57
+  offset: 0, 0
+  index: -1
+wheel_2
+  rotate: false
+  xy: 819, 105
+  size: 79, 21
+  orig: 79, 21
+  offset: 0, 0
+  index: -1
+wheel_3
+  rotate: true
+  xy: 819, 91
+  size: 12, 41
+  orig: 12, 41
+  offset: 0, 0
+  index: -1

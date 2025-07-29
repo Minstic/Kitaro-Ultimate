@@ -1,0 +1,118 @@
+
+Character_00930.png
+size: 375,62
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: true
+  xy: 189, 19
+  size: 41, 42
+  orig: 41, 42
+  offset: 0, 0
+  index: -1
+bucket
+  rotate: false
+  xy: 233, 26
+  size: 50, 34
+  orig: 50, 34
+  offset: 0, 0
+  index: -1
+eff_dust1
+  rotate: false
+  xy: 364, 30
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+eff_dust2
+  rotate: false
+  xy: 364, 40
+  size: 8, 9
+  orig: 8, 9
+  offset: 0, 0
+  index: -1
+eff_dust3
+  rotate: true
+  xy: 261, 2
+  size: 7, 8
+  orig: 7, 8
+  offset: 0, 0
+  index: -1
+eff_dust4
+  rotate: false
+  xy: 271, 2
+  size: 8, 7
+  orig: 8, 7
+  offset: 0, 0
+  index: -1
+eff_dust5
+  rotate: false
+  xy: 364, 51
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+eff_smoke
+  rotate: false
+  xy: 285, 34
+  size: 77, 26
+  orig: 77, 26
+  offset: 0, 0
+  index: -1
+eye_damage
+  rotate: false
+  xy: 233, 9
+  size: 26, 15
+  orig: 26, 15
+  offset: 0, 0
+  index: -1
+eye_default
+  rotate: false
+  xy: 189, 5
+  size: 24, 12
+  orig: 24, 12
+  offset: 0, 0
+  index: -1
+hand
+  rotate: false
+  xy: 261, 11
+  size: 22, 13
+  orig: 22, 13
+  offset: 0, 0
+  index: -1
+head_attack
+  rotate: false
+  xy: 68, 6
+  size: 61, 54
+  orig: 61, 54
+  offset: 0, 0
+  index: -1
+head_damage
+  rotate: false
+  xy: 2, 5
+  size: 64, 55
+  orig: 64, 55
+  offset: 0, 0
+  index: -1
+head_default
+  rotate: true
+  xy: 131, 7
+  size: 53, 56
+  orig: 53, 56
+  offset: 0, 0
+  index: -1
+tail
+  rotate: true
+  xy: 329, 3
+  size: 25, 42
+  orig: 25, 42
+  offset: 0, 0
+  index: -1
+water_damage
+  rotate: false
+  xy: 285, 5
+  size: 42, 27
+  orig: 42, 27
+  offset: 0, 0
+  index: -1

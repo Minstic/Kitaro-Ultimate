@@ -1,0 +1,76 @@
+
+Character_00700.png
+size: 197,140
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a_body2
+  rotate: false
+  xy: 116, 40
+  size: 79, 98
+  orig: 79, 98
+  offset: 0, 0
+  index: -1
+a_face_damage
+  rotate: false
+  xy: 2, 2
+  size: 52, 49
+  orig: 52, 49
+  offset: 0, 0
+  index: -1
+a_face_default
+  rotate: false
+  xy: 56, 9
+  size: 51, 42
+  orig: 51, 42
+  offset: 0, 0
+  index: -1
+a_hair
+  rotate: false
+  xy: 115, 7
+  size: 48, 31
+  orig: 48, 31
+  offset: 0, 0
+  index: -1
+eff_01
+  rotate: true
+  xy: 109, 31
+  size: 9, 4
+  orig: 9, 4
+  offset: 0, 0
+  index: -1
+eff_02
+  rotate: false
+  xy: 165, 15
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+eff_03
+  rotate: false
+  xy: 109, 26
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: -1
+eff_04
+  rotate: true
+  xy: 165, 7
+  size: 6, 7
+  orig: 6, 7
+  offset: 0, 0
+  index: -1
+eff_05
+  rotate: false
+  xy: 109, 42
+  size: 5, 9
+  orig: 5, 9
+  offset: 0, 0
+  index: -1
+moto
+  rotate: true
+  xy: 2, 53
+  size: 85, 112
+  orig: 85, 112
+  offset: 0, 0
+  index: -1

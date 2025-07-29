@@ -1,0 +1,48 @@
+
+Character_00780.png
+size: 93,71
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a_arm_l
+  rotate: false
+  xy: 39, 9
+  size: 8, 10
+  orig: 8, 10
+  offset: 0, 0
+  index: -1
+a_arm_r
+  rotate: false
+  xy: 49, 11
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+bandana
+  rotate: false
+  xy: 2, 3
+  size: 35, 16
+  orig: 35, 16
+  offset: 0, 0
+  index: -1
+base_a
+  rotate: false
+  xy: 2, 21
+  size: 61, 48
+  orig: 61, 48
+  offset: 0, 0
+  index: -1
+face_damage_a
+  rotate: true
+  xy: 65, 2
+  size: 34, 25
+  orig: 34, 25
+  offset: 0, 0
+  index: -1
+face_default_a
+  rotate: true
+  xy: 65, 38
+  size: 31, 26
+  orig: 31, 26
+  offset: 0, 0
+  index: -1

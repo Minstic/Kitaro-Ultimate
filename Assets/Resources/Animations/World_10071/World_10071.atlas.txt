@@ -1,0 +1,342 @@
+
+World_10071.png
+size: 929,267
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Abura_Eff
+  rotate: true
+  xy: 468, 141
+  size: 124, 147
+  orig: 124, 147
+  offset: 0, 0
+  index: -1
+Smoke
+  rotate: false
+  xy: 2, 45
+  size: 145, 65
+  orig: 145, 65
+  offset: 0, 0
+  index: -1
+abu_arm_l_01
+  rotate: false
+  xy: 660, 66
+  size: 79, 120
+  orig: 79, 120
+  offset: 0, 0
+  index: -1
+abu_arm_r_01
+  rotate: true
+  xy: 161, 19
+  size: 101, 106
+  orig: 101, 106
+  offset: 0, 0
+  index: -1
+abu_arm_r_02
+  rotate: true
+  xy: 796, 149
+  size: 116, 109
+  orig: 116, 109
+  offset: 0, 0
+  index: -1
+abu_arm_r_03
+  rotate: false
+  xy: 332, 15
+  size: 102, 89
+  orig: 102, 89
+  offset: 0, 0
+  index: -1
+abu_body_01
+  rotate: false
+  xy: 2, 112
+  size: 157, 153
+  orig: 157, 153
+  offset: 0, 0
+  index: -1
+abu_body_02
+  rotate: false
+  xy: 617, 188
+  size: 177, 77
+  orig: 177, 77
+  offset: 0, 0
+  index: -1
+abu_face
+  rotate: true
+  xy: 269, 33
+  size: 87, 61
+  orig: 87, 61
+  offset: 0, 0
+  index: -1
+abu_head
+  rotate: false
+  xy: 333, 135
+  size: 133, 130
+  orig: 133, 130
+  offset: 0, 0
+  index: -1
+ama_arm_L
+  rotate: false
+  xy: 590, 4
+  size: 23, 36
+  orig: 23, 36
+  offset: 0, 0
+  index: -1
+ama_arm_R
+  rotate: true
+  xy: 436, 17
+  size: 22, 34
+  orig: 22, 34
+  offset: 0, 0
+  index: -1
+ama_body
+  rotate: false
+  xy: 660, 6
+  size: 82, 58
+  orig: 82, 58
+  offset: 0, 0
+  index: -1
+ama_eye_close
+  rotate: true
+  xy: 590, 42
+  size: 47, 24
+  orig: 47, 24
+  offset: 0, 0
+  index: -1
+ama_eye_white
+  rotate: true
+  xy: 590, 91
+  size: 48, 24
+  orig: 48, 24
+  offset: 0, 0
+  index: -1
+ama_eyes
+  rotate: true
+  xy: 149, 78
+  size: 32, 10
+  orig: 32, 10
+  offset: 0, 0
+  index: -1
+ama_face_damage
+  rotate: false
+  xy: 872, 9
+  size: 55, 43
+  orig: 55, 43
+  offset: 0, 0
+  index: -1
+ama_hair
+  rotate: true
+  xy: 468, 41
+  size: 98, 120
+  orig: 98, 120
+  offset: 0, 0
+  index: -1
+ama_head
+  rotate: true
+  xy: 741, 121
+  size: 65, 52
+  orig: 65, 52
+  offset: 0, 0
+  index: -1
+ama_head_acc_01
+  rotate: true
+  xy: 436, 41
+  size: 63, 22
+  orig: 63, 22
+  offset: 0, 0
+  index: -1
+ama_head_acc_02_L
+  rotate: true
+  xy: 794, 2
+  size: 45, 76
+  orig: 45, 76
+  offset: 0, 0
+  index: -1
+ama_head_acc_02_R
+  rotate: true
+  xy: 2, 12
+  size: 31, 79
+  orig: 31, 79
+  offset: 0, 0
+  index: -1
+ama_mouth
+  rotate: false
+  xy: 269, 10
+  size: 55, 21
+  orig: 55, 21
+  offset: 0, 0
+  index: -1
+attack_arm_eff
+  rotate: true
+  xy: 161, 122
+  size: 143, 170
+  orig: 143, 170
+  offset: 0, 0
+  index: -1
+eff
+  rotate: true
+  xy: 459, 127
+  size: 6, 5
+  orig: 6, 5
+  offset: 0, 0
+  index: -1
+eff2
+  rotate: false
+  xy: 615, 7
+  size: 22, 20
+  orig: 22, 20
+  offset: 0, 0
+  index: -1
+eff3
+  rotate: true
+  xy: 639, 5
+  size: 22, 19
+  orig: 22, 19
+  offset: 0, 0
+  index: -1
+eff_hit
+  rotate: false
+  xy: 744, 14
+  size: 48, 50
+  orig: 48, 50
+  offset: 0, 0
+  index: -1
+eyelush
+  rotate: true
+  xy: 907, 210
+  size: 55, 16
+  orig: 55, 16
+  offset: 0, 0
+  index: -1
+iitan_eye_damage
+  rotate: true
+  xy: 907, 157
+  size: 51, 16
+  orig: 51, 16
+  offset: 0, 0
+  index: -1
+iitan_eye_default
+  rotate: true
+  xy: 912, 107
+  size: 48, 13
+  orig: 48, 13
+  offset: 0, 0
+  index: -1
+ittan_01
+  rotate: true
+  xy: 617, 29
+  size: 157, 41
+  orig: 157, 41
+  offset: 0, 0
+  index: -1
+ittan_01_arm_L
+  rotate: true
+  xy: 436, 2
+  size: 13, 22
+  orig: 13, 22
+  offset: 0, 0
+  index: -1
+ittan_01_arm_R
+  rotate: true
+  xy: 554, 6
+  size: 12, 20
+  orig: 12, 20
+  offset: 0, 0
+  index: -1
+ittan_02
+  rotate: false
+  xy: 333, 106
+  size: 124, 27
+  orig: 124, 27
+  offset: 0, 0
+  index: -1
+kawa_arm_L
+  rotate: false
+  xy: 145, 12
+  size: 14, 30
+  orig: 14, 30
+  offset: 0, 0
+  index: -1
+kawa_arm_R
+  rotate: false
+  xy: 127, 12
+  size: 16, 31
+  orig: 16, 31
+  offset: 0, 0
+  index: -1
+kawa_body
+  rotate: false
+  xy: 741, 66
+  size: 51, 53
+  orig: 51, 53
+  offset: 0, 0
+  index: -1
+kawa_eye_close
+  rotate: false
+  xy: 529, 20
+  size: 51, 19
+  orig: 51, 19
+  offset: 0, 0
+  index: -1
+kawa_eye_damage
+  rotate: false
+  xy: 472, 18
+  size: 55, 21
+  orig: 55, 21
+  offset: 0, 0
+  index: -1
+kawa_eye_default
+  rotate: false
+  xy: 860, 54
+  size: 51, 19
+  orig: 51, 19
+  offset: 0, 0
+  index: -1
+kawa_eyes
+  rotate: true
+  xy: 149, 44
+  size: 32, 8
+  orig: 32, 8
+  offset: 0, 0
+  index: -1
+kawa_hat
+  rotate: true
+  xy: 795, 49
+  size: 98, 63
+  orig: 98, 63
+  offset: 0, 0
+  index: -1
+kawa_head
+  rotate: true
+  xy: 860, 75
+  size: 72, 50
+  orig: 72, 50
+  offset: 0, 0
+  index: -1
+kawa_mouth_damage
+  rotate: false
+  xy: 161, 2
+  size: 80, 15
+  orig: 80, 15
+  offset: 0, 0
+  index: -1
+kawa_mouth_default
+  rotate: false
+  xy: 472, 3
+  size: 80, 13
+  orig: 80, 13
+  offset: 0, 0
+  index: -1
+pot
+  rotate: false
+  xy: 83, 3
+  size: 42, 40
+  orig: 42, 40
+  offset: 0, 0
+  index: -1
+ribbon
+  rotate: false
+  xy: 243, 3
+  size: 16, 14
+  orig: 16, 14
+  offset: 0, 0
+  index: -1

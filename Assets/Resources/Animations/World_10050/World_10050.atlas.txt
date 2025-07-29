@@ -1,0 +1,293 @@
+
+World_10050.png
+size: 961,282
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+boat
+  rotate: false
+  xy: 2, 195
+  size: 373, 85
+  orig: 373, 85
+  offset: 0, 0
+  index: -1
+boat_re
+  rotate: false
+  xy: 2, 108
+  size: 373, 85
+  orig: 373, 85
+  offset: 0, 0
+  index: -1
+camera
+  rotate: false
+  xy: 858, 2
+  size: 24, 21
+  orig: 24, 21
+  offset: 0, 0
+  index: -1
+camera_Eff
+  rotate: false
+  xy: 536, 20
+  size: 52, 50
+  orig: 52, 50
+  offset: 0, 0
+  index: -1
+carrycase
+  rotate: false
+  xy: 839, 25
+  size: 49, 59
+  orig: 49, 59
+  offset: 0, 0
+  index: -1
+food
+  rotate: false
+  xy: 898, 224
+  size: 61, 56
+  orig: 61, 56
+  offset: 0, 0
+  index: -1
+kappa_arm_l
+  rotate: false
+  xy: 590, 42
+  size: 12, 28
+  orig: 12, 28
+  offset: 0, 0
+  index: -1
+kappa_body
+  rotate: true
+  xy: 793, 86
+  size: 45, 95
+  orig: 45, 95
+  offset: 0, 0
+  index: -1
+kappa_eff_01
+  rotate: false
+  xy: 590, 30
+  size: 12, 10
+  orig: 12, 10
+  offset: 0, 0
+  index: -1
+kappa_eff_02
+  rotate: true
+  xy: 418, 37
+  size: 33, 116
+  orig: 33, 116
+  offset: 0, 0
+  index: -1
+kappa_eff_03
+  rotate: true
+  xy: 890, 2
+  size: 28, 35
+  orig: 28, 35
+  offset: 0, 0
+  index: -1
+kappa_eff_04
+  rotate: false
+  xy: 778, 24
+  size: 59, 60
+  orig: 59, 60
+  offset: 0, 0
+  index: -1
+kappa_face_attack
+  rotate: false
+  xy: 890, 32
+  size: 41, 30
+  orig: 41, 30
+  offset: 0, 0
+  index: -1
+kappa_face_damage
+  rotate: false
+  xy: 475, 2
+  size: 43, 33
+  orig: 43, 33
+  offset: 0, 0
+  index: -1
+kappa_face_default
+  rotate: false
+  xy: 890, 64
+  size: 41, 31
+  orig: 41, 31
+  offset: 0, 0
+  index: -1
+kappa_hand_l
+  rotate: false
+  xy: 778, 90
+  size: 13, 15
+  orig: 13, 15
+  offset: 0, 0
+  index: -1
+kappa_hand_r
+  rotate: false
+  xy: 520, 19
+  size: 14, 16
+  orig: 14, 16
+  offset: 0, 0
+  index: -1
+kappa_head
+  rotate: false
+  xy: 604, 2
+  size: 72, 103
+  orig: 72, 103
+  offset: 0, 0
+  index: -1
+kappa_head2
+  rotate: true
+  xy: 794, 208
+  size: 72, 102
+  orig: 72, 102
+  offset: 0, 0
+  index: -1
+kappa_oar
+  rotate: true
+  xy: 2, 89
+  size: 17, 184
+  orig: 17, 184
+  offset: 0, 0
+  index: -1
+wave_01
+  rotate: false
+  xy: 377, 177
+  size: 414, 33
+  orig: 414, 33
+  offset: 0, 0
+  index: -1
+wave_02
+  rotate: false
+  xy: 377, 247
+  size: 415, 33
+  orig: 415, 33
+  offset: 0, 0
+  index: -1
+wave_03
+  rotate: false
+  xy: 377, 142
+  size: 414, 33
+  orig: 414, 33
+  offset: 0, 0
+  index: -1
+wave_04
+  rotate: false
+  xy: 377, 107
+  size: 414, 33
+  orig: 414, 33
+  offset: 0, 0
+  index: -1
+wave_05
+  rotate: false
+  xy: 377, 212
+  size: 415, 33
+  orig: 415, 33
+  offset: 0, 0
+  index: -1
+wave_06
+  rotate: false
+  xy: 188, 72
+  size: 414, 33
+  orig: 414, 33
+  offset: 0, 0
+  index: -1
+wave_07
+  rotate: false
+  xy: 2, 37
+  size: 414, 33
+  orig: 414, 33
+  offset: 0, 0
+  index: -1
+wave_08
+  rotate: false
+  xy: 2, 2
+  size: 414, 33
+  orig: 414, 33
+  offset: 0, 0
+  index: -1
+wave_eff_1
+  rotate: false
+  xy: 778, 2
+  size: 78, 20
+  orig: 78, 20
+  offset: 0, 0
+  index: -1
+yobuko_body
+  rotate: false
+  xy: 890, 97
+  size: 44, 39
+  orig: 44, 39
+  offset: 0, 0
+  index: -1
+yobuko_eff_01
+  rotate: false
+  xy: 936, 144
+  size: 19, 21
+  orig: 19, 21
+  offset: 0, 0
+  index: -1
+yobuko_eff_01_2
+  rotate: false
+  xy: 20, 72
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+yobuko_eff_02
+  rotate: false
+  xy: 520, 3
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+yobuko_eff_02_2
+  rotate: true
+  xy: 2, 72
+  size: 15, 16
+  orig: 15, 16
+  offset: 0, 0
+  index: -1
+yobuko_face_damage
+  rotate: false
+  xy: 888, 138
+  size: 46, 27
+  orig: 46, 27
+  offset: 0, 0
+  index: -1
+yobuko_face_default
+  rotate: true
+  xy: 933, 51
+  size: 44, 26
+  orig: 44, 26
+  offset: 0, 0
+  index: -1
+yobuko_face_default2
+  rotate: true
+  xy: 933, 5
+  size: 44, 26
+  orig: 44, 26
+  offset: 0, 0
+  index: -1
+yobuko_hair_back
+  rotate: false
+  xy: 793, 133
+  size: 93, 73
+  orig: 93, 73
+  offset: 0, 0
+  index: -1
+yobuko_hair_front
+  rotate: false
+  xy: 678, 8
+  size: 98, 97
+  orig: 98, 97
+  offset: 0, 0
+  index: -1
+yobuko_hand
+  rotate: false
+  xy: 418, 2
+  size: 55, 33
+  orig: 55, 33
+  offset: 0, 0
+  index: -1
+yobuko_head
+  rotate: false
+  xy: 898, 167
+  size: 61, 55
+  orig: 61, 55
+  offset: 0, 0
+  index: -1

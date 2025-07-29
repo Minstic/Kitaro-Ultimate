@@ -1,0 +1,132 @@
+
+Character_20127.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_l
+  rotate: false
+  xy: 523, 327
+  size: 103, 183
+  orig: 103, 183
+  offset: 0, 0
+  index: -1
+arm_r
+  rotate: true
+  xy: 741, 431
+  size: 79, 187
+  orig: 79, 187
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 260
+  size: 228, 250
+  orig: 228, 250
+  offset: 0, 0
+  index: -1
+death_horn_L
+  rotate: true
+  xy: 232, 258
+  size: 65, 133
+  orig: 65, 133
+  offset: 0, 0
+  index: -1
+death_horn_R
+  rotate: true
+  xy: 367, 256
+  size: 67, 128
+  orig: 67, 128
+  offset: 0, 0
+  index: -1
+death_horn_fire_1
+  rotate: false
+  xy: 869, 343
+  size: 49, 86
+  orig: 49, 86
+  offset: 0, 0
+  index: -1
+death_horn_fire_2
+  rotate: false
+  xy: 206, 46
+  size: 50, 82
+  orig: 50, 82
+  offset: 0, 0
+  index: -1
+death_horn_fire_3
+  rotate: false
+  xy: 300, 180
+  size: 52, 76
+  orig: 52, 76
+  offset: 0, 0
+  index: -1
+death_horn_fire_4
+  rotate: false
+  xy: 920, 408
+  size: 8, 21
+  orig: 8, 21
+  offset: 0, 0
+  index: -1
+death_horn_fire_5
+  rotate: false
+  xy: 354, 240
+  size: 11, 16
+  orig: 11, 16
+  offset: 0, 0
+  index: -1
+eff
+  rotate: true
+  xy: 232, 325
+  size: 185, 289
+  orig: 185, 289
+  offset: 0, 0
+  index: -1
+face_attack
+  rotate: true
+  xy: 741, 331
+  size: 98, 126
+  orig: 98, 126
+  offset: 0, 0
+  index: -1
+face_damage
+  rotate: false
+  xy: 930, 384
+  size: 92, 126
+  orig: 92, 126
+  offset: 0, 0
+  index: -1
+face_default
+  rotate: false
+  xy: 206, 130
+  size: 92, 126
+  orig: 92, 126
+  offset: 0, 0
+  index: -1
+foot_l
+  rotate: false
+  xy: 300, 137
+  size: 41, 41
+  orig: 41, 41
+  offset: 0, 0
+  index: -1
+foot_r
+  rotate: false
+  xy: 206, 2
+  size: 41, 42
+  orig: 41, 42
+  offset: 0, 0
+  index: -1
+hair
+  rotate: false
+  xy: 628, 346
+  size: 111, 164
+  orig: 111, 164
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 2, 26
+  size: 202, 232
+  orig: 202, 232
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,181 @@
+
+Character_00971.png
+size: 279,267
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hair_01
+  rotate: false
+  xy: 102, 133
+  size: 101, 62
+  orig: 101, 62
+  offset: 0, 0
+  index: -1
+hair_02
+  rotate: false
+  xy: 109, 197
+  size: 97, 68
+  orig: 97, 68
+  offset: 0, 0
+  index: -1
+hair_03
+  rotate: false
+  xy: 2, 197
+  size: 105, 68
+  orig: 105, 68
+  offset: 0, 0
+  index: -1
+ittan_body_01
+  rotate: false
+  xy: 2, 122
+  size: 98, 73
+  orig: 98, 73
+  offset: 0, 0
+  index: -1
+ittan_body_02
+  rotate: false
+  xy: 2, 21
+  size: 88, 20
+  orig: 88, 20
+  offset: 0, 0
+  index: -1
+ittan_face_damage
+  rotate: true
+  xy: 258, 38
+  size: 42, 18
+  orig: 42, 18
+  offset: 0, 0
+  index: -1
+ittan_face_default
+  rotate: false
+  xy: 94, 38
+  size: 41, 14
+  orig: 41, 14
+  offset: 0, 0
+  index: -1
+kitaro_body
+  rotate: true
+  xy: 194, 51
+  size: 29, 62
+  orig: 29, 62
+  offset: 0, 0
+  index: -1
+kitaro_eye
+  rotate: false
+  xy: 194, 123
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+kitaro_eye_re
+  rotate: false
+  xy: 194, 113
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+kitaro_face_attack
+  rotate: false
+  xy: 92, 20
+  size: 34, 16
+  orig: 34, 16
+  offset: 0, 0
+  index: -1
+kitaro_face_attack_re
+  rotate: false
+  xy: 227, 21
+  size: 23, 28
+  orig: 23, 28
+  offset: 0, 0
+  index: -1
+kitaro_face_damage
+  rotate: true
+  xy: 83, 2
+  size: 16, 17
+  orig: 16, 17
+  offset: 0, 0
+  index: -1
+kitaro_face_damage_re
+  rotate: false
+  xy: 64, 2
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+kitaro_face_default
+  rotate: false
+  xy: 194, 21
+  size: 31, 28
+  orig: 31, 28
+  offset: 0, 0
+  index: -1
+kitaro_face_default_re
+  rotate: false
+  xy: 137, 25
+  size: 35, 27
+  orig: 35, 27
+  offset: 0, 0
+  index: -1
+kitaro_hand
+  rotate: false
+  xy: 2, 5
+  size: 60, 14
+  orig: 60, 14
+  offset: 0, 0
+  index: -1
+kitaro_head_attack
+  rotate: false
+  xy: 2, 43
+  size: 90, 77
+  orig: 90, 77
+  offset: 0, 0
+  index: -1
+kitaro_head_attack_re
+  rotate: false
+  xy: 102, 54
+  size: 90, 77
+  orig: 90, 77
+  offset: 0, 0
+  index: -1
+kitaro_head_default
+  rotate: true
+  xy: 208, 175
+  size: 90, 69
+  orig: 90, 69
+  offset: 0, 0
+  index: -1
+kitaro_head_default_re
+  rotate: true
+  xy: 205, 82
+  size: 91, 69
+  orig: 91, 69
+  offset: 0, 0
+  index: -1
+oyaji_body
+  rotate: true
+  xy: 174, 33
+  size: 19, 18
+  orig: 19, 18
+  offset: 0, 0
+  index: -1
+oyaji_eye_damage
+  rotate: false
+  xy: 102, 2
+  size: 15, 16
+  orig: 15, 16
+  offset: 0, 0
+  index: -1
+oyaji_eye_default
+  rotate: true
+  xy: 119, 4
+  size: 14, 13
+  orig: 14, 13
+  offset: 0, 0
+  index: -1
+oyaji_head
+  rotate: false
+  xy: 252, 13
+  size: 25, 23
+  orig: 25, 23
+  offset: 0, 0
+  index: -1

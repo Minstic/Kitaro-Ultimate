@@ -1,0 +1,97 @@
+
+Character_00441.png
+size: 826,420
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+balloon
+  rotate: false
+  xy: 738, 238
+  size: 78, 92
+  orig: 78, 92
+  offset: 0, 0
+  index: -1
+balloon_f
+  rotate: true
+  xy: 656, 240
+  size: 90, 80
+  orig: 90, 80
+  offset: 0, 0
+  index: -1
+base
+  rotate: true
+  xy: 445, 6
+  size: 212, 202
+  orig: 212, 202
+  offset: 0, 0
+  index: -1
+eff_01
+  rotate: false
+  xy: 2, 191
+  size: 220, 227
+  orig: 220, 227
+  offset: 0, 0
+  index: -1
+eff_02
+  rotate: true
+  xy: 224, 196
+  size: 222, 203
+  orig: 222, 203
+  offset: 0, 0
+  index: -1
+face_attack_face
+  rotate: true
+  xy: 2, 27
+  size: 162, 154
+  orig: 162, 154
+  offset: 0, 0
+  index: -1
+face_attack_head
+  rotate: false
+  xy: 429, 220
+  size: 225, 198
+  orig: 225, 198
+  offset: 0, 0
+  index: -1
+face_attack_nose
+  rotate: true
+  xy: 762, 350
+  size: 68, 62
+  orig: 68, 62
+  offset: 0, 0
+  index: -1
+face_damage
+  rotate: false
+  xy: 158, 34
+  size: 147, 155
+  orig: 147, 155
+  offset: 0, 0
+  index: -1
+face_default
+  rotate: false
+  xy: 649, 80
+  size: 142, 138
+  orig: 142, 138
+  offset: 0, 0
+  index: -1
+face_default_f
+  rotate: true
+  xy: 307, 34
+  size: 160, 136
+  orig: 160, 136
+  offset: 0, 0
+  index: -1
+hat
+  rotate: false
+  xy: 656, 332
+  size: 104, 86
+  orig: 104, 86
+  offset: 0, 0
+  index: -1
+line
+  rotate: true
+  xy: 649, 2
+  size: 76, 152
+  orig: 76, 152
+  offset: 0, 0
+  index: -1

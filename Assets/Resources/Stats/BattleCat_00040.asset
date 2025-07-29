@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c1ab2b1b2f492bb4d825b1f0fb5efb22, type: 3}
+  m_Name: BattleCat_00040
+  m_EditorClassIdentifier: 
+  HP: 11900
+  HB: 3
+  Speed: 10
+  AtkRange: 150
+  MinLD: 0
+  MaxLD: 0
+  Atk: 3060
+  Atk2: 0
+  Atk3: 0
+  AreaAtk: 0
+  TBA: 1.46
+  AttacksAllies: 0
+  rarity: 1
+  Cost: 1200
+  CD: 4.2
+  UnitRole: 72
+  MaxLevel: 40
+  MaxPlusLevel: 0
+  HPMaginificationLvl30: 100
+  AtkMaginificationLvl30: 100
+  MinLayer: 10
+  MaxLayer: 100
+  SelfTrait: 0
+  TargetTraits: 2
+  SecondaryType: 67108864
+  TraitAbilityData:
+  - UnlockAtPlus: 0
+    Ability: 0
+    Percent: 0
+    Power: 0
+    DurationSeconds: 0
+    Distance: 0
+  NeutralAbilityData: []
+  StatsBoost: []

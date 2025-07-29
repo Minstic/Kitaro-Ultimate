@@ -1,0 +1,104 @@
+
+Season_13040.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_l
+  rotate: true
+  xy: 293, 27
+  size: 29, 52
+  orig: 29, 52
+  offset: 0, 0
+  index: -1
+arm_r
+  rotate: false
+  xy: 452, 83
+  size: 49, 43
+  orig: 49, 43
+  offset: 0, 0
+  index: -1
+blow_l
+  rotate: false
+  xy: 347, 43
+  size: 27, 13
+  orig: 27, 13
+  offset: 0, 0
+  index: -1
+blow_r
+  rotate: true
+  xy: 347, 23
+  size: 18, 19
+  orig: 18, 19
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 15
+  size: 99, 111
+  orig: 99, 111
+  offset: 0, 0
+  index: -1
+dora
+  rotate: false
+  xy: 293, 58
+  size: 82, 68
+  orig: 82, 68
+  offset: 0, 0
+  index: -1
+face_damage
+  rotate: false
+  xy: 103, 2
+  size: 68, 46
+  orig: 68, 46
+  offset: 0, 0
+  index: -1
+face_default
+  rotate: false
+  xy: 453, 48
+  size: 57, 33
+  orig: 57, 33
+  offset: 0, 0
+  index: -1
+hand_l
+  rotate: false
+  xy: 377, 78
+  size: 73, 48
+  orig: 73, 48
+  offset: 0, 0
+  index: -1
+hand_r
+  rotate: true
+  xy: 377, 47
+  size: 29, 74
+  orig: 29, 74
+  offset: 0, 0
+  index: -1
+hatimaki
+  rotate: true
+  xy: 210, 54
+  size: 72, 81
+  orig: 72, 81
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 103, 50
+  size: 105, 76
+  orig: 105, 76
+  offset: 0, 0
+  index: -1
+nose
+  rotate: true
+  xy: 173, 2
+  size: 46, 37
+  orig: 46, 37
+  offset: 0, 0
+  index: -1
+rope_1
+  rotate: false
+  xy: 212, 4
+  size: 72, 48
+  orig: 72, 48
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,258 @@
+
+Cryptid_10070.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+_Shadow
+  rotate: true
+  xy: 695, 763
+  size: 16, 2
+  orig: 16, 2
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 291, 523
+  size: 145, 106
+  orig: 145, 106
+  offset: 0, 0
+  index: -1
+dust_A
+  rotate: false
+  xy: 502, 781
+  size: 206, 90
+  orig: 206, 90
+  offset: 0, 0
+  index: -1
+dust_B_1
+  rotate: false
+  xy: 858, 790
+  size: 21, 19
+  orig: 21, 19
+  offset: 0, 0
+  index: -1
+dust_B_2
+  rotate: true
+  xy: 169, 92
+  size: 59, 45
+  orig: 59, 45
+  offset: 0, 0
+  index: -1
+dust_B_3
+  rotate: true
+  xy: 438, 585
+  size: 44, 20
+  orig: 44, 20
+  offset: 0, 0
+  index: -1
+dust_B_4
+  rotate: false
+  xy: 168, 153
+  size: 50, 68
+  orig: 50, 68
+  offset: 0, 0
+  index: -1
+dust_B_5
+  rotate: true
+  xy: 169, 40
+  size: 50, 48
+  orig: 50, 48
+  offset: 0, 0
+  index: -1
+dust_B_6
+  rotate: false
+  xy: 291, 441
+  size: 14, 7
+  orig: 14, 7
+  offset: 0, 0
+  index: -1
+eff_tornado_1
+  rotate: false
+  xy: 2, 409
+  size: 178, 244
+  orig: 178, 244
+  offset: 0, 0
+  index: -1
+eff_tornado_2
+  rotate: true
+  xy: 775, 854
+  size: 162, 244
+  orig: 162, 244
+  offset: 0, 0
+  index: -1
+eff_tornado_3
+  rotate: false
+  xy: 322, 772
+  size: 178, 244
+  orig: 178, 244
+  offset: 0, 0
+  index: -1
+eff_tornado_light_A
+  rotate: false
+  xy: 2, 655
+  size: 318, 361
+  orig: 318, 361
+  offset: 0, 0
+  index: -1
+eff_tornado_sub_1
+  rotate: false
+  xy: 858, 811
+  size: 109, 41
+  orig: 109, 41
+  offset: 0, 0
+  index: -1
+eff_tornado_sub_2
+  rotate: true
+  xy: 466, 651
+  size: 119, 44
+  orig: 119, 44
+  offset: 0, 0
+  index: -1
+eye_damage
+  rotate: false
+  xy: 466, 632
+  size: 21, 17
+  orig: 21, 17
+  offset: 0, 0
+  index: -1
+eye_default
+  rotate: true
+  xy: 419, 500
+  size: 21, 17
+  orig: 21, 17
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 291, 450
+  size: 71, 126
+  orig: 71, 126
+  offset: 0, 0
+  index: -1
+leg_b_L
+  rotate: true
+  xy: 593, 720
+  size: 59, 100
+  orig: 59, 100
+  offset: 0, 0
+  index: -1
+leg_b_R
+  rotate: false
+  xy: 710, 780
+  size: 57, 91
+  orig: 57, 91
+  offset: 0, 0
+  index: -1
+leg_ｆ_L_1
+  rotate: false
+  xy: 220, 313
+  size: 51, 72
+  orig: 51, 72
+  offset: 0, 0
+  index: -1
+leg_ｆ_L_2
+  rotate: true
+  xy: 593, 679
+  size: 39, 56
+  orig: 39, 56
+  offset: 0, 0
+  index: -1
+leg_ｆ_R_1
+  rotate: true
+  xy: 182, 387
+  size: 51, 90
+  orig: 51, 90
+  offset: 0, 0
+  index: -1
+leg_ｆ_R_2
+  rotate: true
+  xy: 512, 652
+  size: 35, 65
+  orig: 35, 65
+  offset: 0, 0
+  index: -1
+mouth_1
+  rotate: false
+  xy: 2, 2
+  size: 45, 26
+  orig: 45, 26
+  offset: 0, 0
+  index: -1
+mouth_2
+  rotate: true
+  xy: 291, 631
+  size: 22, 19
+  orig: 22, 19
+  offset: 0, 0
+  index: -1
+smoke_1
+  rotate: true
+  xy: 2, 149
+  size: 258, 164
+  orig: 258, 164
+  offset: 0, 0
+  index: -1
+smoke_2
+  rotate: false
+  xy: 502, 873
+  size: 271, 143
+  orig: 271, 143
+  offset: 0, 0
+  index: -1
+smoke_3
+  rotate: true
+  xy: 182, 440
+  size: 213, 107
+  orig: 213, 107
+  offset: 0, 0
+  index: -1
+smoke_3_1
+  rotate: false
+  xy: 969, 805
+  size: 48, 47
+  orig: 48, 47
+  offset: 0, 0
+  index: -1
+smoke_3_2
+  rotate: false
+  xy: 168, 223
+  size: 59, 71
+  orig: 59, 71
+  offset: 0, 0
+  index: -1
+smoke_3_3
+  rotate: false
+  xy: 512, 689
+  size: 79, 90
+  orig: 79, 90
+  offset: 0, 0
+  index: -1
+smoke_3_4
+  rotate: false
+  xy: 769, 785
+  size: 87, 67
+  orig: 87, 67
+  offset: 0, 0
+  index: -1
+tail
+  rotate: false
+  xy: 168, 296
+  size: 50, 89
+  orig: 50, 89
+  offset: 0, 0
+  index: -1
+wing_L
+  rotate: false
+  xy: 2, 30
+  size: 165, 117
+  orig: 165, 117
+  offset: 0, 0
+  index: -1
+wing_R
+  rotate: false
+  xy: 322, 631
+  size: 142, 139
+  orig: 142, 139
+  offset: 0, 0
+  index: -1

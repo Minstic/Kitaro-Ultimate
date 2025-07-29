@@ -1,0 +1,76 @@
+
+Character_00240.png
+size: 264,78
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm
+  rotate: true
+  xy: 159, 9
+  size: 21, 48
+  orig: 21, 48
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 3
+  size: 88, 73
+  orig: 88, 73
+  offset: 0, 0
+  index: -1
+eye_01
+  rotate: true
+  xy: 243, 13
+  size: 23, 14
+  orig: 23, 14
+  offset: 0, 0
+  index: -1
+eye_02
+  rotate: false
+  xy: 209, 4
+  size: 11, 10
+  orig: 11, 10
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 92, 12
+  size: 65, 64
+  orig: 65, 64
+  offset: 0, 0
+  index: -1
+leg
+  rotate: true
+  xy: 210, 16
+  size: 20, 31
+  orig: 20, 31
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: false
+  xy: 159, 32
+  size: 49, 44
+  orig: 49, 44
+  offset: 0, 0
+  index: -1
+mouth_r
+  rotate: false
+  xy: 210, 38
+  size: 52, 38
+  orig: 52, 38
+  offset: 0, 0
+  index: -1
+nose
+  rotate: false
+  xy: 222, 5
+  size: 11, 9
+  orig: 11, 9
+  offset: 0, 0
+  index: -1
+nose_r
+  rotate: false
+  xy: 92, 2
+  size: 10, 8
+  orig: 10, 8
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,181 @@
+
+Character_00560.png
+size: 298,145
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a_leg_r
+  rotate: true
+  xy: 59, 8
+  size: 13, 22
+  orig: 13, 22
+  offset: 0, 0
+  index: -1
+arm_l
+  rotate: true
+  xy: 117, 18
+  size: 12, 43
+  orig: 12, 43
+  offset: 0, 0
+  index: -1
+arm_l_attack
+  rotate: false
+  xy: 239, 55
+  size: 34, 41
+  orig: 34, 41
+  offset: 0, 0
+  index: -1
+arm_r
+  rotate: true
+  xy: 117, 4
+  size: 12, 35
+  orig: 12, 35
+  offset: 0, 0
+  index: -1
+arm_r_attack
+  rotate: true
+  xy: 59, 23
+  size: 51, 24
+  orig: 51, 24
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 10
+  size: 55, 64
+  orig: 55, 64
+  offset: 0, 0
+  index: -1
+body_attack
+  rotate: false
+  xy: 2, 76
+  size: 69, 67
+  orig: 69, 67
+  offset: 0, 0
+  index: -1
+clothes_l
+  rotate: false
+  xy: 203, 41
+  size: 34, 45
+  orig: 34, 45
+  offset: 0, 0
+  index: -1
+clothes_l_attack
+  rotate: false
+  xy: 231, 98
+  size: 47, 45
+  orig: 47, 45
+  offset: 0, 0
+  index: -1
+clothes_r
+  rotate: true
+  xy: 166, 8
+  size: 31, 44
+  orig: 31, 44
+  offset: 0, 0
+  index: -1
+clothes_r_attack
+  rotate: false
+  xy: 166, 41
+  size: 35, 45
+  orig: 35, 45
+  offset: 0, 0
+  index: -1
+eff_01
+  rotate: true
+  xy: 240, 21
+  size: 18, 32
+  orig: 18, 32
+  offset: 0, 0
+  index: -1
+eff_02
+  rotate: true
+  xy: 275, 71
+  size: 25, 21
+  orig: 25, 21
+  offset: 0, 0
+  index: -1
+eff_03
+  rotate: true
+  xy: 239, 41
+  size: 12, 34
+  orig: 12, 34
+  offset: 0, 0
+  index: -1
+face_damage
+  rotate: false
+  xy: 85, 33
+  size: 39, 50
+  orig: 39, 50
+  offset: 0, 0
+  index: -1
+face_default
+  rotate: false
+  xy: 126, 32
+  size: 38, 51
+  orig: 38, 51
+  offset: 0, 0
+  index: -1
+fan
+  rotate: false
+  xy: 212, 9
+  size: 26, 30
+  orig: 26, 30
+  offset: 0, 0
+  index: -1
+fan_attack
+  rotate: false
+  xy: 85, 2
+  size: 30, 29
+  orig: 30, 29
+  offset: 0, 0
+  index: -1
+hair
+  rotate: true
+  xy: 240, 2
+  size: 17, 23
+  orig: 17, 23
+  offset: 0, 0
+  index: -1
+hair_01_attack
+  rotate: true
+  xy: 275, 26
+  size: 26, 19
+  orig: 26, 19
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 153, 88
+  size: 76, 55
+  orig: 76, 55
+  offset: 0, 0
+  index: -1
+head_attack
+  rotate: false
+  xy: 73, 85
+  size: 78, 58
+  orig: 78, 58
+  offset: 0, 0
+  index: -1
+leg_l
+  rotate: true
+  xy: 275, 54
+  size: 15, 21
+  orig: 15, 21
+  offset: 0, 0
+  index: -1
+leg_l_attack
+  rotate: false
+  xy: 280, 117
+  size: 16, 26
+  orig: 16, 26
+  offset: 0, 0
+  index: -1
+leg_r_attack
+  rotate: true
+  xy: 265, 6
+  size: 13, 29
+  orig: 13, 29
+  offset: 0, 0
+  index: -1

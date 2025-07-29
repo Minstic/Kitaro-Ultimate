@@ -1,0 +1,321 @@
+
+YokaiWatch_00021.png
+size: 866,393
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+AT_Fire_01
+  rotate: true
+  xy: 539, 22
+  size: 45, 51
+  orig: 45, 51
+  offset: 0, 0
+  index: -1
+AT_Fire_02
+  rotate: false
+  xy: 796, 32
+  size: 46, 45
+  orig: 46, 45
+  offset: 0, 0
+  index: -1
+AT_Fire_03
+  rotate: false
+  xy: 796, 79
+  size: 46, 47
+  orig: 46, 47
+  offset: 0, 0
+  index: -1
+Eff_B2_2
+  rotate: false
+  xy: 188, 35
+  size: 114, 157
+  orig: 114, 157
+  offset: 0, 0
+  index: -1
+Fire_B_F1
+  rotate: false
+  xy: 665, 18
+  size: 36, 59
+  orig: 36, 59
+  offset: 0, 0
+  index: -1
+Fire_B_F2
+  rotate: false
+  xy: 802, 146
+  size: 41, 87
+  orig: 41, 87
+  offset: 0, 0
+  index: -1
+Fire_B_F3
+  rotate: true
+  xy: 592, 38
+  size: 39, 71
+  orig: 39, 71
+  offset: 0, 0
+  index: -1
+arm_L
+  rotate: false
+  xy: 851, 237
+  size: 11, 18
+  orig: 11, 18
+  offset: 0, 0
+  index: -1
+arm_R
+  rotate: false
+  xy: 291, 14
+  size: 11, 19
+  orig: 11, 19
+  offset: 0, 0
+  index: -1
+arm_l_AT
+  rotate: false
+  xy: 760, 21
+  size: 33, 23
+  orig: 33, 23
+  offset: 0, 0
+  index: -1
+arm_r_AT
+  rotate: false
+  xy: 592, 13
+  size: 36, 23
+  orig: 36, 23
+  offset: 0, 0
+  index: -1
+aura
+  rotate: true
+  xy: 706, 128
+  size: 97, 94
+  orig: 97, 94
+  offset: 0, 0
+  index: -1
+body_1_default
+  rotate: true
+  xy: 405, 2
+  size: 43, 34
+  orig: 43, 34
+  offset: 0, 0
+  index: -1
+eff_3_1
+  rotate: true
+  xy: 252, 11
+  size: 22, 37
+  orig: 22, 37
+  offset: 0, 0
+  index: -1
+eff_3_2
+  rotate: false
+  xy: 845, 132
+  size: 19, 38
+  orig: 19, 38
+  offset: 0, 0
+  index: -1
+eff_3_3
+  rotate: true
+  xy: 630, 19
+  size: 17, 30
+  orig: 17, 30
+  offset: 0, 0
+  index: -1
+eff_3_4
+  rotate: true
+  xy: 760, 2
+  size: 17, 36
+  orig: 17, 36
+  offset: 0, 0
+  index: -1
+eff_4_2
+  rotate: false
+  xy: 304, 2
+  size: 99, 43
+  orig: 99, 43
+  offset: 0, 0
+  index: -1
+eff_B1
+  rotate: false
+  xy: 402, 207
+  size: 182, 184
+  orig: 182, 184
+  offset: 0, 0
+  index: -1
+eff_B2
+  rotate: false
+  xy: 2, 194
+  size: 210, 197
+  orig: 210, 197
+  offset: 0, 0
+  index: -1
+eff_B3
+  rotate: false
+  xy: 214, 198
+  size: 186, 193
+  orig: 186, 193
+  offset: 0, 0
+  index: -1
+eff_B4
+  rotate: true
+  xy: 2, 2
+  size: 190, 184
+  orig: 190, 184
+  offset: 0, 0
+  index: -1
+eye_close
+  rotate: true
+  xy: 851, 335
+  size: 56, 13
+  orig: 56, 13
+  offset: 0, 0
+  index: -1
+face_AT1
+  rotate: false
+  xy: 703, 2
+  size: 52, 16
+  orig: 52, 16
+  offset: 0, 0
+  index: -1
+face_AT2
+  rotate: true
+  xy: 851, 280
+  size: 53, 10
+  orig: 53, 10
+  offset: 0, 0
+  index: -1
+face_default
+  rotate: true
+  xy: 844, 72
+  size: 54, 20
+  orig: 54, 20
+  offset: 0, 0
+  index: -1
+fire_B1
+  rotate: true
+  xy: 304, 47
+  size: 149, 145
+  orig: 149, 145
+  offset: 0, 0
+  index: -1
+fire_B2
+  rotate: false
+  xy: 451, 69
+  size: 134, 136
+  orig: 134, 136
+  offset: 0, 0
+  index: -1
+fire_B3
+  rotate: false
+  xy: 587, 79
+  size: 117, 146
+  orig: 117, 146
+  offset: 0, 0
+  index: -1
+fire_B4
+  rotate: false
+  xy: 722, 235
+  size: 127, 156
+  orig: 127, 156
+  offset: 0, 0
+  index: -1
+fire_B5
+  rotate: false
+  xy: 586, 227
+  size: 134, 164
+  orig: 134, 164
+  offset: 0, 0
+  index: -1
+fire_L
+  rotate: true
+  xy: 188, 13
+  size: 20, 62
+  orig: 20, 62
+  offset: 0, 0
+  index: -1
+fire_R
+  rotate: false
+  xy: 845, 172
+  size: 19, 61
+  orig: 19, 61
+  offset: 0, 0
+  index: -1
+hand_l
+  rotate: true
+  xy: 441, 2
+  size: 18, 17
+  orig: 18, 17
+  offset: 0, 0
+  index: -1
+hand_r
+  rotate: true
+  xy: 630, 2
+  size: 15, 17
+  orig: 15, 17
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 706, 46
+  size: 88, 80
+  orig: 88, 80
+  offset: 0, 0
+  index: -1
+leg
+  rotate: false
+  xy: 802, 128
+  size: 41, 16
+  orig: 41, 16
+  offset: 0, 0
+  index: -1
+leg_L
+  rotate: false
+  xy: 460, 6
+  size: 16, 24
+  orig: 16, 24
+  offset: 0, 0
+  index: -1
+leg_R
+  rotate: false
+  xy: 851, 257
+  size: 13, 21
+  orig: 13, 21
+  offset: 0, 0
+  index: -1
+mantle
+  rotate: false
+  xy: 451, 32
+  size: 86, 35
+  orig: 86, 35
+  offset: 0, 0
+  index: -1
+ribbon
+  rotate: true
+  xy: 844, 35
+  size: 35, 15
+  orig: 35, 15
+  offset: 0, 0
+  index: -1
+shoulder_L
+  rotate: false
+  xy: 668, 4
+  size: 21, 12
+  orig: 21, 12
+  offset: 0, 0
+  index: -1
+shoulder_R
+  rotate: false
+  xy: 478, 20
+  size: 16, 10
+  orig: 16, 10
+  offset: 0, 0
+  index: -1
+tail
+  rotate: true
+  xy: 649, 2
+  size: 14, 17
+  orig: 14, 17
+  offset: 0, 0
+  index: -1
+waist
+  rotate: false
+  xy: 703, 20
+  size: 55, 24
+  orig: 55, 24
+  offset: 0, 0
+  index: -1

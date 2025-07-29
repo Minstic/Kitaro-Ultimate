@@ -1,0 +1,209 @@
+
+Family_10060.png
+size: 661,188
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bubble1
+  rotate: true
+  xy: 529, 6
+  size: 11, 12
+  orig: 11, 12
+  offset: 0, 0
+  index: -1
+bubble2
+  rotate: false
+  xy: 233, 2
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+bubble3
+  rotate: true
+  xy: 651, 127
+  size: 7, 8
+  orig: 7, 8
+  offset: 0, 0
+  index: -1
+bubble4
+  rotate: true
+  xy: 638, 136
+  size: 14, 13
+  orig: 14, 13
+  offset: 0, 0
+  index: -1
+bubble5
+  rotate: true
+  xy: 651, 118
+  size: 7, 8
+  orig: 7, 8
+  offset: 0, 0
+  index: -1
+bubble6
+  rotate: true
+  xy: 626, 51
+  size: 10, 11
+  orig: 10, 11
+  offset: 0, 0
+  index: -1
+bubble7
+  rotate: false
+  xy: 244, 2
+  size: 8, 9
+  orig: 8, 9
+  offset: 0, 0
+  index: -1
+impact_1
+  rotate: false
+  xy: 575, 99
+  size: 43, 35
+  orig: 43, 35
+  offset: 0, 0
+  index: -1
+impact_2
+  rotate: false
+  xy: 620, 99
+  size: 29, 35
+  orig: 29, 35
+  offset: 0, 0
+  index: -1
+impact_3
+  rotate: false
+  xy: 597, 57
+  size: 27, 40
+  orig: 27, 40
+  offset: 0, 0
+  index: -1
+kappa_arm_l
+  rotate: true
+  xy: 501, 6
+  size: 11, 26
+  orig: 11, 26
+  offset: 0, 0
+  index: -1
+kappa_arm_r
+  rotate: false
+  xy: 586, 3
+  size: 17, 27
+  orig: 17, 27
+  offset: 0, 0
+  index: -1
+kappa_attack_01
+  rotate: false
+  xy: 2, 3
+  size: 213, 183
+  orig: 213, 183
+  offset: 0, 0
+  index: -1
+kappa_attack_02
+  rotate: false
+  xy: 217, 13
+  size: 215, 173
+  orig: 215, 173
+  offset: 0, 0
+  index: -1
+kappa_body
+  rotate: false
+  xy: 575, 136
+  size: 61, 50
+  orig: 61, 50
+  offset: 0, 0
+  index: -1
+kappa_eye_l
+  rotate: true
+  xy: 653, 146
+  size: 4, 6
+  orig: 4, 6
+  offset: 0, 0
+  index: -1
+kappa_eye_r
+  rotate: false
+  xy: 597, 50
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+kappa_face_damage
+  rotate: true
+  xy: 626, 63
+  size: 34, 31
+  orig: 34, 31
+  offset: 0, 0
+  index: -1
+kappa_face_default
+  rotate: true
+  xy: 558, 2
+  size: 28, 26
+  orig: 28, 26
+  offset: 0, 0
+  index: -1
+kappa_head
+  rotate: true
+  xy: 506, 41
+  size: 54, 57
+  orig: 54, 57
+  offset: 0, 0
+  index: -1
+kappa_leg_l
+  rotate: true
+  xy: 543, 7
+  size: 10, 13
+  orig: 10, 13
+  offset: 0, 0
+  index: -1
+kappa_leg_r
+  rotate: true
+  xy: 217, 2
+  size: 9, 14
+  orig: 9, 14
+  offset: 0, 0
+  index: -1
+turtle_arm_l
+  rotate: true
+  xy: 565, 50
+  size: 45, 30
+  orig: 45, 30
+  offset: 0, 0
+  index: -1
+turtle_arm_r
+  rotate: false
+  xy: 434, 12
+  size: 65, 30
+  orig: 65, 30
+  offset: 0, 0
+  index: -1
+turtle_body
+  rotate: false
+  xy: 434, 97
+  size: 139, 89
+  orig: 139, 89
+  offset: 0, 0
+  index: -1
+turtle_eye_default
+  rotate: true
+  xy: 638, 152
+  size: 34, 21
+  orig: 34, 21
+  offset: 0, 0
+  index: -1
+turtle_head
+  rotate: false
+  xy: 434, 44
+  size: 70, 51
+  orig: 70, 51
+  offset: 0, 0
+  index: -1
+turtle_leg_l
+  rotate: false
+  xy: 565, 32
+  size: 41, 16
+  orig: 41, 16
+  offset: 0, 0
+  index: -1
+turtle_leg_r
+  rotate: false
+  xy: 501, 19
+  size: 55, 20
+  orig: 55, 20
+  offset: 0, 0
+  index: -1

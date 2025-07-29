@@ -1,0 +1,97 @@
+
+Character_01010.png
+size: 152,266
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_L
+  rotate: true
+  xy: 61, 44
+  size: 28, 84
+  orig: 28, 84
+  offset: 0, 0
+  index: -1
+arm_r_attack
+  rotate: true
+  xy: 61, 6
+  size: 36, 71
+  orig: 36, 71
+  offset: 0, 0
+  index: -1
+arm_r_default
+  rotate: false
+  xy: 73, 188
+  size: 28, 76
+  orig: 28, 76
+  offset: 0, 0
+  index: -1
+body_01
+  rotate: false
+  xy: 2, 74
+  size: 64, 97
+  orig: 64, 97
+  offset: 0, 0
+  index: -1
+body_02
+  rotate: true
+  xy: 103, 212
+  size: 52, 47
+  orig: 52, 47
+  offset: 0, 0
+  index: -1
+eff_kama
+  rotate: true
+  xy: 2, 2
+  size: 14, 53
+  orig: 14, 53
+  offset: 0, 0
+  index: -1
+eye_damage
+  rotate: false
+  xy: 103, 175
+  size: 38, 35
+  orig: 38, 35
+  offset: 0, 0
+  index: -1
+eye_default
+  rotate: true
+  xy: 116, 84
+  size: 31, 26
+  orig: 31, 26
+  offset: 0, 0
+  index: -1
+eyes
+  rotate: true
+  xy: 134, 23
+  size: 19, 11
+  orig: 19, 11
+  offset: 0, 0
+  index: -1
+hand_r_attack
+  rotate: true
+  xy: 2, 18
+  size: 54, 57
+  orig: 54, 57
+  offset: 0, 0
+  index: -1
+head_d
+  rotate: true
+  xy: 68, 77
+  size: 94, 46
+  orig: 94, 46
+  offset: 0, 0
+  index: -1
+head_up
+  rotate: true
+  xy: 2, 173
+  size: 91, 69
+  orig: 91, 69
+  offset: 0, 0
+  index: -1
+kama_shadow
+  rotate: false
+  xy: 116, 117
+  size: 32, 56
+  orig: 32, 56
+  offset: 0, 0
+  index: -1

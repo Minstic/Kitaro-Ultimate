@@ -1,0 +1,27 @@
+
+Character_40015.png
+size: 78,45
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+antena
+  rotate: false
+  xy: 68, 18
+  size: 8, 25
+  orig: 8, 25
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 2
+  size: 52, 41
+  orig: 52, 41
+  offset: 0, 0
+  index: -1
+face_default
+  rotate: true
+  xy: 56, 14
+  size: 29, 10
+  orig: 29, 10
+  offset: 0, 0
+  index: -1

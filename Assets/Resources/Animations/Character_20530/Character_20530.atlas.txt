@@ -1,0 +1,153 @@
+
+Character_20530.png
+size: 219,267
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+horse_body
+  rotate: false
+  xy: 2, 192
+  size: 131, 73
+  orig: 131, 73
+  offset: 0, 0
+  index: -1
+horse_ear_l
+  rotate: true
+  xy: 124, 32
+  size: 20, 27
+  orig: 20, 27
+  offset: 0, 0
+  index: -1
+horse_ear_r
+  rotate: false
+  xy: 200, 49
+  size: 16, 19
+  orig: 16, 19
+  offset: 0, 0
+  index: -1
+horse_hair
+  rotate: false
+  xy: 2, 98
+  size: 86, 92
+  orig: 86, 92
+  offset: 0, 0
+  index: -1
+horse_head
+  rotate: true
+  xy: 2, 2
+  size: 94, 74
+  orig: 94, 74
+  offset: 0, 0
+  index: -1
+horse_leg_l_01
+  rotate: false
+  xy: 102, 32
+  size: 20, 39
+  orig: 20, 39
+  offset: 0, 0
+  index: -1
+horse_leg_l_02
+  rotate: false
+  xy: 78, 30
+  size: 22, 41
+  orig: 22, 41
+  offset: 0, 0
+  index: -1
+horse_leg_r_01
+  rotate: true
+  xy: 132, 72
+  size: 17, 45
+  orig: 17, 45
+  offset: 0, 0
+  index: -1
+horse_leg_r_02
+  rotate: true
+  xy: 124, 54
+  size: 16, 42
+  orig: 16, 42
+  offset: 0, 0
+  index: -1
+horse_tail
+  rotate: false
+  xy: 132, 91
+  size: 45, 86
+  orig: 45, 86
+  offset: 0, 0
+  index: -1
+musha_arm_l_01
+  rotate: false
+  xy: 134, 9
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+musha_arm_l_02
+  rotate: false
+  xy: 168, 47
+  size: 30, 21
+  orig: 30, 21
+  offset: 0, 0
+  index: -1
+musha_arm_l_03
+  rotate: false
+  xy: 200, 32
+  size: 16, 15
+  orig: 16, 15
+  offset: 0, 0
+  index: -1
+musha_body
+  rotate: true
+  xy: 179, 134
+  size: 43, 38
+  orig: 43, 38
+  offset: 0, 0
+  index: -1
+musha_eye
+  rotate: true
+  xy: 78, 85
+  size: 11, 9
+  orig: 11, 9
+  offset: 0, 0
+  index: -1
+musha_face_damage
+  rotate: false
+  xy: 179, 99
+  size: 37, 33
+  orig: 37, 33
+  offset: 0, 0
+  index: -1
+musha_face_default
+  rotate: false
+  xy: 102, 2
+  size: 30, 28
+  orig: 30, 28
+  offset: 0, 0
+  index: -1
+musha_head
+  rotate: true
+  xy: 135, 179
+  size: 86, 78
+  orig: 86, 78
+  offset: 0, 0
+  index: -1
+musha_leg
+  rotate: false
+  xy: 78, 9
+  size: 22, 19
+  orig: 22, 19
+  offset: 0, 0
+  index: -1
+musha_shield
+  rotate: true
+  xy: 179, 70
+  size: 27, 36
+  orig: 27, 36
+  offset: 0, 0
+  index: -1
+musha_spear
+  rotate: true
+  xy: 90, 73
+  size: 117, 40
+  orig: 117, 40
+  offset: 0, 0
+  index: -1

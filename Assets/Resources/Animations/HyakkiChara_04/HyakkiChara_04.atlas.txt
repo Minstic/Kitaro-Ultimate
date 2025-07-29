@@ -1,0 +1,55 @@
+
+HyakkiChara_04.png
+size: 246,77
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+HyakkiChara_04_armL
+  rotate: false
+  xy: 0, 2
+  size: 58, 75
+  orig: 58, 75
+  offset: 0, 0
+  index: -1
+HyakkiChara_04_armR
+  rotate: false
+  xy: 127, 9
+  size: 66, 68
+  orig: 66, 68
+  offset: 0, 0
+  index: -1
+HyakkiChara_04_body
+  rotate: false
+  xy: 206, 27
+  size: 40, 50
+  orig: 40, 50
+  offset: 0, 0
+  index: -1
+HyakkiChara_04_head
+  rotate: true
+  xy: 58, 6
+  size: 71, 69
+  orig: 71, 69
+  offset: 0, 0
+  index: -1
+HyakkiChara_04_legL
+  rotate: true
+  xy: 193, 63
+  size: 14, 11
+  orig: 14, 11
+  offset: 0, 0
+  index: -1
+HyakkiChara_04_legR
+  rotate: true
+  xy: 127, 0
+  size: 9, 15
+  orig: 9, 15
+  offset: 0, 0
+  index: -1
+HyakkiShadow
+  rotate: false
+  xy: 142, 1
+  size: 64, 8
+  orig: 64, 8
+  offset: 0, 0
+  index: -1

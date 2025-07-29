@@ -1,0 +1,55 @@
+
+Character_00230.png
+size: 965,280
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+air
+  rotate: true
+  xy: 789, 29
+  size: 249, 174
+  orig: 249, 174
+  offset: 0, 0
+  index: -1
+body_a_01
+  rotate: false
+  xy: 397, 67
+  size: 390, 211
+  orig: 390, 211
+  offset: 0, 0
+  index: -1
+body_b_01
+  rotate: false
+  xy: 2, 15
+  size: 393, 263
+  orig: 393, 263
+  offset: 0, 0
+  index: -1
+leg_l_a
+  rotate: true
+  xy: 397, 2
+  size: 63, 57
+  orig: 63, 57
+  offset: 0, 0
+  index: -1
+leg_l_b
+  rotate: true
+  xy: 529, 17
+  size: 48, 62
+  orig: 48, 62
+  offset: 0, 0
+  index: -1
+leg_r_a
+  rotate: true
+  xy: 593, 24
+  size: 41, 52
+  orig: 41, 52
+  offset: 0, 0
+  index: -1
+leg_r_b
+  rotate: true
+  xy: 456, 17
+  size: 48, 71
+  orig: 48, 71
+  offset: 0, 0
+  index: -1

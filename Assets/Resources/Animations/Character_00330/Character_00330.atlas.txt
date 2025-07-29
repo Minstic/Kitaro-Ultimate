@@ -1,0 +1,76 @@
+
+Character_00330.png
+size: 248,139
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a_leg
+  rotate: true
+  xy: 82, 16
+  size: 55, 64
+  orig: 55, 64
+  offset: 0, 0
+  index: -1
+arm_l
+  rotate: false
+  xy: 148, 10
+  size: 61, 53
+  orig: 61, 53
+  offset: 0, 0
+  index: -1
+arm_r
+  rotate: false
+  xy: 2, 2
+  size: 43, 45
+  orig: 43, 45
+  offset: 0, 0
+  index: -1
+b_leg
+  rotate: true
+  xy: 180, 65
+  size: 72, 59
+  orig: 72, 59
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 82, 73
+  size: 96, 64
+  orig: 96, 64
+  offset: 0, 0
+  index: -1
+face_damage
+  rotate: true
+  xy: 211, 28
+  size: 35, 24
+  orig: 35, 24
+  offset: 0, 0
+  index: -1
+face_damage_re
+  rotate: false
+  xy: 211, 2
+  size: 35, 24
+  orig: 35, 24
+  offset: 0, 0
+  index: -1
+face_default
+  rotate: false
+  xy: 47, 27
+  size: 33, 20
+  orig: 33, 20
+  offset: 0, 0
+  index: -1
+face_default_re
+  rotate: false
+  xy: 47, 5
+  size: 33, 20
+  orig: 33, 20
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 2, 49
+  size: 78, 88
+  orig: 78, 88
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,391 @@
+
+Legend_10081.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+_Shadow
+  rotate: true
+  xy: 184, 28
+  size: 26, 3
+  orig: 26, 3
+  offset: 0, 0
+  index: -1
+a_sennin_hand_L
+  rotate: true
+  xy: 994, 821
+  size: 30, 28
+  orig: 30, 28
+  offset: 0, 0
+  index: -1
+a_sennin_hand_R
+  rotate: false
+  xy: 994, 793
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+a_sennin_head
+  rotate: false
+  xy: 453, 430
+  size: 144, 102
+  orig: 144, 102
+  offset: 0, 0
+  index: -1
+eff_crack_1
+  rotate: false
+  xy: 811, 687
+  size: 76, 26
+  orig: 76, 26
+  offset: 0, 0
+  index: -1
+eff_crack_2
+  rotate: true
+  xy: 599, 430
+  size: 102, 30
+  orig: 102, 30
+  offset: 0, 0
+  index: -1
+eff_crack_3
+  rotate: true
+  xy: 932, 691
+  size: 61, 19
+  orig: 61, 19
+  offset: 0, 0
+  index: -1
+eff_crack_4
+  rotate: true
+  xy: 724, 316
+  size: 74, 18
+  orig: 74, 18
+  offset: 0, 0
+  index: -1
+eff_dust_1
+  rotate: true
+  xy: 889, 687
+  size: 65, 41
+  orig: 65, 41
+  offset: 0, 0
+  index: -1
+eff_dust_2
+  rotate: false
+  xy: 612, 254
+  size: 79, 51
+  orig: 79, 51
+  offset: 0, 0
+  index: -1
+eff_dust_3
+  rotate: false
+  xy: 410, 251
+  size: 134, 65
+  orig: 134, 65
+  offset: 0, 0
+  index: -1
+eff_dust_4
+  rotate: true
+  xy: 960, 791
+  size: 60, 32
+  orig: 60, 32
+  offset: 0, 0
+  index: -1
+eff_dust_5
+  rotate: true
+  xy: 762, 541
+  size: 140, 74
+  orig: 140, 74
+  offset: 0, 0
+  index: -1
+eff_dust_6
+  rotate: false
+  xy: 2, 2
+  size: 88, 52
+  orig: 88, 52
+  offset: 0, 0
+  index: -1
+eff_dust_7
+  rotate: false
+  xy: 838, 653
+  size: 59, 32
+  orig: 59, 32
+  offset: 0, 0
+  index: -1
+eff_dust_8
+  rotate: true
+  xy: 545, 318
+  size: 110, 68
+  orig: 110, 68
+  offset: 0, 0
+  index: -1
+eff_effect
+  rotate: false
+  xy: 2, 380
+  size: 325, 321
+  orig: 325, 321
+  offset: 0, 0
+  index: -1
+eff_stone_1
+  rotate: true
+  xy: 92, 2
+  size: 52, 54
+  orig: 52, 54
+  offset: 0, 0
+  index: -1
+eff_stone_2
+  rotate: false
+  xy: 558, 112
+  size: 32, 43
+  orig: 32, 43
+  offset: 0, 0
+  index: -1
+eff_stone_3
+  rotate: false
+  xy: 838, 603
+  size: 43, 48
+  orig: 43, 48
+  offset: 0, 0
+  index: -1
+eff_stone_4
+  rotate: true
+  xy: 899, 651
+  size: 34, 23
+  orig: 34, 23
+  offset: 0, 0
+  index: -1
+eff_stone_5
+  rotate: true
+  xy: 148, 4
+  size: 50, 34
+  orig: 50, 34
+  offset: 0, 0
+  index: -1
+eff_stone_6
+  rotate: true
+  xy: 329, 415
+  size: 14, 12
+  orig: 14, 12
+  offset: 0, 0
+  index: -1
+gama_body
+  rotate: false
+  xy: 518, 754
+  size: 347, 268
+  orig: 347, 268
+  offset: 0, 0
+  index: -1
+gama_eye
+  rotate: true
+  xy: 343, 267
+  size: 162, 65
+  orig: 162, 65
+  offset: 0, 0
+  index: -1
+gama_eye_damage
+  rotate: true
+  xy: 343, 109
+  size: 156, 65
+  orig: 156, 65
+  offset: 0, 0
+  index: -1
+gama_hand_L_1
+  rotate: false
+  xy: 515, 534
+  size: 118, 147
+  orig: 118, 147
+  offset: 0, 0
+  index: -1
+gama_hand_L_2
+  rotate: true
+  xy: 546, 206
+  size: 110, 64
+  orig: 110, 64
+  offset: 0, 0
+  index: -1
+gama_hand_L_3
+  rotate: false
+  xy: 867, 754
+  size: 82, 36
+  orig: 82, 36
+  offset: 0, 0
+  index: -1
+gama_hand_L_3_attack
+  rotate: false
+  xy: 635, 494
+  size: 121, 60
+  orig: 121, 60
+  offset: 0, 0
+  index: -1
+gama_hand_R_1
+  rotate: false
+  xy: 635, 556
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: -1
+gama_hand_R_2
+  rotate: false
+  xy: 239, 2
+  size: 72, 98
+  orig: 72, 98
+  offset: 0, 0
+  index: -1
+gama_hand_R_3
+  rotate: false
+  xy: 2, 703
+  size: 514, 319
+  orig: 514, 319
+  offset: 0, 0
+  index: -1
+gama_head
+  rotate: true
+  xy: 867, 792
+  size: 230, 91
+  orig: 230, 91
+  offset: 0, 0
+  index: -1
+gama_leg_L_1
+  rotate: false
+  xy: 410, 318
+  size: 133, 110
+  orig: 133, 110
+  offset: 0, 0
+  index: -1
+gama_leg_L_2
+  rotate: true
+  xy: 453, 534
+  size: 167, 60
+  orig: 167, 60
+  offset: 0, 0
+  index: -1
+gama_leg_R_1
+  rotate: false
+  xy: 410, 157
+  size: 130, 92
+  orig: 130, 92
+  offset: 0, 0
+  index: -1
+gama_leg_R_2
+  rotate: true
+  xy: 960, 853
+  size: 169, 49
+  orig: 169, 49
+  offset: 0, 0
+  index: -1
+gama_loincloth_1
+  rotate: false
+  xy: 518, 683
+  size: 291, 69
+  orig: 291, 69
+  offset: 0, 0
+  index: -1
+gama_loincloth_2
+  rotate: true
+  xy: 612, 197
+  size: 55, 74
+  orig: 55, 74
+  offset: 0, 0
+  index: -1
+gama_loincloth_3
+  rotate: true
+  xy: 758, 499
+  size: 40, 72
+  orig: 40, 72
+  offset: 0, 0
+  index: -1
+gama_loincloth_4
+  rotate: true
+  xy: 811, 715
+  size: 37, 76
+  orig: 37, 76
+  offset: 0, 0
+  index: -1
+gama_loincloth_5
+  rotate: true
+  xy: 329, 431
+  size: 270, 122
+  orig: 270, 122
+  offset: 0, 0
+  index: -1
+gama_mouth
+  rotate: true
+  xy: 250, 176
+  size: 202, 91
+  orig: 202, 91
+  offset: 0, 0
+  index: -1
+gama_tongue
+  rotate: true
+  xy: 189, 2
+  size: 170, 48
+  orig: 170, 48
+  offset: 0, 0
+  index: -1
+gama_tongue_attack
+  rotate: false
+  xy: 2, 174
+  size: 246, 204
+  orig: 246, 204
+  offset: 0, 0
+  index: -1
+gama_tree
+  rotate: false
+  xy: 410, 102
+  size: 146, 53
+  orig: 146, 53
+  offset: 0, 0
+  index: -1
+sennin_beard
+  rotate: true
+  xy: 542, 157
+  size: 47, 49
+  orig: 47, 49
+  offset: 0, 0
+  index: -1
+sennin_eye
+  rotate: true
+  xy: 693, 252
+  size: 53, 20
+  orig: 53, 20
+  offset: 0, 0
+  index: -1
+sennin_eye_damage
+  rotate: true
+  xy: 838, 545
+  size: 56, 31
+  orig: 56, 31
+  offset: 0, 0
+  index: -1
+sennin_hand_L
+  rotate: true
+  xy: 688, 221
+  size: 29, 19
+  orig: 29, 19
+  offset: 0, 0
+  index: -1
+sennin_head
+  rotate: true
+  xy: 2, 56
+  size: 116, 185
+  orig: 116, 185
+  offset: 0, 0
+  index: -1
+sennin_leg_L
+  rotate: true
+  xy: 615, 307
+  size: 83, 107
+  orig: 83, 107
+  offset: 0, 0
+  index: -1
+sennin_nose
+  rotate: false
+  xy: 615, 412
+  size: 14, 16
+  orig: 14, 16
+  offset: 0, 0
+  index: -1
+sennin_stick
+  rotate: false
+  xy: 631, 392
+  size: 114, 100
+  orig: 114, 100
+  offset: 0, 0
+  index: -1

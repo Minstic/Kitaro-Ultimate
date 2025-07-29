@@ -1,0 +1,27 @@
+
+Character_40012.png
+size: 97,45
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 2
+  size: 52, 41
+  orig: 52, 41
+  offset: 0, 0
+  index: -1
+face_default
+  rotate: true
+  xy: 86, 22
+  size: 21, 9
+  orig: 21, 9
+  offset: 0, 0
+  index: -1
+horn
+  rotate: false
+  xy: 56, 11
+  size: 28, 32
+  orig: 28, 32
+  offset: 0, 0
+  index: -1

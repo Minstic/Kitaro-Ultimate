@@ -1,0 +1,482 @@
+
+Character_30290.png
+size: 929,961
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+eff_fire_l1
+  rotate: true
+  xy: 453, 180
+  size: 135, 208
+  orig: 135, 208
+  offset: 0, 0
+  index: -1
+eff_fire_l2
+  rotate: true
+  xy: 256, 543
+  size: 179, 252
+  orig: 179, 252
+  offset: 0, 0
+  index: -1
+eff_fire_r1
+  rotate: true
+  xy: 663, 157
+  size: 137, 156
+  orig: 137, 156
+  offset: 0, 0
+  index: -1
+eff_fire_r2
+  rotate: true
+  xy: 756, 638
+  size: 125, 159
+  orig: 125, 159
+  offset: 0, 0
+  index: -1
+eff_line_c
+  rotate: false
+  xy: 909, 203
+  size: 17, 244
+  orig: 17, 244
+  offset: 0, 0
+  index: -1
+eff_line_l
+  rotate: false
+  xy: 917, 583
+  size: 10, 180
+  orig: 10, 180
+  offset: 0, 0
+  index: -1
+eff_line_r
+  rotate: false
+  xy: 821, 177
+  size: 25, 117
+  orig: 25, 117
+  offset: 0, 0
+  index: -1
+eff_ring2
+  rotate: true
+  xy: 402, 59
+  size: 117, 102
+  orig: 117, 102
+  offset: 0, 0
+  index: -1
+ground_l
+  rotate: false
+  xy: 519, 690
+  size: 235, 56
+  orig: 235, 56
+  offset: 0, 0
+  index: -1
+ground_r
+  rotate: true
+  xy: 865, 270
+  size: 177, 42
+  orig: 177, 42
+  offset: 0, 0
+  index: -1
+neko_arm_at_l1
+  rotate: false
+  xy: 564, 9
+  size: 36, 14
+  orig: 36, 14
+  offset: 0, 0
+  index: -1
+neko_arm_at_l2
+  rotate: false
+  xy: 811, 60
+  size: 35, 37
+  orig: 35, 37
+  offset: 0, 0
+  index: -1
+neko_arm_at_r1
+  rotate: true
+  xy: 912, 542
+  size: 39, 15
+  orig: 39, 15
+  offset: 0, 0
+  index: -1
+neko_arm_at_r2
+  rotate: false
+  xy: 875, 235
+  size: 32, 33
+  orig: 32, 33
+  offset: 0, 0
+  index: -1
+neko_arm_def_back_l
+  rotate: false
+  xy: 663, 296
+  size: 18, 19
+  orig: 18, 19
+  offset: 0, 0
+  index: -1
+neko_arm_def_back_r
+  rotate: false
+  xy: 688, 450
+  size: 25, 13
+  orig: 25, 13
+  offset: 0, 0
+  index: -1
+neko_base
+  rotate: false
+  xy: 710, 8
+  size: 63, 62
+  orig: 63, 62
+  offset: 0, 0
+  index: -1
+neko_base_head
+  rotate: false
+  xy: 506, 91
+  size: 109, 87
+  orig: 109, 87
+  offset: 0, 0
+  index: -1
+neko_base_sipo
+  rotate: false
+  xy: 506, 4
+  size: 56, 19
+  orig: 56, 19
+  offset: 0, 0
+  index: -1
+neko_face_at
+  rotate: true
+  xy: 811, 99
+  size: 56, 28
+  orig: 56, 28
+  offset: 0, 0
+  index: -1
+neko_face_dam
+  rotate: true
+  xy: 775, 16
+  size: 54, 33
+  orig: 54, 33
+  offset: 0, 0
+  index: -1
+neko_face_def
+  rotate: true
+  xy: 841, 110
+  size: 53, 28
+  orig: 53, 28
+  offset: 0, 0
+  index: -1
+neko_glove_l_close
+  rotate: false
+  xy: 846, 12
+  size: 27, 23
+  orig: 27, 23
+  offset: 0, 0
+  index: -1
+neko_glove_l_open
+  rotate: false
+  xy: 875, 200
+  size: 32, 33
+  orig: 32, 33
+  offset: 0, 0
+  index: -1
+neko_glove_r_close
+  rotate: true
+  xy: 882, 40
+  size: 27, 23
+  orig: 27, 23
+  offset: 0, 0
+  index: -1
+neko_glove_r_open
+  rotate: false
+  xy: 478, 509
+  size: 30, 32
+  orig: 30, 32
+  offset: 0, 0
+  index: -1
+neko_noise_1
+  rotate: true
+  xy: 212, 10
+  size: 166, 188
+  orig: 166, 188
+  offset: 0, 0
+  index: -1
+neko_noise_2
+  rotate: false
+  xy: 756, 765
+  size: 171, 194
+  orig: 171, 194
+  offset: 0, 0
+  index: -1
+neko_noise_3
+  rotate: true
+  xy: 720, 449
+  size: 187, 190
+  orig: 187, 190
+  offset: 0, 0
+  index: -1
+neko_punch_1_l
+  rotate: false
+  xy: 720, 658
+  size: 32, 30
+  orig: 32, 30
+  offset: 0, 0
+  index: -1
+neko_punch_1_r
+  rotate: false
+  xy: 848, 37
+  size: 32, 30
+  orig: 32, 30
+  offset: 0, 0
+  index: -1
+neko_punch_2_l
+  rotate: false
+  xy: 666, 20
+  size: 42, 52
+  orig: 42, 52
+  offset: 0, 0
+  index: -1
+neko_punch_2_r
+  rotate: false
+  xy: 810, 5
+  size: 34, 53
+  orig: 34, 53
+  offset: 0, 0
+  index: -1
+neko_visor
+  rotate: true
+  xy: 848, 195
+  size: 73, 25
+  orig: 73, 25
+  offset: 0, 0
+  index: -1
+rock_1
+  rotate: true
+  xy: 889, 75
+  size: 36, 38
+  orig: 36, 38
+  offset: 0, 0
+  index: -1
+rock_10
+  rotate: false
+  xy: 610, 2
+  size: 54, 70
+  orig: 54, 70
+  offset: 0, 0
+  index: -1
+rock_11
+  rotate: false
+  xy: 875, 160
+  size: 52, 38
+  orig: 52, 38
+  offset: 0, 0
+  index: -1
+rock_12
+  rotate: true
+  xy: 617, 74
+  size: 81, 100
+  orig: 81, 100
+  offset: 0, 0
+  index: -1
+rock_13
+  rotate: false
+  xy: 871, 113
+  size: 45, 45
+  orig: 45, 45
+  offset: 0, 0
+  index: -1
+rock_14
+  rotate: false
+  xy: 720, 638
+  size: 30, 18
+  orig: 30, 18
+  offset: 0, 0
+  index: -1
+rock_15
+  rotate: false
+  xy: 617, 157
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+rock_16
+  rotate: false
+  xy: 233, 413
+  size: 16, 30
+  orig: 16, 30
+  offset: 0, 0
+  index: -1
+rock_17
+  rotate: false
+  xy: 848, 165
+  size: 25, 28
+  orig: 25, 28
+  offset: 0, 0
+  index: -1
+rock_18
+  rotate: false
+  xy: 402, 2
+  size: 52, 55
+  orig: 52, 55
+  offset: 0, 0
+  index: -1
+rock_19
+  rotate: false
+  xy: 233, 392
+  size: 16, 19
+  orig: 16, 19
+  offset: 0, 0
+  index: -1
+rock_2
+  rotate: false
+  xy: 688, 465
+  size: 30, 38
+  orig: 30, 38
+  offset: 0, 0
+  index: -1
+rock_20
+  rotate: true
+  xy: 2, 2
+  size: 5, 6
+  orig: 5, 6
+  offset: 0, 0
+  index: -1
+rock_21
+  rotate: true
+  xy: 775, 2
+  size: 12, 21
+  orig: 12, 21
+  offset: 0, 0
+  index: -1
+rock_22
+  rotate: true
+  xy: 453, 317
+  size: 4, 7
+  orig: 4, 7
+  offset: 0, 0
+  index: -1
+rock_23
+  rotate: false
+  xy: 848, 69
+  size: 39, 39
+  orig: 39, 39
+  offset: 0, 0
+  index: -1
+rock_24
+  rotate: false
+  xy: 688, 296
+  size: 175, 151
+  orig: 175, 151
+  offset: 0, 0
+  index: -1
+rock_3
+  rotate: true
+  xy: 506, 25
+  size: 64, 102
+  orig: 64, 102
+  offset: 0, 0
+  index: -1
+rock_4
+  rotate: true
+  xy: 912, 521
+  size: 19, 15
+  orig: 19, 15
+  offset: 0, 0
+  index: -1
+rock_5
+  rotate: false
+  xy: 848, 281
+  size: 10, 13
+  orig: 10, 13
+  offset: 0, 0
+  index: -1
+rock_6
+  rotate: false
+  xy: 666, 2
+  size: 20, 16
+  orig: 20, 16
+  offset: 0, 0
+  index: -1
+rock_7
+  rotate: true
+  xy: 719, 72
+  size: 83, 90
+  orig: 83, 90
+  offset: 0, 0
+  index: -1
+rock_8
+  rotate: false
+  xy: 456, 8
+  size: 48, 49
+  orig: 48, 49
+  offset: 0, 0
+  index: -1
+rock_9
+  rotate: false
+  xy: 453, 323
+  size: 23, 39
+  orig: 23, 39
+  offset: 0, 0
+  index: -1
+wapon_AT_l
+  rotate: false
+  xy: 519, 748
+  size: 235, 211
+  orig: 235, 211
+  offset: 0, 0
+  index: -1
+wapon_AT_r
+  rotate: false
+  xy: 2, 9
+  size: 208, 169
+  orig: 208, 169
+  offset: 0, 0
+  index: -1
+weapon_base_l
+  rotate: false
+  xy: 2, 704
+  size: 252, 255
+  orig: 252, 255
+  offset: 0, 0
+  index: -1
+weapon_base_r
+  rotate: true
+  xy: 251, 364
+  size: 177, 225
+  orig: 177, 225
+  offset: 0, 0
+  index: -1
+weapon_noise_1_l
+  rotate: true
+  xy: 256, 724
+  size: 235, 261
+  orig: 235, 261
+  offset: 0, 0
+  index: -1
+weapon_noise_1_r
+  rotate: true
+  xy: 510, 505
+  size: 183, 208
+  orig: 183, 208
+  offset: 0, 0
+  index: -1
+weapon_noise_2_l
+  rotate: false
+  xy: 2, 445
+  size: 247, 257
+  orig: 247, 257
+  offset: 0, 0
+  index: -1
+weapon_noise_2_r
+  rotate: true
+  xy: 233, 178
+  size: 184, 218
+  orig: 184, 218
+  offset: 0, 0
+  index: -1
+weapon_noise_3_l
+  rotate: false
+  xy: 2, 180
+  size: 229, 263
+  orig: 229, 263
+  offset: 0, 0
+  index: -1
+weapon_noise_3_r
+  rotate: true
+  xy: 478, 317
+  size: 186, 208
+  orig: 186, 208
+  offset: 0, 0
+  index: -1

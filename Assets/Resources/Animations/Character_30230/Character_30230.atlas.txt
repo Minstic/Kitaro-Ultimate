@@ -1,0 +1,244 @@
+
+Character_30230.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_l1
+  rotate: true
+  xy: 420, 155
+  size: 44, 154
+  orig: 44, 154
+  offset: 0, 0
+  index: -1
+arm_r1
+  rotate: false
+  xy: 952, 330
+  size: 40, 163
+  orig: 40, 163
+  offset: 0, 0
+  index: -1
+atk_arm_l1
+  rotate: false
+  xy: 148, 4
+  size: 59, 140
+  orig: 59, 140
+  offset: 0, 0
+  index: -1
+atk_arm_l2
+  rotate: true
+  xy: 913, 876
+  size: 146, 90
+  orig: 146, 90
+  offset: 0, 0
+  index: -1
+atk_arm_r1
+  rotate: true
+  xy: 576, 134
+  size: 58, 146
+  orig: 58, 146
+  offset: 0, 0
+  index: -1
+atk_arm_r2
+  rotate: false
+  xy: 724, 126
+  size: 151, 85
+  orig: 151, 85
+  offset: 0, 0
+  index: -1
+beard
+  rotate: false
+  xy: 579, 194
+  size: 132, 190
+  orig: 132, 190
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 507, 411
+  size: 128, 240
+  orig: 128, 240
+  offset: 0, 0
+  index: -1
+cloud_b
+  rotate: false
+  xy: 2, 801
+  size: 516, 221
+  orig: 516, 221
+  offset: 0, 0
+  index: -1
+cloud_f
+  rotate: false
+  xy: 520, 768
+  size: 328, 106
+  orig: 328, 106
+  offset: 0, 0
+  index: -1
+cloud_mini_1
+  rotate: false
+  xy: 713, 213
+  size: 176, 113
+  orig: 176, 113
+  offset: 0, 0
+  index: -1
+cloud_mini_2
+  rotate: true
+  xy: 795, 328
+  size: 193, 121
+  orig: 193, 121
+  offset: 0, 0
+  index: -1
+cloud_mini_3
+  rotate: true
+  xy: 420, 201
+  size: 206, 115
+  orig: 206, 115
+  offset: 0, 0
+  index: -1
+cloud_mini_4
+  rotate: false
+  xy: 787, 714
+  size: 61, 52
+  orig: 61, 52
+  offset: 0, 0
+  index: -1
+eff_chr_light
+  rotate: false
+  xy: 2, 444
+  size: 357, 355
+  orig: 357, 355
+  offset: 0, 0
+  index: -1
+eff_cloud_b
+  rotate: true
+  xy: 261, 138
+  size: 304, 56
+  orig: 304, 56
+  offset: 0, 0
+  index: -1
+eff_cloud_f
+  rotate: true
+  xy: 741, 334
+  size: 317, 52
+  orig: 317, 52
+  offset: 0, 0
+  index: -1
+eff_dust_1
+  rotate: true
+  xy: 319, 164
+  size: 243, 99
+  orig: 243, 99
+  offset: 0, 0
+  index: -1
+eff_dust_2
+  rotate: false
+  xy: 507, 653
+  size: 278, 113
+  orig: 278, 113
+  offset: 0, 0
+  index: -1
+eff_dust_3
+  rotate: true
+  xy: 637, 386
+  size: 265, 102
+  orig: 265, 102
+  offset: 0, 0
+  index: -1
+eff_lightning_1
+  rotate: false
+  xy: 537, 201
+  size: 40, 208
+  orig: 40, 208
+  offset: 0, 0
+  index: -1
+eff_lightning_2
+  rotate: false
+  xy: 918, 320
+  size: 32, 201
+  orig: 32, 201
+  offset: 0, 0
+  index: -1
+eff_lightning_3
+  rotate: false
+  xy: 958, 495
+  size: 32, 202
+  orig: 32, 202
+  offset: 0, 0
+  index: -1
+eff_lightning_pillar
+  rotate: false
+  xy: 2, 146
+  size: 257, 296
+  orig: 257, 296
+  offset: 0, 0
+  index: -1
+eff_pillar_1
+  rotate: false
+  xy: 361, 409
+  size: 144, 390
+  orig: 144, 390
+  offset: 0, 0
+  index: -1
+eff_pillar_2
+  rotate: true
+  xy: 520, 876
+  size: 146, 391
+  orig: 146, 391
+  offset: 0, 0
+  index: -1
+eff_pillarlight
+  rotate: false
+  xy: 992, 602
+  size: 30, 95
+  orig: 30, 95
+  offset: 0, 0
+  index: -1
+face_attack
+  rotate: false
+  xy: 319, 18
+  size: 60, 144
+  orig: 60, 144
+  offset: 0, 0
+  index: -1
+face_damage
+  rotate: false
+  xy: 257, 30
+  size: 60, 106
+  orig: 60, 106
+  offset: 0, 0
+  index: -1
+face_default
+  rotate: false
+  xy: 891, 210
+  size: 52, 108
+  orig: 52, 108
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 2, 2
+  size: 144, 142
+  orig: 144, 142
+  offset: 0, 0
+  index: -1
+tail
+  rotate: false
+  xy: 209, 6
+  size: 46, 138
+  orig: 46, 138
+  offset: 0, 0
+  index: -1
+wing_l
+  rotate: true
+  xy: 850, 699
+  size: 175, 165
+  orig: 175, 165
+  offset: 0, 0
+  index: -1
+wing_r
+  rotate: false
+  xy: 795, 523
+  size: 161, 174
+  orig: 161, 174
+  offset: 0, 0
+  index: -1

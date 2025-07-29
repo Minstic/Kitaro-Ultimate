@@ -1,0 +1,20 @@
+
+Character_40030.png
+size: 212,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 21
+  size: 208, 233
+  orig: 208, 233
+  offset: 0, 0
+  index: -1
+face_default
+  rotate: false
+  xy: 2, 2
+  size: 44, 17
+  orig: 44, 17
+  offset: 0, 0
+  index: -1

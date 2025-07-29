@@ -1,0 +1,90 @@
+
+Character_00550.png
+size: 413,139
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_l
+  rotate: true
+  xy: 189, 6
+  size: 52, 74
+  orig: 52, 74
+  offset: 0, 0
+  index: -1
+arm_r_01
+  rotate: false
+  xy: 315, 9
+  size: 40, 64
+  orig: 40, 64
+  offset: 0, 0
+  index: -1
+body_01
+  rotate: false
+  xy: 86, 2
+  size: 48, 56
+  orig: 48, 56
+  offset: 0, 0
+  index: -1
+body_02
+  rotate: false
+  xy: 357, 40
+  size: 38, 33
+  orig: 38, 33
+  offset: 0, 0
+  index: -1
+bowknot
+  rotate: false
+  xy: 272, 2
+  size: 41, 71
+  orig: 41, 71
+  offset: 0, 0
+  index: -1
+face_damage
+  rotate: true
+  xy: 357, 3
+  size: 35, 27
+  orig: 35, 27
+  offset: 0, 0
+  index: -1
+face_default
+  rotate: true
+  xy: 386, 4
+  size: 34, 25
+  orig: 34, 25
+  offset: 0, 0
+  index: -1
+face_default_eye
+  rotate: false
+  xy: 247, 60
+  size: 23, 13
+  orig: 23, 13
+  offset: 0, 0
+  index: -1
+hair
+  rotate: true
+  xy: 86, 60
+  size: 77, 159
+  orig: 77, 159
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 136, 5
+  size: 53, 51
+  orig: 53, 51
+  offset: 0, 0
+  index: -1
+hip
+  rotate: true
+  xy: 2, 6
+  size: 131, 82
+  orig: 131, 82
+  offset: 0, 0
+  index: -1
+neck_01
+  rotate: false
+  xy: 265, 75
+  size: 146, 62
+  orig: 146, 62
+  offset: 0, 0
+  index: -1

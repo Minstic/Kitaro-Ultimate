@@ -1,0 +1,174 @@
+
+Other_10070.png
+size: 863,154
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: true
+  xy: 82, 42
+  size: 110, 61
+  orig: 110, 61
+  offset: 0, 0
+  index: -1
+eff_hit_l
+  rotate: true
+  xy: 44, 3
+  size: 37, 25
+  orig: 37, 25
+  offset: 0, 0
+  index: -1
+eff_hit_r
+  rotate: false
+  xy: 811, 123
+  size: 41, 29
+  orig: 41, 29
+  offset: 0, 0
+  index: -1
+eff_splash
+  rotate: true
+  xy: 811, 96
+  size: 25, 41
+  orig: 25, 41
+  offset: 0, 0
+  index: -1
+eff_sweat_1
+  rotate: false
+  xy: 307, 56
+  size: 29, 16
+  orig: 29, 16
+  offset: 0, 0
+  index: -1
+eff_sweat_2
+  rotate: false
+  xy: 245, 50
+  size: 33, 22
+  orig: 33, 22
+  offset: 0, 0
+  index: -1
+eff_thunder_1
+  rotate: true
+  xy: 151, 2
+  size: 46, 224
+  orig: 46, 224
+  offset: 0, 0
+  index: -1
+eff_thunder_2
+  rotate: true
+  xy: 570, 84
+  size: 68, 239
+  orig: 68, 239
+  offset: 0, 0
+  index: -1
+eff_thunder_sub1
+  rotate: true
+  xy: 377, 3
+  size: 69, 309
+  orig: 69, 309
+  offset: 0, 0
+  index: -1
+eff_thunder_sub2
+  rotate: true
+  xy: 245, 74
+  size: 78, 323
+  orig: 78, 323
+  offset: 0, 0
+  index: -1
+eye_atk
+  rotate: true
+  xy: 2, 2
+  size: 38, 19
+  orig: 38, 19
+  offset: 0, 0
+  index: -1
+eye_damage
+  rotate: true
+  xy: 23, 2
+  size: 38, 19
+  orig: 38, 19
+  offset: 0, 0
+  index: -1
+eye_default
+  rotate: true
+  xy: 115, 6
+  size: 34, 16
+  orig: 34, 16
+  offset: 0, 0
+  index: -1
+eye_move
+  rotate: true
+  xy: 133, 6
+  size: 34, 16
+  orig: 34, 16
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 145, 50
+  size: 102, 98
+  orig: 102, 98
+  offset: 0, 0
+  index: -1
+leg_bl
+  rotate: true
+  xy: 811, 70
+  size: 24, 30
+  orig: 24, 30
+  offset: 0, 0
+  index: -1
+leg_br
+  rotate: true
+  xy: 338, 58
+  size: 14, 31
+  orig: 14, 31
+  offset: 0, 0
+  index: -1
+leg_fl
+  rotate: true
+  xy: 280, 54
+  size: 18, 25
+  orig: 18, 25
+  offset: 0, 0
+  index: -1
+leg_fr
+  rotate: false
+  xy: 843, 68
+  size: 15, 26
+  orig: 15, 26
+  offset: 0, 0
+  index: -1
+mant
+  rotate: true
+  xy: 2, 42
+  size: 110, 78
+  orig: 110, 78
+  offset: 0, 0
+  index: -1
+mouth_attack
+  rotate: false
+  xy: 688, 9
+  size: 55, 57
+  orig: 55, 57
+  offset: 0, 0
+  index: -1
+mouth_damage
+  rotate: true
+  xy: 745, 27
+  size: 55, 57
+  orig: 55, 57
+  offset: 0, 0
+  index: -1
+mouth_default
+  rotate: false
+  xy: 804, 11
+  size: 57, 55
+  orig: 57, 55
+  offset: 0, 0
+  index: -1
+tail
+  rotate: true
+  xy: 71, 6
+  size: 34, 42
+  orig: 34, 42
+  offset: 0, 0
+  index: -1

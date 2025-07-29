@@ -1,0 +1,181 @@
+
+Character_00732.png
+size: 188,267
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_l_a
+  rotate: false
+  xy: 148, 54
+  size: 33, 35
+  orig: 33, 35
+  offset: 0, 0
+  index: -1
+arm_l_b
+  rotate: false
+  xy: 137, 170
+  size: 49, 40
+  orig: 49, 40
+  offset: 0, 0
+  index: -1
+arm_l_b_patch
+  rotate: false
+  xy: 137, 128
+  size: 49, 40
+  orig: 49, 40
+  offset: 0, 0
+  index: -1
+arm_r_a
+  rotate: true
+  xy: 80, 30
+  size: 29, 42
+  orig: 29, 42
+  offset: 0, 0
+  index: -1
+belt_layer
+  rotate: false
+  xy: 51, 2
+  size: 13, 14
+  orig: 13, 14
+  offset: 0, 0
+  index: -1
+body_01
+  rotate: false
+  xy: 120, 212
+  size: 47, 53
+  orig: 47, 53
+  offset: 0, 0
+  index: -1
+body_01_re
+  rotate: false
+  xy: 2, 22
+  size: 47, 53
+  orig: 47, 53
+  offset: 0, 0
+  index: -1
+body_02
+  rotate: true
+  xy: 94, 91
+  size: 49, 35
+  orig: 49, 35
+  offset: 0, 0
+  index: -1
+body_02_re
+  rotate: false
+  xy: 131, 91
+  size: 49, 35
+  orig: 49, 35
+  offset: 0, 0
+  index: -1
+face_attack
+  rotate: false
+  xy: 94, 61
+  size: 52, 28
+  orig: 52, 28
+  offset: 0, 0
+  index: -1
+face_damage
+  rotate: true
+  xy: 51, 18
+  size: 57, 27
+  orig: 57, 27
+  offset: 0, 0
+  index: -1
+face_default
+  rotate: true
+  xy: 71, 88
+  size: 53, 21
+  orig: 53, 21
+  offset: 0, 0
+  index: -1
+hand_l_a
+  rotate: false
+  xy: 132, 23
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+hand_r_a
+  rotate: false
+  xy: 66, 5
+  size: 12, 11
+  orig: 12, 11
+  offset: 0, 0
+  index: -1
+hand_r_b
+  rotate: true
+  xy: 124, 36
+  size: 23, 22
+  orig: 23, 22
+  offset: 0, 0
+  index: -1
+hat
+  rotate: false
+  xy: 2, 204
+  size: 116, 61
+  orig: 116, 61
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 2, 143
+  size: 91, 59
+  orig: 91, 59
+  offset: 0, 0
+  index: -1
+kazaguruma
+  rotate: false
+  xy: 32, 3
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+leg_l
+  rotate: true
+  xy: 80, 7
+  size: 21, 28
+  orig: 21, 28
+  offset: 0, 0
+  index: -1
+leg_r
+  rotate: true
+  xy: 148, 29
+  size: 23, 29
+  orig: 23, 29
+  offset: 0, 0
+  index: -1
+ribbon_b
+  rotate: true
+  xy: 2, 7
+  size: 13, 28
+  orig: 13, 28
+  offset: 0, 0
+  index: -1
+ribbon_f
+  rotate: true
+  xy: 110, 2
+  size: 25, 20
+  orig: 25, 20
+  offset: 0, 0
+  index: -1
+tail
+  rotate: true
+  xy: 169, 221
+  size: 44, 17
+  orig: 44, 17
+  offset: 0, 0
+  index: -1
+weapon
+  rotate: false
+  xy: 95, 142
+  size: 40, 60
+  orig: 40, 60
+  offset: 0, 0
+  index: -1
+weapon_b
+  rotate: false
+  xy: 2, 77
+  size: 67, 64
+  orig: 67, 64
+  offset: 0, 0
+  index: -1

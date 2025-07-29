@@ -1,0 +1,230 @@
+
+Family_10050.png
+size: 787,269
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+P_arm_B のコピー
+  rotate: false
+  xy: 138, 54
+  size: 13, 18
+  orig: 13, 18
+  offset: 0, 0
+  index: -1
+P_body_B
+  rotate: true
+  xy: 454, 6
+  size: 74, 65
+  orig: 74, 65
+  offset: 0, 0
+  index: -1
+P_body_F
+  rotate: false
+  xy: 688, 27
+  size: 41, 46
+  orig: 41, 46
+  offset: 0, 0
+  index: -1
+P_head
+  rotate: true
+  xy: 687, 131
+  size: 80, 87
+  orig: 80, 87
+  offset: 0, 0
+  index: -1
+aka_arm_L
+  rotate: false
+  xy: 640, 107
+  size: 41, 59
+  orig: 41, 59
+  offset: 0, 0
+  index: -1
+aka_arm_R
+  rotate: false
+  xy: 84, 4
+  size: 52, 68
+  orig: 52, 68
+  offset: 0, 0
+  index: -1
+aka_arm_r_02
+  rotate: false
+  xy: 565, 113
+  size: 73, 53
+  orig: 73, 53
+  offset: 0, 0
+  index: -1
+aka_body
+  rotate: false
+  xy: 257, 115
+  size: 114, 73
+  orig: 114, 73
+  offset: 0, 0
+  index: -1
+aka_face
+  rotate: true
+  xy: 2, 3
+  size: 69, 80
+  orig: 69, 80
+  offset: 0, 0
+  index: -1
+aka_face_damage
+  rotate: true
+  xy: 521, 44
+  size: 62, 58
+  orig: 62, 58
+  offset: 0, 0
+  index: -1
+aka_face_default
+  rotate: false
+  xy: 583, 3
+  size: 59, 59
+  orig: 59, 59
+  offset: 0, 0
+  index: -1
+aka_kami
+  rotate: true
+  xy: 423, 169
+  size: 98, 142
+  orig: 98, 142
+  offset: 0, 0
+  index: -1
+coco1
+  rotate: false
+  xy: 370, 2
+  size: 82, 78
+  orig: 82, 78
+  offset: 0, 0
+  index: -1
+coco2
+  rotate: true
+  xy: 514, 108
+  size: 59, 49
+  orig: 59, 49
+  offset: 0, 0
+  index: -1
+coconut
+  rotate: false
+  xy: 581, 64
+  size: 53, 47
+  orig: 53, 47
+  offset: 0, 0
+  index: -1
+eff3
+  rotate: false
+  xy: 687, 213
+  size: 98, 54
+  orig: 98, 54
+  offset: 0, 0
+  index: -1
+p_face_damage
+  rotate: false
+  xy: 644, 17
+  size: 42, 47
+  orig: 42, 47
+  offset: 0, 0
+  index: -1
+p_face_default
+  rotate: false
+  xy: 636, 66
+  size: 42, 39
+  orig: 42, 39
+  offset: 0, 0
+  index: -1
+po_arm_r_02
+  rotate: false
+  xy: 261, 7
+  size: 66, 20
+  orig: 66, 20
+  offset: 0, 0
+  index: -1
+yasi_arm_L
+  rotate: true
+  xy: 521, 14
+  size: 28, 60
+  orig: 28, 60
+  offset: 0, 0
+  index: -1
+yasi_arm_R
+  rotate: true
+  xy: 680, 75
+  size: 23, 57
+  orig: 23, 57
+  offset: 0, 0
+  index: -1
+yasi_body
+  rotate: false
+  xy: 423, 82
+  size: 89, 85
+  orig: 89, 85
+  offset: 0, 0
+  index: -1
+yasi_face_default
+  rotate: true
+  xy: 373, 105
+  size: 83, 48
+  orig: 83, 48
+  offset: 0, 0
+  index: -1
+yasi_hair
+  rotate: false
+  xy: 683, 100
+  size: 64, 29
+  orig: 64, 29
+  offset: 0, 0
+  index: -1
+yasi_head
+  rotate: false
+  xy: 567, 168
+  size: 118, 99
+  orig: 118, 99
+  offset: 0, 0
+  index: -1
+yasi_leg_L
+  rotate: false
+  xy: 749, 94
+  size: 32, 35
+  orig: 32, 35
+  offset: 0, 0
+  index: -1
+yasi_leg_R
+  rotate: true
+  xy: 688, 2
+  size: 23, 30
+  orig: 23, 30
+  offset: 0, 0
+  index: -1
+yasi_miki2
+  rotate: false
+  xy: 153, 106
+  size: 102, 161
+  orig: 102, 161
+  offset: 0, 0
+  index: -1
+yasi_miki3
+  rotate: true
+  xy: 257, 190
+  size: 77, 164
+  orig: 77, 164
+  offset: 0, 0
+  index: -1
+yasi_ｈead2
+  rotate: false
+  xy: 2, 74
+  size: 149, 193
+  orig: 149, 193
+  offset: 0, 0
+  index: -1
+yasi_ｈead_ha
+  rotate: false
+  xy: 261, 29
+  size: 107, 84
+  orig: 107, 84
+  offset: 0, 0
+  index: -1
+yasi_ｈead_ha2
+  rotate: false
+  xy: 153, 2
+  size: 106, 102
+  orig: 106, 102
+  offset: 0, 0
+  index: -1

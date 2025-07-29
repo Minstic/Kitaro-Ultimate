@@ -1,0 +1,202 @@
+
+Character_00102.png
+size: 614,141
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a_flash
+  rotate: false
+  xy: 254, 9
+  size: 61, 66
+  orig: 61, 66
+  offset: 0, 0
+  index: -1
+arm_l_a
+  rotate: true
+  xy: 520, 60
+  size: 22, 54
+  orig: 22, 54
+  offset: 0, 0
+  index: -1
+arm_l_b
+  rotate: true
+  xy: 317, 3
+  size: 22, 43
+  orig: 22, 43
+  offset: 0, 0
+  index: -1
+arm_r_a
+  rotate: false
+  xy: 430, 8
+  size: 25, 61
+  orig: 25, 61
+  offset: 0, 0
+  index: -1
+arm_r_b
+  rotate: false
+  xy: 510, 14
+  size: 22, 44
+  orig: 22, 44
+  offset: 0, 0
+  index: -1
+b_flash
+  rotate: true
+  xy: 95, 2
+  size: 55, 76
+  orig: 55, 76
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 366, 71
+  size: 78, 68
+  orig: 78, 68
+  offset: 0, 0
+  index: -1
+c_flash
+  rotate: true
+  xy: 446, 73
+  size: 66, 72
+  orig: 66, 72
+  offset: 0, 0
+  index: -1
+debris_01
+  rotate: false
+  xy: 173, 42
+  size: 6, 15
+  orig: 6, 15
+  offset: 0, 0
+  index: -1
+debris_02
+  rotate: true
+  xy: 271, 2
+  size: 5, 10
+  orig: 5, 10
+  offset: 0, 0
+  index: -1
+debris_03
+  rotate: false
+  xy: 510, 60
+  size: 6, 11
+  orig: 6, 11
+  offset: 0, 0
+  index: -1
+debris_04
+  rotate: true
+  xy: 295, 2
+  size: 5, 9
+  orig: 5, 9
+  offset: 0, 0
+  index: -1
+debris_05
+  rotate: true
+  xy: 254, 2
+  size: 5, 15
+  orig: 5, 15
+  offset: 0, 0
+  index: -1
+debris_06
+  rotate: true
+  xy: 283, 2
+  size: 5, 10
+  orig: 5, 10
+  offset: 0, 0
+  index: -1
+eri
+  rotate: false
+  xy: 534, 4
+  size: 37, 26
+  orig: 37, 26
+  offset: 0, 0
+  index: -1
+face_damage
+  rotate: true
+  xy: 576, 32
+  size: 27, 33
+  orig: 27, 33
+  offset: 0, 0
+  index: -1
+face_default
+  rotate: false
+  xy: 534, 32
+  size: 39, 26
+  orig: 39, 26
+  offset: 0, 0
+  index: -1
+flash_a
+  rotate: true
+  xy: 362, 8
+  size: 61, 66
+  orig: 61, 66
+  offset: 0, 0
+  index: -1
+flash_b
+  rotate: true
+  xy: 520, 84
+  size: 55, 76
+  orig: 55, 76
+  offset: 0, 0
+  index: -1
+flash_c
+  rotate: false
+  xy: 185, 2
+  size: 67, 73
+  orig: 67, 73
+  offset: 0, 0
+  index: -1
+hair_01
+  rotate: true
+  xy: 185, 77
+  size: 62, 94
+  orig: 62, 94
+  offset: 0, 0
+  index: -1
+hair_02
+  rotate: false
+  xy: 317, 27
+  size: 43, 49
+  orig: 43, 49
+  offset: 0, 0
+  index: -1
+hair_03
+  rotate: false
+  xy: 95, 59
+  size: 88, 80
+  orig: 88, 80
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 457, 9
+  size: 51, 62
+  orig: 51, 62
+  offset: 0, 0
+  index: -1
+head_acc
+  rotate: false
+  xy: 2, 6
+  size: 77, 26
+  orig: 77, 26
+  offset: 0, 0
+  index: -1
+ice
+  rotate: false
+  xy: 2, 34
+  size: 91, 105
+  orig: 91, 105
+  offset: 0, 0
+  index: -1
+mant
+  rotate: false
+  xy: 281, 78
+  size: 83, 61
+  orig: 83, 61
+  offset: 0, 0
+  index: -1
+necklace
+  rotate: false
+  xy: 576, 61
+  size: 36, 21
+  orig: 36, 21
+  offset: 0, 0
+  index: -1

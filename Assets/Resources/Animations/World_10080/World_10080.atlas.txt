@@ -1,0 +1,97 @@
+
+World_10080.png
+size: 455,267
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+eff
+  rotate: false
+  xy: 157, 10
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: -1
+hurari_arm
+  rotate: false
+  xy: 228, 164
+  size: 128, 101
+  orig: 128, 101
+  offset: 0, 0
+  index: -1
+hurari_at_g
+  rotate: false
+  xy: 2, 8
+  size: 153, 101
+  orig: 153, 101
+  offset: 0, 0
+  index: -1
+hurari_body
+  rotate: false
+  xy: 2, 111
+  size: 224, 154
+  orig: 224, 154
+  offset: 0, 0
+  index: -1
+hurari_eye_attack
+  rotate: false
+  xy: 435, 94
+  size: 13, 25
+  orig: 13, 25
+  offset: 0, 0
+  index: -1
+hurari_eye_default
+  rotate: false
+  xy: 213, 23
+  size: 20, 21
+  orig: 20, 21
+  offset: 0, 0
+  index: -1
+hurari_head_01
+  rotate: false
+  xy: 228, 60
+  size: 124, 102
+  orig: 124, 102
+  offset: 0, 0
+  index: -1
+hurari_head_02
+  rotate: false
+  xy: 354, 44
+  size: 79, 109
+  orig: 79, 109
+  offset: 0, 0
+  index: -1
+ke_body
+  rotate: false
+  xy: 358, 155
+  size: 93, 110
+  orig: 93, 110
+  offset: 0, 0
+  index: -1
+ke_eye_damage
+  rotate: true
+  xy: 193, 12
+  size: 32, 18
+  orig: 32, 18
+  offset: 0, 0
+  index: -1
+ke_eye_default
+  rotate: true
+  xy: 435, 121
+  size: 32, 18
+  orig: 32, 18
+  offset: 0, 0
+  index: -1
+ke_eyes
+  rotate: false
+  xy: 157, 2
+  size: 21, 6
+  orig: 21, 6
+  offset: 0, 0
+  index: -1
+ke_mouth
+  rotate: false
+  xy: 157, 46
+  size: 55, 63
+  orig: 55, 63
+  offset: 0, 0
+  index: -1

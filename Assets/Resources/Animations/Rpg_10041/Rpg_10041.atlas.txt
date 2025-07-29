@@ -1,0 +1,167 @@
+
+Rpg_10041.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_L
+  rotate: false
+  xy: 809, 142
+  size: 38, 24
+  orig: 38, 24
+  offset: 0, 0
+  index: -1
+arm_R
+  rotate: false
+  xy: 849, 136
+  size: 27, 30
+  orig: 27, 30
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 245, 2
+  size: 65, 62
+  orig: 65, 62
+  offset: 0, 0
+  index: -1
+cap
+  rotate: false
+  xy: 878, 159
+  size: 108, 95
+  orig: 108, 95
+  offset: 0, 0
+  index: -1
+dmg_eye
+  rotate: true
+  xy: 988, 201
+  size: 53, 23
+  orig: 53, 23
+  offset: 0, 0
+  index: -1
+dmg_mouth
+  rotate: false
+  xy: 588, 73
+  size: 48, 11
+  orig: 48, 11
+  offset: 0, 0
+  index: -1
+eff_smoke_1
+  rotate: true
+  xy: 2, 85
+  size: 85, 286
+  orig: 85, 286
+  offset: 0, 0
+  index: -1
+eff_smoke_2
+  rotate: true
+  xy: 300, 174
+  size: 80, 289
+  orig: 80, 289
+  offset: 0, 0
+  index: -1
+eff_smoke_3
+  rotate: true
+  xy: 591, 168
+  size: 86, 285
+  orig: 86, 285
+  offset: 0, 0
+  index: -1
+eff_smoke_4
+  rotate: true
+  xy: 2, 172
+  size: 82, 296
+  orig: 82, 296
+  offset: 0, 0
+  index: -1
+eff_smoke_fade_1
+  rotate: true
+  xy: 2, 17
+  size: 66, 241
+  orig: 66, 241
+  offset: 0, 0
+  index: -1
+eff_smoke_fade_2
+  rotate: true
+  xy: 300, 131
+  size: 41, 178
+  orig: 41, 178
+  offset: 0, 0
+  index: -1
+eff_smoke_fade_3
+  rotate: true
+  xy: 290, 90
+  size: 39, 136
+  orig: 39, 136
+  offset: 0, 0
+  index: -1
+eye
+  rotate: false
+  xy: 245, 73
+  size: 30, 10
+  orig: 30, 10
+  offset: 0, 0
+  index: -1
+eyeline
+  rotate: false
+  xy: 656, 100
+  size: 52, 23
+  orig: 52, 23
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 656, 125
+  size: 90, 41
+  orig: 90, 41
+  offset: 0, 0
+  index: -1
+hand_R
+  rotate: false
+  xy: 588, 86
+  size: 66, 80
+  orig: 66, 80
+  offset: 0, 0
+  index: -1
+hand_R_eff
+  rotate: true
+  xy: 748, 110
+  size: 56, 59
+  orig: 56, 59
+  offset: 0, 0
+  index: -1
+hand_R_light
+  rotate: false
+  xy: 480, 66
+  size: 106, 106
+  orig: 106, 106
+  offset: 0, 0
+  index: -1
+leg_L
+  rotate: true
+  xy: 51, 2
+  size: 13, 17
+  orig: 13, 17
+  offset: 0, 0
+  index: -1
+leg_R
+  rotate: false
+  xy: 988, 184
+  size: 16, 15
+  orig: 16, 15
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: false
+  xy: 2, 5
+  size: 47, 10
+  orig: 47, 10
+  offset: 0, 0
+  index: -1
+necklace
+  rotate: false
+  xy: 428, 92
+  size: 45, 37
+  orig: 45, 37
+  offset: 0, 0
+  index: -1

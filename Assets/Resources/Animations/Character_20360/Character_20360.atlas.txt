@@ -1,0 +1,153 @@
+
+Character_20360.png
+size: 449,267
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_l
+  rotate: true
+  xy: 274, 119
+  size: 47, 54
+  orig: 47, 54
+  offset: 0, 0
+  index: -1
+arm_r
+  rotate: false
+  xy: 368, 70
+  size: 62, 62
+  orig: 62, 62
+  offset: 0, 0
+  index: -1
+at_arm_l1
+  rotate: true
+  xy: 274, 2
+  size: 51, 55
+  orig: 51, 55
+  offset: 0, 0
+  index: -1
+at_arm_l2
+  rotate: true
+  xy: 205, 6
+  size: 37, 67
+  orig: 37, 67
+  offset: 0, 0
+  index: -1
+at_arm_r
+  rotate: false
+  xy: 334, 61
+  size: 32, 80
+  orig: 32, 80
+  offset: 0, 0
+  index: -1
+at_body
+  rotate: false
+  xy: 152, 88
+  size: 91, 76
+  orig: 91, 76
+  offset: 0, 0
+  index: -1
+at_eye
+  rotate: true
+  xy: 245, 124
+  size: 40, 22
+  orig: 40, 22
+  offset: 0, 0
+  index: -1
+at_head
+  rotate: false
+  xy: 376, 185
+  size: 71, 80
+  orig: 71, 80
+  offset: 0, 0
+  index: -1
+at_leg_l
+  rotate: true
+  xy: 376, 134
+  size: 49, 70
+  orig: 49, 70
+  offset: 0, 0
+  index: -1
+at_leg_r
+  rotate: false
+  xy: 331, 5
+  size: 80, 43
+  orig: 80, 43
+  offset: 0, 0
+  index: -1
+at_spear
+  rotate: false
+  xy: 2, 65
+  size: 148, 200
+  orig: 148, 200
+  offset: 0, 0
+  index: -1
+at_wing_l
+  rotate: true
+  xy: 152, 45
+  size: 41, 99
+  orig: 41, 99
+  offset: 0, 0
+  index: -1
+at_wing_r
+  rotate: false
+  xy: 258, 168
+  size: 70, 82
+  orig: 70, 82
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 152, 166
+  size: 104, 84
+  orig: 104, 84
+  offset: 0, 0
+  index: -1
+ef_hit
+  rotate: false
+  xy: 2, 11
+  size: 107, 52
+  orig: 107, 52
+  offset: 0, 0
+  index: -1
+eye_damage
+  rotate: false
+  xy: 368, 50
+  size: 46, 18
+  orig: 46, 18
+  offset: 0, 0
+  index: -1
+eye_default
+  rotate: false
+  xy: 111, 45
+  size: 39, 18
+  orig: 39, 18
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 253, 55
+  size: 79, 62
+  orig: 79, 62
+  offset: 0, 0
+  index: -1
+spear
+  rotate: false
+  xy: 152, 252
+  size: 205, 13
+  orig: 205, 13
+  offset: 0, 0
+  index: -1
+wing_l
+  rotate: true
+  xy: 330, 143
+  size: 107, 44
+  orig: 107, 44
+  offset: 0, 0
+  index: -1
+wing_r
+  rotate: true
+  xy: 111, 3
+  size: 40, 92
+  orig: 40, 92
+  offset: 0, 0
+  index: -1

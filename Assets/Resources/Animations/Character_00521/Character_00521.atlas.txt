@@ -1,0 +1,139 @@
+
+Character_00521.png
+size: 757,532
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+add
+  rotate: true
+  xy: 225, 194
+  size: 32, 59
+  orig: 32, 59
+  offset: 0, 0
+  index: -1
+arm_l
+  rotate: false
+  xy: 643, 356
+  size: 112, 51
+  orig: 112, 51
+  offset: 0, 0
+  index: -1
+arm_r
+  rotate: false
+  xy: 477, 2
+  size: 131, 67
+  orig: 131, 67
+  offset: 0, 0
+  index: -1
+attack_arm_l
+  rotate: true
+  xy: 225, 228
+  size: 97, 251
+  orig: 97, 251
+  offset: 0, 0
+  index: -1
+attack_arm_r
+  rotate: false
+  xy: 380, 16
+  size: 95, 210
+  orig: 95, 210
+  offset: 0, 0
+  index: -1
+attack_body
+  rotate: true
+  xy: 2, 193
+  size: 337, 221
+  orig: 337, 221
+  offset: 0, 0
+  index: -1
+attack_gross_l
+  rotate: true
+  xy: 375, 340
+  size: 190, 150
+  orig: 190, 150
+  offset: 0, 0
+  index: -1
+attack_gross_r
+  rotate: false
+  xy: 607, 90
+  size: 136, 136
+  orig: 136, 136
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 3
+  size: 376, 188
+  orig: 376, 188
+  offset: 0, 0
+  index: -1
+face_attack_eye
+  rotate: true
+  xy: 714, 239
+  size: 115, 40
+  orig: 115, 40
+  offset: 0, 0
+  index: -1
+face_attack_mouth_a
+  rotate: false
+  xy: 478, 228
+  size: 138, 110
+  orig: 138, 110
+  offset: 0, 0
+  index: -1
+face_attack_mouth_b
+  rotate: true
+  xy: 618, 244
+  size: 104, 94
+  orig: 104, 94
+  offset: 0, 0
+  index: -1
+face_attack_tongue
+  rotate: true
+  xy: 225, 327
+  size: 203, 148
+  orig: 203, 148
+  offset: 0, 0
+  index: -1
+face_damage
+  rotate: false
+  xy: 610, 11
+  size: 101, 77
+  orig: 101, 77
+  offset: 0, 0
+  index: -1
+face_default
+  rotate: false
+  xy: 527, 350
+  size: 114, 57
+  orig: 114, 57
+  offset: 0, 0
+  index: -1
+face_default_tongue
+  rotate: false
+  xy: 713, 40
+  size: 38, 48
+  orig: 38, 48
+  offset: 0, 0
+  index: -1
+gross_l_d
+  rotate: true
+  xy: 477, 71
+  size: 155, 128
+  orig: 155, 128
+  offset: 0, 0
+  index: -1
+gross_l_u
+  rotate: true
+  xy: 527, 452
+  size: 78, 84
+  orig: 78, 84
+  offset: 0, 0
+  index: -1
+gross_r
+  rotate: false
+  xy: 618, 409
+  size: 128, 121
+  orig: 128, 121
+  offset: 0, 0
+  index: -1

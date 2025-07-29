@@ -1,0 +1,76 @@
+
+Legend_10040.png
+size: 903,898
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+eff_ball1
+  rotate: false
+  xy: 2, 25
+  size: 15, 17
+  orig: 15, 17
+  offset: 0, 0
+  index: -1
+eff_ball2
+  rotate: false
+  xy: 872, 463
+  size: 18, 30
+  orig: 18, 30
+  offset: 0, 0
+  index: -1
+eff_ball3
+  rotate: false
+  xy: 341, 71
+  size: 11, 16
+  orig: 11, 16
+  offset: 0, 0
+  index: -1
+eff_hit
+  rotate: false
+  xy: 644, 77
+  size: 125, 104
+  orig: 125, 104
+  offset: 0, 0
+  index: -1
+eff_ripple
+  rotate: false
+  xy: 457, 2
+  size: 185, 179
+  orig: 185, 179
+  offset: 0, 0
+  index: -1
+eff_water
+  rotate: true
+  xy: 2, 44
+  size: 43, 337
+  orig: 43, 337
+  offset: 0, 0
+  index: -1
+h_1
+  rotate: false
+  xy: 459, 495
+  size: 442, 401
+  orig: 442, 401
+  offset: 0, 0
+  index: -1
+s_1
+  rotate: false
+  xy: 459, 183
+  size: 411, 310
+  orig: 411, 310
+  offset: 0, 0
+  index: -1
+suijin_base
+  rotate: false
+  xy: 2, 89
+  size: 453, 401
+  orig: 453, 401
+  offset: 0, 0
+  index: -1
+suijin_l
+  rotate: false
+  xy: 2, 492
+  size: 455, 404
+  orig: 455, 404
+  offset: 0, 0
+  index: -1

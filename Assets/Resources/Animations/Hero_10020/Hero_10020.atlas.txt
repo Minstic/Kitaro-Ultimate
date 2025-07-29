@@ -1,0 +1,160 @@
+
+Hero_10020.png
+size: 330,268
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+accessory_attack
+  rotate: true
+  xy: 225, 141
+  size: 59, 64
+  orig: 59, 64
+  offset: 0, 0
+  index: -1
+accessory_default
+  rotate: true
+  xy: 106, 54
+  size: 70, 47
+  orig: 70, 47
+  offset: 0, 0
+  index: -1
+arm_l_default
+  rotate: true
+  xy: 209, 4
+  size: 18, 53
+  orig: 18, 53
+  offset: 0, 0
+  index: -1
+arm_r_attack_1
+  rotate: false
+  xy: 209, 24
+  size: 43, 46
+  orig: 43, 46
+  offset: 0, 0
+  index: -1
+arm_r_default
+  rotate: false
+  xy: 262, 88
+  size: 21, 51
+  orig: 21, 51
+  offset: 0, 0
+  index: -1
+body_attack_1
+  rotate: false
+  xy: 132, 204
+  size: 102, 62
+  orig: 102, 62
+  offset: 0, 0
+  index: -1
+body_attack_1_re
+  rotate: false
+  xy: 2, 62
+  size: 102, 62
+  orig: 102, 62
+  offset: 0, 0
+  index: -1
+body_attack_2
+  rotate: false
+  xy: 2, 197
+  size: 128, 69
+  orig: 128, 69
+  offset: 0, 0
+  index: -1
+body_attack_2_re
+  rotate: false
+  xy: 2, 126
+  size: 128, 69
+  orig: 128, 69
+  offset: 0, 0
+  index: -1
+body_base
+  rotate: true
+  xy: 88, 2
+  size: 50, 69
+  orig: 50, 69
+  offset: 0, 0
+  index: -1
+body_base_re
+  rotate: false
+  xy: 155, 67
+  size: 50, 69
+  orig: 50, 69
+  offset: 0, 0
+  index: -1
+face_damage
+  rotate: true
+  xy: 291, 128
+  size: 30, 37
+  orig: 30, 37
+  offset: 0, 0
+  index: -1
+face_damage_re
+  rotate: true
+  xy: 291, 160
+  size: 40, 37
+  orig: 40, 37
+  offset: 0, 0
+  index: -1
+face_default
+  rotate: false
+  xy: 254, 36
+  size: 29, 34
+  orig: 29, 34
+  offset: 0, 0
+  index: -1
+face_default_re
+  rotate: false
+  xy: 285, 92
+  size: 33, 34
+  orig: 33, 34
+  offset: 0, 0
+  index: -1
+hand_l_attack_1
+  rotate: true
+  xy: 304, 66
+  size: 24, 17
+  orig: 24, 17
+  offset: 0, 0
+  index: -1
+head_default
+  rotate: false
+  xy: 132, 138
+  size: 91, 64
+  orig: 91, 64
+  offset: 0, 0
+  index: -1
+head_default_re
+  rotate: false
+  xy: 236, 202
+  size: 91, 64
+  orig: 91, 64
+  offset: 0, 0
+  index: -1
+scarf_attack_1_back
+  rotate: true
+  xy: 159, 2
+  size: 63, 48
+  orig: 63, 48
+  offset: 0, 0
+  index: -1
+scarf_attack_1_front
+  rotate: true
+  xy: 285, 42
+  size: 48, 17
+  orig: 48, 17
+  offset: 0, 0
+  index: -1
+scarf_attack_2
+  rotate: false
+  xy: 2, 15
+  size: 84, 45
+  orig: 84, 45
+  offset: 0, 0
+  index: -1
+scarf_default
+  rotate: false
+  xy: 207, 72
+  size: 53, 64
+  orig: 53, 64
+  offset: 0, 0
+  index: -1

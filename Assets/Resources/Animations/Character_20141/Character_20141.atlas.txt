@@ -1,0 +1,139 @@
+
+Character_20141.png
+size: 454,146
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_l
+  rotate: false
+  xy: 247, 65
+  size: 40, 79
+  orig: 40, 79
+  offset: 0, 0
+  index: -1
+arm_r
+  rotate: true
+  xy: 210, 3
+  size: 49, 66
+  orig: 49, 66
+  offset: 0, 0
+  index: -1
+bandage_01
+  rotate: false
+  xy: 210, 54
+  size: 35, 90
+  orig: 35, 90
+  offset: 0, 0
+  index: -1
+bandage_02
+  rotate: false
+  xy: 339, 69
+  size: 31, 75
+  orig: 31, 75
+  offset: 0, 0
+  index: -1
+bandage_03
+  rotate: true
+  xy: 69, 2
+  size: 27, 59
+  orig: 27, 59
+  offset: 0, 0
+  index: -1
+bandage_04
+  rotate: true
+  xy: 164, 7
+  size: 25, 44
+  orig: 25, 44
+  offset: 0, 0
+  index: -1
+bandage_05
+  rotate: false
+  xy: 289, 67
+  size: 48, 77
+  orig: 48, 77
+  offset: 0, 0
+  index: -1
+bandage_06
+  rotate: false
+  xy: 278, 3
+  size: 43, 60
+  orig: 43, 60
+  offset: 0, 0
+  index: -1
+bandage_07
+  rotate: false
+  xy: 418, 7
+  size: 24, 47
+  orig: 24, 47
+  offset: 0, 0
+  index: -1
+bandage_08
+  rotate: false
+  xy: 130, 3
+  size: 32, 29
+  orig: 32, 29
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 2, 31
+  size: 113, 104
+  orig: 113, 104
+  offset: 0, 0
+  index: -1
+face_damage
+  rotate: true
+  xy: 323, 8
+  size: 57, 49
+  orig: 57, 49
+  offset: 0, 0
+  index: -1
+face_default
+  rotate: true
+  xy: 409, 91
+  size: 53, 43
+  orig: 53, 43
+  offset: 0, 0
+  index: -1
+hand_r
+  rotate: true
+  xy: 372, 71
+  size: 15, 20
+  orig: 15, 20
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 108, 34
+  size: 110, 100
+  orig: 110, 100
+  offset: 0, 0
+  index: -1
+leg_l
+  rotate: false
+  xy: 374, 5
+  size: 42, 49
+  orig: 42, 49
+  offset: 0, 0
+  index: -1
+leg_r
+  rotate: true
+  xy: 409, 56
+  size: 33, 43
+  orig: 33, 43
+  offset: 0, 0
+  index: -1
+ribbon
+  rotate: false
+  xy: 372, 88
+  size: 35, 56
+  orig: 35, 56
+  offset: 0, 0
+  index: -1
+scarf
+  rotate: true
+  xy: 2, 2
+  size: 27, 65
+  orig: 27, 65
+  offset: 0, 0
+  index: -1

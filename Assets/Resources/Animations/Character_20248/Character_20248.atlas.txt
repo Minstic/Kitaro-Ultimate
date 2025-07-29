@@ -1,0 +1,41 @@
+
+Character_20248.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+attack
+  rotate: false
+  xy: 158, 111
+  size: 166, 126
+  orig: 166, 126
+  offset: 0, 0
+  index: -1
+base
+  rotate: false
+  xy: 2, 96
+  size: 154, 141
+  orig: 154, 141
+  offset: 0, 0
+  index: -1
+eff_attack1
+  rotate: false
+  xy: 110, 71
+  size: 28, 23
+  orig: 28, 23
+  offset: 0, 0
+  index: -1
+eff_attack2
+  rotate: false
+  xy: 326, 161
+  size: 55, 76
+  orig: 55, 76
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: false
+  xy: 2, 2
+  size: 106, 92
+  orig: 106, 92
+  offset: 0, 0
+  index: -1

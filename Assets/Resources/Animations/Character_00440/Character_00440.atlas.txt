@@ -1,0 +1,48 @@
+
+Character_00440.png
+size: 877,211
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+base
+  rotate: false
+  xy: 229, 7
+  size: 212, 202
+  orig: 212, 202
+  offset: 0, 0
+  index: -1
+face_attack_face
+  rotate: true
+  xy: 443, 47
+  size: 162, 154
+  orig: 162, 154
+  offset: 0, 0
+  index: -1
+face_attack_head
+  rotate: false
+  xy: 2, 11
+  size: 225, 198
+  orig: 225, 198
+  offset: 0, 0
+  index: -1
+face_attack_nose
+  rotate: false
+  xy: 748, 2
+  size: 68, 62
+  orig: 68, 62
+  offset: 0, 0
+  index: -1
+face_damage
+  rotate: false
+  xy: 599, 54
+  size: 147, 155
+  orig: 147, 155
+  offset: 0, 0
+  index: -1
+face_default
+  rotate: true
+  xy: 748, 66
+  size: 143, 127
+  orig: 143, 127
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,90 @@
+
+Biggest_10080.png
+size: 205,272
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+AT_body
+  rotate: true
+  xy: 2, 53
+  size: 133, 47
+  orig: 133, 47
+  offset: 0, 0
+  index: -1
+AT_face
+  rotate: false
+  xy: 153, 10
+  size: 47, 29
+  orig: 47, 29
+  offset: 0, 0
+  index: -1
+AT_head
+  rotate: false
+  xy: 2, 7
+  size: 97, 44
+  orig: 97, 44
+  offset: 0, 0
+  index: -1
+AT_tail
+  rotate: true
+  xy: 2, 188
+  size: 82, 110
+  orig: 82, 110
+  offset: 0, 0
+  index: -1
+arm_close_l
+  rotate: true
+  xy: 51, 67
+  size: 48, 75
+  orig: 48, 75
+  offset: 0, 0
+  index: -1
+arm_close_r
+  rotate: true
+  xy: 128, 77
+  size: 38, 74
+  orig: 38, 74
+  offset: 0, 0
+  index: -1
+arm_open_l
+  rotate: false
+  xy: 51, 117
+  size: 59, 69
+  orig: 59, 69
+  offset: 0, 0
+  index: -1
+arm_open_r
+  rotate: false
+  xy: 101, 2
+  size: 50, 63
+  orig: 50, 63
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 114, 175
+  size: 83, 95
+  orig: 83, 95
+  offset: 0, 0
+  index: -1
+face_damage
+  rotate: false
+  xy: 153, 41
+  size: 45, 34
+  orig: 45, 34
+  offset: 0, 0
+  index: -1
+face_default
+  rotate: true
+  xy: 174, 120
+  size: 53, 29
+  orig: 53, 29
+  offset: 0, 0
+  index: -1
+tail
+  rotate: true
+  xy: 112, 117
+  size: 56, 60
+  orig: 56, 60
+  offset: 0, 0
+  index: -1

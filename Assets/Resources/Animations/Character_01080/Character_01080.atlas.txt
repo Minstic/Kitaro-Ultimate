@@ -1,0 +1,104 @@
+
+Character_01080.png
+size: 315,267
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_l
+  rotate: false
+  xy: 279, 29
+  size: 17, 16
+  orig: 17, 16
+  offset: 0, 0
+  index: -1
+arm_r
+  rotate: true
+  xy: 217, 6
+  size: 28, 20
+  orig: 28, 20
+  offset: 0, 0
+  index: -1
+cape
+  rotate: false
+  xy: 92, 152
+  size: 100, 113
+  orig: 100, 113
+  offset: 0, 0
+  index: -1
+cape_re
+  rotate: true
+  xy: 194, 72
+  size: 100, 113
+  orig: 100, 113
+  offset: 0, 0
+  index: -1
+face_damage
+  rotate: false
+  xy: 215, 36
+  size: 29, 34
+  orig: 29, 34
+  offset: 0, 0
+  index: -1
+face_damage_re
+  rotate: false
+  xy: 181, 35
+  size: 32, 35
+  orig: 32, 35
+  offset: 0, 0
+  index: -1
+face_default
+  rotate: false
+  xy: 246, 40
+  size: 31, 30
+  orig: 31, 30
+  offset: 0, 0
+  index: -1
+face_default_re
+  rotate: false
+  xy: 181, 2
+  size: 34, 31
+  orig: 34, 31
+  offset: 0, 0
+  index: -1
+hair_01
+  rotate: false
+  xy: 2, 18
+  size: 86, 118
+  orig: 86, 118
+  offset: 0, 0
+  index: -1
+hair_02
+  rotate: true
+  xy: 194, 174
+  size: 91, 119
+  orig: 91, 119
+  offset: 0, 0
+  index: -1
+hair_03
+  rotate: false
+  xy: 2, 138
+  size: 88, 127
+  orig: 88, 127
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 90, 9
+  size: 89, 69
+  orig: 89, 69
+  offset: 0, 0
+  index: -1
+head_re
+  rotate: false
+  xy: 92, 80
+  size: 90, 70
+  orig: 90, 70
+  offset: 0, 0
+  index: -1
+pumpkin
+  rotate: false
+  xy: 279, 47
+  size: 27, 23
+  orig: 27, 23
+  offset: 0, 0
+  index: -1

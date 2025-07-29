@@ -1,0 +1,139 @@
+
+Season_11021.png
+size: 974,520
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm
+  rotate: true
+  xy: 535, 7
+  size: 136, 69
+  orig: 136, 69
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 2, 63
+  size: 455, 404
+  orig: 455, 404
+  offset: 0, 0
+  index: -1
+body_bottom
+  rotate: false
+  xy: 690, 284
+  size: 281, 234
+  orig: 281, 234
+  offset: 0, 0
+  index: -1
+cap
+  rotate: false
+  xy: 838, 142
+  size: 134, 140
+  orig: 134, 140
+  offset: 0, 0
+  index: -1
+drop_snow_1
+  rotate: false
+  xy: 294, 31
+  size: 13, 30
+  orig: 13, 30
+  offset: 0, 0
+  index: -1
+drop_snow_2
+  rotate: false
+  xy: 270, 24
+  size: 22, 37
+  orig: 22, 37
+  offset: 0, 0
+  index: -1
+drop_snow_3
+  rotate: true
+  xy: 147, 3
+  size: 10, 33
+  orig: 10, 33
+  offset: 0, 0
+  index: -1
+eff_ball1
+  rotate: false
+  xy: 302, 12
+  size: 15, 17
+  orig: 15, 17
+  offset: 0, 0
+  index: -1
+eff_ball2
+  rotate: true
+  xy: 270, 4
+  size: 18, 30
+  orig: 18, 30
+  offset: 0, 0
+  index: -1
+eff_ball3
+  rotate: true
+  xy: 182, 2
+  size: 11, 16
+  orig: 11, 16
+  offset: 0, 0
+  index: -1
+eff_hit
+  rotate: false
+  xy: 408, 6
+  size: 125, 104
+  orig: 125, 104
+  offset: 0, 0
+  index: -1
+eff_splash
+  rotate: false
+  xy: 690, 112
+  size: 146, 170
+  orig: 146, 170
+  offset: 0, 0
+  index: -1
+hand_l
+  rotate: false
+  xy: 838, 28
+  size: 117, 112
+  orig: 117, 112
+  offset: 0, 0
+  index: -1
+hand_r
+  rotate: false
+  xy: 668, 11
+  size: 94, 99
+  orig: 94, 99
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 408, 207
+  size: 311, 280
+  orig: 311, 280
+  offset: 0, 0
+  index: -1
+nouse
+  rotate: false
+  xy: 147, 15
+  size: 121, 46
+  orig: 121, 46
+  offset: 0, 0
+  index: -1
+snowball_1
+  rotate: true
+  xy: 408, 145
+  size: 60, 167
+  orig: 60, 167
+  offset: 0, 0
+  index: -1
+snowball_2
+  rotate: false
+  xy: 606, 41
+  size: 60, 164
+  orig: 60, 164
+  offset: 0, 0
+  index: -1
+snowball_3
+  rotate: true
+  xy: 2, 4
+  size: 57, 143
+  orig: 57, 143
+  offset: 0, 0
+  index: -1

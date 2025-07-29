@@ -1,0 +1,237 @@
+
+Character_00561.png
+size: 377,267
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a_leg_r
+  rotate: true
+  xy: 220, 60
+  size: 41, 56
+  orig: 41, 56
+  offset: 0, 0
+  index: -1
+arm_l
+  rotate: true
+  xy: 145, 155
+  size: 34, 83
+  orig: 34, 83
+  offset: 0, 0
+  index: -1
+arm_l_attack
+  rotate: false
+  xy: 137, 41
+  size: 68, 36
+  orig: 68, 36
+  offset: 0, 0
+  index: -1
+arm_r
+  rotate: true
+  xy: 144, 115
+  size: 38, 80
+  orig: 38, 80
+  offset: 0, 0
+  index: -1
+arm_r_attack
+  rotate: false
+  xy: 126, 2
+  size: 50, 37
+  orig: 50, 37
+  offset: 0, 0
+  index: -1
+b_leg_r
+  rotate: false
+  xy: 207, 2
+  size: 35, 56
+  orig: 35, 56
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 230, 201
+  size: 64, 85
+  orig: 64, 85
+  offset: 0, 0
+  index: -1
+body_attack
+  rotate: true
+  xy: 315, 105
+  size: 43, 59
+  orig: 43, 59
+  offset: 0, 0
+  index: -1
+clothes_l
+  rotate: true
+  xy: 230, 172
+  size: 27, 85
+  orig: 27, 85
+  offset: 0, 0
+  index: -1
+clothes_l_attack
+  rotate: false
+  xy: 317, 185
+  size: 58, 80
+  orig: 58, 80
+  offset: 0, 0
+  index: -1
+clothes_r
+  rotate: true
+  xy: 131, 79
+  size: 34, 87
+  orig: 34, 87
+  offset: 0, 0
+  index: -1
+clothes_r_attack
+  rotate: true
+  xy: 69, 137
+  size: 28, 73
+  orig: 28, 73
+  offset: 0, 0
+  index: -1
+eff_01
+  rotate: false
+  xy: 178, 7
+  size: 18, 32
+  orig: 18, 32
+  offset: 0, 0
+  index: -1
+eff_02
+  rotate: false
+  xy: 291, 2
+  size: 25, 21
+  orig: 25, 21
+  offset: 0, 0
+  index: -1
+eff_03
+  rotate: false
+  xy: 363, 69
+  size: 12, 34
+  orig: 12, 34
+  offset: 0, 0
+  index: -1
+face_damage
+  rotate: false
+  xy: 315, 76
+  size: 46, 27
+  orig: 46, 27
+  offset: 0, 0
+  index: -1
+face_default
+  rotate: false
+  xy: 226, 103
+  size: 59, 25
+  orig: 59, 25
+  offset: 0, 0
+  index: -1
+hair_01
+  rotate: false
+  xy: 278, 68
+  size: 35, 22
+  orig: 35, 22
+  offset: 0, 0
+  index: -1
+hair_01_attack
+  rotate: false
+  xy: 291, 25
+  size: 27, 41
+  orig: 27, 41
+  offset: 0, 0
+  index: -1
+hair_02
+  rotate: true
+  xy: 67, 41
+  size: 25, 68
+  orig: 25, 68
+  offset: 0, 0
+  index: -1
+hair_02_attack
+  rotate: true
+  xy: 317, 150
+  size: 33, 58
+  orig: 33, 58
+  offset: 0, 0
+  index: -1
+hair_03_attack
+  rotate: false
+  xy: 287, 92
+  size: 26, 36
+  orig: 26, 36
+  offset: 0, 0
+  index: -1
+hair_04_attack
+  rotate: false
+  xy: 244, 3
+  size: 45, 55
+  orig: 45, 55
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 67, 68
+  size: 62, 67
+  orig: 62, 67
+  offset: 0, 0
+  index: -1
+head_attack
+  rotate: false
+  xy: 145, 191
+  size: 83, 74
+  orig: 83, 74
+  offset: 0, 0
+  index: -1
+leg_l
+  rotate: true
+  xy: 68, 2
+  size: 37, 56
+  orig: 37, 56
+  offset: 0, 0
+  index: -1
+leg_l_attack
+  rotate: false
+  xy: 230, 130
+  size: 83, 40
+  orig: 83, 40
+  offset: 0, 0
+  index: -1
+leg_r_attack
+  rotate: false
+  xy: 2, 2
+  size: 64, 35
+  orig: 64, 35
+  offset: 0, 0
+  index: -1
+line
+  rotate: false
+  xy: 320, 58
+  size: 14, 16
+  orig: 14, 16
+  offset: 0, 0
+  index: -1
+line_attack
+  rotate: true
+  xy: 320, 41
+  size: 15, 13
+  orig: 15, 13
+  offset: 0, 0
+  index: -1
+wing_l
+  rotate: false
+  xy: 2, 39
+  size: 63, 108
+  orig: 63, 108
+  offset: 0, 0
+  index: -1
+wing_l_attack
+  rotate: false
+  xy: 69, 167
+  size: 74, 98
+  orig: 74, 98
+  offset: 0, 0
+  index: -1
+wing_r
+  rotate: false
+  xy: 2, 149
+  size: 65, 116
+  orig: 65, 116
+  offset: 0, 0
+  index: -1

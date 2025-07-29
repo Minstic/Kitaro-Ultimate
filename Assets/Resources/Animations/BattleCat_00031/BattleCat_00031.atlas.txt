@@ -1,0 +1,132 @@
+
+BattleCat_00031.png
+size: 438,244
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 282, 66
+  size: 80, 66
+  orig: 80, 66
+  offset: 0, 0
+  index: -1
+body3
+  rotate: true
+  xy: 364, 48
+  size: 80, 65
+  orig: 80, 65
+  offset: 0, 0
+  index: -1
+ear_l
+  rotate: true
+  xy: 230, 3
+  size: 15, 27
+  orig: 15, 27
+  offset: 0, 0
+  index: -1
+ear_r
+  rotate: false
+  xy: 387, 19
+  size: 21, 27
+  orig: 21, 27
+  offset: 0, 0
+  index: -1
+eff
+  rotate: true
+  xy: 2, 20
+  size: 222, 278
+  orig: 222, 278
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 348, 18
+  size: 37, 28
+  orig: 37, 28
+  offset: 0, 0
+  index: -1
+leg_under_01
+  rotate: true
+  xy: 2, 2
+  size: 16, 112
+  orig: 16, 112
+  offset: 0, 0
+  index: -1
+leg_under_02
+  rotate: true
+  xy: 116, 2
+  size: 16, 112
+  orig: 16, 112
+  offset: 0, 0
+  index: -1
+leg_under_03
+  rotate: false
+  xy: 384, 130
+  size: 16, 112
+  orig: 16, 112
+  offset: 0, 0
+  index: -1
+leg_up
+  rotate: false
+  xy: 402, 152
+  size: 10, 90
+  orig: 10, 90
+  offset: 0, 0
+  index: -1
+leg_up1
+  rotate: false
+  xy: 414, 152
+  size: 10, 90
+  orig: 10, 90
+  offset: 0, 0
+  index: -1
+leg_up3
+  rotate: false
+  xy: 426, 152
+  size: 10, 90
+  orig: 10, 90
+  offset: 0, 0
+  index: -1
+ribbon
+  rotate: false
+  xy: 282, 7
+  size: 60, 28
+  orig: 60, 28
+  offset: 0, 0
+  index: -1
+shirts
+  rotate: false
+  xy: 282, 37
+  size: 64, 27
+  orig: 64, 27
+  offset: 0, 0
+  index: -1
+skirt_back
+  rotate: true
+  xy: 402, 131
+  size: 19, 29
+  orig: 19, 29
+  offset: 0, 0
+  index: -1
+skirt_back_02
+  rotate: false
+  xy: 410, 17
+  size: 19, 29
+  orig: 19, 29
+  offset: 0, 0
+  index: -1
+skirt_front
+  rotate: false
+  xy: 282, 189
+  size: 100, 53
+  orig: 100, 53
+  offset: 0, 0
+  index: -1
+skirt_front_02
+  rotate: false
+  xy: 282, 134
+  size: 100, 53
+  orig: 100, 53
+  offset: 0, 0
+  index: -1

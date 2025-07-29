@@ -1,0 +1,27 @@
+
+CannonChara.png
+size: 917,523
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+KITARO
+  rotate: true
+  xy: 2, 2
+  size: 519, 589
+  orig: 519, 589
+  offset: 0, 0
+  index: -1
+OYAJI
+  rotate: false
+  xy: 593, 249
+  size: 229, 272
+  orig: 229, 272
+  offset: 0, 0
+  index: -1
+moji
+  rotate: false
+  xy: 593, 136
+  size: 322, 111
+  orig: 322, 111
+  offset: 0, 0
+  index: -1

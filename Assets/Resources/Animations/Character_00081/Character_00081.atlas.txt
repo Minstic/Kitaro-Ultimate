@@ -1,0 +1,55 @@
+
+Character_00081.png
+size: 564,125
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+_tail_attack
+  rotate: false
+  xy: 2, 2
+  size: 256, 121
+  orig: 256, 121
+  offset: 0, 0
+  index: -1
+_tail_default
+  rotate: false
+  xy: 260, 46
+  size: 204, 77
+  orig: 204, 77
+  offset: 0, 0
+  index: -1
+arm_l
+  rotate: true
+  xy: 308, 33
+  size: 11, 18
+  orig: 11, 18
+  offset: 0, 0
+  index: -1
+arm_r
+  rotate: true
+  xy: 328, 35
+  size: 9, 16
+  orig: 9, 16
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 466, 29
+  size: 94, 96
+  orig: 94, 96
+  offset: 0, 0
+  index: -1
+face_damage
+  rotate: false
+  xy: 260, 8
+  size: 41, 18
+  orig: 41, 18
+  offset: 0, 0
+  index: -1
+face_default
+  rotate: false
+  xy: 260, 28
+  size: 46, 16
+  orig: 46, 16
+  offset: 0, 0
+  index: -1

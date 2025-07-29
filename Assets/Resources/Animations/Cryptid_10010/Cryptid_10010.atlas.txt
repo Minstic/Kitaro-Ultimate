@@ -1,0 +1,272 @@
+
+Cryptid_10010.png
+size: 512,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: true
+  xy: 370, 105
+  size: 128, 79
+  orig: 128, 79
+  offset: 0, 0
+  index: -1
+chr_light
+  rotate: true
+  xy: 269, 728
+  size: 97, 199
+  orig: 97, 199
+  offset: 0, 0
+  index: -1
+eff_dust1
+  rotate: true
+  xy: 2, 2
+  size: 15, 34
+  orig: 15, 34
+  offset: 0, 0
+  index: -1
+eff_dust2
+  rotate: false
+  xy: 403, 237
+  size: 14, 10
+  orig: 14, 10
+  offset: 0, 0
+  index: -1
+eff_dust3
+  rotate: true
+  xy: 38, 7
+  size: 10, 18
+  orig: 10, 18
+  offset: 0, 0
+  index: -1
+eff_dust4
+  rotate: false
+  xy: 140, 364
+  size: 39, 24
+  orig: 39, 24
+  offset: 0, 0
+  index: -1
+eff_fire_A1
+  rotate: true
+  xy: 375, 26
+  size: 77, 121
+  orig: 77, 121
+  offset: 0, 0
+  index: -1
+eff_fire_A2
+  rotate: false
+  xy: 276, 100
+  size: 92, 133
+  orig: 92, 133
+  offset: 0, 0
+  index: -1
+eff_fire_B1
+  rotate: false
+  xy: 276, 2
+  size: 97, 96
+  orig: 97, 96
+  offset: 0, 0
+  index: -1
+eff_fire_B2
+  rotate: false
+  xy: 271, 235
+  size: 130, 125
+  orig: 130, 125
+  offset: 0, 0
+  index: -1
+eff_fire_B3
+  rotate: false
+  xy: 273, 566
+  size: 153, 160
+  orig: 153, 160
+  offset: 0, 0
+  index: -1
+eff_fire_ground1
+  rotate: false
+  xy: 273, 462
+  size: 179, 102
+  orig: 179, 102
+  offset: 0, 0
+  index: -1
+eff_fire_ground2
+  rotate: true
+  xy: 181, 189
+  size: 199, 88
+  orig: 199, 88
+  offset: 0, 0
+  index: -1
+eff_fire_ground3
+  rotate: true
+  xy: 181, 13
+  size: 174, 93
+  orig: 174, 93
+  offset: 0, 0
+  index: -1
+eff_ground
+  rotate: true
+  xy: 225, 444
+  size: 245, 46
+  orig: 245, 46
+  offset: 0, 0
+  index: -1
+eff_hit
+  rotate: true
+  xy: 140, 390
+  size: 293, 83
+  orig: 293, 83
+  offset: 0, 0
+  index: -1
+eff_hit_ground
+  rotate: true
+  xy: 130, 2
+  size: 344, 49
+  orig: 344, 49
+  offset: 0, 0
+  index: -1
+eff_pillar1
+  rotate: false
+  xy: 2, 685
+  size: 137, 337
+  orig: 137, 337
+  offset: 0, 0
+  index: -1
+eff_pillar2
+  rotate: false
+  xy: 141, 691
+  size: 126, 331
+  orig: 126, 331
+  offset: 0, 0
+  index: -1
+eff_pillar3
+  rotate: false
+  xy: 2, 348
+  size: 136, 335
+  orig: 136, 335
+  offset: 0, 0
+  index: -1
+eff_pillar4
+  rotate: false
+  xy: 2, 19
+  size: 126, 327
+  orig: 126, 327
+  offset: 0, 0
+  index: -1
+eff_smoke1
+  rotate: false
+  xy: 269, 827
+  size: 213, 195
+  orig: 213, 195
+  offset: 0, 0
+  index: -1
+eff_smoke2
+  rotate: false
+  xy: 273, 362
+  size: 137, 98
+  orig: 137, 98
+  offset: 0, 0
+  index: -1
+eff_smoke3
+  rotate: true
+  xy: 428, 573
+  size: 153, 82
+  orig: 153, 82
+  offset: 0, 0
+  index: -1
+eye_damage
+  rotate: false
+  xy: 181, 3
+  size: 30, 8
+  orig: 30, 8
+  offset: 0, 0
+  index: -1
+eye_default
+  rotate: false
+  xy: 140, 354
+  size: 30, 8
+  orig: 30, 8
+  offset: 0, 0
+  index: -1
+hair_B2
+  rotate: false
+  xy: 459, 309
+  size: 27, 56
+  orig: 27, 56
+  offset: 0, 0
+  index: -1
+hair_F1
+  rotate: true
+  xy: 375, 2
+  size: 22, 41
+  orig: 22, 41
+  offset: 0, 0
+  index: -1
+hair_F2
+  rotate: false
+  xy: 225, 391
+  size: 21, 51
+  orig: 21, 51
+  offset: 0, 0
+  index: -1
+hair_F3
+  rotate: false
+  xy: 454, 494
+  size: 49, 77
+  orig: 49, 77
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 403, 292
+  size: 68, 54
+  orig: 68, 54
+  offset: 0, 0
+  index: -1
+leg_B_L
+  rotate: true
+  xy: 403, 249
+  size: 41, 60
+  orig: 41, 60
+  offset: 0, 0
+  index: -1
+leg_B_R
+  rotate: false
+  xy: 470, 768
+  size: 39, 57
+  orig: 39, 57
+  offset: 0, 0
+  index: -1
+leg_F_L
+  rotate: true
+  xy: 454, 463
+  size: 29, 56
+  orig: 29, 56
+  offset: 0, 0
+  index: -1
+leg_F_R
+  rotate: false
+  xy: 484, 957
+  size: 25, 65
+  orig: 25, 65
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: false
+  xy: 418, 6
+  size: 48, 18
+  orig: 48, 18
+  offset: 0, 0
+  index: -1
+neck
+  rotate: false
+  xy: 412, 367
+  size: 58, 93
+  orig: 58, 93
+  offset: 0, 0
+  index: -1
+tail
+  rotate: false
+  xy: 472, 376
+  size: 36, 85
+  orig: 36, 85
+  offset: 0, 0
+  index: -1

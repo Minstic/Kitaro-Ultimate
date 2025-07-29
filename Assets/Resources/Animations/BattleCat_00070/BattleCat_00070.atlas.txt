@@ -1,0 +1,377 @@
+
+BattleCat_00070.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: true
+  xy: 806, 406
+  size: 73, 72
+  orig: 73, 72
+  offset: 0, 0
+  index: -1
+cheek_l
+  rotate: false
+  xy: 162, 2
+  size: 21, 19
+  orig: 21, 19
+  offset: 0, 0
+  index: -1
+cheek_r
+  rotate: false
+  xy: 875, 310
+  size: 12, 16
+  orig: 12, 16
+  offset: 0, 0
+  index: -1
+chibi_01
+  rotate: false
+  xy: 654, 323
+  size: 38, 41
+  orig: 38, 41
+  offset: 0, 0
+  index: -1
+chibi_02
+  rotate: true
+  xy: 603, 291
+  size: 39, 42
+  orig: 39, 42
+  offset: 0, 0
+  index: -1
+chibi_03
+  rotate: true
+  xy: 806, 372
+  size: 32, 46
+  orig: 32, 46
+  offset: 0, 0
+  index: -1
+chibi_04
+  rotate: true
+  xy: 603, 332
+  size: 32, 49
+  orig: 32, 49
+  offset: 0, 0
+  index: -1
+chibi_05
+  rotate: false
+  xy: 777, 287
+  size: 32, 43
+  orig: 32, 43
+  offset: 0, 0
+  index: -1
+chibi_06
+  rotate: false
+  xy: 880, 396
+  size: 35, 39
+  orig: 35, 39
+  offset: 0, 0
+  index: -1
+chibi_07
+  rotate: true
+  xy: 424, 302
+  size: 33, 46
+  orig: 33, 46
+  offset: 0, 0
+  index: -1
+chibi_08
+  rotate: true
+  xy: 647, 289
+  size: 32, 45
+  orig: 32, 45
+  offset: 0, 0
+  index: -1
+chibi_09
+  rotate: true
+  xy: 519, 294
+  size: 41, 44
+  orig: 41, 44
+  offset: 0, 0
+  index: -1
+chibi_10
+  rotate: true
+  xy: 472, 296
+  size: 39, 45
+  orig: 39, 45
+  offset: 0, 0
+  index: -1
+dust01
+  rotate: false
+  xy: 954, 474
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+dust02
+  rotate: true
+  xy: 1014, 504
+  size: 6, 8
+  orig: 6, 8
+  offset: 0, 0
+  index: -1
+dust03
+  rotate: true
+  xy: 934, 473
+  size: 14, 18
+  orig: 14, 18
+  offset: 0, 0
+  index: -1
+ear
+  rotate: false
+  xy: 916, 464
+  size: 16, 23
+  orig: 16, 23
+  offset: 0, 0
+  index: -1
+ear2
+  rotate: false
+  xy: 916, 440
+  size: 15, 22
+  orig: 15, 22
+  offset: 0, 0
+  index: -1
+eff_damage
+  rotate: true
+  xy: 697, 378
+  size: 101, 107
+  orig: 101, 107
+  offset: 0, 0
+  index: -1
+face_attack
+  rotate: false
+  xy: 847, 287
+  size: 21, 20
+  orig: 21, 20
+  offset: 0, 0
+  index: -1
+face_defalt
+  rotate: false
+  xy: 954, 485
+  size: 28, 25
+  orig: 28, 25
+  offset: 0, 0
+  index: -1
+hand_l
+  rotate: true
+  xy: 162, 23
+  size: 34, 14
+  orig: 34, 14
+  offset: 0, 0
+  index: -1
+hand_r
+  rotate: false
+  xy: 731, 282
+  size: 34, 11
+  orig: 34, 11
+  offset: 0, 0
+  index: -1
+house
+  rotate: true
+  xy: 179, 64
+  size: 29, 25
+  orig: 29, 25
+  offset: 0, 0
+  index: -1
+kemedama_01
+  rotate: false
+  xy: 880, 437
+  size: 34, 44
+  orig: 34, 44
+  offset: 0, 0
+  index: -1
+kemedama_02
+  rotate: false
+  xy: 565, 292
+  size: 36, 43
+  orig: 36, 43
+  offset: 0, 0
+  index: -1
+kemedama_03
+  rotate: false
+  xy: 694, 331
+  size: 35, 45
+  orig: 35, 45
+  offset: 0, 0
+  index: -1
+kemedama_04
+  rotate: false
+  xy: 694, 287
+  size: 35, 42
+  orig: 35, 42
+  offset: 0, 0
+  index: -1
+kemedama_05
+  rotate: false
+  xy: 853, 328
+  size: 35, 42
+  orig: 35, 42
+  offset: 0, 0
+  index: -1
+kemedama_06
+  rotate: false
+  xy: 769, 332
+  size: 35, 44
+  orig: 35, 44
+  offset: 0, 0
+  index: -1
+kemedama_07
+  rotate: true
+  xy: 731, 295
+  size: 35, 44
+  orig: 35, 44
+  offset: 0, 0
+  index: -1
+kemedama_08
+  rotate: false
+  xy: 811, 288
+  size: 34, 45
+  orig: 34, 45
+  offset: 0, 0
+  index: -1
+kemedama_09
+  rotate: false
+  xy: 731, 332
+  size: 36, 44
+  orig: 36, 44
+  offset: 0, 0
+  index: -1
+kemedama_10
+  rotate: true
+  xy: 806, 335
+  size: 35, 45
+  orig: 35, 45
+  offset: 0, 0
+  index: -1
+leaf01
+  rotate: false
+  xy: 984, 487
+  size: 28, 23
+  orig: 28, 23
+  offset: 0, 0
+  index: -1
+leaf02
+  rotate: true
+  xy: 880, 374
+  size: 20, 31
+  orig: 20, 31
+  offset: 0, 0
+  index: -1
+leaf03
+  rotate: false
+  xy: 917, 418
+  size: 19, 20
+  orig: 19, 20
+  offset: 0, 0
+  index: -1
+leg_l
+  rotate: true
+  xy: 914, 489
+  size: 21, 38
+  orig: 21, 38
+  offset: 0, 0
+  index: -1
+leg_r
+  rotate: false
+  xy: 890, 338
+  size: 14, 34
+  orig: 14, 34
+  offset: 0, 0
+  index: -1
+smoke1
+  rotate: false
+  xy: 2, 6
+  size: 57, 51
+  orig: 57, 51
+  offset: 0, 0
+  index: -1
+smoke2
+  rotate: true
+  xy: 61, 7
+  size: 50, 57
+  orig: 50, 57
+  offset: 0, 0
+  index: -1
+tornado1
+  rotate: false
+  xy: 2, 95
+  size: 200, 209
+  orig: 200, 209
+  offset: 0, 0
+  index: -1
+tornado2
+  rotate: true
+  xy: 212, 313
+  size: 197, 210
+  orig: 197, 210
+  offset: 0, 0
+  index: -1
+tornado3
+  rotate: false
+  xy: 2, 306
+  size: 208, 204
+  orig: 208, 204
+  offset: 0, 0
+  index: -1
+tornado_Up1
+  rotate: false
+  xy: 424, 433
+  size: 271, 77
+  orig: 271, 77
+  offset: 0, 0
+  index: -1
+tornado_Up2
+  rotate: false
+  xy: 424, 366
+  size: 265, 65
+  orig: 265, 65
+  offset: 0, 0
+  index: -1
+tornado_back1
+  rotate: false
+  xy: 697, 481
+  size: 179, 29
+  orig: 179, 29
+  offset: 0, 0
+  index: -1
+tornado_back2
+  rotate: false
+  xy: 2, 59
+  size: 175, 34
+  orig: 175, 34
+  offset: 0, 0
+  index: -1
+tornado_back3
+  rotate: false
+  xy: 424, 337
+  size: 177, 27
+  orig: 177, 27
+  offset: 0, 0
+  index: -1
+woodchip01
+  rotate: false
+  xy: 120, 11
+  size: 40, 46
+  orig: 40, 46
+  offset: 0, 0
+  index: -1
+woodchip02
+  rotate: false
+  xy: 854, 372
+  size: 24, 32
+  orig: 24, 32
+  offset: 0, 0
+  index: -1
+woodchip03
+  rotate: false
+  xy: 847, 309
+  size: 26, 17
+  orig: 26, 17
+  offset: 0, 0
+  index: -1
+woodchip04
+  rotate: true
+  xy: 878, 483
+  size: 27, 34
+  orig: 27, 34
+  offset: 0, 0
+  index: -1

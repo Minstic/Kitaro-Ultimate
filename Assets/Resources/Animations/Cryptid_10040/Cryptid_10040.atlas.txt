@@ -1,0 +1,244 @@
+
+Cryptid_10040.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 653, 261
+  size: 88, 110
+  orig: 88, 110
+  offset: 0, 0
+  index: -1
+eff_notes1
+  rotate: false
+  xy: 2, 2
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+eff_notes2
+  rotate: false
+  xy: 548, 373
+  size: 134, 134
+  orig: 134, 134
+  offset: 0, 0
+  index: -1
+eff_notes3
+  rotate: true
+  xy: 817, 380
+  size: 127, 132
+  orig: 127, 132
+  offset: 0, 0
+  index: -1
+eye
+  rotate: true
+  xy: 743, 296
+  size: 80, 48
+  orig: 80, 48
+  offset: 0, 0
+  index: -1
+eye_attack
+  rotate: false
+  xy: 104, 9
+  size: 79, 35
+  orig: 79, 35
+  offset: 0, 0
+  index: -1
+eye_damage
+  rotate: false
+  xy: 191, 28
+  size: 80, 48
+  orig: 80, 48
+  offset: 0, 0
+  index: -1
+eyebrow_damage
+  rotate: false
+  xy: 524, 373
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+hair_L_1
+  rotate: true
+  xy: 525, 267
+  size: 104, 126
+  orig: 104, 126
+  offset: 0, 0
+  index: -1
+hair_L_2
+  rotate: true
+  xy: 951, 395
+  size: 44, 67
+  orig: 44, 67
+  offset: 0, 0
+  index: -1
+hair_L_3
+  rotate: false
+  xy: 193, 78
+  size: 146, 121
+  orig: 146, 121
+  offset: 0, 0
+  index: -1
+hair_R
+  rotate: true
+  xy: 509, 201
+  size: 58, 70
+  orig: 58, 70
+  offset: 0, 0
+  index: -1
+hand_R
+  rotate: false
+  xy: 951, 441
+  size: 67, 66
+  orig: 67, 66
+  offset: 0, 0
+  index: -1
+harp
+  rotate: false
+  xy: 684, 378
+  size: 131, 129
+  orig: 131, 129
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 341, 79
+  size: 145, 120
+  orig: 145, 120
+  offset: 0, 0
+  index: -1
+leg_1
+  rotate: false
+  xy: 2, 104
+  size: 189, 95
+  orig: 189, 95
+  offset: 0, 0
+  index: -1
+leg_2
+  rotate: false
+  xy: 104, 46
+  size: 85, 56
+  orig: 85, 56
+  offset: 0, 0
+  index: -1
+mouse
+  rotate: false
+  xy: 951, 383
+  size: 28, 10
+  orig: 28, 10
+  offset: 0, 0
+  index: -1
+mouse_attack
+  rotate: false
+  xy: 743, 268
+  size: 43, 26
+  orig: 43, 26
+  offset: 0, 0
+  index: -1
+mouse_damage_1
+  rotate: true
+  xy: 793, 350
+  size: 26, 14
+  orig: 26, 14
+  offset: 0, 0
+  index: -1
+mouse_damage_2
+  rotate: true
+  xy: 523, 417
+  size: 28, 20
+  orig: 28, 20
+  offset: 0, 0
+  index: -1
+notes_1
+  rotate: false
+  xy: 341, 46
+  size: 17, 31
+  orig: 17, 31
+  offset: 0, 0
+  index: -1
+notes_2
+  rotate: false
+  xy: 310, 40
+  size: 29, 36
+  orig: 29, 36
+  offset: 0, 0
+  index: -1
+notes_3
+  rotate: false
+  xy: 273, 31
+  size: 35, 45
+  orig: 35, 45
+  offset: 0, 0
+  index: -1
+splash_1
+  rotate: false
+  xy: 523, 397
+  size: 17, 18
+  orig: 17, 18
+  offset: 0, 0
+  index: -1
+splash_2
+  rotate: false
+  xy: 360, 61
+  size: 17, 16
+  orig: 17, 16
+  offset: 0, 0
+  index: -1
+splash_3
+  rotate: true
+  xy: 793, 331
+  size: 17, 14
+  orig: 17, 14
+  offset: 0, 0
+  index: -1
+splash_4
+  rotate: false
+  xy: 523, 384
+  size: 14, 11
+  orig: 14, 11
+  offset: 0, 0
+  index: -1
+wave_1
+  rotate: false
+  xy: 2, 201
+  size: 505, 62
+  orig: 505, 62
+  offset: 0, 0
+  index: -1
+wave_2
+  rotate: false
+  xy: 2, 321
+  size: 520, 60
+  orig: 520, 60
+  offset: 0, 0
+  index: -1
+wave_3
+  rotate: false
+  xy: 2, 265
+  size: 521, 54
+  orig: 521, 54
+  offset: 0, 0
+  index: -1
+wave_4
+  rotate: false
+  xy: 2, 383
+  size: 519, 62
+  orig: 519, 62
+  offset: 0, 0
+  index: -1
+wave_5
+  rotate: false
+  xy: 2, 447
+  size: 544, 60
+  orig: 544, 60
+  offset: 0, 0
+  index: -1
+wing
+  rotate: true
+  xy: 488, 75
+  size: 124, 113
+  orig: 124, 113
+  offset: 0, 0
+  index: -1

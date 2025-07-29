@@ -1,0 +1,398 @@
+
+Season_12011.png
+size: 993,646
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+choco_1
+  rotate: true
+  xy: 732, 21
+  size: 55, 59
+  orig: 55, 59
+  offset: 0, 0
+  index: -1
+choco_2
+  rotate: true
+  xy: 925, 86
+  size: 61, 66
+  orig: 61, 66
+  offset: 0, 0
+  index: -1
+choco_3
+  rotate: false
+  xy: 732, 78
+  size: 58, 59
+  orig: 58, 59
+  offset: 0, 0
+  index: -1
+choco_4
+  rotate: false
+  xy: 670, 2
+  size: 57, 57
+  orig: 57, 57
+  offset: 0, 0
+  index: -1
+choco_5
+  rotate: true
+  xy: 793, 19
+  size: 67, 63
+  orig: 67, 63
+  offset: 0, 0
+  index: -1
+choco_6
+  rotate: false
+  xy: 858, 43
+  size: 58, 59
+  orig: 58, 59
+  offset: 0, 0
+  index: -1
+door_1
+  rotate: true
+  xy: 681, 139
+  size: 73, 113
+  orig: 73, 113
+  offset: 0, 0
+  index: -1
+door_2
+  rotate: true
+  xy: 840, 219
+  size: 71, 111
+  orig: 71, 111
+  offset: 0, 0
+  index: -1
+eff_1
+  rotate: true
+  xy: 582, 499
+  size: 114, 239
+  orig: 114, 239
+  offset: 0, 0
+  index: -1
+eff_3
+  rotate: false
+  xy: 582, 615
+  size: 389, 29
+  orig: 389, 29
+  offset: 0, 0
+  index: -1
+eff_4
+  rotate: false
+  xy: 2, 91
+  size: 389, 228
+  orig: 389, 228
+  offset: 0, 0
+  index: -1
+eff_ghost_1
+  rotate: true
+  xy: 393, 175
+  size: 144, 140
+  orig: 144, 140
+  offset: 0, 0
+  index: -1
+eff_ghost_1_face
+  rotate: false
+  xy: 792, 88
+  size: 40, 32
+  orig: 40, 32
+  offset: 0, 0
+  index: -1
+eff_ghost_2
+  rotate: false
+  xy: 393, 97
+  size: 140, 76
+  orig: 140, 76
+  offset: 0, 0
+  index: -1
+eff_ghost_2_face
+  rotate: false
+  xy: 889, 2
+  size: 33, 30
+  orig: 33, 30
+  offset: 0, 0
+  index: -1
+eff_ghost_3
+  rotate: true
+  xy: 840, 149
+  size: 68, 109
+  orig: 68, 109
+  offset: 0, 0
+  index: -1
+eff_ghost_3_face
+  rotate: true
+  xy: 608, 10
+  size: 33, 34
+  orig: 33, 34
+  offset: 0, 0
+  index: -1
+eff_ghost_4
+  rotate: true
+  xy: 823, 504
+  size: 109, 145
+  orig: 109, 145
+  offset: 0, 0
+  index: -1
+eff_ghost_4_face
+  rotate: false
+  xy: 858, 2
+  size: 29, 39
+  orig: 29, 39
+  offset: 0, 0
+  index: -1
+eff_ghost_5
+  rotate: true
+  xy: 677, 214
+  size: 59, 121
+  orig: 59, 121
+  offset: 0, 0
+  index: -1
+eff_light_l
+  rotate: false
+  xy: 524, 402
+  size: 436, 46
+  orig: 436, 46
+  offset: 0, 0
+  index: -1
+eff_light_r
+  rotate: false
+  xy: 2, 40
+  size: 548, 49
+  orig: 548, 49
+  offset: 0, 0
+  index: -1
+eff_sauce_1
+  rotate: true
+  xy: 703, 275
+  size: 125, 135
+  orig: 125, 135
+  offset: 0, 0
+  index: -1
+eff_sauce_10
+  rotate: false
+  xy: 582, 450
+  size: 187, 47
+  orig: 187, 47
+  offset: 0, 0
+  index: -1
+eff_sauce_2
+  rotate: false
+  xy: 944, 297
+  size: 38, 103
+  orig: 38, 103
+  offset: 0, 0
+  index: -1
+eff_sauce_3
+  rotate: true
+  xy: 771, 450
+  size: 10, 15
+  orig: 10, 15
+  offset: 0, 0
+  index: -1
+eff_sauce_4
+  rotate: true
+  xy: 556, 21
+  size: 22, 50
+  orig: 22, 50
+  offset: 0, 0
+  index: -1
+eff_sauce_5
+  rotate: false
+  xy: 535, 212
+  size: 140, 128
+  orig: 140, 128
+  offset: 0, 0
+  index: -1
+eff_sauce_6
+  rotate: false
+  xy: 747, 2
+  size: 12, 17
+  orig: 12, 17
+  offset: 0, 0
+  index: -1
+eff_sauce_7
+  rotate: false
+  xy: 800, 211
+  size: 38, 62
+  orig: 38, 62
+  offset: 0, 0
+  index: -1
+eff_sauce_8
+  rotate: true
+  xy: 535, 101
+  size: 12, 15
+  orig: 12, 15
+  offset: 0, 0
+  index: -1
+eff_sauce_9
+  rotate: false
+  xy: 552, 45
+  size: 116, 89
+  orig: 116, 89
+  offset: 0, 0
+  index: -1
+eff_shadow_circle
+  rotate: false
+  xy: 2, 9
+  size: 386, 29
+  orig: 386, 29
+  offset: 0, 0
+  index: -1
+light_train
+  rotate: true
+  xy: 970, 524
+  size: 89, 21
+  orig: 89, 21
+  offset: 0, 0
+  index: -1
+neko_arm
+  rotate: false
+  xy: 729, 2
+  size: 16, 17
+  orig: 16, 17
+  offset: 0, 0
+  index: -1
+neko_body
+  rotate: false
+  xy: 390, 2
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+neko_eye
+  rotate: true
+  xy: 970, 50
+  size: 34, 11
+  orig: 34, 11
+  offset: 0, 0
+  index: -1
+neko_face_base
+  rotate: false
+  xy: 924, 7
+  size: 63, 25
+  orig: 63, 25
+  offset: 0, 0
+  index: -1
+neko_face_damage
+  rotate: false
+  xy: 508, 15
+  size: 46, 23
+  orig: 46, 23
+  offset: 0, 0
+  index: -1
+neko_face_laugh
+  rotate: true
+  xy: 677, 277
+  size: 63, 19
+  orig: 63, 19
+  offset: 0, 0
+  index: -1
+neko_hand_phone
+  rotate: false
+  xy: 973, 621
+  size: 14, 23
+  orig: 14, 23
+  offset: 0, 0
+  index: -1
+neko_hat
+  rotate: true
+  xy: 953, 232
+  size: 63, 26
+  orig: 63, 26
+  offset: 0, 0
+  index: -1
+neko_head
+  rotate: true
+  xy: 670, 61
+  size: 73, 60
+  orig: 73, 60
+  offset: 0, 0
+  index: -1
+neko_mouth
+  rotate: false
+  xy: 393, 91
+  size: 19, 4
+  orig: 19, 4
+  offset: 0, 0
+  index: -1
+neko_mouth_laugh
+  rotate: true
+  xy: 834, 88
+  size: 14, 13
+  orig: 14, 13
+  offset: 0, 0
+  index: -1
+neko_phone
+  rotate: false
+  xy: 535, 115
+  size: 15, 19
+  orig: 15, 19
+  offset: 0, 0
+  index: -1
+neko_phonecode
+  rotate: true
+  xy: 428, 24
+  size: 14, 78
+  orig: 14, 78
+  offset: 0, 0
+  index: -1
+neko_ribbon
+  rotate: false
+  xy: 771, 462
+  size: 48, 35
+  orig: 48, 35
+  offset: 0, 0
+  index: -1
+pantograph_1
+  rotate: false
+  xy: 835, 104
+  size: 88, 43
+  orig: 88, 43
+  offset: 0, 0
+  index: -1
+pantograph_2
+  rotate: true
+  xy: 796, 122
+  size: 87, 37
+  orig: 87, 37
+  offset: 0, 0
+  index: -1
+ribbon_base
+  rotate: true
+  xy: 524, 342
+  size: 58, 177
+  orig: 58, 177
+  offset: 0, 0
+  index: -1
+ribbon_tale
+  rotate: false
+  xy: 840, 292
+  size: 102, 108
+  orig: 102, 108
+  offset: 0, 0
+  index: -1
+ribbon_top
+  rotate: false
+  xy: 535, 136
+  size: 144, 74
+  orig: 144, 74
+  offset: 0, 0
+  index: -1
+train_base
+  rotate: false
+  xy: 2, 450
+  size: 578, 194
+  orig: 578, 194
+  offset: 0, 0
+  index: -1
+train_inner
+  rotate: false
+  xy: 2, 321
+  size: 520, 127
+  orig: 520, 127
+  offset: 0, 0
+  index: -1
+wheel
+  rotate: false
+  xy: 918, 34
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1

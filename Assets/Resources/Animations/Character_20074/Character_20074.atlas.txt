@@ -1,0 +1,174 @@
+
+Character_20074.png
+size: 583,250
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 5
+  size: 255, 243
+  orig: 255, 243
+  offset: 0, 0
+  index: -1
+face_01
+  rotate: true
+  xy: 489, 6
+  size: 50, 39
+  orig: 50, 39
+  offset: 0, 0
+  index: -1
+face_02
+  rotate: true
+  xy: 399, 2
+  size: 52, 47
+  orig: 52, 47
+  offset: 0, 0
+  index: -1
+hand_l_a
+  rotate: false
+  xy: 259, 93
+  size: 63, 155
+  orig: 63, 155
+  offset: 0, 0
+  index: -1
+hand_l_b
+  rotate: false
+  xy: 324, 102
+  size: 68, 146
+  orig: 68, 146
+  offset: 0, 0
+  index: -1
+hand_r_a
+  rotate: false
+  xy: 394, 134
+  size: 66, 114
+  orig: 66, 114
+  offset: 0, 0
+  index: -1
+hand_r_b
+  rotate: true
+  xy: 259, 8
+  size: 83, 68
+  orig: 83, 68
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 462, 91
+  size: 103, 73
+  orig: 103, 73
+  offset: 0, 0
+  index: -1
+leg_l
+  rotate: true
+  xy: 448, 3
+  size: 51, 39
+  orig: 51, 39
+  offset: 0, 0
+  index: -1
+leg_r
+  rotate: false
+  xy: 399, 56
+  size: 59, 44
+  orig: 59, 44
+  offset: 0, 0
+  index: -1
+mask
+  rotate: true
+  xy: 329, 3
+  size: 97, 68
+  orig: 97, 68
+  offset: 0, 0
+  index: -1
+mud_a_01
+  rotate: true
+  xy: 505, 59
+  size: 30, 16
+  orig: 30, 16
+  offset: 0, 0
+  index: -1
+mud_a_02
+  rotate: true
+  xy: 460, 58
+  size: 31, 21
+  orig: 31, 21
+  offset: 0, 0
+  index: -1
+mud_a_03
+  rotate: false
+  xy: 567, 169
+  size: 8, 19
+  orig: 8, 19
+  offset: 0, 0
+  index: -1
+mud_a_04
+  rotate: false
+  xy: 530, 28
+  size: 44, 35
+  orig: 44, 35
+  offset: 0, 0
+  index: -1
+mud_a_05
+  rotate: false
+  xy: 394, 102
+  size: 38, 30
+  orig: 38, 30
+  offset: 0, 0
+  index: -1
+mud_a_06
+  rotate: true
+  xy: 523, 65
+  size: 24, 35
+  orig: 24, 35
+  offset: 0, 0
+  index: -1
+mud_a_07
+  rotate: false
+  xy: 567, 202
+  size: 10, 19
+  orig: 10, 19
+  offset: 0, 0
+  index: -1
+mud_a_09
+  rotate: true
+  xy: 567, 223
+  size: 10, 13
+  orig: 10, 13
+  offset: 0, 0
+  index: -1
+mud_b_01
+  rotate: false
+  xy: 567, 235
+  size: 14, 13
+  orig: 14, 13
+  offset: 0, 0
+  index: -1
+mud_b_02
+  rotate: false
+  xy: 567, 190
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+mud_b_03
+  rotate: true
+  xy: 483, 58
+  size: 31, 20
+  orig: 31, 20
+  offset: 0, 0
+  index: -1
+mud_b_04
+  rotate: true
+  xy: 434, 112
+  size: 20, 25
+  orig: 20, 25
+  offset: 0, 0
+  index: -1
+mud_b_05
+  rotate: false
+  xy: 462, 166
+  size: 103, 82
+  orig: 103, 82
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,363 @@
+
+OjamajoDoremi_00030.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Broom
+  rotate: true
+  xy: 2, 98
+  size: 255, 52
+  orig: 255, 52
+  offset: 0, 0
+  index: -1
+arm_l
+  rotate: true
+  xy: 911, 313
+  size: 45, 37
+  orig: 45, 37
+  offset: 0, 0
+  index: -1
+arm_r
+  rotate: false
+  xy: 451, 275
+  size: 39, 39
+  orig: 39, 39
+  offset: 0, 0
+  index: -1
+arm_r_AT
+  rotate: false
+  xy: 657, 305
+  size: 47, 22
+  orig: 47, 22
+  offset: 0, 0
+  index: -1
+balloon1
+  rotate: false
+  xy: 145, 5
+  size: 11, 7
+  orig: 11, 7
+  offset: 0, 0
+  index: -1
+balloon2
+  rotate: true
+  xy: 145, 27
+  size: 16, 11
+  orig: 16, 11
+  offset: 0, 0
+  index: -1
+balloon3
+  rotate: false
+  xy: 657, 329
+  size: 109, 79
+  orig: 109, 79
+  offset: 0, 0
+  index: -1
+bang
+  rotate: true
+  xy: 984, 357
+  size: 30, 38
+  orig: 30, 38
+  offset: 0, 0
+  index: -1
+bang_re
+  rotate: false
+  xy: 492, 275
+  size: 27, 39
+  orig: 27, 39
+  offset: 0, 0
+  index: -1
+body_base
+  rotate: false
+  xy: 99, 45
+  size: 53, 41
+  orig: 53, 41
+  offset: 0, 0
+  index: -1
+eff_attack3_1
+  rotate: false
+  xy: 297, 377
+  size: 108, 133
+  orig: 108, 133
+  offset: 0, 0
+  index: -1
+eff_attack3_2
+  rotate: true
+  xy: 547, 410
+  size: 100, 130
+  orig: 100, 130
+  offset: 0, 0
+  index: -1
+eff_attack3_2_re
+  rotate: true
+  xy: 679, 410
+  size: 100, 130
+  orig: 100, 130
+  offset: 0, 0
+  index: -1
+eff_attack3_3
+  rotate: false
+  xy: 56, 219
+  size: 110, 134
+  orig: 110, 134
+  offset: 0, 0
+  index: -1
+eff_attack3_4
+  rotate: true
+  xy: 811, 410
+  size: 100, 129
+  orig: 100, 129
+  offset: 0, 0
+  index: -1
+eff_attack3_4_re
+  rotate: false
+  xy: 56, 88
+  size: 100, 129
+  orig: 100, 129
+  offset: 0, 0
+  index: -1
+eff_attack3_5
+  rotate: false
+  xy: 182, 377
+  size: 113, 133
+  orig: 113, 133
+  offset: 0, 0
+  index: -1
+eff_attack3_6
+  rotate: true
+  xy: 407, 316
+  size: 97, 123
+  orig: 97, 123
+  offset: 0, 0
+  index: -1
+eff_attack3_6_re
+  rotate: true
+  xy: 532, 311
+  size: 97, 123
+  orig: 97, 123
+  offset: 0, 0
+  index: -1
+eff_attack4_1
+  rotate: false
+  xy: 768, 330
+  size: 105, 78
+  orig: 105, 78
+  offset: 0, 0
+  index: -1
+eff_attack4_2
+  rotate: false
+  xy: 942, 440
+  size: 80, 70
+  orig: 80, 70
+  offset: 0, 0
+  index: -1
+eff_steak1_1
+  rotate: true
+  xy: 407, 415
+  size: 95, 138
+  orig: 95, 138
+  offset: 0, 0
+  index: -1
+eff_steak1_2
+  rotate: true
+  xy: 333, 302
+  size: 73, 69
+  orig: 73, 69
+  offset: 0, 0
+  index: -1
+eff_steak1_3
+  rotate: false
+  xy: 405, 270
+  size: 44, 44
+  orig: 44, 44
+  offset: 0, 0
+  index: -1
+eff_steak1_4
+  rotate: false
+  xy: 979, 324
+  size: 32, 31
+  orig: 32, 31
+  offset: 0, 0
+  index: -1
+eff_steak1_5
+  rotate: false
+  xy: 49, 40
+  size: 48, 46
+  orig: 48, 46
+  offset: 0, 0
+  index: -1
+eff_steak1_6
+  rotate: false
+  xy: 168, 345
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+eff_steak1_7
+  rotate: false
+  xy: 145, 14
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+eff_steak2_1
+  rotate: false
+  xy: 875, 313
+  size: 34, 95
+  orig: 34, 95
+  offset: 0, 0
+  index: -1
+eff_steak2_2
+  rotate: false
+  xy: 2, 355
+  size: 178, 155
+  orig: 178, 155
+  offset: 0, 0
+  index: -1
+eff_steak2_4
+  rotate: false
+  xy: 182, 306
+  size: 149, 69
+  orig: 149, 69
+  offset: 0, 0
+  index: -1
+eye_AT
+  rotate: false
+  xy: 321, 266
+  size: 55, 34
+  orig: 55, 34
+  offset: 0, 0
+  index: -1
+eye_default
+  rotate: false
+  xy: 321, 230
+  size: 55, 34
+  orig: 55, 34
+  offset: 0, 0
+  index: -1
+face_dmg
+  rotate: true
+  xy: 2, 40
+  size: 56, 45
+  orig: 56, 45
+  offset: 0, 0
+  index: -1
+hand_r_AT
+  rotate: false
+  xy: 298, 215
+  size: 14, 17
+  orig: 14, 17
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 168, 204
+  size: 128, 100
+  orig: 128, 100
+  offset: 0, 0
+  index: -1
+head_re
+  rotate: false
+  xy: 158, 102
+  size: 128, 100
+  orig: 128, 100
+  offset: 0, 0
+  index: -1
+leg_l
+  rotate: true
+  xy: 51, 2
+  size: 36, 39
+  orig: 36, 39
+  offset: 0, 0
+  index: -1
+leg_r
+  rotate: false
+  xy: 99, 2
+  size: 44, 41
+  orig: 44, 41
+  offset: 0, 0
+  index: -1
+mouth_AT
+  rotate: true
+  xy: 158, 208
+  size: 9, 8
+  orig: 9, 8
+  offset: 0, 0
+  index: -1
+mouth_default
+  rotate: true
+  xy: 1013, 339
+  size: 16, 9
+  orig: 16, 9
+  offset: 0, 0
+  index: -1
+octopus
+  rotate: false
+  xy: 158, 2
+  size: 122, 98
+  orig: 122, 98
+  offset: 0, 0
+  index: -1
+octopus_re
+  rotate: false
+  xy: 282, 2
+  size: 122, 98
+  orig: 122, 98
+  offset: 0, 0
+  index: -1
+poron
+  rotate: false
+  xy: 298, 234
+  size: 21, 70
+  orig: 21, 70
+  offset: 0, 0
+  index: -1
+sholder_l
+  rotate: true
+  xy: 378, 250
+  size: 50, 25
+  orig: 50, 25
+  offset: 0, 0
+  index: -1
+sholder_r
+  rotate: false
+  xy: 706, 301
+  size: 32, 26
+  orig: 32, 26
+  offset: 0, 0
+  index: -1
+skirt_b_l
+  rotate: false
+  xy: 941, 360
+  size: 41, 27
+  orig: 41, 27
+  offset: 0, 0
+  index: -1
+skirt_b_r
+  rotate: false
+  xy: 2, 2
+  size: 47, 36
+  orig: 47, 36
+  offset: 0, 0
+  index: -1
+skirt_c
+  rotate: true
+  xy: 950, 317
+  size: 41, 27
+  orig: 41, 27
+  offset: 0, 0
+  index: -1
+skirt_r
+  rotate: true
+  xy: 911, 360
+  size: 48, 28
+  orig: 48, 28
+  offset: 0, 0
+  index: -1
+takoyaki
+  rotate: false
+  xy: 942, 389
+  size: 80, 49
+  orig: 80, 49
+  offset: 0, 0
+  index: -1

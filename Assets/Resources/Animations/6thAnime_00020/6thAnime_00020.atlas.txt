@@ -1,0 +1,188 @@
+
+6thAnime_00020.png
+size: 330,140
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Leg_R
+  rotate: true
+  xy: 118, 6
+  size: 31, 17
+  orig: 31, 17
+  offset: 0, 0
+  index: -1
+Leg_R_d
+  rotate: true
+  xy: 189, 58
+  size: 13, 20
+  orig: 13, 20
+  offset: 0, 0
+  index: -1
+arm_l_AT
+  rotate: true
+  xy: 273, 84
+  size: 22, 28
+  orig: 22, 28
+  offset: 0, 0
+  index: -1
+arm_l_default
+  rotate: false
+  xy: 105, 5
+  size: 11, 32
+  orig: 11, 32
+  offset: 0, 0
+  index: -1
+arm_r_AT_01
+  rotate: true
+  xy: 162, 58
+  size: 80, 25
+  orig: 80, 25
+  offset: 0, 0
+  index: -1
+arm_r_AT_02
+  rotate: false
+  xy: 277, 39
+  size: 46, 14
+  orig: 46, 14
+  offset: 0, 0
+  index: -1
+arm_r_AT_03
+  rotate: true
+  xy: 182, 2
+  size: 54, 53
+  orig: 54, 53
+  offset: 0, 0
+  index: -1
+arm_r_AT_chanchanko
+  rotate: true
+  xy: 34, 3
+  size: 32, 40
+  orig: 32, 40
+  offset: 0, 0
+  index: -1
+arm_r_chanchanko
+  rotate: true
+  xy: 303, 55
+  size: 21, 25
+  orig: 21, 25
+  offset: 0, 0
+  index: -1
+arm_r_default
+  rotate: false
+  xy: 137, 6
+  size: 13, 31
+  orig: 13, 31
+  offset: 0, 0
+  index: -1
+body_AT
+  rotate: true
+  xy: 230, 84
+  size: 54, 41
+  orig: 54, 41
+  offset: 0, 0
+  index: -1
+body_default
+  rotate: true
+  xy: 237, 6
+  size: 50, 38
+  orig: 50, 38
+  offset: 0, 0
+  index: -1
+chan_eff
+  rotate: true
+  xy: 262, 59
+  size: 23, 39
+  orig: 23, 39
+  offset: 0, 0
+  index: -1
+eff_geta
+  rotate: false
+  xy: 189, 73
+  size: 39, 65
+  orig: 39, 65
+  offset: 0, 0
+  index: -1
+face_AT
+  rotate: true
+  xy: 277, 8
+  size: 29, 27
+  orig: 29, 27
+  offset: 0, 0
+  index: -1
+face_AT_inversion
+  rotate: true
+  xy: 76, 3
+  size: 32, 27
+  orig: 32, 27
+  offset: 0, 0
+  index: -1
+face_damage
+  rotate: false
+  xy: 303, 109
+  size: 25, 29
+  orig: 25, 29
+  offset: 0, 0
+  index: -1
+face_damage_inversion
+  rotate: true
+  xy: 152, 7
+  size: 30, 28
+  orig: 30, 28
+  offset: 0, 0
+  index: -1
+face_default
+  rotate: false
+  xy: 303, 78
+  size: 25, 29
+  orig: 25, 29
+  offset: 0, 0
+  index: -1
+face_default_inversion
+  rotate: true
+  xy: 273, 108
+  size: 30, 28
+  orig: 30, 28
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 2, 37
+  size: 101, 78
+  orig: 101, 78
+  offset: 0, 0
+  index: -1
+head_inversion
+  rotate: true
+  xy: 82, 39
+  size: 99, 78
+  orig: 99, 78
+  offset: 0, 0
+  index: -1
+leg_L
+  rotate: false
+  xy: 162, 40
+  size: 14, 16
+  orig: 14, 16
+  offset: 0, 0
+  index: -1
+leg_L_AT
+  rotate: true
+  xy: 2, 2
+  size: 33, 30
+  orig: 33, 30
+  offset: 0, 0
+  index: -1
+leg_L_d
+  rotate: true
+  xy: 306, 9
+  size: 28, 18
+  orig: 28, 18
+  offset: 0, 0
+  index: -1
+leg_R_AT
+  rotate: true
+  xy: 230, 58
+  size: 24, 30
+  orig: 24, 30
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,27 @@
+
+HyakkiChara_01.png
+size: 146,85
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+HyakkiChara_01_body
+  rotate: true
+  xy: 0, 0
+  size: 85, 113
+  orig: 85, 113
+  offset: 0, 0
+  index: -1
+HyakkiChara_01_leg
+  rotate: false
+  xy: 113, 29
+  size: 25, 56
+  orig: 25, 56
+  offset: 0, 0
+  index: -1
+HyakkiShadow
+  rotate: true
+  xy: 138, 21
+  size: 64, 8
+  orig: 64, 8
+  offset: 0, 0
+  index: -1

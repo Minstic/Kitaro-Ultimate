@@ -1,0 +1,104 @@
+
+Character_00690.png
+size: 531,101
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_l
+  rotate: false
+  xy: 333, 19
+  size: 32, 80
+  orig: 32, 80
+  offset: 0, 0
+  index: -1
+arm_r_01
+  rotate: false
+  xy: 423, 29
+  size: 29, 38
+  orig: 29, 38
+  offset: 0, 0
+  index: -1
+arm_r_02
+  rotate: false
+  xy: 423, 2
+  size: 23, 25
+  orig: 23, 25
+  offset: 0, 0
+  index: -1
+body_01
+  rotate: false
+  xy: 367, 23
+  size: 54, 44
+  orig: 54, 44
+  offset: 0, 0
+  index: -1
+body_02
+  rotate: false
+  xy: 263, 7
+  size: 68, 92
+  orig: 68, 92
+  offset: 0, 0
+  index: -1
+face_damage
+  rotate: false
+  xy: 454, 51
+  size: 50, 48
+  orig: 50, 48
+  offset: 0, 0
+  index: -1
+face_default
+  rotate: false
+  xy: 454, 12
+  size: 62, 37
+  orig: 62, 37
+  offset: 0, 0
+  index: -1
+hair
+  rotate: true
+  xy: 178, 4
+  size: 95, 83
+  orig: 95, 83
+  offset: 0, 0
+  index: -1
+hand_r
+  rotate: true
+  xy: 506, 80
+  size: 19, 23
+  orig: 19, 23
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 2, 2
+  size: 97, 86
+  orig: 97, 86
+  offset: 0, 0
+  index: -1
+head_2
+  rotate: true
+  xy: 90, 2
+  size: 97, 86
+  orig: 97, 86
+  offset: 0, 0
+  index: -1
+leg_l
+  rotate: true
+  xy: 377, 4
+  size: 17, 41
+  orig: 17, 41
+  offset: 0, 0
+  index: -1
+leg_r
+  rotate: true
+  xy: 333, 2
+  size: 15, 42
+  orig: 15, 42
+  offset: 0, 0
+  index: -1
+weapon_season
+  rotate: true
+  xy: 367, 69
+  size: 30, 85
+  orig: 30, 85
+  offset: 0, 0
+  index: -1

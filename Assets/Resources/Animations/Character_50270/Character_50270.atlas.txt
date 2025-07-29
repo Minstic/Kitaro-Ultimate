@@ -1,0 +1,286 @@
+
+Character_50270.png
+size: 961,456
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+R_leg
+  rotate: true
+  xy: 85, 2
+  size: 17, 78
+  orig: 17, 78
+  offset: 0, 0
+  index: -1
+Slashing
+  rotate: false
+  xy: 738, 159
+  size: 164, 295
+  orig: 164, 295
+  offset: 0, 0
+  index: -1
+arm__attack
+  rotate: false
+  xy: 617, 43
+  size: 165, 108
+  orig: 165, 108
+  offset: 0, 0
+  index: -1
+arm_l_default
+  rotate: true
+  xy: 203, 2
+  size: 148, 107
+  orig: 148, 107
+  offset: 0, 0
+  index: -1
+arm_r_default
+  rotate: false
+  xy: 891, 6
+  size: 13, 91
+  orig: 13, 91
+  offset: 0, 0
+  index: -1
+aura_1
+  rotate: false
+  xy: 554, 153
+  size: 182, 301
+  orig: 182, 301
+  offset: 0, 0
+  index: -1
+aura_2
+  rotate: false
+  xy: 185, 152
+  size: 187, 302
+  orig: 187, 302
+  offset: 0, 0
+  index: -1
+aura_3
+  rotate: false
+  xy: 2, 143
+  size: 181, 311
+  orig: 181, 311
+  offset: 0, 0
+  index: -1
+aura_4
+  rotate: false
+  xy: 374, 152
+  size: 178, 302
+  orig: 178, 302
+  offset: 0, 0
+  index: -1
+bat_1
+  rotate: false
+  xy: 784, 94
+  size: 37, 14
+  orig: 37, 14
+  offset: 0, 0
+  index: -1
+bat_2
+  rotate: false
+  xy: 906, 78
+  size: 40, 19
+  orig: 40, 19
+  offset: 0, 0
+  index: -1
+bat_3
+  rotate: false
+  xy: 784, 110
+  size: 37, 16
+  orig: 37, 16
+  offset: 0, 0
+  index: -1
+bat_4
+  rotate: false
+  xy: 823, 99
+  size: 41, 20
+  orig: 41, 20
+  offset: 0, 0
+  index: -1
+bat_5
+  rotate: true
+  xy: 800, 51
+  size: 41, 19
+  orig: 41, 19
+  offset: 0, 0
+  index: -1
+bat_6
+  rotate: false
+  xy: 165, 2
+  size: 36, 17
+  orig: 36, 17
+  offset: 0, 0
+  index: -1
+bat_7
+  rotate: true
+  xy: 570, 6
+  size: 31, 22
+  orig: 31, 22
+  offset: 0, 0
+  index: -1
+bat_8
+  rotate: true
+  xy: 552, 4
+  size: 33, 16
+  orig: 33, 16
+  offset: 0, 0
+  index: -1
+bat_9
+  rotate: false
+  xy: 866, 108
+  size: 25, 11
+  orig: 25, 11
+  offset: 0, 0
+  index: -1
+body_01_default
+  rotate: false
+  xy: 823, 2
+  size: 66, 95
+  orig: 66, 95
+  offset: 0, 0
+  index: -1
+body_02
+  rotate: false
+  xy: 579, 41
+  size: 36, 110
+  orig: 36, 110
+  offset: 0, 0
+  index: -1
+death_fire_1
+  rotate: true
+  xy: 904, 175
+  size: 28, 48
+  orig: 28, 48
+  offset: 0, 0
+  index: -1
+death_fire_2
+  rotate: true
+  xy: 904, 367
+  size: 24, 50
+  orig: 24, 50
+  offset: 0, 0
+  index: -1
+death_fire_3
+  rotate: true
+  xy: 897, 99
+  size: 26, 57
+  orig: 26, 57
+  offset: 0, 0
+  index: -1
+death_fire_mini_a
+  rotate: false
+  xy: 192, 128
+  size: 8, 13
+  orig: 8, 13
+  offset: 0, 0
+  index: -1
+death_fire_mini_b
+  rotate: true
+  xy: 185, 143
+  size: 7, 12
+  orig: 7, 12
+  offset: 0, 0
+  index: -1
+death_horn_L
+  rotate: true
+  xy: 594, 2
+  size: 37, 74
+  orig: 37, 74
+  offset: 0, 0
+  index: -1
+death_horn_R
+  rotate: true
+  xy: 823, 121
+  size: 36, 72
+  orig: 36, 72
+  offset: 0, 0
+  index: -1
+eff01
+  rotate: false
+  xy: 784, 45
+  size: 14, 47
+  orig: 14, 47
+  offset: 0, 0
+  index: -1
+eff02
+  rotate: false
+  xy: 517, 39
+  size: 60, 111
+  orig: 60, 111
+  offset: 0, 0
+  index: -1
+face_damage
+  rotate: false
+  xy: 517, 4
+  size: 33, 33
+  orig: 33, 33
+  offset: 0, 0
+  index: -1
+face_default
+  rotate: false
+  xy: 784, 128
+  size: 37, 29
+  orig: 37, 29
+  offset: 0, 0
+  index: -1
+hair
+  rotate: false
+  xy: 431, 10
+  size: 84, 140
+  orig: 84, 140
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 904, 393
+  size: 61, 55
+  orig: 61, 55
+  offset: 0, 0
+  index: -1
+mant_back_attack
+  rotate: false
+  xy: 2, 10
+  size: 81, 131
+  orig: 81, 131
+  offset: 0, 0
+  index: -1
+mant_back_default
+  rotate: false
+  xy: 85, 21
+  size: 105, 120
+  orig: 105, 120
+  offset: 0, 0
+  index: -1
+mant_l_attack
+  rotate: false
+  xy: 904, 205
+  size: 49, 160
+  orig: 49, 160
+  offset: 0, 0
+  index: -1
+mant_l_default
+  rotate: false
+  xy: 312, 7
+  size: 78, 143
+  orig: 78, 143
+  offset: 0, 0
+  index: -1
+mant_r_attack
+  rotate: true
+  xy: 670, 3
+  size: 38, 151
+  orig: 38, 151
+  offset: 0, 0
+  index: -1
+mant_r_default
+  rotate: false
+  xy: 392, 8
+  size: 37, 142
+  orig: 37, 142
+  offset: 0, 0
+  index: -1
+mask
+  rotate: false
+  xy: 904, 127
+  size: 47, 46
+  orig: 47, 46
+  offset: 0, 0
+  index: -1

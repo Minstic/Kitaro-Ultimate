@@ -1,0 +1,153 @@
+
+Character_01211.png
+size: 512,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_l
+  rotate: true
+  xy: 20, 6
+  size: 8, 17
+  orig: 8, 17
+  offset: 0, 0
+  index: -1
+arm_l_move
+  rotate: false
+  xy: 445, 54
+  size: 18, 8
+  orig: 18, 8
+  offset: 0, 0
+  index: -1
+arm_r
+  rotate: true
+  xy: 465, 54
+  size: 8, 15
+  orig: 8, 15
+  offset: 0, 0
+  index: -1
+arm_r_move
+  rotate: false
+  xy: 2, 3
+  size: 16, 11
+  orig: 16, 11
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 57, 16
+  size: 53, 46
+  orig: 53, 46
+  offset: 0, 0
+  index: -1
+ef_A1
+  rotate: true
+  xy: 211, 36
+  size: 26, 35
+  orig: 26, 35
+  offset: 0, 0
+  index: -1
+ef_A2
+  rotate: false
+  xy: 112, 23
+  size: 31, 39
+  orig: 31, 39
+  offset: 0, 0
+  index: -1
+ef_A3
+  rotate: false
+  xy: 145, 27
+  size: 33, 35
+  orig: 33, 35
+  offset: 0, 0
+  index: -1
+ef_B1
+  rotate: true
+  xy: 281, 37
+  size: 25, 30
+  orig: 25, 30
+  offset: 0, 0
+  index: -1
+ef_B2
+  rotate: true
+  xy: 248, 34
+  size: 28, 31
+  orig: 28, 31
+  offset: 0, 0
+  index: -1
+ef_B3
+  rotate: false
+  xy: 180, 28
+  size: 29, 34
+  orig: 29, 34
+  offset: 0, 0
+  index: -1
+ef_C1
+  rotate: true
+  xy: 180, 2
+  size: 24, 21
+  orig: 24, 21
+  offset: 0, 0
+  index: -1
+ef_C2
+  rotate: false
+  xy: 347, 48
+  size: 32, 14
+  orig: 32, 14
+  offset: 0, 0
+  index: -1
+ef_C3
+  rotate: false
+  xy: 413, 49
+  size: 30, 13
+  orig: 30, 13
+  offset: 0, 0
+  index: -1
+ef_body
+  rotate: false
+  xy: 2, 16
+  size: 53, 46
+  orig: 53, 46
+  offset: 0, 0
+  index: -1
+ef_mini
+  rotate: false
+  xy: 313, 38
+  size: 5, 6
+  orig: 5, 6
+  offset: 0, 0
+  index: -1
+eye
+  rotate: false
+  xy: 381, 47
+  size: 30, 15
+  orig: 30, 15
+  offset: 0, 0
+  index: -1
+eye_black
+  rotate: false
+  xy: 211, 31
+  size: 18, 3
+  orig: 18, 3
+  offset: 0, 0
+  index: -1
+eye_damage
+  rotate: false
+  xy: 313, 46
+  size: 32, 16
+  orig: 32, 16
+  offset: 0, 0
+  index: -1
+leg_l
+  rotate: true
+  xy: 39, 5
+  size: 9, 14
+  orig: 9, 14
+  offset: 0, 0
+  index: -1
+leg_r
+  rotate: true
+  xy: 482, 54
+  size: 8, 14
+  orig: 8, 14
+  offset: 0, 0
+  index: -1

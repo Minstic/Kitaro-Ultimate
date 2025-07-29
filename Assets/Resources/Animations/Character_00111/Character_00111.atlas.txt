@@ -1,0 +1,230 @@
+
+Character_00111.png
+size: 361,267
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_l
+  rotate: false
+  xy: 286, 40
+  size: 28, 37
+  orig: 28, 37
+  offset: 0, 0
+  index: -1
+arm_r
+  rotate: false
+  xy: 2, 2
+  size: 27, 38
+  orig: 27, 38
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 42
+  size: 134, 91
+  orig: 134, 91
+  offset: 0, 0
+  index: -1
+face_attack
+  rotate: false
+  xy: 31, 5
+  size: 49, 35
+  orig: 49, 35
+  offset: 0, 0
+  index: -1
+face_damage
+  rotate: false
+  xy: 82, 20
+  size: 54, 20
+  orig: 54, 20
+  offset: 0, 0
+  index: -1
+face_default
+  rotate: true
+  xy: 327, 82
+  size: 48, 22
+  orig: 48, 22
+  offset: 0, 0
+  index: -1
+face_default_mustache_l
+  rotate: true
+  xy: 251, 2
+  size: 11, 20
+  orig: 11, 20
+  offset: 0, 0
+  index: -1
+face_default_mustache_r
+  rotate: true
+  xy: 286, 2
+  size: 13, 22
+  orig: 13, 22
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 266, 194
+  size: 82, 71
+  orig: 82, 71
+  offset: 0, 0
+  index: -1
+leg_l
+  rotate: false
+  xy: 245, 35
+  size: 39, 41
+  orig: 39, 41
+  offset: 0, 0
+  index: -1
+leg_r
+  rotate: true
+  xy: 216, 2
+  size: 27, 33
+  orig: 27, 33
+  offset: 0, 0
+  index: -1
+tail
+  rotate: false
+  xy: 138, 79
+  size: 76, 54
+  orig: 76, 54
+  offset: 0, 0
+  index: -1
+thunder_a_01
+  rotate: true
+  xy: 192, 31
+  size: 45, 51
+  orig: 45, 51
+  offset: 0, 0
+  index: -1
+thunder_a_02
+  rotate: true
+  xy: 216, 78
+  size: 55, 49
+  orig: 55, 49
+  offset: 0, 0
+  index: -1
+thunder_a_03
+  rotate: true
+  xy: 138, 14
+  size: 20, 39
+  orig: 20, 39
+  offset: 0, 0
+  index: -1
+thunder_a_04
+  rotate: false
+  xy: 329, 132
+  size: 30, 23
+  orig: 30, 23
+  offset: 0, 0
+  index: -1
+thunder_a_05
+  rotate: false
+  xy: 267, 79
+  size: 58, 56
+  orig: 58, 56
+  offset: 0, 0
+  index: -1
+thunder_a_06
+  rotate: true
+  xy: 266, 137
+  size: 55, 61
+  orig: 55, 61
+  offset: 0, 0
+  index: -1
+thunder_a_07
+  rotate: true
+  xy: 138, 36
+  size: 41, 52
+  orig: 41, 52
+  offset: 0, 0
+  index: -1
+thunder_a_08
+  rotate: true
+  xy: 329, 157
+  size: 35, 30
+  orig: 35, 30
+  offset: 0, 0
+  index: -1
+thunder_all
+  rotate: false
+  xy: 2, 135
+  size: 262, 130
+  orig: 262, 130
+  offset: 0, 0
+  index: -1
+thunder_b_01
+  rotate: false
+  xy: 82, 2
+  size: 27, 16
+  orig: 27, 16
+  offset: 0, 0
+  index: -1
+thunder_b_02
+  rotate: true
+  xy: 316, 43
+  size: 34, 6
+  orig: 34, 6
+  offset: 0, 0
+  index: -1
+thunder_b_03
+  rotate: false
+  xy: 273, 3
+  size: 6, 10
+  orig: 6, 10
+  offset: 0, 0
+  index: -1
+thunder_b_04
+  rotate: false
+  xy: 351, 94
+  size: 8, 15
+  orig: 8, 15
+  offset: 0, 0
+  index: -1
+thunder_b_05
+  rotate: true
+  xy: 286, 17
+  size: 21, 28
+  orig: 21, 28
+  offset: 0, 0
+  index: -1
+thunder_b_06
+  rotate: true
+  xy: 251, 15
+  size: 18, 33
+  orig: 18, 33
+  offset: 0, 0
+  index: -1
+thunder_b_07
+  rotate: false
+  xy: 357, 248
+  size: 2, 17
+  orig: 2, 17
+  offset: 0, 0
+  index: -1
+thunder_b_08
+  rotate: false
+  xy: 350, 220
+  size: 5, 45
+  orig: 5, 45
+  offset: 0, 0
+  index: -1
+thunder_b_09
+  rotate: false
+  xy: 351, 111
+  size: 8, 19
+  orig: 8, 19
+  offset: 0, 0
+  index: -1
+thunder_b_10
+  rotate: true
+  xy: 179, 2
+  size: 27, 35
+  orig: 27, 35
+  offset: 0, 0
+  index: -1
+thunder_b_11
+  rotate: false
+  xy: 111, 11
+  size: 23, 7
+  orig: 23, 7
+  offset: 0, 0
+  index: -1

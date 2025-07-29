@@ -1,0 +1,160 @@
+
+Character_00481.png
+size: 765,267
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+face_attack
+  rotate: true
+  xy: 127, 7
+  size: 64, 59
+  orig: 64, 59
+  offset: 0, 0
+  index: -1
+face_damage
+  rotate: true
+  xy: 2, 6
+  size: 65, 63
+  orig: 65, 63
+  offset: 0, 0
+  index: -1
+face_default
+  rotate: true
+  xy: 67, 6
+  size: 65, 58
+  orig: 65, 58
+  offset: 0, 0
+  index: -1
+fire_01
+  rotate: false
+  xy: 507, 9
+  size: 77, 123
+  orig: 77, 123
+  offset: 0, 0
+  index: -1
+fire_02
+  rotate: true
+  xy: 388, 132
+  size: 133, 73
+  orig: 133, 73
+  offset: 0, 0
+  index: -1
+fire_03a
+  rotate: false
+  xy: 538, 152
+  size: 101, 113
+  orig: 101, 113
+  offset: 0, 0
+  index: -1
+fire_03b
+  rotate: false
+  xy: 405, 4
+  size: 100, 126
+  orig: 100, 126
+  offset: 0, 0
+  index: -1
+fire_03c
+  rotate: false
+  xy: 288, 132
+  size: 98, 133
+  orig: 98, 133
+  offset: 0, 0
+  index: -1
+fire_04a
+  rotate: true
+  xy: 586, 54
+  size: 96, 49
+  orig: 96, 49
+  offset: 0, 0
+  index: -1
+fire_04b
+  rotate: false
+  xy: 676, 32
+  size: 87, 38
+  orig: 87, 38
+  offset: 0, 0
+  index: -1
+fire_04c
+  rotate: false
+  xy: 586, 8
+  size: 88, 44
+  orig: 88, 44
+  offset: 0, 0
+  index: -1
+fire_05a
+  rotate: true
+  xy: 641, 72
+  size: 107, 108
+  orig: 107, 108
+  offset: 0, 0
+  index: -1
+fire_05b
+  rotate: false
+  xy: 188, 3
+  size: 104, 124
+  orig: 104, 124
+  offset: 0, 0
+  index: -1
+fire_05c
+  rotate: false
+  xy: 294, 2
+  size: 109, 128
+  orig: 109, 128
+  offset: 0, 0
+  index: -1
+fire_06
+  rotate: false
+  xy: 463, 134
+  size: 73, 131
+  orig: 73, 131
+  offset: 0, 0
+  index: -1
+fire_08
+  rotate: true
+  xy: 2, 73
+  size: 192, 155
+  orig: 192, 155
+  offset: 0, 0
+  index: -1
+fire_roll_01
+  rotate: true
+  xy: 159, 112
+  size: 15, 22
+  orig: 15, 22
+  offset: 0, 0
+  index: -1
+fire_roll_02
+  rotate: true
+  xy: 172, 91
+  size: 7, 12
+  orig: 7, 12
+  offset: 0, 0
+  index: -1
+fire_roll_03
+  rotate: false
+  xy: 159, 100
+  size: 19, 10
+  orig: 19, 10
+  offset: 0, 0
+  index: -1
+fire_roll_04
+  rotate: true
+  xy: 159, 80
+  size: 18, 11
+  orig: 18, 11
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 641, 181
+  size: 111, 84
+  orig: 111, 84
+  offset: 0, 0
+  index: -1
+wheel
+  rotate: true
+  xy: 159, 129
+  size: 136, 127
+  orig: 136, 127
+  offset: 0, 0
+  index: -1

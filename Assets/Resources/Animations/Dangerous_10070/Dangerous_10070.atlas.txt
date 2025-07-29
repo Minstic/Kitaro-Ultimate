@@ -1,0 +1,188 @@
+
+Dangerous_10070.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+AT_arm_01_l
+  rotate: true
+  xy: 222, 37
+  size: 237, 95
+  orig: 237, 95
+  offset: 0, 0
+  index: -1
+AT_arm_01_r
+  rotate: false
+  xy: 94, 2
+  size: 59, 36
+  orig: 59, 36
+  offset: 0, 0
+  index: -1
+AT_arm_02_l
+  rotate: false
+  xy: 2, 2
+  size: 90, 36
+  orig: 90, 36
+  offset: 0, 0
+  index: -1
+AT_arm_02_r
+  rotate: true
+  xy: 674, 569
+  size: 150, 91
+  orig: 150, 91
+  offset: 0, 0
+  index: -1
+AT_body_01
+  rotate: false
+  xy: 2, 687
+  size: 401, 330
+  orig: 401, 330
+  offset: 0, 0
+  index: -1
+AT_body_02
+  rotate: true
+  xy: 2, 276
+  size: 409, 307
+  orig: 409, 307
+  offset: 0, 0
+  index: -1
+AT_eye_01
+  rotate: false
+  xy: 319, 120
+  size: 174, 123
+  orig: 174, 123
+  offset: 0, 0
+  index: -1
+AT_eye_02
+  rotate: false
+  xy: 433, 245
+  size: 193, 145
+  orig: 193, 145
+  offset: 0, 0
+  index: -1
+AT_leg_01_l
+  rotate: false
+  xy: 319, 57
+  size: 79, 61
+  orig: 79, 61
+  offset: 0, 0
+  index: -1
+AT_leg_01_r
+  rotate: false
+  xy: 311, 294
+  size: 84, 35
+  orig: 84, 35
+  offset: 0, 0
+  index: -1
+AT_leg_02_l
+  rotate: false
+  xy: 957, 636
+  size: 65, 49
+  orig: 65, 49
+  offset: 0, 0
+  index: -1
+AT_leg_02_r
+  rotate: false
+  xy: 400, 73
+  size: 60, 45
+  orig: 60, 45
+  offset: 0, 0
+  index: -1
+arm_l
+  rotate: false
+  xy: 980, 944
+  size: 42, 73
+  orig: 42, 73
+  offset: 0, 0
+  index: -1
+arm_r
+  rotate: false
+  xy: 980, 873
+  size: 29, 69
+  orig: 29, 69
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 405, 721
+  size: 363, 296
+  orig: 363, 296
+  offset: 0, 0
+  index: -1
+ef_Attack1
+  rotate: false
+  xy: 433, 392
+  size: 215, 166
+  orig: 215, 166
+  offset: 0, 0
+  index: -1
+ef_Attack2
+  rotate: false
+  xy: 433, 560
+  size: 239, 159
+  orig: 239, 159
+  offset: 0, 0
+  index: -1
+eff_c
+  rotate: false
+  xy: 495, 115
+  size: 131, 128
+  orig: 131, 128
+  offset: 0, 0
+  index: -1
+eff_c3
+  rotate: false
+  xy: 770, 813
+  size: 208, 204
+  orig: 208, 204
+  offset: 0, 0
+  index: -1
+eff_light
+  rotate: false
+  xy: 2, 40
+  size: 218, 234
+  orig: 218, 234
+  offset: 0, 0
+  index: -1
+eff_smoke
+  rotate: true
+  xy: 311, 331
+  size: 354, 120
+  orig: 354, 120
+  offset: 0, 0
+  index: -1
+eye_damage
+  rotate: false
+  xy: 770, 687
+  size: 210, 124
+  orig: 210, 124
+  offset: 0, 0
+  index: -1
+eye_default
+  rotate: false
+  xy: 767, 538
+  size: 188, 147
+  orig: 188, 147
+  offset: 0, 0
+  index: -1
+hand_r
+  rotate: true
+  xy: 405, 697
+  size: 22, 26
+  orig: 22, 26
+  offset: 0, 0
+  index: -1
+leg_l
+  rotate: true
+  xy: 980, 825
+  size: 46, 27
+  orig: 46, 27
+  offset: 0, 0
+  index: -1
+leg_r
+  rotate: false
+  xy: 957, 588
+  size: 40, 46
+  orig: 40, 46
+  offset: 0, 0
+  index: -1

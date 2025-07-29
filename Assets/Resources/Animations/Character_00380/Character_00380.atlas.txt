@@ -1,0 +1,62 @@
+
+Character_00380.png
+size: 376,265
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_l
+  rotate: true
+  xy: 318, 167
+  size: 96, 56
+  orig: 96, 56
+  offset: 0, 0
+  index: -1
+arm_r
+  rotate: false
+  xy: 273, 91
+  size: 100, 74
+  orig: 100, 74
+  offset: 0, 0
+  index: -1
+arm_r_02
+  rotate: true
+  xy: 273, 23
+  size: 66, 51
+  orig: 66, 51
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 2, 2
+  size: 261, 173
+  orig: 261, 173
+  offset: 0, 0
+  index: -1
+head_damage
+  rotate: false
+  xy: 177, 167
+  size: 139, 96
+  orig: 139, 96
+  offset: 0, 0
+  index: -1
+head_default
+  rotate: true
+  xy: 177, 26
+  size: 139, 94
+  orig: 139, 94
+  offset: 0, 0
+  index: -1
+head_default_mouth
+  rotate: false
+  xy: 177, 11
+  size: 51, 13
+  orig: 51, 13
+  offset: 0, 0
+  index: -1
+head_default_tongue
+  rotate: true
+  xy: 326, 21
+  size: 68, 46
+  orig: 68, 46
+  offset: 0, 0
+  index: -1

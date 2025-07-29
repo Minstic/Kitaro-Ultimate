@@ -1,0 +1,90 @@
+
+Character_20015.png
+size: 93,46
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+antena
+  rotate: false
+  xy: 52, 19
+  size: 8, 25
+  orig: 8, 25
+  offset: 0, 0
+  index: -1
+arm_l
+  rotate: true
+  xy: 73, 12
+  size: 8, 9
+  orig: 8, 9
+  offset: 0, 0
+  index: -1
+arm_r
+  rotate: true
+  xy: 72, 2
+  size: 8, 9
+  orig: 8, 9
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 5
+  size: 48, 39
+  orig: 48, 39
+  offset: 0, 0
+  index: -1
+eye_brows
+  rotate: true
+  xy: 52, 2
+  size: 15, 12
+  orig: 15, 12
+  offset: 0, 0
+  index: -1
+eye_l1
+  rotate: false
+  xy: 62, 35
+  size: 14, 9
+  orig: 14, 9
+  offset: 0, 0
+  index: -1
+eye_l2
+  rotate: true
+  xy: 66, 3
+  size: 14, 4
+  orig: 14, 4
+  offset: 0, 0
+  index: -1
+eye_r1
+  rotate: true
+  xy: 73, 22
+  size: 11, 9
+  orig: 11, 9
+  offset: 0, 0
+  index: -1
+eye_r2
+  rotate: true
+  xy: 84, 23
+  size: 11, 4
+  orig: 11, 4
+  offset: 0, 0
+  index: -1
+leg_l
+  rotate: false
+  xy: 62, 19
+  size: 9, 14
+  orig: 9, 14
+  offset: 0, 0
+  index: -1
+leg_r
+  rotate: true
+  xy: 78, 36
+  size: 8, 13
+  orig: 8, 13
+  offset: 0, 0
+  index: -1
+ramp
+  rotate: true
+  xy: 84, 11
+  size: 10, 5
+  orig: 10, 5
+  offset: 0, 0
+  index: -1

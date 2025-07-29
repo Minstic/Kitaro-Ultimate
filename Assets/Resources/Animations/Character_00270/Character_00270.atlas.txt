@@ -1,0 +1,104 @@
+
+Character_00270.png
+size: 267,84
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_l
+  rotate: false
+  xy: 160, 2
+  size: 13, 36
+  orig: 13, 36
+  offset: 0, 0
+  index: -1
+arm_r
+  rotate: true
+  xy: 40, 9
+  size: 14, 38
+  orig: 14, 38
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 2, 25
+  size: 57, 87
+  orig: 57, 87
+  offset: 0, 0
+  index: -1
+efc
+  rotate: false
+  xy: 175, 7
+  size: 29, 31
+  orig: 29, 31
+  offset: 0, 0
+  index: -1
+face_01
+  rotate: false
+  xy: 2, 2
+  size: 36, 21
+  orig: 36, 21
+  offset: 0, 0
+  index: -1
+face_02
+  rotate: false
+  xy: 91, 2
+  size: 36, 28
+  orig: 36, 28
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 91, 32
+  size: 61, 50
+  orig: 61, 50
+  offset: 0, 0
+  index: -1
+leg_l_a
+  rotate: true
+  xy: 239, 65
+  size: 17, 26
+  orig: 17, 26
+  offset: 0, 0
+  index: -1
+leg_l_b
+  rotate: false
+  xy: 239, 26
+  size: 19, 22
+  orig: 19, 22
+  offset: 0, 0
+  index: -1
+leg_r_a
+  rotate: true
+  xy: 206, 3
+  size: 17, 23
+  orig: 17, 23
+  offset: 0, 0
+  index: -1
+leg_r_b
+  rotate: true
+  xy: 239, 50
+  size: 13, 26
+  orig: 13, 26
+  offset: 0, 0
+  index: -1
+leg_r_c
+  rotate: false
+  xy: 129, 2
+  size: 29, 28
+  orig: 29, 28
+  offset: 0, 0
+  index: -1
+tail_01
+  rotate: true
+  xy: 154, 40
+  size: 42, 51
+  orig: 42, 51
+  offset: 0, 0
+  index: -1
+tail_02
+  rotate: false
+  xy: 207, 22
+  size: 30, 60
+  orig: 30, 60
+  offset: 0, 0
+  index: -1

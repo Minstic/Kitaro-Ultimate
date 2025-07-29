@@ -1,0 +1,146 @@
+
+Character_20252.png
+size: 201,520
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+attack_base
+  rotate: false
+  xy: 2, 147
+  size: 137, 119
+  orig: 137, 119
+  offset: 0, 0
+  index: -1
+attack_tail
+  rotate: true
+  xy: 2, 53
+  size: 92, 122
+  orig: 92, 122
+  offset: 0, 0
+  index: -1
+base
+  rotate: true
+  xy: 2, 268
+  size: 116, 172
+  orig: 116, 172
+  offset: 0, 0
+  index: -1
+face_attack
+  rotate: true
+  xy: 107, 3
+  size: 48, 44
+  orig: 48, 44
+  offset: 0, 0
+  index: -1
+face_damage
+  rotate: false
+  xy: 141, 156
+  size: 54, 49
+  orig: 54, 49
+  offset: 0, 0
+  index: -1
+face_default
+  rotate: true
+  xy: 141, 207
+  size: 59, 35
+  orig: 59, 35
+  offset: 0, 0
+  index: -1
+horn
+  rotate: false
+  xy: 141, 89
+  size: 50, 65
+  orig: 50, 65
+  offset: 0, 0
+  index: -1
+ripple_1
+  rotate: true
+  xy: 178, 249
+  size: 12, 17
+  orig: 12, 17
+  offset: 0, 0
+  index: -1
+ripple_2
+  rotate: true
+  xy: 178, 235
+  size: 12, 13
+  orig: 12, 13
+  offset: 0, 0
+  index: -1
+wave_1
+  rotate: false
+  xy: 2, 499
+  size: 174, 19
+  orig: 174, 19
+  offset: 0, 0
+  index: -1
+wave_2
+  rotate: false
+  xy: 2, 460
+  size: 174, 17
+  orig: 174, 17
+  offset: 0, 0
+  index: -1
+wave_3
+  rotate: false
+  xy: 2, 441
+  size: 174, 17
+  orig: 174, 17
+  offset: 0, 0
+  index: -1
+wave_4
+  rotate: false
+  xy: 2, 479
+  size: 174, 18
+  orig: 174, 18
+  offset: 0, 0
+  index: -1
+wave_5
+  rotate: false
+  xy: 2, 404
+  size: 174, 16
+  orig: 174, 16
+  offset: 0, 0
+  index: -1
+wave_6
+  rotate: false
+  xy: 2, 386
+  size: 174, 16
+  orig: 174, 16
+  offset: 0, 0
+  index: -1
+wave_7
+  rotate: false
+  xy: 2, 422
+  size: 174, 17
+  orig: 174, 17
+  offset: 0, 0
+  index: -1
+wave_8
+  rotate: true
+  xy: 178, 263
+  size: 174, 17
+  orig: 174, 17
+  offset: 0, 0
+  index: -1
+wave_eff_1
+  rotate: true
+  xy: 178, 439
+  size: 79, 21
+  orig: 79, 21
+  offset: 0, 0
+  index: -1
+wave_eff_2
+  rotate: false
+  xy: 2, 2
+  size: 103, 49
+  orig: 103, 49
+  offset: 0, 0
+  index: -1
+wave_eff_3
+  rotate: false
+  xy: 153, 19
+  size: 38, 68
+  orig: 38, 68
+  offset: 0, 0
+  index: -1

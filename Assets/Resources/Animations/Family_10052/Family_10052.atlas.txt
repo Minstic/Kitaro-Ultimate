@@ -1,0 +1,139 @@
+
+Family_10052.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Eff_Flash
+  rotate: false
+  xy: 459, 21
+  size: 181, 146
+  orig: 181, 146
+  offset: 0, 0
+  index: -1
+arm_l
+  rotate: false
+  xy: 587, 212
+  size: 147, 191
+  orig: 147, 191
+  offset: 0, 0
+  index: -1
+arm_r
+  rotate: false
+  xy: 459, 169
+  size: 126, 200
+  orig: 126, 200
+  offset: 0, 0
+  index: -1
+beam
+  rotate: true
+  xy: 377, 48
+  size: 321, 80
+  orig: 321, 80
+  offset: 0, 0
+  index: -1
+beam2
+  rotate: false
+  xy: 902, 922
+  size: 105, 97
+  orig: 105, 97
+  offset: 0, 0
+  index: -1
+body_base
+  rotate: false
+  xy: 2, 371
+  size: 524, 648
+  orig: 524, 648
+  offset: 0, 0
+  index: -1
+eff_AT
+  rotate: false
+  xy: 528, 428
+  size: 136, 369
+  orig: 136, 369
+  offset: 0, 0
+  index: -1
+eff_AT1
+  rotate: false
+  xy: 902, 816
+  size: 77, 104
+  orig: 77, 104
+  offset: 0, 0
+  index: -1
+eff_AT2_1
+  rotate: false
+  xy: 756, 364
+  size: 76, 433
+  orig: 76, 433
+  offset: 0, 0
+  index: -1
+eff_AT3_2
+  rotate: false
+  xy: 834, 308
+  size: 57, 489
+  orig: 57, 489
+  offset: 0, 0
+  index: -1
+eye_dam_l
+  rotate: false
+  xy: 736, 227
+  size: 58, 59
+  orig: 58, 59
+  offset: 0, 0
+  index: -1
+eye_dam_r
+  rotate: false
+  xy: 642, 151
+  size: 58, 59
+  orig: 58, 59
+  offset: 0, 0
+  index: -1
+eye_def_re_r
+  rotate: false
+  xy: 642, 151
+  size: 58, 59
+  orig: 58, 59
+  offset: 0, 0
+  index: -1
+eye_def_l
+  rotate: false
+  xy: 642, 90
+  size: 57, 59
+  orig: 57, 59
+  offset: 0, 0
+  index: -1
+eye_def_r
+  rotate: true
+  xy: 377, 2
+  size: 44, 77
+  orig: 44, 77
+  offset: 0, 0
+  index: -1
+eye_def_re_l
+  rotate: false
+  xy: 736, 288
+  size: 49, 74
+  orig: 49, 74
+  offset: 0, 0
+  index: -1
+mouth_close
+  rotate: true
+  xy: 666, 405
+  size: 392, 88
+  orig: 392, 88
+  offset: 0, 0
+  index: -1
+mouth_def
+  rotate: false
+  xy: 528, 799
+  size: 372, 220
+  orig: 372, 220
+  offset: 0, 0
+  index: -1
+mouth_open
+  rotate: false
+  xy: 2, 19
+  size: 373, 350
+  orig: 373, 350
+  offset: 0, 0
+  index: -1

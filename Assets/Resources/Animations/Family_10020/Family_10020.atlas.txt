@@ -1,0 +1,265 @@
+
+Family_10020.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+abura_arm_r
+  rotate: false
+  xy: 777, 139
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+abura_body
+  rotate: false
+  xy: 750, 181
+  size: 76, 73
+  orig: 76, 73
+  offset: 0, 0
+  index: -1
+abura_eff01
+  rotate: false
+  xy: 239, 48
+  size: 38, 32
+  orig: 38, 32
+  offset: 0, 0
+  index: -1
+abura_eff02
+  rotate: false
+  xy: 340, 103
+  size: 36, 33
+  orig: 36, 33
+  offset: 0, 0
+  index: -1
+abura_face_damage
+  rotate: true
+  xy: 982, 194
+  size: 60, 40
+  orig: 60, 40
+  offset: 0, 0
+  index: -1
+abura_face_default
+  rotate: true
+  xy: 240, 82
+  size: 60, 35
+  orig: 60, 35
+  offset: 0, 0
+  index: -1
+abura_head
+  rotate: false
+  xy: 660, 191
+  size: 88, 63
+  orig: 88, 63
+  offset: 0, 0
+  index: -1
+abura_leg_l
+  rotate: false
+  xy: 277, 114
+  size: 20, 28
+  orig: 20, 28
+  offset: 0, 0
+  index: -1
+abura_leg_r
+  rotate: true
+  xy: 828, 169
+  size: 21, 27
+  orig: 21, 27
+  offset: 0, 0
+  index: -1
+abura_line
+  rotate: true
+  xy: 857, 169
+  size: 21, 25
+  orig: 21, 25
+  offset: 0, 0
+  index: -1
+abura_mino_default_l
+  rotate: true
+  xy: 660, 137
+  size: 52, 70
+  orig: 52, 70
+  offset: 0, 0
+  index: -1
+abura_mino_default_r
+  rotate: true
+  xy: 904, 201
+  size: 53, 76
+  orig: 53, 76
+  offset: 0, 0
+  index: -1
+abura_player
+  rotate: false
+  xy: 120, 57
+  size: 54, 68
+  orig: 54, 68
+  offset: 0, 0
+  index: -1
+abura_player_01
+  rotate: false
+  xy: 884, 167
+  size: 19, 23
+  orig: 19, 23
+  offset: 0, 0
+  index: -1
+abura_player_02
+  rotate: false
+  xy: 224, 2
+  size: 16, 11
+  orig: 16, 11
+  offset: 0, 0
+  index: -1
+konaki_arm_l
+  rotate: false
+  xy: 299, 86
+  size: 26, 15
+  orig: 26, 15
+  offset: 0, 0
+  index: -1
+konaki_arm_r
+  rotate: false
+  xy: 327, 83
+  size: 22, 18
+  orig: 22, 18
+  offset: 0, 0
+  index: -1
+konaki_attack_01
+  rotate: false
+  xy: 423, 139
+  size: 117, 115
+  orig: 117, 115
+  offset: 0, 0
+  index: -1
+konaki_attack_02
+  rotate: false
+  xy: 542, 138
+  size: 116, 116
+  orig: 116, 116
+  offset: 0, 0
+  index: -1
+konaki_attack_03
+  rotate: false
+  xy: 301, 138
+  size: 120, 116
+  orig: 120, 116
+  offset: 0, 0
+  index: -1
+konaki_attack_04
+  rotate: false
+  xy: 2, 127
+  size: 157, 127
+  orig: 157, 127
+  offset: 0, 0
+  index: -1
+konaki_attack_eff01
+  rotate: true
+  xy: 2, 2
+  size: 123, 116
+  orig: 123, 116
+  offset: 0, 0
+  index: -1
+konaki_attack_eff02
+  rotate: false
+  xy: 161, 144
+  size: 138, 110
+  orig: 138, 110
+  offset: 0, 0
+  index: -1
+konaki_attack_eff03
+  rotate: false
+  xy: 378, 106
+  size: 37, 30
+  orig: 37, 30
+  offset: 0, 0
+  index: -1
+konaki_body_01
+  rotate: false
+  xy: 176, 83
+  size: 62, 59
+  orig: 62, 59
+  offset: 0, 0
+  index: -1
+konaki_eff01
+  rotate: true
+  xy: 161, 131
+  size: 11, 13
+  orig: 11, 13
+  offset: 0, 0
+  index: -1
+konaki_face_damage
+  rotate: true
+  xy: 732, 137
+  size: 42, 43
+  orig: 42, 43
+  offset: 0, 0
+  index: -1
+konaki_face_default
+  rotate: false
+  xy: 299, 103
+  size: 39, 33
+  orig: 39, 33
+  offset: 0, 0
+  index: -1
+konaki_head
+  rotate: false
+  xy: 828, 192
+  size: 74, 62
+  orig: 74, 62
+  offset: 0, 0
+  index: -1
+konaki_leg_l_01
+  rotate: false
+  xy: 351, 86
+  size: 16, 15
+  orig: 16, 15
+  offset: 0, 0
+  index: -1
+konaki_leg_l_02
+  rotate: true
+  xy: 277, 82
+  size: 10, 16
+  orig: 10, 16
+  offset: 0, 0
+  index: -1
+konaki_leg_r_01
+  rotate: false
+  xy: 279, 61
+  size: 12, 19
+  orig: 12, 19
+  offset: 0, 0
+  index: -1
+konaki_mino_l_back
+  rotate: true
+  xy: 162, 13
+  size: 34, 60
+  orig: 34, 60
+  offset: 0, 0
+  index: -1
+konaki_mino_l_front
+  rotate: false
+  xy: 120, 2
+  size: 40, 53
+  orig: 40, 53
+  offset: 0, 0
+  index: -1
+konaki_mino_line
+  rotate: false
+  xy: 277, 94
+  size: 20, 18
+  orig: 20, 18
+  offset: 0, 0
+  index: -1
+konaki_mino_r_back
+  rotate: true
+  xy: 224, 15
+  size: 31, 54
+  orig: 31, 54
+  offset: 0, 0
+  index: -1
+konaki_mino_r_front
+  rotate: true
+  xy: 176, 49
+  size: 32, 61
+  orig: 32, 61
+  offset: 0, 0
+  index: -1

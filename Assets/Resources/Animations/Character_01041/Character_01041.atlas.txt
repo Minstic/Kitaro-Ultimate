@@ -1,0 +1,139 @@
+
+Character_01041.png
+size: 568,141
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_l
+  rotate: true
+  xy: 266, 3
+  size: 20, 53
+  orig: 20, 53
+  offset: 0, 0
+  index: -1
+arm_r_attack1
+  rotate: false
+  xy: 488, 44
+  size: 40, 20
+  orig: 40, 20
+  offset: 0, 0
+  index: -1
+arm_r_attack2
+  rotate: true
+  xy: 336, 30
+  size: 27, 45
+  orig: 27, 45
+  offset: 0, 0
+  index: -1
+arm_r_default
+  rotate: true
+  xy: 214, 2
+  size: 21, 50
+  orig: 21, 50
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 386, 66
+  size: 73, 70
+  orig: 73, 70
+  offset: 0, 0
+  index: -1
+body_re
+  rotate: true
+  xy: 458, 66
+  size: 73, 70
+  orig: 73, 70
+  offset: 0, 0
+  index: -1
+eff_punsuko_1
+  rotate: false
+  xy: 530, 51
+  size: 36, 42
+  orig: 36, 42
+  offset: 0, 0
+  index: -1
+eff_punsuko_2
+  rotate: false
+  xy: 530, 7
+  size: 35, 42
+  orig: 35, 42
+  offset: 0, 0
+  index: -1
+eff_slash
+  rotate: false
+  xy: 2, 16
+  size: 55, 123
+  orig: 55, 123
+  offset: 0, 0
+  index: -1
+face_damage
+  rotate: true
+  xy: 401, 6
+  size: 58, 48
+  orig: 58, 48
+  offset: 0, 0
+  index: -1
+face_default
+  rotate: true
+  xy: 451, 8
+  size: 56, 35
+  orig: 56, 35
+  offset: 0, 0
+  index: -1
+face_eff
+  rotate: false
+  xy: 530, 95
+  size: 36, 44
+  orig: 36, 44
+  offset: 0, 0
+  index: -1
+hair
+  rotate: false
+  xy: 59, 17
+  size: 153, 122
+  orig: 153, 122
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 307, 59
+  size: 80, 77
+  orig: 80, 77
+  offset: 0, 0
+  index: -1
+leg_l
+  rotate: false
+  xy: 307, 28
+  size: 27, 29
+  orig: 27, 29
+  offset: 0, 0
+  index: -1
+leg_r
+  rotate: true
+  xy: 321, 2
+  size: 24, 27
+  orig: 24, 27
+  offset: 0, 0
+  index: -1
+mouth_attack
+  rotate: true
+  xy: 383, 6
+  size: 51, 16
+  orig: 51, 16
+  offset: 0, 0
+  index: -1
+mouth_default
+  rotate: false
+  xy: 2, 5
+  size: 55, 9
+  orig: 55, 9
+  offset: 0, 0
+  index: -1
+sword
+  rotate: true
+  xy: 214, 25
+  size: 114, 91
+  orig: 114, 91
+  offset: 0, 0
+  index: -1

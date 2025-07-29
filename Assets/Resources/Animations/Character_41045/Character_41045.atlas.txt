@@ -1,0 +1,48 @@
+
+Character_41045.png
+size: 402,257
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_l
+  rotate: false
+  xy: 262, 70
+  size: 80, 68
+  orig: 80, 68
+  offset: 0, 0
+  index: -1
+arm_r
+  rotate: false
+  xy: 262, 2
+  size: 76, 66
+  orig: 76, 66
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 4
+  size: 258, 251
+  orig: 258, 251
+  offset: 0, 0
+  index: -1
+cord
+  rotate: false
+  xy: 344, 57
+  size: 56, 81
+  orig: 56, 81
+  offset: 0, 0
+  index: -1
+crown
+  rotate: false
+  xy: 262, 140
+  size: 88, 115
+  orig: 88, 115
+  offset: 0, 0
+  index: -1
+face_default
+  rotate: true
+  xy: 352, 165
+  size: 90, 24
+  orig: 90, 24
+  offset: 0, 0
+  index: -1

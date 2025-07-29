@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c1ab2b1b2f492bb4d825b1f0fb5efb22, type: 3}
+  m_Name: Character_30320
+  m_EditorClassIdentifier: 
+  HP: 0
+  HB: 1
+  Speed: 0
+  AtkRange: 1
+  MinLD: 0
+  MaxLD: 0
+  Atk: 0
+  Atk2: 0
+  Atk3: 0
+  AreaAtk: 1
+  TBA: 0
+  AttacksAllies: 0
+  rarity: 6
+  Cost: 0
+  CD: 0
+  UnitRole: 20
+  MaxLevel: 40
+  MaxPlusLevel: 0
+  HPMaginificationLvl30: 0
+  AtkMaginificationLvl30: 0
+  MinLayer: 0
+  MaxLayer: 100
+  SelfTrait: 0
+  TargetTraits: 0
+  SecondaryType: 0
+  TraitAbilityData:
+  - UnlockAtPlus: 0
+    Ability: 0
+    Percent: 0
+    Power: 0
+    DurationSeconds: 0
+    Distance: 0
+  - UnlockAtPlus: 0
+    Ability: 7
+    Percent: 30
+    Power: 0
+    DurationSeconds: 0
+    Distance: 0
+  - UnlockAtPlus: 0
+    Ability: 6
+    Percent: 100
+    Power: 0
+    DurationSeconds: 8
+    Distance: 0
+  NeutralAbilityData: []
+  StatsBoost: []

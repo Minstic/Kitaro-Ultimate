@@ -1,0 +1,146 @@
+
+Character_00142.png
+size: 263,141
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_l_attack
+  rotate: true
+  xy: 175, 104
+  size: 35, 58
+  orig: 35, 58
+  offset: 0, 0
+  index: -1
+arm_r_attack
+  rotate: true
+  xy: 175, 35
+  size: 32, 45
+  orig: 32, 45
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 95
+  size: 112, 44
+  orig: 112, 44
+  offset: 0, 0
+  index: -1
+body_attack
+  rotate: false
+  xy: 2, 43
+  size: 88, 50
+  orig: 88, 50
+  offset: 0, 0
+  index: -1
+eff_01
+  rotate: false
+  xy: 170, 2
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+eff_02
+  rotate: false
+  xy: 222, 32
+  size: 33, 21
+  orig: 33, 21
+  offset: 0, 0
+  index: -1
+eff_03
+  rotate: false
+  xy: 100, 10
+  size: 33, 31
+  orig: 33, 31
+  offset: 0, 0
+  index: -1
+eff_04
+  rotate: false
+  xy: 140, 40
+  size: 33, 45
+  orig: 33, 45
+  offset: 0, 0
+  index: -1
+face_attack
+  rotate: false
+  xy: 217, 6
+  size: 22, 12
+  orig: 22, 12
+  offset: 0, 0
+  index: -1
+face_damage
+  rotate: false
+  xy: 187, 5
+  size: 26, 12
+  orig: 26, 12
+  offset: 0, 0
+  index: -1
+face_normal_eye
+  rotate: false
+  xy: 217, 20
+  size: 26, 10
+  orig: 26, 10
+  offset: 0, 0
+  index: -1
+head_attack
+  rotate: false
+  xy: 175, 69
+  size: 45, 33
+  orig: 45, 33
+  offset: 0, 0
+  index: -1
+head_default
+  rotate: false
+  xy: 44, 6
+  size: 54, 35
+  orig: 54, 35
+  offset: 0, 0
+  index: -1
+mouth_attack
+  rotate: false
+  xy: 235, 99
+  size: 26, 40
+  orig: 26, 40
+  offset: 0, 0
+  index: -1
+mouth_damage
+  rotate: false
+  xy: 135, 13
+  size: 33, 25
+  orig: 33, 25
+  offset: 0, 0
+  index: -1
+mouth_default
+  rotate: false
+  xy: 170, 19
+  size: 45, 14
+  orig: 45, 14
+  offset: 0, 0
+  index: -1
+wing_l_01
+  rotate: true
+  xy: 116, 87
+  size: 52, 57
+  orig: 52, 57
+  offset: 0, 0
+  index: -1
+wing_l_02
+  rotate: false
+  xy: 2, 2
+  size: 40, 39
+  orig: 40, 39
+  offset: 0, 0
+  index: -1
+wing_r_01
+  rotate: true
+  xy: 92, 43
+  size: 42, 46
+  orig: 42, 46
+  offset: 0, 0
+  index: -1
+wing_r_02
+  rotate: true
+  xy: 222, 55
+  size: 42, 35
+  orig: 42, 35
+  offset: 0, 0
+  index: -1

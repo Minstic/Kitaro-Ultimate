@@ -1,0 +1,202 @@
+
+Character_30260.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+attack_effect
+  rotate: true
+  xy: 664, 251
+  size: 125, 174
+  orig: 125, 174
+  offset: 0, 0
+  index: -1
+beam_1
+  rotate: false
+  xy: 488, 930
+  size: 495, 44
+  orig: 495, 44
+  offset: 0, 0
+  index: -1
+beam_2
+  rotate: false
+  xy: 488, 904
+  size: 451, 24
+  orig: 451, 24
+  offset: 0, 0
+  index: -1
+beam_3
+  rotate: false
+  xy: 488, 880
+  size: 453, 22
+  orig: 453, 22
+  offset: 0, 0
+  index: -1
+beam_4
+  rotate: false
+  xy: 488, 855
+  size: 443, 23
+  orig: 443, 23
+  offset: 0, 0
+  index: -1
+beam_5
+  rotate: false
+  xy: 488, 836
+  size: 419, 17
+  orig: 419, 17
+  offset: 0, 0
+  index: -1
+beam_arrow_1
+  rotate: true
+  xy: 840, 275
+  size: 101, 62
+  orig: 101, 62
+  offset: 0, 0
+  index: -1
+beam_arrow_2
+  rotate: true
+  xy: 876, 391
+  size: 113, 82
+  orig: 113, 82
+  offset: 0, 0
+  index: -1
+beam_circle_1
+  rotate: true
+  xy: 324, 202
+  size: 61, 161
+  orig: 61, 161
+  offset: 0, 0
+  index: -1
+beam_circle_2
+  rotate: false
+  xy: 476, 123
+  size: 56, 57
+  orig: 56, 57
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 519
+  size: 484, 455
+  orig: 484, 455
+  offset: 0, 0
+  index: -1
+eff_attack
+  rotate: false
+  xy: 2, 197
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: -1
+eff_attackring
+  rotate: false
+  xy: 2, 2
+  size: 302, 19
+  orig: 302, 19
+  offset: 0, 0
+  index: -1
+eye
+  rotate: false
+  xy: 488, 660
+  size: 245, 174
+  orig: 245, 174
+  offset: 0, 0
+  index: -1
+eye_close
+  rotate: false
+  xy: 488, 542
+  size: 240, 116
+  orig: 240, 116
+  offset: 0, 0
+  index: -1
+eye_effect_1
+  rotate: true
+  xy: 253, 37
+  size: 158, 116
+  orig: 158, 116
+  offset: 0, 0
+  index: -1
+eye_effect_2
+  rotate: false
+  xy: 664, 378
+  size: 210, 126
+  orig: 210, 126
+  offset: 0, 0
+  index: -1
+eye_effect_line
+  rotate: true
+  xy: 492, 238
+  size: 52, 134
+  orig: 52, 134
+  offset: 0, 0
+  index: -1
+eye_light
+  rotate: false
+  xy: 371, 7
+  size: 113, 85
+  orig: 113, 85
+  offset: 0, 0
+  index: -1
+eye_y
+  rotate: false
+  xy: 735, 660
+  size: 243, 174
+  orig: 243, 174
+  offset: 0, 0
+  index: -1
+eyeball
+  rotate: true
+  xy: 943, 845
+  size: 83, 79
+  orig: 83, 79
+  offset: 0, 0
+  index: -1
+rock_left
+  rotate: false
+  xy: 371, 94
+  size: 103, 106
+  orig: 103, 106
+  offset: 0, 0
+  index: -1
+rock_right
+  rotate: true
+  xy: 904, 288
+  size: 101, 93
+  orig: 101, 93
+  offset: 0, 0
+  index: -1
+smoke_1
+  rotate: false
+  xy: 487, 182
+  size: 97, 54
+  orig: 97, 54
+  offset: 0, 0
+  index: -1
+smoke_2
+  rotate: false
+  xy: 730, 506
+  size: 226, 152
+  orig: 226, 152
+  offset: 0, 0
+  index: -1
+smoke_3
+  rotate: true
+  xy: 492, 292
+  size: 248, 170
+  orig: 248, 170
+  offset: 0, 0
+  index: -1
+smoke_4
+  rotate: false
+  xy: 2, 23
+  size: 249, 172
+  orig: 249, 172
+  offset: 0, 0
+  index: -1
+smoke_5
+  rotate: true
+  xy: 324, 265
+  size: 252, 166
+  orig: 252, 166
+  offset: 0, 0
+  index: -1

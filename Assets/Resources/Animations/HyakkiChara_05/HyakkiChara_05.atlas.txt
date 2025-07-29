@@ -1,0 +1,83 @@
+
+HyakkiChara_05.png
+size: 386,170
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+HyakkiChara_05_armL
+  rotate: true
+  xy: 0, 53
+  size: 117, 203
+  orig: 117, 203
+  offset: 0, 0
+  index: -1
+HyakkiChara_05_armR
+  rotate: true
+  xy: 349, 9
+  size: 42, 36
+  orig: 42, 36
+  offset: 0, 0
+  index: -1
+HyakkiChara_05_body
+  rotate: true
+  xy: 252, 10
+  size: 73, 97
+  orig: 73, 97
+  offset: 0, 0
+  index: -1
+HyakkiChara_05_crown
+  rotate: true
+  xy: 349, 51
+  size: 54, 37
+  orig: 54, 37
+  offset: 0, 0
+  index: -1
+HyakkiChara_05_legL
+  rotate: false
+  xy: 219, 0
+  size: 17, 18
+  orig: 17, 18
+  offset: 0, 0
+  index: -1
+HyakkiChara_05_legR
+  rotate: false
+  xy: 192, 0
+  size: 27, 18
+  orig: 27, 18
+  offset: 0, 0
+  index: -1
+HyakkiChara_05_ribbon1
+  rotate: false
+  xy: 0, 0
+  size: 128, 53
+  orig: 128, 53
+  offset: 0, 0
+  index: -1
+HyakkiChara_05_ribbon2
+  rotate: false
+  xy: 203, 83
+  size: 82, 87
+  orig: 82, 87
+  offset: 0, 0
+  index: -1
+HyakkiChara_05_ribbon3
+  rotate: false
+  xy: 128, 18
+  size: 124, 35
+  orig: 124, 35
+  offset: 0, 0
+  index: -1
+HyakkiChara_05_ribbon4
+  rotate: false
+  xy: 285, 105
+  size: 100, 65
+  orig: 100, 65
+  offset: 0, 0
+  index: -1
+HyakkiShadow
+  rotate: false
+  xy: 128, 10
+  size: 64, 8
+  orig: 64, 8
+  offset: 0, 0
+  index: -1

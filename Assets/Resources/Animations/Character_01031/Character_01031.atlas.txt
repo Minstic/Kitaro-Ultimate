@@ -1,0 +1,146 @@
+
+Character_01031.png
+size: 438,141
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: true
+  xy: 207, 8
+  size: 55, 77
+  orig: 55, 77
+  offset: 0, 0
+  index: -1
+body_AT
+  rotate: false
+  xy: 169, 65
+  size: 88, 74
+  orig: 88, 74
+  offset: 0, 0
+  index: -1
+eye_AT
+  rotate: false
+  xy: 145, 13
+  size: 60, 37
+  orig: 60, 37
+  offset: 0, 0
+  index: -1
+eye_damage
+  rotate: true
+  xy: 366, 81
+  size: 58, 31
+  orig: 58, 31
+  offset: 0, 0
+  index: -1
+eye_default
+  rotate: true
+  xy: 399, 81
+  size: 58, 19
+  orig: 58, 19
+  offset: 0, 0
+  index: -1
+eye_l
+  rotate: false
+  xy: 2, 2
+  size: 4, 3
+  orig: 4, 3
+  offset: 0, 0
+  index: -1
+eye_r
+  rotate: true
+  xy: 31, 4
+  size: 5, 4
+  orig: 5, 4
+  offset: 0, 0
+  index: -1
+hair_AT
+  rotate: true
+  xy: 312, 79
+  size: 60, 52
+  orig: 60, 52
+  offset: 0, 0
+  index: -1
+hair_back_default
+  rotate: false
+  xy: 88, 52
+  size: 79, 87
+  orig: 79, 87
+  offset: 0, 0
+  index: -1
+hair_front_default
+  rotate: false
+  xy: 2, 11
+  size: 70, 39
+  orig: 70, 39
+  offset: 0, 0
+  index: -1
+head_AT
+  rotate: true
+  xy: 2, 52
+  size: 87, 84
+  orig: 87, 84
+  offset: 0, 0
+  index: -1
+head_default
+  rotate: true
+  xy: 286, 9
+  size: 64, 49
+  orig: 64, 49
+  offset: 0, 0
+  index: -1
+mouth_AT
+  rotate: false
+  xy: 388, 53
+  size: 45, 26
+  orig: 45, 26
+  offset: 0, 0
+  index: -1
+mouth_default
+  rotate: false
+  xy: 2, 7
+  size: 27, 2
+  orig: 27, 2
+  offset: 0, 0
+  index: -1
+tongue_AT
+  rotate: false
+  xy: 337, 18
+  size: 49, 59
+  orig: 49, 59
+  offset: 0, 0
+  index: -1
+tounge_default
+  rotate: false
+  xy: 421, 17
+  size: 15, 34
+  orig: 15, 34
+  offset: 0, 0
+  index: -1
+towel_AT
+  rotate: false
+  xy: 388, 18
+  size: 31, 33
+  orig: 31, 33
+  offset: 0, 0
+  index: -1
+tub_1_default
+  rotate: false
+  xy: 74, 14
+  size: 69, 36
+  orig: 69, 36
+  offset: 0, 0
+  index: -1
+tub_2_default
+  rotate: false
+  xy: 337, 3
+  size: 59, 13
+  orig: 59, 13
+  offset: 0, 0
+  index: -1
+tub_AT
+  rotate: false
+  xy: 259, 75
+  size: 51, 64
+  orig: 51, 64
+  offset: 0, 0
+  index: -1

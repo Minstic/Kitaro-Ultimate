@@ -1,0 +1,83 @@
+
+Character_20120.png
+size: 520,523
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_l
+  rotate: true
+  xy: 254, 133
+  size: 103, 183
+  orig: 103, 183
+  offset: 0, 0
+  index: -1
+arm_r
+  rotate: true
+  xy: 189, 238
+  size: 79, 187
+  orig: 79, 187
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 2, 2
+  size: 228, 250
+  orig: 228, 250
+  offset: 0, 0
+  index: -1
+eff
+  rotate: false
+  xy: 2, 232
+  size: 185, 289
+  orig: 185, 289
+  offset: 0, 0
+  index: -1
+face_attack
+  rotate: false
+  xy: 420, 5
+  size: 98, 126
+  orig: 98, 126
+  offset: 0, 0
+  index: -1
+face_damage
+  rotate: false
+  xy: 423, 395
+  size: 92, 126
+  orig: 92, 126
+  offset: 0, 0
+  index: -1
+face_default
+  rotate: false
+  xy: 423, 267
+  size: 92, 126
+  orig: 92, 126
+  offset: 0, 0
+  index: -1
+foot_l
+  rotate: false
+  xy: 439, 224
+  size: 41, 41
+  orig: 41, 41
+  offset: 0, 0
+  index: -1
+foot_r
+  rotate: false
+  xy: 378, 275
+  size: 41, 42
+  orig: 41, 42
+  offset: 0, 0
+  index: -1
+hair
+  rotate: true
+  xy: 254, 20
+  size: 111, 164
+  orig: 111, 164
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 189, 319
+  size: 202, 232
+  orig: 202, 232
+  offset: 0, 0
+  index: -1

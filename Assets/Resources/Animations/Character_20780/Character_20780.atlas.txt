@@ -1,0 +1,167 @@
+
+Character_20780.png
+size: 262,267
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+atk_face_1
+  rotate: false
+  xy: 106, 6
+  size: 58, 27
+  orig: 58, 27
+  offset: 0, 0
+  index: -1
+atk_face_2
+  rotate: false
+  xy: 106, 35
+  size: 58, 38
+  orig: 58, 38
+  offset: 0, 0
+  index: -1
+atk_fire_piece_1_1
+  rotate: false
+  xy: 165, 116
+  size: 9, 25
+  orig: 9, 25
+  offset: 0, 0
+  index: -1
+atk_fire_piece_1_2
+  rotate: true
+  xy: 173, 87
+  size: 7, 10
+  orig: 7, 10
+  offset: 0, 0
+  index: -1
+atk_fire_piece_1_3
+  rotate: false
+  xy: 182, 72
+  size: 4, 5
+  orig: 4, 5
+  offset: 0, 0
+  index: -1
+atk_fire_piece_2_1
+  rotate: false
+  xy: 165, 143
+  size: 18, 31
+  orig: 18, 31
+  offset: 0, 0
+  index: -1
+atk_fire_piece_2_2
+  rotate: false
+  xy: 176, 96
+  size: 9, 20
+  orig: 9, 20
+  offset: 0, 0
+  index: -1
+atk_fire_piece_2_3
+  rotate: true
+  xy: 62, 2
+  size: 5, 6
+  orig: 5, 6
+  offset: 0, 0
+  index: -1
+atk_head_1
+  rotate: true
+  xy: 188, 71
+  size: 194, 72
+  orig: 194, 72
+  offset: 0, 0
+  index: -1
+atk_head_2
+  rotate: false
+  xy: 2, 176
+  size: 184, 89
+  orig: 184, 89
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 4
+  size: 58, 65
+  orig: 58, 65
+  offset: 0, 0
+  index: -1
+face_damage
+  rotate: true
+  xy: 62, 9
+  size: 64, 42
+  orig: 64, 42
+  offset: 0, 0
+  index: -1
+face_eye
+  rotate: false
+  xy: 166, 10
+  size: 43, 25
+  orig: 43, 25
+  offset: 0, 0
+  index: -1
+face_mouth
+  rotate: false
+  xy: 166, 37
+  size: 76, 32
+  orig: 76, 32
+  offset: 0, 0
+  index: -1
+fire_piece_1
+  rotate: true
+  xy: 176, 118
+  size: 23, 9
+  orig: 23, 9
+  offset: 0, 0
+  index: -1
+fire_piece_2
+  rotate: false
+  xy: 78, 2
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+fire_piece_3
+  rotate: true
+  xy: 70, 2
+  size: 5, 6
+  orig: 5, 6
+  offset: 0, 0
+  index: -1
+fire_piece_4
+  rotate: true
+  xy: 165, 84
+  size: 12, 6
+  orig: 12, 6
+  offset: 0, 0
+  index: -1
+fire_piece_5
+  rotate: true
+  xy: 165, 75
+  size: 7, 6
+  orig: 7, 6
+  offset: 0, 0
+  index: -1
+fire_piece_6
+  rotate: false
+  xy: 165, 98
+  size: 5, 16
+  orig: 5, 16
+  offset: 0, 0
+  index: -1
+fire_piece_7
+  rotate: true
+  xy: 173, 79
+  size: 6, 9
+  orig: 6, 9
+  offset: 0, 0
+  index: -1
+fire_piece_8
+  rotate: true
+  xy: 173, 72
+  size: 5, 7
+  orig: 5, 7
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 2, 75
+  size: 161, 99
+  orig: 161, 99
+  offset: 0, 0
+  index: -1

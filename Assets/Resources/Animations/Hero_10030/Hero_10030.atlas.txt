@@ -1,0 +1,125 @@
+
+Hero_10030.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+_Shadow
+  rotate: false
+  xy: 188, 43
+  size: 16, 2
+  orig: 16, 2
+  offset: 0, 0
+  index: -1
+accessory
+  rotate: false
+  xy: 606, 82
+  size: 67, 44
+  orig: 67, 44
+  offset: 0, 0
+  index: -1
+arm_l_default
+  rotate: false
+  xy: 675, 81
+  size: 45, 22
+  orig: 45, 22
+  offset: 0, 0
+  index: -1
+arm_l_move
+  rotate: true
+  xy: 467, 48
+  size: 17, 54
+  orig: 17, 54
+  offset: 0, 0
+  index: -1
+arm_r_attack
+  rotate: false
+  xy: 732, 96
+  size: 44, 30
+  orig: 44, 30
+  offset: 0, 0
+  index: -1
+arm_r_default
+  rotate: false
+  xy: 532, 79
+  size: 72, 47
+  orig: 72, 47
+  offset: 0, 0
+  index: -1
+arm_r_move
+  rotate: true
+  xy: 675, 105
+  size: 21, 55
+  orig: 21, 55
+  offset: 0, 0
+  index: -1
+body_default
+  rotate: false
+  xy: 188, 47
+  size: 92, 79
+  orig: 92, 79
+  offset: 0, 0
+  index: -1
+body_default_re
+  rotate: false
+  xy: 282, 47
+  size: 92, 79
+  orig: 92, 79
+  offset: 0, 0
+  index: -1
+body_move
+  rotate: false
+  xy: 376, 46
+  size: 89, 80
+  orig: 89, 80
+  offset: 0, 0
+  index: -1
+eff_1
+  rotate: false
+  xy: 2, 17
+  size: 91, 109
+  orig: 91, 109
+  offset: 0, 0
+  index: -1
+eye
+  rotate: false
+  xy: 2, 2
+  size: 54, 13
+  orig: 54, 13
+  offset: 0, 0
+  index: -1
+eyebrow
+  rotate: false
+  xy: 95, 22
+  size: 25, 7
+  orig: 25, 7
+  offset: 0, 0
+  index: -1
+face_damage
+  rotate: false
+  xy: 467, 67
+  size: 63, 59
+  orig: 63, 59
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 95, 31
+  size: 91, 95
+  orig: 91, 95
+  offset: 0, 0
+  index: -1
+mouth_default
+  rotate: false
+  xy: 722, 94
+  size: 8, 9
+  orig: 8, 9
+  offset: 0, 0
+  index: -1
+mouth_move
+  rotate: false
+  xy: 58, 12
+  size: 15, 3
+  orig: 15, 3
+  offset: 0, 0
+  index: -1

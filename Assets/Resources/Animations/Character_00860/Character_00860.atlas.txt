@@ -1,0 +1,181 @@
+
+Character_00860.png
+size: 424,141
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+kita_arm_l_01
+  rotate: true
+  xy: 323, 4
+  size: 16, 49
+  orig: 16, 49
+  offset: 0, 0
+  index: -1
+kita_arm_l_02
+  rotate: false
+  xy: 382, 81
+  size: 40, 20
+  orig: 40, 20
+  offset: 0, 0
+  index: -1
+kita_arm_r_01
+  rotate: true
+  xy: 323, 22
+  size: 17, 52
+  orig: 17, 52
+  offset: 0, 0
+  index: -1
+kita_arm_r_02
+  rotate: true
+  xy: 302, 2
+  size: 37, 19
+  orig: 37, 19
+  offset: 0, 0
+  index: -1
+kita_body_01
+  rotate: true
+  xy: 194, 39
+  size: 45, 53
+  orig: 45, 53
+  offset: 0, 0
+  index: -1
+kita_body_02
+  rotate: false
+  xy: 318, 88
+  size: 62, 51
+  orig: 62, 51
+  offset: 0, 0
+  index: -1
+kita_face_base
+  rotate: false
+  xy: 159, 5
+  size: 21, 25
+  orig: 21, 25
+  offset: 0, 0
+  index: -1
+kita_face_damage
+  rotate: false
+  xy: 382, 103
+  size: 40, 36
+  orig: 40, 36
+  offset: 0, 0
+  index: -1
+kita_face_mouth_attack
+  rotate: true
+  xy: 182, 16
+  size: 14, 10
+  orig: 14, 10
+  offset: 0, 0
+  index: -1
+kita_face_mouth_default
+  rotate: false
+  xy: 415, 16
+  size: 7, 9
+  orig: 7, 9
+  offset: 0, 0
+  index: -1
+kita_hair
+  rotate: true
+  xy: 2, 2
+  size: 82, 70
+  orig: 82, 70
+  offset: 0, 0
+  index: -1
+kita_hair_attack01
+  rotate: false
+  xy: 74, 32
+  size: 118, 52
+  orig: 118, 52
+  offset: 0, 0
+  index: -1
+kita_hair_attack02
+  rotate: false
+  xy: 2, 86
+  size: 125, 53
+  orig: 125, 53
+  offset: 0, 0
+  index: -1
+kita_hair_attack03
+  rotate: false
+  xy: 129, 86
+  size: 119, 53
+  orig: 119, 53
+  offset: 0, 0
+  index: -1
+kita_head
+  rotate: false
+  xy: 250, 78
+  size: 66, 61
+  orig: 66, 61
+  offset: 0, 0
+  index: -1
+kita_leg_l_01
+  rotate: false
+  xy: 377, 27
+  size: 41, 52
+  orig: 41, 52
+  offset: 0, 0
+  index: -1
+kita_leg_l_02
+  rotate: false
+  xy: 318, 41
+  size: 57, 45
+  orig: 57, 45
+  offset: 0, 0
+  index: -1
+kita_leg_l_03
+  rotate: false
+  xy: 249, 42
+  size: 66, 34
+  orig: 66, 34
+  offset: 0, 0
+  index: -1
+kita_leg_r_01
+  rotate: true
+  xy: 106, 4
+  size: 26, 51
+  orig: 26, 51
+  offset: 0, 0
+  index: -1
+kita_leg_r_02
+  rotate: false
+  xy: 194, 3
+  size: 54, 34
+  orig: 54, 34
+  offset: 0, 0
+  index: -1
+kita_leg_r_03
+  rotate: false
+  xy: 250, 6
+  size: 50, 34
+  orig: 50, 34
+  offset: 0, 0
+  index: -1
+oyaji_body_01
+  rotate: false
+  xy: 395, 12
+  size: 18, 13
+  orig: 18, 13
+  offset: 0, 0
+  index: -1
+oyaji_body_02
+  rotate: false
+  xy: 74, 2
+  size: 30, 28
+  orig: 30, 28
+  offset: 0, 0
+  index: -1
+oyaji_face
+  rotate: false
+  xy: 395, 2
+  size: 7, 8
+  orig: 7, 8
+  offset: 0, 0
+  index: -1
+oyaji_head
+  rotate: true
+  xy: 374, 2
+  size: 18, 19
+  orig: 18, 19
+  offset: 0, 0
+  index: -1

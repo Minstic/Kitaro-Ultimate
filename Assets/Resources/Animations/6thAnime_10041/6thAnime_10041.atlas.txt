@@ -1,0 +1,370 @@
+
+6thAnime_10041.png
+size: 898,520
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+AT_Arm_L
+  rotate: false
+  xy: 177, 26
+  size: 97, 44
+  orig: 97, 44
+  offset: 0, 0
+  index: -1
+AT_Arm_R
+  rotate: true
+  xy: 873, 203
+  size: 96, 23
+  orig: 96, 23
+  offset: 0, 0
+  index: -1
+Arm_L
+  rotate: true
+  xy: 585, 14
+  size: 53, 91
+  orig: 53, 91
+  offset: 0, 0
+  index: -1
+Arm_R
+  rotate: true
+  xy: 361, 31
+  size: 37, 85
+  orig: 37, 85
+  offset: 0, 0
+  index: -1
+Arm_damage_1
+  rotate: true
+  xy: 775, 26
+  size: 33, 67
+  orig: 33, 67
+  offset: 0, 0
+  index: -1
+Arm_damage_2
+  rotate: true
+  xy: 868, 146
+  size: 55, 28
+  orig: 55, 28
+  offset: 0, 0
+  index: -1
+Bloom
+  rotate: false
+  xy: 2, 429
+  size: 407, 89
+  orig: 407, 89
+  offset: 0, 0
+  index: -1
+Body1
+  rotate: true
+  xy: 808, 301
+  size: 67, 88
+  orig: 67, 88
+  offset: 0, 0
+  index: -1
+EF_Bomb
+  rotate: true
+  xy: 808, 205
+  size: 94, 63
+  orig: 94, 63
+  offset: 0, 0
+  index: -1
+EF_Chr_Light
+  rotate: false
+  xy: 177, 72
+  size: 134, 137
+  orig: 134, 137
+  offset: 0, 0
+  index: -1
+EF_Fire_1
+  rotate: false
+  xy: 606, 363
+  size: 185, 155
+  orig: 185, 155
+  offset: 0, 0
+  index: -1
+EF_Fire_2
+  rotate: false
+  xy: 411, 366
+  size: 193, 152
+  orig: 193, 152
+  offset: 0, 0
+  index: -1
+EF_Fire_3
+  rotate: true
+  xy: 689, 195
+  size: 166, 117
+  orig: 166, 117
+  offset: 0, 0
+  index: -1
+EF_Fire_4
+  rotate: false
+  xy: 678, 147
+  size: 131, 46
+  orig: 131, 46
+  offset: 0, 0
+  index: -1
+EF_Light
+  rotate: false
+  xy: 539, 216
+  size: 148, 145
+  orig: 148, 145
+  offset: 0, 0
+  index: -1
+EF_Light2
+  rotate: false
+  xy: 362, 194
+  size: 175, 170
+  orig: 175, 170
+  offset: 0, 0
+  index: -1
+EF_Light3
+  rotate: true
+  xy: 2, 49
+  size: 182, 173
+  orig: 182, 173
+  offset: 0, 0
+  index: -1
+EF_Light4
+  rotate: false
+  xy: 2, 233
+  size: 174, 194
+  orig: 174, 194
+  offset: 0, 0
+  index: -1
+EF_Light5
+  rotate: false
+  xy: 178, 255
+  size: 182, 172
+  orig: 182, 172
+  offset: 0, 0
+  index: -1
+EF_Smoke1
+  rotate: false
+  xy: 678, 104
+  size: 127, 41
+  orig: 127, 41
+  offset: 0, 0
+  index: -1
+EF_Smoke2
+  rotate: false
+  xy: 2, 3
+  size: 153, 44
+  orig: 153, 44
+  offset: 0, 0
+  index: -1
+EF_Smoke3
+  rotate: false
+  xy: 178, 211
+  size: 154, 42
+  orig: 154, 42
+  offset: 0, 0
+  index: -1
+EF_Smoke4
+  rotate: false
+  xy: 678, 61
+  size: 127, 41
+  orig: 127, 41
+  offset: 0, 0
+  index: -1
+Eff_Light_Hand
+  rotate: false
+  xy: 848, 95
+  size: 48, 49
+  orig: 48, 49
+  offset: 0, 0
+  index: -1
+Eff_Light_Hand2
+  rotate: false
+  xy: 462, 51
+  size: 121, 141
+  orig: 121, 141
+  offset: 0, 0
+  index: -1
+Eye_W
+  rotate: true
+  xy: 334, 225
+  size: 28, 13
+  orig: 28, 13
+  offset: 0, 0
+  index: -1
+Eye_W_AT
+  rotate: false
+  xy: 157, 2
+  size: 29, 13
+  orig: 29, 13
+  offset: 0, 0
+  index: -1
+Eyebrow
+  rotate: false
+  xy: 361, 18
+  size: 31, 11
+  orig: 31, 11
+  offset: 0, 0
+  index: -1
+Eyebrow_AT
+  rotate: false
+  xy: 539, 202
+  size: 32, 12
+  orig: 32, 12
+  offset: 0, 0
+  index: -1
+Eyeline
+  rotate: false
+  xy: 713, 2
+  size: 32, 16
+  orig: 32, 16
+  offset: 0, 0
+  index: -1
+Eyeline_AT
+  rotate: false
+  xy: 678, 2
+  size: 33, 16
+  orig: 33, 16
+  offset: 0, 0
+  index: -1
+Eyes
+  rotate: false
+  xy: 361, 2
+  size: 24, 14
+  orig: 24, 14
+  offset: 0, 0
+  index: -1
+Eyes_AT
+  rotate: false
+  xy: 362, 380
+  size: 24, 13
+  orig: 24, 13
+  offset: 0, 0
+  index: -1
+Eyes_Close
+  rotate: true
+  xy: 157, 17
+  size: 30, 13
+  orig: 30, 13
+  offset: 0, 0
+  index: -1
+Face_damage
+  rotate: false
+  xy: 532, 21
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+Finger_R
+  rotate: false
+  xy: 566, 29
+  size: 17, 20
+  orig: 17, 20
+  offset: 0, 0
+  index: -1
+Hair_B
+  rotate: true
+  xy: 585, 69
+  size: 145, 91
+  orig: 145, 91
+  offset: 0, 0
+  index: -1
+Hair_F
+  rotate: true
+  xy: 276, 6
+  size: 62, 83
+  orig: 62, 83
+  offset: 0, 0
+  index: -1
+Hair_F_R
+  rotate: false
+  xy: 807, 67
+  size: 39, 78
+  orig: 39, 78
+  offset: 0, 0
+  index: -1
+Hand_L
+  rotate: false
+  xy: 775, 2
+  size: 23, 22
+  orig: 23, 22
+  offset: 0, 0
+  index: -1
+Hand_L_AT
+  rotate: true
+  xy: 848, 68
+  size: 25, 29
+  orig: 25, 29
+  offset: 0, 0
+  index: -1
+Hand_R
+  rotate: true
+  xy: 747, 2
+  size: 16, 18
+  orig: 16, 18
+  offset: 0, 0
+  index: -1
+Hand_R_AT
+  rotate: false
+  xy: 362, 395
+  size: 29, 32
+  orig: 29, 32
+  offset: 0, 0
+  index: -1
+Hat
+  rotate: false
+  xy: 448, 12
+  size: 82, 37
+  orig: 82, 37
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 811, 155
+  size: 55, 48
+  orig: 55, 48
+  offset: 0, 0
+  index: -1
+Lamp
+  rotate: true
+  xy: 678, 20
+  size: 39, 95
+  orig: 39, 95
+  offset: 0, 0
+  index: -1
+Lamp_B
+  rotate: true
+  xy: 313, 194
+  size: 15, 31
+  orig: 15, 31
+  offset: 0, 0
+  index: -1
+Leg_L
+  rotate: true
+  xy: 313, 70
+  size: 122, 147
+  orig: 122, 147
+  offset: 0, 0
+  index: -1
+Leg_R
+  rotate: false
+  xy: 793, 370
+  size: 95, 148
+  orig: 95, 148
+  offset: 0, 0
+  index: -1
+Mouth
+  rotate: true
+  xy: 807, 61
+  size: 4, 2
+  orig: 4, 2
+  offset: 0, 0
+  index: -1
+Mouth_AT
+  rotate: false
+  xy: 678, 207
+  size: 9, 7
+  orig: 9, 7
+  offset: 0, 0
+  index: -1
+Nose
+  rotate: false
+  xy: 172, 39
+  size: 3, 8
+  orig: 3, 8
+  offset: 0, 0
+  index: -1

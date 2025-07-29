@@ -1,0 +1,20 @@
+
+Character_41020.png
+size: 54,130
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 22
+  size: 50, 106
+  orig: 50, 106
+  offset: 0, 0
+  index: -1
+face_default
+  rotate: false
+  xy: 2, 2
+  size: 30, 18
+  orig: 30, 18
+  offset: 0, 0
+  index: -1

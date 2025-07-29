@@ -1,0 +1,125 @@
+
+Character_20284.png
+size: 970,425
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_l_attack_1
+  rotate: false
+  xy: 188, 141
+  size: 118, 282
+  orig: 118, 282
+  offset: 0, 0
+  index: -1
+arm_l_attack_2
+  rotate: true
+  xy: 788, 105
+  size: 208, 178
+  orig: 208, 178
+  offset: 0, 0
+  index: -1
+arm_l_attack_shoulder
+  rotate: false
+  xy: 598, 4
+  size: 80, 99
+  orig: 80, 99
+  offset: 0, 0
+  index: -1
+arm_l_default_1
+  rotate: true
+  xy: 788, 315
+  size: 108, 180
+  orig: 108, 180
+  offset: 0, 0
+  index: -1
+arm_l_default_2
+  rotate: true
+  xy: 234, 2
+  size: 117, 108
+  orig: 117, 108
+  offset: 0, 0
+  index: -1
+arm_r
+  rotate: true
+  xy: 2, 3
+  size: 109, 230
+  orig: 109, 230
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 308, 157
+  size: 222, 266
+  orig: 222, 266
+  offset: 0, 0
+  index: -1
+eff_1
+  rotate: false
+  xy: 2, 114
+  size: 184, 309
+  orig: 184, 309
+  offset: 0, 0
+  index: -1
+face_damage
+  rotate: false
+  xy: 659, 121
+  size: 61, 35
+  orig: 61, 35
+  offset: 0, 0
+  index: -1
+face_default
+  rotate: false
+  xy: 188, 121
+  size: 62, 18
+  orig: 62, 18
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 344, 6
+  size: 149, 252
+  orig: 149, 252
+  offset: 0, 0
+  index: -1
+leg_l_1
+  rotate: false
+  xy: 748, 9
+  size: 74, 85
+  orig: 74, 85
+  offset: 0, 0
+  index: -1
+leg_l_2
+  rotate: true
+  xy: 598, 115
+  size: 41, 59
+  orig: 41, 59
+  offset: 0, 0
+  index: -1
+leg_r_1
+  rotate: false
+  xy: 680, 10
+  size: 66, 93
+  orig: 66, 93
+  offset: 0, 0
+  index: -1
+leg_r_2
+  rotate: false
+  xy: 748, 96
+  size: 36, 60
+  orig: 36, 60
+  offset: 0, 0
+  index: -1
+mask
+  rotate: false
+  xy: 824, 25
+  size: 122, 78
+  orig: 122, 78
+  offset: 0, 0
+  index: -1
+weapon
+  rotate: true
+  xy: 532, 158
+  size: 265, 254
+  orig: 265, 254
+  offset: 0, 0
+  index: -1

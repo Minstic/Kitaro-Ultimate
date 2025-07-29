@@ -1,0 +1,90 @@
+
+Character_00701.png
+size: 337,86
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a_body2
+  rotate: true
+  xy: 2, 5
+  size: 79, 98
+  orig: 79, 98
+  offset: 0, 0
+  index: -1
+a_face_damage
+  rotate: false
+  xy: 102, 35
+  size: 52, 49
+  orig: 52, 49
+  offset: 0, 0
+  index: -1
+a_face_default
+  rotate: false
+  xy: 156, 42
+  size: 51, 42
+  orig: 51, 42
+  offset: 0, 0
+  index: -1
+a_hair
+  rotate: false
+  xy: 102, 2
+  size: 48, 31
+  orig: 48, 31
+  offset: 0, 0
+  index: -1
+b_body2
+  rotate: true
+  xy: 209, 41
+  size: 43, 48
+  orig: 43, 48
+  offset: 0, 0
+  index: -1
+b_face_damage
+  rotate: false
+  xy: 200, 13
+  size: 28, 26
+  orig: 28, 26
+  offset: 0, 0
+  index: -1
+b_face_default
+  rotate: false
+  xy: 230, 14
+  size: 26, 25
+  orig: 26, 25
+  offset: 0, 0
+  index: -1
+b_hair
+  rotate: false
+  xy: 259, 50
+  size: 50, 34
+  orig: 50, 34
+  offset: 0, 0
+  index: -1
+c_body2
+  rotate: false
+  xy: 156, 2
+  size: 42, 38
+  orig: 42, 38
+  offset: 0, 0
+  index: -1
+c_face_damage
+  rotate: true
+  xy: 305, 20
+  size: 28, 30
+  orig: 28, 30
+  offset: 0, 0
+  index: -1
+c_face_default
+  rotate: false
+  xy: 311, 60
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+c_hair
+  rotate: false
+  xy: 259, 13
+  size: 44, 35
+  orig: 44, 35
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,860 @@
+
+Vehicle_10071.png
+size: 913,898
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+atk_nezumi_arm_l
+  rotate: false
+  xy: 644, 2
+  size: 20, 28
+  orig: 20, 28
+  offset: 0, 0
+  index: -1
+atk_nezumi_arm_r
+  rotate: false
+  xy: 876, 513
+  size: 35, 43
+  orig: 35, 43
+  offset: 0, 0
+  index: -1
+atk_nezumi_beard_l
+  rotate: true
+  xy: 569, 396
+  size: 13, 9
+  orig: 13, 9
+  offset: 0, 0
+  index: -1
+atk_nezumi_beard_r
+  rotate: true
+  xy: 631, 3
+  size: 14, 10
+  orig: 14, 10
+  offset: 0, 0
+  index: -1
+atk_nezumi_body
+  rotate: false
+  xy: 569, 427
+  size: 105, 119
+  orig: 105, 119
+  offset: 0, 0
+  index: -1
+atk_nezumi_face1
+  rotate: true
+  xy: 887, 217
+  size: 33, 24
+  orig: 33, 24
+  offset: 0, 0
+  index: -1
+atk_nezumi_face2
+  rotate: true
+  xy: 885, 353
+  size: 33, 26
+  orig: 33, 26
+  offset: 0, 0
+  index: -1
+atk_nezumi_head
+  rotate: false
+  xy: 619, 178
+  size: 49, 65
+  orig: 49, 65
+  offset: 0, 0
+  index: -1
+atk_seko_A_arm_l
+  rotate: false
+  xy: 666, 2
+  size: 11, 28
+  orig: 11, 28
+  offset: 0, 0
+  index: -1
+atk_seko_A_arm_r
+  rotate: false
+  xy: 508, 696
+  size: 28, 15
+  orig: 28, 15
+  offset: 0, 0
+  index: -1
+atk_seko_A_body
+  rotate: false
+  xy: 732, 560
+  size: 74, 86
+  orig: 74, 86
+  offset: 0, 0
+  index: -1
+atk_seko_A_face
+  rotate: false
+  xy: 877, 471
+  size: 31, 40
+  orig: 31, 40
+  offset: 0, 0
+  index: -1
+attack_money1
+  rotate: false
+  xy: 606, 2
+  size: 23, 15
+  orig: 23, 15
+  offset: 0, 0
+  index: -1
+attack_money2
+  rotate: false
+  xy: 776, 85
+  size: 28, 8
+  orig: 28, 8
+  offset: 0, 0
+  index: -1
+attack_money3
+  rotate: true
+  xy: 785, 26
+  size: 24, 17
+  orig: 24, 17
+  offset: 0, 0
+  index: -1
+bibi_1
+  rotate: true
+  xy: 890, 256
+  size: 25, 21
+  orig: 25, 21
+  offset: 0, 0
+  index: -1
+bibi_2
+  rotate: false
+  xy: 538, 696
+  size: 24, 15
+  orig: 24, 15
+  offset: 0, 0
+  index: -1
+bibi_3
+  rotate: true
+  xy: 807, 62
+  size: 31, 12
+  orig: 31, 12
+  offset: 0, 0
+  index: -1
+bibi_4
+  rotate: false
+  xy: 871, 63
+  size: 29, 12
+  orig: 29, 12
+  offset: 0, 0
+  index: -1
+bibi_5
+  rotate: false
+  xy: 716, 26
+  size: 34, 19
+  orig: 34, 19
+  offset: 0, 0
+  index: -1
+bibi_6
+  rotate: false
+  xy: 752, 26
+  size: 22, 18
+  orig: 22, 18
+  offset: 0, 0
+  index: -1
+bibi_7
+  rotate: false
+  xy: 787, 371
+  size: 11, 17
+  orig: 11, 17
+  offset: 0, 0
+  index: -1
+bibi_flip_1
+  rotate: false
+  xy: 821, 63
+  size: 25, 20
+  orig: 25, 20
+  offset: 0, 0
+  index: -1
+bibi_flip_2
+  rotate: true
+  xy: 896, 590
+  size: 23, 15
+  orig: 23, 15
+  offset: 0, 0
+  index: -1
+bibi_flip_3
+  rotate: true
+  xy: 896, 558
+  size: 30, 12
+  orig: 30, 12
+  offset: 0, 0
+  index: -1
+bibi_flip_4
+  rotate: false
+  xy: 821, 47
+  size: 29, 14
+  orig: 29, 14
+  offset: 0, 0
+  index: -1
+bibi_flip_5
+  rotate: true
+  xy: 785, 52
+  size: 31, 20
+  orig: 31, 20
+  offset: 0, 0
+  index: -1
+bibi_flip_6
+  rotate: false
+  xy: 882, 42
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+bibi_flip_7
+  rotate: true
+  xy: 732, 548
+  size: 10, 18
+  orig: 10, 18
+  offset: 0, 0
+  index: -1
+chair
+  rotate: false
+  xy: 776, 95
+  size: 45, 32
+  orig: 45, 32
+  offset: 0, 0
+  index: -1
+eff_afterimg1
+  rotate: false
+  xy: 580, 295
+  size: 44, 130
+  orig: 44, 130
+  offset: 0, 0
+  index: -1
+eff_afterimg2
+  rotate: false
+  xy: 626, 295
+  size: 28, 130
+  orig: 28, 130
+  offset: 0, 0
+  index: -1
+eff_afterimg3
+  rotate: false
+  xy: 656, 300
+  size: 17, 125
+  orig: 17, 125
+  offset: 0, 0
+  index: -1
+eff_coin_pile_c
+  rotate: false
+  xy: 580, 245
+  size: 85, 48
+  orig: 85, 48
+  offset: 0, 0
+  index: -1
+eff_coin_pile_l
+  rotate: true
+  xy: 582, 94
+  size: 77, 48
+  orig: 77, 48
+  offset: 0, 0
+  index: -1
+eff_coin_pile_r
+  rotate: true
+  xy: 675, 330
+  size: 86, 53
+  orig: 86, 53
+  offset: 0, 0
+  index: -1
+eff_coin_pile_top
+  rotate: false
+  xy: 675, 289
+  size: 59, 39
+  orig: 59, 39
+  offset: 0, 0
+  index: -1
+eff_coinfall_1b
+  rotate: false
+  xy: 569, 548
+  size: 161, 98
+  orig: 161, 98
+  offset: 0, 0
+  index: -1
+eff_coinfall_1f
+  rotate: true
+  xy: 307, 2
+  size: 171, 149
+  orig: 171, 149
+  offset: 0, 0
+  index: -1
+eff_coinfall_2
+  rotate: false
+  xy: 314, 234
+  size: 164, 148
+  orig: 164, 148
+  offset: 0, 0
+  index: -1
+eff_dropcoin_1
+  rotate: false
+  xy: 458, 86
+  size: 26, 87
+  orig: 26, 87
+  offset: 0, 0
+  index: -1
+eff_dropcoin_2
+  rotate: true
+  xy: 872, 115
+  size: 27, 39
+  orig: 27, 39
+  offset: 0, 0
+  index: -1
+eff_dropcoin_3
+  rotate: true
+  xy: 480, 237
+  size: 25, 92
+  orig: 25, 92
+  offset: 0, 0
+  index: -1
+eff_dropcoin_4
+  rotate: true
+  xy: 490, 173
+  size: 62, 69
+  orig: 62, 69
+  offset: 0, 0
+  index: -1
+eff_light1
+  rotate: true
+  xy: 314, 182
+  size: 50, 128
+  orig: 50, 128
+  offset: 0, 0
+  index: -1
+eff_light2
+  rotate: false
+  xy: 676, 418
+  size: 50, 128
+  orig: 50, 128
+  offset: 0, 0
+  index: -1
+eff_shine_1
+  rotate: false
+  xy: 687, 100
+  size: 17, 16
+  orig: 17, 16
+  offset: 0, 0
+  index: -1
+eff_shine_2
+  rotate: true
+  xy: 746, 2
+  size: 22, 23
+  orig: 22, 23
+  offset: 0, 0
+  index: -1
+eff_shine_3
+  rotate: false
+  xy: 848, 63
+  size: 21, 20
+  orig: 21, 20
+  offset: 0, 0
+  index: -1
+eff_surprised
+  rotate: true
+  xy: 872, 144
+  size: 37, 39
+  orig: 37, 39
+  offset: 0, 0
+  index: -1
+lamp
+  rotate: false
+  xy: 569, 385
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+lamp_light
+  rotate: true
+  xy: 796, 5
+  size: 19, 17
+  orig: 19, 17
+  offset: 0, 0
+  index: -1
+nezumi_arm_l
+  rotate: false
+  xy: 872, 77
+  size: 38, 36
+  orig: 38, 36
+  offset: 0, 0
+  index: -1
+nezumi_arm_r
+  rotate: true
+  xy: 885, 318
+  size: 33, 26
+  orig: 33, 26
+  offset: 0, 0
+  index: -1
+nezumi_beard_l
+  rotate: true
+  xy: 569, 411
+  size: 14, 9
+  orig: 14, 9
+  offset: 0, 0
+  index: -1
+nezumi_beard_r
+  rotate: true
+  xy: 865, 371
+  size: 15, 12
+  orig: 15, 12
+  offset: 0, 0
+  index: -1
+nezumi_body
+  rotate: false
+  xy: 480, 264
+  size: 98, 118
+  orig: 98, 118
+  offset: 0, 0
+  index: -1
+nezumi_eye1
+  rotate: true
+  xy: 895, 615
+  size: 29, 16
+  orig: 29, 16
+  offset: 0, 0
+  index: -1
+nezumi_eye2
+  rotate: false
+  xy: 852, 51
+  size: 28, 10
+  orig: 28, 10
+  offset: 0, 0
+  index: -1
+nezumi_eye3
+  rotate: false
+  xy: 887, 184
+  size: 20, 7
+  orig: 20, 7
+  offset: 0, 0
+  index: -1
+nezumi_face_base
+  rotate: false
+  xy: 713, 2
+  size: 31, 22
+  orig: 31, 22
+  offset: 0, 0
+  index: -1
+nezumi_face_damage
+  rotate: true
+  xy: 810, 654
+  size: 57, 31
+  orig: 57, 31
+  offset: 0, 0
+  index: -1
+nezumi_head
+  rotate: false
+  xy: 736, 287
+  size: 51, 60
+  orig: 51, 60
+  offset: 0, 0
+  index: -1
+nezumi_money
+  rotate: false
+  xy: 735, 248
+  size: 58, 37
+  orig: 58, 37
+  offset: 0, 0
+  index: -1
+seko_A_arm
+  rotate: true
+  xy: 787, 390
+  size: 20, 13
+  orig: 20, 13
+  offset: 0, 0
+  index: -1
+seko_A_body
+  rotate: false
+  xy: 716, 47
+  size: 38, 36
+  orig: 38, 36
+  offset: 0, 0
+  index: -1
+seko_A_face
+  rotate: false
+  xy: 890, 283
+  size: 21, 33
+  orig: 21, 33
+  offset: 0, 0
+  index: -1
+seko_A_head
+  rotate: false
+  xy: 727, 186
+  size: 54, 60
+  orig: 54, 60
+  offset: 0, 0
+  index: -1
+seko_B_arm
+  rotate: true
+  xy: 776, 27
+  size: 17, 7
+  orig: 17, 7
+  offset: 0, 0
+  index: -1
+seko_B_body
+  rotate: true
+  xy: 728, 419
+  size: 35, 23
+  orig: 35, 23
+  offset: 0, 0
+  index: -1
+seko_B_head
+  rotate: false
+  xy: 865, 388
+  size: 46, 33
+  orig: 46, 33
+  offset: 0, 0
+  index: -1
+seko_C_arm
+  rotate: false
+  xy: 887, 193
+  size: 24, 22
+  orig: 24, 22
+  offset: 0, 0
+  index: -1
+seko_C_body
+  rotate: true
+  xy: 444, 175
+  size: 57, 44
+  orig: 57, 44
+  offset: 0, 0
+  index: -1
+seko_C_head
+  rotate: true
+  xy: 561, 173
+  size: 62, 56
+  orig: 62, 56
+  offset: 0, 0
+  index: -1
+seko_D_arm
+  rotate: false
+  xy: 568, 2
+  size: 22, 7
+  orig: 22, 7
+  offset: 0, 0
+  index: -1
+seko_D_body
+  rotate: true
+  xy: 756, 46
+  size: 37, 27
+  orig: 37, 27
+  offset: 0, 0
+  index: -1
+seko_D_head
+  rotate: true
+  xy: 780, 129
+  size: 49, 45
+  orig: 49, 45
+  offset: 0, 0
+  index: -1
+seko_E_body
+  rotate: false
+  xy: 679, 3
+  size: 32, 26
+  orig: 32, 26
+  offset: 0, 0
+  index: -1
+seko_E_head
+  rotate: false
+  xy: 865, 423
+  size: 46, 46
+  orig: 46, 46
+  offset: 0, 0
+  index: -1
+ufo_capsule_b
+  rotate: false
+  xy: 2, 175
+  size: 310, 207
+  orig: 310, 207
+  offset: 0, 0
+  index: -1
+ufo_capsule_f
+  rotate: false
+  xy: 2, 4
+  size: 303, 169
+  orig: 303, 169
+  offset: 0, 0
+  index: -1
+ufo_floor
+  rotate: false
+  xy: 2, 696
+  size: 504, 200
+  orig: 504, 200
+  offset: 0, 0
+  index: -1
+ufo_floor_plus1
+  rotate: false
+  xy: 2, 540
+  size: 466, 154
+  orig: 466, 154
+  offset: 0, 0
+  index: -1
+ufo_floor_plus2
+  rotate: false
+  xy: 2, 384
+  size: 466, 154
+  orig: 466, 154
+  offset: 0, 0
+  index: -1
+ufo_mirrorball_c1
+  rotate: true
+  xy: 486, 86
+  size: 85, 46
+  orig: 85, 46
+  offset: 0, 0
+  index: -1
+ufo_mirrorball_c2
+  rotate: true
+  xy: 534, 86
+  size: 85, 46
+  orig: 85, 46
+  offset: 0, 0
+  index: -1
+ufo_mirrorball_c3
+  rotate: false
+  xy: 808, 598
+  size: 85, 46
+  orig: 85, 46
+  offset: 0, 0
+  index: -1
+ufo_mirrorball_l1
+  rotate: true
+  xy: 458, 8
+  size: 76, 53
+  orig: 76, 53
+  offset: 0, 0
+  index: -1
+ufo_mirrorball_l2
+  rotate: true
+  xy: 513, 8
+  size: 76, 53
+  orig: 76, 53
+  offset: 0, 0
+  index: -1
+ufo_mirrorball_l3
+  rotate: true
+  xy: 632, 100
+  size: 76, 53
+  orig: 76, 53
+  offset: 0, 0
+  index: -1
+ufo_mirrorball_r1
+  rotate: false
+  xy: 802, 471
+  size: 73, 36
+  orig: 73, 36
+  offset: 0, 0
+  index: -1
+ufo_mirrorball_r2
+  rotate: true
+  xy: 568, 11
+  size: 73, 36
+  orig: 73, 36
+  offset: 0, 0
+  index: -1
+ufo_mirrorball_r3
+  rotate: true
+  xy: 606, 19
+  size: 73, 36
+  orig: 73, 36
+  offset: 0, 0
+  index: -1
+ufo_roulette_b
+  rotate: false
+  xy: 569, 648
+  size: 239, 63
+  orig: 239, 63
+  offset: 0, 0
+  index: -1
+ufo_roulette_ball
+  rotate: false
+  xy: 771, 2
+  size: 23, 22
+  orig: 23, 22
+  offset: 0, 0
+  index: -1
+ufo_roulette_f
+  rotate: true
+  xy: 843, 646
+  size: 250, 68
+  orig: 250, 68
+  offset: 0, 0
+  index: -1
+ufo_roulette_l
+  rotate: false
+  xy: 808, 558
+  size: 86, 38
+  orig: 86, 38
+  offset: 0, 0
+  index: -1
+ufo_roulette_r
+  rotate: true
+  xy: 728, 456
+  size: 90, 23
+  orig: 90, 23
+  offset: 0, 0
+  index: -1
+ufo_slot_A1
+  rotate: false
+  xy: 644, 32
+  size: 38, 66
+  orig: 38, 66
+  offset: 0, 0
+  index: -1
+ufo_slot_A2
+  rotate: true
+  xy: 667, 249
+  size: 38, 66
+  orig: 38, 66
+  offset: 0, 0
+  index: -1
+ufo_slot_A3
+  rotate: false
+  xy: 687, 118
+  size: 38, 66
+  orig: 38, 66
+  offset: 0, 0
+  index: -1
+ufo_slot_A4
+  rotate: false
+  xy: 783, 180
+  size: 38, 66
+  orig: 38, 66
+  offset: 0, 0
+  index: -1
+ufo_slot_B1
+  rotate: true
+  xy: 802, 371
+  size: 41, 61
+  orig: 41, 61
+  offset: 0, 0
+  index: -1
+ufo_slot_B2
+  rotate: false
+  xy: 842, 308
+  size: 41, 61
+  orig: 41, 61
+  offset: 0, 0
+  index: -1
+ufo_slot_B3
+  rotate: false
+  xy: 795, 252
+  size: 41, 61
+  orig: 41, 61
+  offset: 0, 0
+  index: -1
+ufo_slot_C1
+  rotate: false
+  xy: 727, 130
+  size: 51, 54
+  orig: 51, 54
+  offset: 0, 0
+  index: -1
+ufo_slot_C2
+  rotate: false
+  xy: 789, 315
+  size: 51, 54
+  orig: 51, 54
+  offset: 0, 0
+  index: -1
+ufo_slot_C3
+  rotate: false
+  xy: 838, 252
+  size: 50, 54
+  orig: 50, 54
+  offset: 0, 0
+  index: -1
+ufo_slot_D1
+  rotate: false
+  xy: 753, 486
+  size: 47, 72
+  orig: 47, 72
+  offset: 0, 0
+  index: -1
+ufo_slot_D2
+  rotate: true
+  xy: 802, 509
+  size: 47, 72
+  orig: 47, 72
+  offset: 0, 0
+  index: -1
+ufo_slot_D3
+  rotate: false
+  xy: 753, 412
+  size: 47, 72
+  orig: 47, 72
+  offset: 0, 0
+  index: -1
+ufo_slot_bg
+  rotate: true
+  xy: 470, 384
+  size: 310, 97
+  orig: 310, 97
+  offset: 0, 0
+  index: -1
+ufo_slot_body
+  rotate: false
+  xy: 508, 713
+  size: 333, 183
+  orig: 333, 183
+  offset: 0, 0
+  index: -1
+ufo_slot_nochr_A1
+  rotate: false
+  xy: 827, 134
+  size: 43, 47
+  orig: 43, 47
+  offset: 0, 0
+  index: -1
+ufo_slot_nochr_A2
+  rotate: false
+  xy: 827, 85
+  size: 43, 47
+  orig: 43, 47
+  offset: 0, 0
+  index: -1
+ufo_slot_nochr_A3
+  rotate: true
+  xy: 727, 85
+  size: 43, 47
+  orig: 43, 47
+  offset: 0, 0
+  index: -1
+ufo_slot_nochr_B1
+  rotate: true
+  xy: 802, 414
+  size: 55, 61
+  orig: 55, 61
+  offset: 0, 0
+  index: -1
+ufo_slot_nochr_B2
+  rotate: false
+  xy: 730, 349
+  size: 55, 61
+  orig: 55, 61
+  offset: 0, 0
+  index: -1
+ufo_slot_nochr_B3
+  rotate: false
+  xy: 670, 186
+  size: 55, 61
+  orig: 55, 61
+  offset: 0, 0
+  index: -1
+ufo_slot_nochr_C1
+  rotate: false
+  xy: 823, 183
+  size: 30, 67
+  orig: 30, 67
+  offset: 0, 0
+  index: -1
+ufo_slot_nochr_C2
+  rotate: false
+  xy: 855, 183
+  size: 30, 67
+  orig: 30, 67
+  offset: 0, 0
+  index: -1
+ufo_slot_nochr_C3
+  rotate: false
+  xy: 684, 31
+  size: 30, 67
+  orig: 30, 67
+  offset: 0, 0
+  index: -1

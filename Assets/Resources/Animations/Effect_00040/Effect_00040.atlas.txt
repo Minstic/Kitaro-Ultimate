@@ -1,0 +1,104 @@
+
+Effect_00040.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dust_A
+  rotate: false
+  xy: 688, 180
+  size: 206, 90
+  orig: 206, 90
+  offset: 0, 0
+  index: -1
+eff1
+  rotate: true
+  xy: 689, 405
+  size: 93, 276
+  orig: 93, 276
+  offset: 0, 0
+  index: -1
+eff2
+  rotate: false
+  xy: 179, 50
+  size: 111, 362
+  orig: 111, 362
+  offset: 0, 0
+  index: -1
+eff3
+  rotate: false
+  xy: 292, 99
+  size: 121, 313
+  orig: 121, 313
+  offset: 0, 0
+  index: -1
+eff4
+  rotate: true
+  xy: 675, 306
+  size: 97, 257
+  orig: 97, 257
+  offset: 0, 0
+  index: -1
+eff_impactring
+  rotate: false
+  xy: 675, 272
+  size: 299, 32
+  orig: 299, 32
+  offset: 0, 0
+  index: -1
+eff_tornado_sub1
+  rotate: false
+  xy: 415, 44
+  size: 188, 57
+  orig: 188, 57
+  offset: 0, 0
+  index: -1
+eff_tornado_sub_2
+  rotate: false
+  xy: 688, 117
+  size: 205, 61
+  orig: 205, 61
+  offset: 0, 0
+  index: -1
+eff_tornado_sub_3
+  rotate: false
+  xy: 688, 65
+  size: 209, 50
+  orig: 209, 50
+  offset: 0, 0
+  index: -1
+pillar1
+  rotate: false
+  xy: 179, 17
+  size: 131, 31
+  orig: 131, 31
+  offset: 0, 0
+  index: -1
+pillar2
+  rotate: false
+  xy: 2, 2
+  size: 175, 496
+  orig: 175, 496
+  offset: 0, 0
+  index: -1
+pillar3
+  rotate: true
+  xy: 179, 414
+  size: 84, 508
+  orig: 84, 508
+  offset: 0, 0
+  index: -1
+smoke_1
+  rotate: false
+  xy: 415, 248
+  size: 258, 164
+  orig: 258, 164
+  offset: 0, 0
+  index: -1
+smoke_2
+  rotate: false
+  xy: 415, 103
+  size: 271, 143
+  orig: 271, 143
+  offset: 0, 0
+  index: -1

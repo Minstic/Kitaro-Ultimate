@@ -1,0 +1,216 @@
+
+World_10091.png
+size: 945,251
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+AT_eff_fire_1
+  rotate: false
+  xy: 657, 29
+  size: 133, 93
+  orig: 133, 93
+  offset: 0, 0
+  index: -1
+AT_eff_fire_2
+  rotate: false
+  xy: 522, 2
+  size: 133, 108
+  orig: 133, 108
+  offset: 0, 0
+  index: -1
+eff_smoke_1
+  rotate: false
+  xy: 237, 32
+  size: 98, 217
+  orig: 98, 217
+  offset: 0, 0
+  index: -1
+eff_smoke_2
+  rotate: true
+  xy: 863, 124
+  size: 79, 80
+  orig: 79, 80
+  offset: 0, 0
+  index: -1
+eff_smoke_3
+  rotate: false
+  xy: 337, 103
+  size: 129, 146
+  orig: 129, 146
+  offset: 0, 0
+  index: -1
+eff_smoke_4
+  rotate: true
+  xy: 707, 195
+  size: 54, 126
+  orig: 54, 126
+  offset: 0, 0
+  index: -1
+eff_smoke_5
+  rotate: false
+  xy: 468, 112
+  size: 125, 137
+  orig: 125, 137
+  offset: 0, 0
+  index: -1
+flag
+  rotate: true
+  xy: 707, 139
+  size: 54, 76
+  orig: 54, 76
+  offset: 0, 0
+  index: -1
+flag_r
+  rotate: true
+  xy: 785, 139
+  size: 54, 76
+  orig: 54, 76
+  offset: 0, 0
+  index: -1
+oyaji_arm_l
+  rotate: false
+  xy: 657, 14
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+oyaji_arm_r
+  rotate: false
+  xy: 672, 15
+  size: 11, 12
+  orig: 11, 12
+  offset: 0, 0
+  index: -1
+oyaji_body
+  rotate: false
+  xy: 835, 205
+  size: 55, 44
+  orig: 55, 44
+  offset: 0, 0
+  index: -1
+oyaji_eye_damage
+  rotate: false
+  xy: 237, 6
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+oyaji_eye_default
+  rotate: true
+  xy: 263, 6
+  size: 24, 21
+  orig: 24, 21
+  offset: 0, 0
+  index: -1
+oyaji_eye_tears
+  rotate: false
+  xy: 305, 3
+  size: 10, 8
+  orig: 10, 8
+  offset: 0, 0
+  index: -1
+oyaji_head
+  rotate: false
+  xy: 860, 66
+  size: 66, 56
+  orig: 66, 56
+  offset: 0, 0
+  index: -1
+oyaji_helmet_f
+  rotate: false
+  xy: 792, 80
+  size: 66, 57
+  orig: 66, 57
+  offset: 0, 0
+  index: -1
+oyaji_leg_l
+  rotate: true
+  xy: 329, 2
+  size: 9, 8
+  orig: 9, 8
+  offset: 0, 0
+  index: -1
+oyaji_leg_r
+  rotate: true
+  xy: 317, 3
+  size: 8, 10
+  orig: 8, 10
+  offset: 0, 0
+  index: -1
+planet_b
+  rotate: true
+  xy: 339, 2
+  size: 99, 181
+  orig: 99, 181
+  offset: 0, 0
+  index: -1
+planet_f
+  rotate: true
+  xy: 2, 9
+  size: 240, 233
+  orig: 240, 233
+  offset: 0, 0
+  index: -1
+ship
+  rotate: false
+  xy: 595, 124
+  size: 110, 125
+  orig: 110, 125
+  offset: 0, 0
+  index: -1
+stone_1
+  rotate: false
+  xy: 854, 20
+  size: 37, 44
+  orig: 37, 44
+  offset: 0, 0
+  index: -1
+stone_2
+  rotate: false
+  xy: 322, 13
+  size: 13, 17
+  orig: 13, 17
+  offset: 0, 0
+  index: -1
+stone_3
+  rotate: false
+  xy: 893, 33
+  size: 31, 31
+  orig: 31, 31
+  offset: 0, 0
+  index: -1
+stone_4
+  rotate: false
+  xy: 286, 8
+  size: 17, 22
+  orig: 17, 22
+  offset: 0, 0
+  index: -1
+stone_5
+  rotate: false
+  xy: 595, 112
+  size: 13, 10
+  orig: 13, 10
+  offset: 0, 0
+  index: -1
+stone_6
+  rotate: true
+  xy: 892, 207
+  size: 42, 49
+  orig: 42, 49
+  offset: 0, 0
+  index: -1
+stone_7
+  rotate: false
+  xy: 305, 13
+  size: 15, 17
+  orig: 15, 17
+  offset: 0, 0
+  index: -1
+stone_8
+  rotate: false
+  xy: 792, 22
+  size: 60, 56
+  orig: 60, 56
+  offset: 0, 0
+  index: -1

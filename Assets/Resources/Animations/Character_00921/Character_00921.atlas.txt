@@ -1,0 +1,286 @@
+
+Character_00921.png
+size: 889,298
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Arm_L
+  rotate: true
+  xy: 241, 12
+  size: 40, 81
+  orig: 40, 81
+  offset: 0, 0
+  index: -1
+Arm_R
+  rotate: true
+  xy: 60, 4
+  size: 48, 103
+  orig: 48, 103
+  offset: 0, 0
+  index: -1
+Body
+  rotate: false
+  xy: 402, 153
+  size: 105, 143
+  orig: 105, 143
+  offset: 0, 0
+  index: -1
+Body_re
+  rotate: false
+  xy: 509, 153
+  size: 105, 143
+  orig: 105, 143
+  offset: 0, 0
+  index: -1
+Hanayome
+  rotate: false
+  xy: 2, 114
+  size: 131, 182
+  orig: 131, 182
+  offset: 0, 0
+  index: -1
+Hanayome_kazari
+  rotate: false
+  xy: 495, 3
+  size: 34, 61
+  orig: 34, 61
+  offset: 0, 0
+  index: -1
+Hanayome_kazari_re
+  rotate: true
+  xy: 324, 11
+  size: 41, 63
+  orig: 41, 63
+  offset: 0, 0
+  index: -1
+Hanayome_re
+  rotate: false
+  xy: 135, 114
+  size: 131, 182
+  orig: 131, 182
+  offset: 0, 0
+  index: -1
+Hand_R
+  rotate: true
+  xy: 2, 54
+  size: 58, 224
+  orig: 58, 224
+  offset: 0, 0
+  index: -1
+Hand_R1
+  rotate: false
+  xy: 531, 2
+  size: 13, 17
+  orig: 13, 17
+  offset: 0, 0
+  index: -1
+Hand_R2
+  rotate: true
+  xy: 241, 2
+  size: 8, 15
+  orig: 8, 15
+  offset: 0, 0
+  index: -1
+Hand_R3
+  rotate: true
+  xy: 865, 19
+  size: 26, 18
+  orig: 26, 18
+  offset: 0, 0
+  index: -1
+Hand_R4
+  rotate: true
+  xy: 822, 122
+  size: 12, 15
+  orig: 12, 15
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 774, 228
+  size: 111, 68
+  orig: 111, 68
+  offset: 0, 0
+  index: -1
+Kitune1
+  rotate: false
+  xy: 165, 5
+  size: 74, 47
+  orig: 74, 47
+  offset: 0, 0
+  index: -1
+Kitune1_Body
+  rotate: false
+  xy: 536, 63
+  size: 70, 88
+  orig: 70, 88
+  offset: 0, 0
+  index: -1
+Kitune1_Body_re
+  rotate: false
+  xy: 750, 122
+  size: 70, 88
+  orig: 70, 88
+  offset: 0, 0
+  index: -1
+Kitune1_Face
+  rotate: true
+  xy: 722, 7
+  size: 46, 25
+  orig: 46, 25
+  offset: 0, 0
+  index: -1
+Kitune1_Face_D
+  rotate: false
+  xy: 228, 59
+  size: 32, 29
+  orig: 32, 29
+  offset: 0, 0
+  index: -1
+Kitune1_Kasa
+  rotate: false
+  xy: 268, 141
+  size: 132, 155
+  orig: 132, 155
+  offset: 0, 0
+  index: -1
+Kitune1_Kasa1
+  rotate: false
+  xy: 616, 125
+  size: 132, 85
+  orig: 132, 85
+  offset: 0, 0
+  index: -1
+Kitune1_Kasa2
+  rotate: false
+  xy: 268, 54
+  size: 132, 85
+  orig: 132, 85
+  offset: 0, 0
+  index: -1
+Kitune1_Kasa3
+  rotate: false
+  xy: 402, 66
+  size: 132, 85
+  orig: 132, 85
+  offset: 0, 0
+  index: -1
+Kitune2
+  rotate: false
+  xy: 822, 136
+  size: 64, 90
+  orig: 64, 90
+  offset: 0, 0
+  index: -1
+Kitune2_Acc
+  rotate: true
+  xy: 2, 2
+  size: 50, 56
+  orig: 50, 56
+  offset: 0, 0
+  index: -1
+Kitune2_Face
+  rotate: false
+  xy: 749, 4
+  size: 41, 26
+  orig: 41, 26
+  offset: 0, 0
+  index: -1
+Kitune2_Face_D
+  rotate: false
+  xy: 792, 4
+  size: 39, 26
+  orig: 39, 26
+  offset: 0, 0
+  index: -1
+Kitune2_Head
+  rotate: true
+  xy: 701, 55
+  size: 68, 46
+  orig: 68, 46
+  offset: 0, 0
+  index: -1
+Kitune2_re
+  rotate: true
+  xy: 749, 56
+  size: 64, 90
+  orig: 64, 90
+  offset: 0, 0
+  index: -1
+Kitune3_Acc
+  rotate: true
+  xy: 616, 212
+  size: 84, 156
+  orig: 84, 156
+  offset: 0, 0
+  index: -1
+Kitune3_Body
+  rotate: true
+  xy: 608, 63
+  size: 60, 91
+  orig: 60, 91
+  offset: 0, 0
+  index: -1
+Kitune3_Body_re
+  rotate: true
+  xy: 402, 4
+  size: 60, 91
+  orig: 60, 91
+  offset: 0, 0
+  index: -1
+Kitune3_Face
+  rotate: false
+  xy: 228, 90
+  size: 38, 22
+  orig: 38, 22
+  offset: 0, 0
+  index: -1
+Kitune3_Face_D
+  rotate: false
+  xy: 833, 19
+  size: 30, 26
+  orig: 30, 26
+  offset: 0, 0
+  index: -1
+Kitune3_Head
+  rotate: false
+  xy: 531, 21
+  size: 62, 40
+  orig: 62, 40
+  offset: 0, 0
+  index: -1
+Tail
+  rotate: false
+  xy: 841, 47
+  size: 46, 87
+  orig: 46, 87
+  offset: 0, 0
+  index: -1
+face_damage
+  rotate: true
+  xy: 655, 5
+  size: 56, 41
+  orig: 56, 41
+  offset: 0, 0
+  index: -1
+face_default
+  rotate: false
+  xy: 595, 17
+  size: 58, 44
+  orig: 58, 44
+  offset: 0, 0
+  index: -1
+leg_L
+  rotate: true
+  xy: 698, 2
+  size: 51, 22
+  orig: 51, 22
+  offset: 0, 0
+  index: -1
+leg_R
+  rotate: false
+  xy: 749, 32
+  size: 75, 22
+  orig: 75, 22
+  offset: 0, 0
+  index: -1

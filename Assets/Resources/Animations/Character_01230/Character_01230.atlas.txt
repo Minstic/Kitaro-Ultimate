@@ -1,0 +1,160 @@
+
+Character_01230.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_L_attack
+  rotate: false
+  xy: 441, 132
+  size: 59, 23
+  orig: 59, 23
+  offset: 0, 0
+  index: -1
+arm_L_default
+  rotate: true
+  xy: 306, 2
+  size: 26, 59
+  orig: 26, 59
+  offset: 0, 0
+  index: -1
+arm_R_attack
+  rotate: true
+  xy: 405, 71
+  size: 49, 23
+  orig: 49, 23
+  offset: 0, 0
+  index: -1
+arm_R_default
+  rotate: true
+  xy: 242, 2
+  size: 26, 62
+  orig: 26, 62
+  offset: 0, 0
+  index: -1
+body1
+  rotate: false
+  xy: 441, 184
+  size: 63, 70
+  orig: 63, 70
+  offset: 0, 0
+  index: -1
+body2
+  rotate: false
+  xy: 360, 70
+  size: 43, 50
+  orig: 43, 50
+  offset: 0, 0
+  index: -1
+eff_attack1
+  rotate: false
+  xy: 242, 138
+  size: 119, 116
+  orig: 119, 116
+  offset: 0, 0
+  index: -1
+eff_attack2
+  rotate: false
+  xy: 2, 23
+  size: 238, 231
+  orig: 238, 231
+  offset: 0, 0
+  index: -1
+eff_attack3
+  rotate: false
+  xy: 430, 89
+  size: 41, 41
+  orig: 41, 41
+  offset: 0, 0
+  index: -1
+eye_close
+  rotate: true
+  xy: 473, 95
+  size: 35, 7
+  orig: 35, 7
+  offset: 0, 0
+  index: -1
+eye_default
+  rotate: false
+  xy: 2, 5
+  size: 38, 16
+  orig: 38, 16
+  offset: 0, 0
+  index: -1
+eye_default2
+  rotate: false
+  xy: 430, 71
+  size: 38, 16
+  orig: 38, 16
+  offset: 0, 0
+  index: -1
+face_damage
+  rotate: true
+  xy: 327, 32
+  size: 32, 24
+  orig: 32, 24
+  offset: 0, 0
+  index: -1
+hair_b
+  rotate: false
+  xy: 363, 147
+  size: 76, 107
+  orig: 76, 107
+  offset: 0, 0
+  index: -1
+hand_L_attack
+  rotate: true
+  xy: 482, 109
+  size: 21, 17
+  orig: 21, 17
+  offset: 0, 0
+  index: -1
+hand_R_attack
+  rotate: false
+  xy: 42, 5
+  size: 17, 16
+  orig: 17, 16
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 242, 30
+  size: 83, 106
+  orig: 83, 106
+  offset: 0, 0
+  index: -1
+leg_l
+  rotate: false
+  xy: 327, 66
+  size: 31, 70
+  orig: 31, 70
+  offset: 0, 0
+  index: -1
+leg_r
+  rotate: true
+  xy: 441, 157
+  size: 25, 65
+  orig: 25, 65
+  offset: 0, 0
+  index: -1
+mouth_attack
+  rotate: true
+  xy: 502, 142
+  size: 13, 3
+  orig: 13, 3
+  offset: 0, 0
+  index: -1
+mouth_default
+  rotate: true
+  xy: 506, 243
+  size: 11, 4
+  orig: 11, 4
+  offset: 0, 0
+  index: -1
+sidehair_r
+  rotate: true
+  xy: 363, 122
+  size: 23, 54
+  orig: 23, 54
+  offset: 0, 0
+  index: -1

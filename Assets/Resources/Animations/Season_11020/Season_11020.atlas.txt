@@ -1,0 +1,76 @@
+
+Season_11020.png
+size: 755,408
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 2
+  size: 455, 404
+  orig: 455, 404
+  offset: 0, 0
+  index: -1
+body_bottom
+  rotate: false
+  xy: 459, 172
+  size: 281, 234
+  orig: 281, 234
+  offset: 0, 0
+  index: -1
+drop_snow_1
+  rotate: false
+  xy: 483, 34
+  size: 13, 30
+  orig: 13, 30
+  offset: 0, 0
+  index: -1
+drop_snow_2
+  rotate: false
+  xy: 459, 27
+  size: 22, 37
+  orig: 22, 37
+  offset: 0, 0
+  index: -1
+drop_snow_3
+  rotate: false
+  xy: 742, 373
+  size: 10, 33
+  orig: 10, 33
+  offset: 0, 0
+  index: -1
+eff_ball1
+  rotate: false
+  xy: 459, 8
+  size: 15, 17
+  orig: 15, 17
+  offset: 0, 0
+  index: -1
+eff_ball2
+  rotate: false
+  xy: 586, 78
+  size: 18, 30
+  orig: 18, 30
+  offset: 0, 0
+  index: -1
+eff_ball3
+  rotate: false
+  xy: 606, 92
+  size: 11, 16
+  orig: 11, 16
+  offset: 0, 0
+  index: -1
+eff_hit
+  rotate: false
+  xy: 459, 66
+  size: 125, 104
+  orig: 125, 104
+  offset: 0, 0
+  index: -1
+snowball_1
+  rotate: true
+  xy: 586, 110
+  size: 60, 167
+  orig: 60, 167
+  offset: 0, 0
+  index: -1

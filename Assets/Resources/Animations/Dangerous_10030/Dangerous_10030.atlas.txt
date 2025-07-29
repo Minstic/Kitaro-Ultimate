@@ -1,0 +1,132 @@
+
+Dangerous_10030.png
+size: 898,217
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_l_01
+  rotate: true
+  xy: 427, 2
+  size: 50, 195
+  orig: 50, 195
+  offset: 0, 0
+  index: -1
+arm_l_02
+  rotate: false
+  xy: 697, 59
+  size: 22, 24
+  orig: 22, 24
+  offset: 0, 0
+  index: -1
+arm_l_03
+  rotate: false
+  xy: 838, 83
+  size: 58, 64
+  orig: 58, 64
+  offset: 0, 0
+  index: -1
+arm_r_01
+  rotate: true
+  xy: 624, 3
+  size: 52, 143
+  orig: 52, 143
+  offset: 0, 0
+  index: -1
+arm_r_02
+  rotate: false
+  xy: 706, 90
+  size: 18, 23
+  orig: 18, 23
+  offset: 0, 0
+  index: -1
+arm_r_03
+  rotate: true
+  xy: 785, 72
+  size: 41, 51
+  orig: 41, 51
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 7
+  size: 227, 208
+  orig: 227, 208
+  offset: 0, 0
+  index: -1
+clavicle
+  rotate: false
+  xy: 706, 115
+  size: 93, 100
+  orig: 93, 100
+  offset: 0, 0
+  index: -1
+face_01
+  rotate: false
+  xy: 769, 7
+  size: 126, 57
+  orig: 126, 57
+  offset: 0, 0
+  index: -1
+face_02
+  rotate: true
+  xy: 427, 54
+  size: 161, 80
+  orig: 161, 80
+  offset: 0, 0
+  index: -1
+hand_l
+  rotate: true
+  xy: 598, 66
+  size: 62, 20
+  orig: 62, 20
+  offset: 0, 0
+  index: -1
+hand_r_a
+  rotate: false
+  xy: 620, 57
+  size: 75, 26
+  orig: 75, 26
+  offset: 0, 0
+  index: -1
+hand_r_b
+  rotate: false
+  xy: 801, 149
+  size: 75, 66
+  orig: 75, 66
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 231, 3
+  size: 212, 194
+  orig: 212, 194
+  offset: 0, 0
+  index: -1
+jaw
+  rotate: true
+  xy: 509, 130
+  size: 85, 112
+  orig: 85, 112
+  offset: 0, 0
+  index: -1
+neck
+  rotate: false
+  xy: 726, 66
+  size: 57, 47
+  orig: 57, 47
+  offset: 0, 0
+  index: -1
+pelvis
+  rotate: true
+  xy: 624, 85
+  size: 130, 80
+  orig: 130, 80
+  offset: 0, 0
+  index: -1
+shoulder
+  rotate: true
+  xy: 509, 61
+  size: 67, 87
+  orig: 67, 87
+  offset: 0, 0
+  index: -1

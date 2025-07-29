@@ -1,0 +1,461 @@
+
+Character_01061.png
+size: 1009,330
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1_body
+  rotate: true
+  xy: 844, 99
+  size: 60, 43
+  orig: 60, 43
+  offset: 0, 0
+  index: -1
+1_eye_l
+  rotate: false
+  xy: 351, 21
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+1_eye_r
+  rotate: false
+  xy: 351, 14
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+1_face_damage
+  rotate: false
+  xy: 736, 2
+  size: 41, 39
+  orig: 41, 39
+  offset: 0, 0
+  index: -1
+1_face_default
+  rotate: true
+  xy: 973, 165
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+1_face_laugh
+  rotate: true
+  xy: 973, 122
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+1_hand
+  rotate: false
+  xy: 95, 7
+  size: 56, 17
+  orig: 56, 17
+  offset: 0, 0
+  index: -1
+1_handle
+  rotate: false
+  xy: 265, 2
+  size: 53, 24
+  orig: 53, 24
+  offset: 0, 0
+  index: -1
+1_head
+  rotate: false
+  xy: 690, 87
+  size: 75, 72
+  orig: 75, 72
+  offset: 0, 0
+  index: -1
+2_eye_l
+  rotate: false
+  xy: 351, 7
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+2_eye_r
+  rotate: false
+  xy: 889, 159
+  size: 6, 6
+  orig: 6, 6
+  offset: 0, 0
+  index: -1
+2_face_damage
+  rotate: false
+  xy: 725, 48
+  size: 40, 37
+  orig: 40, 37
+  offset: 0, 0
+  index: -1
+2_face_default
+  rotate: true
+  xy: 881, 63
+  size: 34, 25
+  orig: 34, 25
+  offset: 0, 0
+  index: -1
+2_face_laugh
+  rotate: true
+  xy: 817, 6
+  size: 35, 27
+  orig: 35, 27
+  offset: 0, 0
+  index: -1
+2_hand
+  rotate: true
+  xy: 953, 120
+  size: 28, 12
+  orig: 28, 12
+  offset: 0, 0
+  index: -1
+2_head
+  rotate: true
+  xy: 554, 2
+  size: 76, 63
+  orig: 76, 63
+  offset: 0, 0
+  index: -1
+3_arm_l1
+  rotate: false
+  xy: 180, 8
+  size: 15, 16
+  orig: 15, 16
+  offset: 0, 0
+  index: -1
+3_arm_l2
+  rotate: false
+  xy: 153, 5
+  size: 25, 19
+  orig: 25, 19
+  offset: 0, 0
+  index: -1
+3_arm_r
+  rotate: false
+  xy: 843, 43
+  size: 31, 21
+  orig: 31, 21
+  offset: 0, 0
+  index: -1
+3_body_b
+  rotate: false
+  xy: 320, 5
+  size: 29, 21
+  orig: 29, 21
+  offset: 0, 0
+  index: -1
+3_eye_l
+  rotate: true
+  xy: 578, 80
+  size: 4, 5
+  orig: 4, 5
+  offset: 0, 0
+  index: -1
+3_eye_r
+  rotate: true
+  xy: 861, 161
+  size: 4, 5
+  orig: 4, 5
+  offset: 0, 0
+  index: -1
+3_face_damage
+  rotate: false
+  xy: 779, 5
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+3_face_default
+  rotate: true
+  xy: 846, 7
+  size: 34, 31
+  orig: 34, 31
+  offset: 0, 0
+  index: -1
+3_face_laugh
+  rotate: true
+  xy: 943, 65
+  size: 34, 31
+  orig: 34, 31
+  offset: 0, 0
+  index: -1
+3_hair
+  rotate: true
+  xy: 458, 2
+  size: 49, 54
+  orig: 49, 54
+  offset: 0, 0
+  index: -1
+3_hair_s
+  rotate: true
+  xy: 219, 146
+  size: 19, 32
+  orig: 19, 32
+  offset: 0, 0
+  index: -1
+3_head
+  rotate: true
+  xy: 395, 2
+  size: 49, 61
+  orig: 49, 61
+  offset: 0, 0
+  index: -1
+3_ribbon
+  rotate: false
+  xy: 861, 167
+  size: 34, 52
+  orig: 34, 52
+  offset: 0, 0
+  index: -1
+atk_azuki1
+  rotate: true
+  xy: 901, 208
+  size: 120, 103
+  orig: 120, 103
+  offset: 0, 0
+  index: -1
+atk_azuki2
+  rotate: true
+  xy: 2, 26
+  size: 139, 215
+  orig: 139, 215
+  offset: 0, 0
+  index: -1
+atk_azuki3_azuki
+  rotate: false
+  xy: 690, 161
+  size: 92, 58
+  orig: 92, 58
+  offset: 0, 0
+  index: -1
+atk_azuki3_cloth
+  rotate: false
+  xy: 395, 53
+  size: 154, 25
+  orig: 154, 25
+  offset: 0, 0
+  index: -1
+azuki_steam1
+  rotate: false
+  xy: 219, 2
+  size: 44, 45
+  orig: 44, 45
+  offset: 0, 0
+  index: -1
+azuki_steam2
+  rotate: true
+  xy: 578, 86
+  size: 50, 42
+  orig: 50, 42
+  offset: 0, 0
+  index: -1
+azuki_steam3
+  rotate: true
+  xy: 514, 2
+  size: 49, 38
+  orig: 49, 38
+  offset: 0, 0
+  index: -1
+azuki_steam4
+  rotate: false
+  xy: 622, 43
+  size: 47, 42
+  orig: 47, 42
+  offset: 0, 0
+  index: -1
+azuki_steam5
+  rotate: false
+  xy: 944, 38
+  size: 26, 25
+  orig: 26, 25
+  offset: 0, 0
+  index: -1
+car_1
+  rotate: false
+  xy: 2, 167
+  size: 262, 161
+  orig: 262, 161
+  offset: 0, 0
+  index: -1
+car_2
+  rotate: false
+  xy: 718, 221
+  size: 181, 107
+  orig: 181, 107
+  offset: 0, 0
+  index: -1
+chimney_attack1
+  rotate: false
+  xy: 677, 2
+  size: 57, 44
+  orig: 57, 44
+  offset: 0, 0
+  index: -1
+chimney_attack2
+  rotate: true
+  xy: 889, 101
+  size: 47, 62
+  orig: 47, 62
+  offset: 0, 0
+  index: -1
+chimney_default
+  rotate: true
+  xy: 671, 53
+  size: 32, 52
+  orig: 32, 52
+  offset: 0, 0
+  index: -1
+eff_smoke1
+  rotate: false
+  xy: 515, 230
+  size: 201, 98
+  orig: 201, 98
+  offset: 0, 0
+  index: -1
+eff_smoke2
+  rotate: false
+  xy: 266, 142
+  size: 181, 89
+  orig: 181, 89
+  offset: 0, 0
+  index: -1
+eff_smoke3
+  rotate: false
+  xy: 449, 138
+  size: 171, 90
+  orig: 171, 90
+  offset: 0, 0
+  index: -1
+eff_smoke4
+  rotate: false
+  xy: 219, 49
+  size: 174, 91
+  orig: 174, 91
+  offset: 0, 0
+  index: -1
+eff_smoke_attack
+  rotate: true
+  xy: 622, 87
+  size: 141, 66
+  orig: 141, 66
+  offset: 0, 0
+  index: -1
+flag_l
+  rotate: true
+  xy: 784, 161
+  size: 58, 75
+  orig: 58, 75
+  offset: 0, 0
+  index: -1
+flag_l_re
+  rotate: true
+  xy: 767, 101
+  size: 58, 75
+  orig: 58, 75
+  offset: 0, 0
+  index: -1
+flag_r
+  rotate: true
+  xy: 897, 150
+  size: 56, 74
+  orig: 56, 74
+  offset: 0, 0
+  index: -1
+flag_r_re
+  rotate: true
+  xy: 767, 43
+  size: 56, 74
+  orig: 56, 74
+  offset: 0, 0
+  index: -1
+moji
+  rotate: false
+  xy: 2, 5
+  size: 91, 19
+  orig: 91, 19
+  offset: 0, 0
+  index: -1
+moji_re
+  rotate: false
+  xy: 265, 28
+  size: 91, 19
+  orig: 91, 19
+  offset: 0, 0
+  index: -1
+roof_b
+  rotate: false
+  xy: 619, 2
+  size: 56, 39
+  orig: 56, 39
+  offset: 0, 0
+  index: -1
+roof_f
+  rotate: false
+  xy: 395, 80
+  size: 181, 56
+  orig: 181, 56
+  offset: 0, 0
+  index: -1
+tire_bl
+  rotate: false
+  xy: 976, 89
+  size: 31, 31
+  orig: 31, 31
+  offset: 0, 0
+  index: -1
+tire_bl_stop
+  rotate: true
+  xy: 879, 28
+  size: 33, 29
+  orig: 33, 29
+  offset: 0, 0
+  index: -1
+tire_br
+  rotate: false
+  xy: 910, 31
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+tire_br_stop
+  rotate: false
+  xy: 976, 57
+  size: 31, 30
+  orig: 31, 30
+  offset: 0, 0
+  index: -1
+tire_fl
+  rotate: false
+  xy: 358, 12
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+tire_fl_stop
+  rotate: false
+  xy: 843, 66
+  size: 36, 31
+  orig: 36, 31
+  offset: 0, 0
+  index: -1
+tire_fr
+  rotate: false
+  xy: 908, 65
+  size: 33, 34
+  orig: 33, 34
+  offset: 0, 0
+  index: -1
+tire_fr_stop
+  rotate: false
+  xy: 910, 2
+  size: 32, 27
+  orig: 32, 27
+  offset: 0, 0
+  index: -1
+window
+  rotate: false
+  xy: 266, 233
+  size: 247, 95
+  orig: 247, 95
+  offset: 0, 0
+  index: -1

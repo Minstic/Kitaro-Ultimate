@@ -1,0 +1,167 @@
+
+Character_01101.png
+size: 818,204
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+beard_attack
+  rotate: false
+  xy: 168, 9
+  size: 11, 14
+  orig: 11, 14
+  offset: 0, 0
+  index: -1
+beard_l
+  rotate: true
+  xy: 194, 9
+  size: 14, 10
+  orig: 14, 10
+  offset: 0, 0
+  index: -1
+beard_r
+  rotate: true
+  xy: 181, 9
+  size: 14, 11
+  orig: 14, 11
+  offset: 0, 0
+  index: -1
+body_attack
+  rotate: false
+  xy: 733, 107
+  size: 83, 95
+  orig: 83, 95
+  offset: 0, 0
+  index: -1
+body_default
+  rotate: true
+  xy: 675, 4
+  size: 95, 98
+  orig: 95, 98
+  offset: 0, 0
+  index: -1
+eff_hit
+  rotate: false
+  xy: 539, 68
+  size: 109, 134
+  orig: 109, 134
+  offset: 0, 0
+  index: -1
+face_attack
+  rotate: false
+  xy: 775, 80
+  size: 28, 25
+  orig: 28, 25
+  offset: 0, 0
+  index: -1
+face_damage
+  rotate: true
+  xy: 586, 2
+  size: 64, 31
+  orig: 64, 31
+  offset: 0, 0
+  index: -1
+face_default
+  rotate: true
+  xy: 650, 69
+  size: 30, 23
+  orig: 30, 23
+  offset: 0, 0
+  index: -1
+face_eye_l
+  rotate: false
+  xy: 2, 4
+  size: 4, 6
+  orig: 4, 6
+  offset: 0, 0
+  index: -1
+face_eye_r
+  rotate: false
+  xy: 8, 6
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+glove
+  rotate: true
+  xy: 316, 55
+  size: 147, 124
+  orig: 147, 124
+  offset: 0, 0
+  index: -1
+hagoita
+  rotate: true
+  xy: 442, 66
+  size: 136, 95
+  orig: 136, 95
+  offset: 0, 0
+  index: -1
+head_attack
+  rotate: true
+  xy: 460, 3
+  size: 61, 66
+  orig: 61, 66
+  offset: 0, 0
+  index: -1
+head_default
+  rotate: false
+  xy: 528, 3
+  size: 56, 61
+  orig: 56, 61
+  offset: 0, 0
+  index: -1
+spring
+  rotate: true
+  xy: 2, 12
+  size: 190, 164
+  orig: 190, 164
+  offset: 0, 0
+  index: -1
+ufo_body_bottom
+  rotate: true
+  xy: 263, 44
+  size: 158, 51
+  orig: 158, 51
+  offset: 0, 0
+  index: -1
+ufo_body_top
+  rotate: true
+  xy: 168, 25
+  size: 177, 93
+  orig: 177, 93
+  offset: 0, 0
+  index: -1
+ufo_head
+  rotate: false
+  xy: 650, 101
+  size: 81, 101
+  orig: 81, 101
+  offset: 0, 0
+  index: -1
+ufo_orn_l1
+  rotate: false
+  xy: 317, 3
+  size: 67, 50
+  orig: 67, 50
+  offset: 0, 0
+  index: -1
+ufo_orn_l2
+  rotate: true
+  xy: 263, 5
+  size: 37, 52
+  orig: 37, 52
+  offset: 0, 0
+  index: -1
+ufo_orn_r1
+  rotate: false
+  xy: 386, 8
+  size: 72, 45
+  orig: 72, 45
+  offset: 0, 0
+  index: -1
+ufo_orn_r2
+  rotate: false
+  xy: 619, 12
+  size: 44, 54
+  orig: 44, 54
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,118 @@
+
+Character_00442.png
+size: 1010,654
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: true
+  xy: 168, 54
+  size: 251, 207
+  orig: 251, 207
+  offset: 0, 0
+  index: -1
+ef_explosion
+  rotate: true
+  xy: 2, 15
+  size: 290, 164
+  orig: 290, 164
+  offset: 0, 0
+  index: -1
+ef_explosion_dust
+  rotate: true
+  xy: 439, 324
+  size: 328, 128
+  orig: 328, 128
+  offset: 0, 0
+  index: -1
+eff_bodylight
+  rotate: true
+  xy: 569, 402
+  size: 250, 206
+  orig: 250, 206
+  offset: 0, 0
+  index: -1
+eff_fall_a_1
+  rotate: false
+  xy: 777, 568
+  size: 231, 84
+  orig: 231, 84
+  offset: 0, 0
+  index: -1
+eff_fall_a_2
+  rotate: true
+  xy: 583, 28
+  size: 236, 81
+  orig: 236, 81
+  offset: 0, 0
+  index: -1
+eff_fall_a_3
+  rotate: false
+  xy: 569, 316
+  size: 234, 84
+  orig: 234, 84
+  offset: 0, 0
+  index: -1
+eff_fall_b_behind_1
+  rotate: true
+  xy: 777, 417
+  size: 149, 186
+  orig: 149, 186
+  offset: 0, 0
+  index: -1
+eff_fall_b_behind_2
+  rotate: true
+  xy: 805, 266
+  size: 149, 186
+  orig: 149, 186
+  offset: 0, 0
+  index: -1
+eff_fall_b_behind_3
+  rotate: false
+  xy: 666, 8
+  size: 149, 184
+  orig: 149, 184
+  offset: 0, 0
+  index: -1
+eff_fall_b_front_1
+  rotate: false
+  xy: 377, 2
+  size: 204, 310
+  orig: 204, 310
+  offset: 0, 0
+  index: -1
+eff_fall_b_front_2
+  rotate: false
+  xy: 2, 307
+  size: 213, 345
+  orig: 213, 345
+  offset: 0, 0
+  index: -1
+eff_fall_b_front_3
+  rotate: false
+  xy: 217, 314
+  size: 220, 338
+  orig: 220, 338
+  offset: 0, 0
+  index: -1
+face_damage
+  rotate: true
+  xy: 817, 144
+  size: 120, 128
+  orig: 120, 128
+  offset: 0, 0
+  index: -1
+face_default
+  rotate: true
+  xy: 817, 20
+  size: 122, 102
+  orig: 122, 102
+  offset: 0, 0
+  index: -1
+face_eff
+  rotate: false
+  xy: 666, 194
+  size: 132, 120
+  orig: 132, 120
+  offset: 0, 0
+  index: -1

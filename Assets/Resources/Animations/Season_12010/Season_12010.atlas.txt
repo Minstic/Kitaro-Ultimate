@@ -1,0 +1,132 @@
+
+Season_12010.png
+size: 488,78
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+choco
+  rotate: false
+  xy: 213, 4
+  size: 29, 28
+  orig: 29, 28
+  offset: 0, 0
+  index: -1
+dolly_back
+  rotate: false
+  xy: 2, 4
+  size: 125, 18
+  orig: 125, 18
+  offset: 0, 0
+  index: -1
+dolly_front
+  rotate: false
+  xy: 2, 24
+  size: 126, 52
+  orig: 126, 52
+  offset: 0, 0
+  index: -1
+eff_arm
+  rotate: true
+  xy: 301, 40
+  size: 36, 91
+  orig: 36, 91
+  offset: 0, 0
+  index: -1
+neko_arm_l
+  rotate: false
+  xy: 244, 2
+  size: 20, 12
+  orig: 20, 12
+  offset: 0, 0
+  index: -1
+neko_arm_r1
+  rotate: false
+  xy: 266, 4
+  size: 17, 11
+  orig: 17, 11
+  offset: 0, 0
+  index: -1
+neko_arm_r2
+  rotate: false
+  xy: 301, 2
+  size: 37, 36
+  orig: 37, 36
+  offset: 0, 0
+  index: -1
+neko_arm_r3
+  rotate: true
+  xy: 466, 50
+  size: 26, 20
+  orig: 26, 20
+  offset: 0, 0
+  index: -1
+neko_eye
+  rotate: true
+  xy: 450, 9
+  size: 37, 12
+  orig: 37, 12
+  offset: 0, 0
+  index: -1
+neko_face_base
+  rotate: false
+  xy: 394, 48
+  size: 70, 28
+  orig: 70, 28
+  offset: 0, 0
+  index: -1
+neko_face_damage
+  rotate: false
+  xy: 340, 12
+  size: 51, 26
+  orig: 51, 26
+  offset: 0, 0
+  index: -1
+neko_hat
+  rotate: false
+  xy: 213, 34
+  size: 86, 42
+  orig: 86, 42
+  offset: 0, 0
+  index: -1
+neko_head
+  rotate: false
+  xy: 130, 10
+  size: 81, 66
+  orig: 81, 66
+  offset: 0, 0
+  index: -1
+neko_mouth
+  rotate: false
+  xy: 450, 2
+  size: 22, 5
+  orig: 22, 5
+  offset: 0, 0
+  index: -1
+neko_ribbon
+  rotate: false
+  xy: 394, 8
+  size: 54, 38
+  orig: 54, 38
+  offset: 0, 0
+  index: -1
+wheel_1
+  rotate: false
+  xy: 265, 17
+  size: 17, 15
+  orig: 17, 15
+  offset: 0, 0
+  index: -1
+wheel_2
+  rotate: false
+  xy: 466, 31
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+wheel_3
+  rotate: false
+  xy: 244, 16
+  size: 19, 16
+  orig: 19, 16
+  offset: 0, 0
+  index: -1

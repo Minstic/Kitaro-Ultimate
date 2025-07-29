@@ -1,0 +1,433 @@
+
+Cryptid_10020.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_L
+  rotate: true
+  xy: 402, 254
+  size: 52, 44
+  orig: 52, 44
+  offset: 0, 0
+  index: -1
+arm_L_atk1
+  rotate: true
+  xy: 221, 84
+  size: 18, 63
+  orig: 18, 63
+  offset: 0, 0
+  index: -1
+arm_R
+  rotate: false
+  xy: 586, 292
+  size: 34, 39
+  orig: 34, 39
+  offset: 0, 0
+  index: -1
+arm_R_atk1
+  rotate: true
+  xy: 535, 310
+  size: 21, 49
+  orig: 21, 49
+  offset: 0, 0
+  index: -1
+atk2_body
+  rotate: true
+  xy: 427, 388
+  size: 122, 187
+  orig: 122, 187
+  offset: 0, 0
+  index: -1
+atk2_eye
+  rotate: true
+  xy: 305, 102
+  size: 43, 29
+  orig: 43, 29
+  offset: 0, 0
+  index: -1
+atk2_ground_1
+  rotate: true
+  xy: 305, 147
+  size: 106, 25
+  orig: 106, 25
+  offset: 0, 0
+  index: -1
+atk2_ground_2
+  rotate: false
+  xy: 427, 362
+  size: 122, 24
+  orig: 122, 24
+  offset: 0, 0
+  index: -1
+atk2_ground_3
+  rotate: false
+  xy: 226, 329
+  size: 116, 29
+  orig: 116, 29
+  offset: 0, 0
+  index: -1
+atk2_leaf_B
+  rotate: false
+  xy: 2, 348
+  size: 222, 162
+  orig: 222, 162
+  offset: 0, 0
+  index: -1
+atk2_leaf_F
+  rotate: false
+  xy: 69, 5
+  size: 111, 73
+  orig: 111, 73
+  offset: 0, 0
+  index: -1
+atk2_leaf_F_1
+  rotate: false
+  xy: 612, 333
+  size: 18, 30
+  orig: 18, 30
+  offset: 0, 0
+  index: -1
+atk2_leaf_F_2
+  rotate: true
+  xy: 698, 374
+  size: 17, 25
+  orig: 17, 25
+  offset: 0, 0
+  index: -1
+atk2_leaf_F_3
+  rotate: true
+  xy: 668, 374
+  size: 17, 28
+  orig: 17, 28
+  offset: 0, 0
+  index: -1
+atk2_leaf_F_4
+  rotate: true
+  xy: 584, 240
+  size: 26, 28
+  orig: 26, 28
+  offset: 0, 0
+  index: -1
+atk2_leaf_F_5
+  rotate: false
+  xy: 616, 365
+  size: 19, 26
+  orig: 19, 26
+  offset: 0, 0
+  index: -1
+atk2_leg_L1
+  rotate: true
+  xy: 503, 254
+  size: 47, 32
+  orig: 47, 32
+  offset: 0, 0
+  index: -1
+atk2_leg_L2
+  rotate: false
+  xy: 913, 365
+  size: 96, 30
+  orig: 96, 30
+  offset: 0, 0
+  index: -1
+atk2_leg_L3
+  rotate: true
+  xy: 2, 2
+  size: 76, 65
+  orig: 76, 65
+  offset: 0, 0
+  index: -1
+atk2_leg_L3_B
+  rotate: false
+  xy: 323, 5
+  size: 36, 41
+  orig: 36, 41
+  offset: 0, 0
+  index: -1
+atk2_leg_R1
+  rotate: false
+  xy: 226, 360
+  size: 199, 150
+  orig: 199, 150
+  offset: 0, 0
+  index: -1
+atk2_leg_R2
+  rotate: false
+  xy: 772, 378
+  size: 139, 42
+  orig: 139, 42
+  offset: 0, 0
+  index: -1
+atk2_leg_R3
+  rotate: true
+  xy: 616, 393
+  size: 117, 154
+  orig: 117, 154
+  offset: 0, 0
+  index: -1
+atk2_mouth
+  rotate: false
+  xy: 551, 333
+  size: 59, 53
+  orig: 59, 53
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 2, 80
+  size: 101, 217
+  orig: 101, 217
+  offset: 0, 0
+  index: -1
+eff_dust_1
+  rotate: false
+  xy: 221, 255
+  size: 112, 72
+  orig: 112, 72
+  offset: 0, 0
+  index: -1
+eff_dust_2
+  rotate: false
+  xy: 221, 104
+  size: 82, 65
+  orig: 82, 65
+  offset: 0, 0
+  index: -1
+eff_dust_3
+  rotate: false
+  xy: 772, 422
+  size: 141, 88
+  orig: 141, 88
+  offset: 0, 0
+  index: -1
+eff_dust_4
+  rotate: false
+  xy: 475, 303
+  size: 58, 57
+  orig: 58, 57
+  offset: 0, 0
+  index: -1
+eff_dust_5
+  rotate: false
+  xy: 221, 171
+  size: 82, 82
+  orig: 82, 82
+  offset: 0, 0
+  index: -1
+eff_grain_1
+  rotate: false
+  xy: 535, 343
+  size: 14, 17
+  orig: 14, 17
+  offset: 0, 0
+  index: -1
+eff_grain_2
+  rotate: false
+  xy: 535, 333
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+eff_grain_3
+  rotate: false
+  xy: 1014, 501
+  size: 8, 9
+  orig: 8, 9
+  offset: 0, 0
+  index: -1
+eye
+  rotate: false
+  xy: 585, 268
+  size: 40, 22
+  orig: 40, 22
+  offset: 0, 0
+  index: -1
+eye_atk1
+  rotate: false
+  xy: 214, 2
+  size: 40, 18
+  orig: 40, 18
+  offset: 0, 0
+  index: -1
+eye_dmg
+  rotate: true
+  xy: 298, 2
+  size: 44, 23
+  orig: 44, 23
+  offset: 0, 0
+  index: -1
+leaf_B
+  rotate: false
+  xy: 2, 183
+  size: 217, 163
+  orig: 217, 163
+  offset: 0, 0
+  index: -1
+leaf_F
+  rotate: true
+  xy: 915, 397
+  size: 113, 97
+  orig: 113, 97
+  offset: 0, 0
+  index: -1
+leaf_F_1
+  rotate: false
+  xy: 797, 356
+  size: 22, 20
+  orig: 22, 20
+  offset: 0, 0
+  index: -1
+leaf_F_2
+  rotate: true
+  xy: 821, 356
+  size: 20, 22
+  orig: 20, 22
+  offset: 0, 0
+  index: -1
+leaf_F_3
+  rotate: false
+  xy: 614, 243
+  size: 18, 23
+  orig: 18, 23
+  offset: 0, 0
+  index: -1
+leaf_F_4
+  rotate: false
+  xy: 627, 275
+  size: 17, 23
+  orig: 17, 23
+  offset: 0, 0
+  index: -1
+leaf_F_5
+  rotate: false
+  xy: 622, 300
+  size: 19, 31
+  orig: 19, 31
+  offset: 0, 0
+  index: -1
+leaf_F_6
+  rotate: true
+  xy: 725, 371
+  size: 20, 24
+  orig: 20, 24
+  offset: 0, 0
+  index: -1
+leaf_F_7
+  rotate: true
+  xy: 257, 2
+  size: 25, 24
+  orig: 25, 24
+  offset: 0, 0
+  index: -1
+leaf_F_8
+  rotate: false
+  xy: 637, 371
+  size: 29, 20
+  orig: 29, 20
+  offset: 0, 0
+  index: -1
+leg_F
+  rotate: false
+  xy: 448, 256
+  size: 53, 45
+  orig: 53, 45
+  offset: 0, 0
+  index: -1
+leg_L1
+  rotate: true
+  xy: 214, 22
+  size: 56, 41
+  orig: 56, 41
+  offset: 0, 0
+  index: -1
+leg_L2
+  rotate: false
+  xy: 344, 308
+  size: 79, 50
+  orig: 79, 50
+  offset: 0, 0
+  index: -1
+leg_R1
+  rotate: true
+  xy: 427, 308
+  size: 52, 46
+  orig: 52, 46
+  offset: 0, 0
+  index: -1
+leg_R2
+  rotate: false
+  xy: 257, 29
+  size: 39, 53
+  orig: 39, 53
+  offset: 0, 0
+  index: -1
+mouth_1
+  rotate: true
+  xy: 298, 48
+  size: 52, 36
+  orig: 52, 36
+  offset: 0, 0
+  index: -1
+mouth_2
+  rotate: false
+  xy: 537, 275
+  size: 46, 33
+  orig: 46, 33
+  offset: 0, 0
+  index: -1
+mouth_atk1
+  rotate: false
+  xy: 537, 241
+  size: 45, 32
+  orig: 45, 32
+  offset: 0, 0
+  index: -1
+mouth_in
+  rotate: true
+  xy: 335, 257
+  size: 49, 65
+  orig: 49, 65
+  offset: 0, 0
+  index: -1
+offering_apple
+  rotate: false
+  xy: 772, 353
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+offering_furoshiki
+  rotate: true
+  xy: 182, 7
+  size: 71, 30
+  orig: 71, 30
+  offset: 0, 0
+  index: -1
+offering_karaage
+  rotate: true
+  xy: 751, 371
+  size: 20, 19
+  orig: 20, 19
+  offset: 0, 0
+  index: -1
+offering_midori
+  rotate: false
+  xy: 891, 358
+  size: 19, 18
+  orig: 19, 18
+  offset: 0, 0
+  index: -1
+offering_onigiri_1
+  rotate: false
+  xy: 845, 356
+  size: 22, 20
+  orig: 22, 20
+  offset: 0, 0
+  index: -1
+offering_onigiri_2
+  rotate: false
+  xy: 869, 356
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,265 @@
+
+Character_20660.png
+size: 1009,267
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm__l_attack_02
+  rotate: true
+  xy: 379, 175
+  size: 90, 135
+  orig: 90, 135
+  offset: 0, 0
+  index: -1
+arm__r_attack_01
+  rotate: true
+  xy: 377, 105
+  size: 68, 125
+  orig: 68, 125
+  offset: 0, 0
+  index: -1
+arm__r_attack_02
+  rotate: false
+  xy: 875, 2
+  size: 88, 66
+  orig: 88, 66
+  offset: 0, 0
+  index: -1
+arm_l
+  rotate: true
+  xy: 294, 31
+  size: 106, 78
+  orig: 106, 78
+  offset: 0, 0
+  index: -1
+arm_l_attack_01
+  rotate: true
+  xy: 121, 2
+  size: 130, 53
+  orig: 130, 53
+  offset: 0, 0
+  index: -1
+arm_r
+  rotate: true
+  xy: 773, 2
+  size: 66, 100
+  orig: 66, 100
+  offset: 0, 0
+  index: -1
+body_top01_attack
+  rotate: true
+  xy: 910, 144
+  size: 121, 94
+  orig: 121, 94
+  offset: 0, 0
+  index: -1
+body_top01_attack_re
+  rotate: false
+  xy: 650, 65
+  size: 121, 94
+  orig: 121, 94
+  offset: 0, 0
+  index: -1
+body_top01_default
+  rotate: false
+  xy: 516, 161
+  size: 132, 104
+  orig: 132, 104
+  offset: 0, 0
+  index: -1
+body_top01_default_re
+  rotate: false
+  xy: 650, 161
+  size: 132, 104
+  orig: 132, 104
+  offset: 0, 0
+  index: -1
+ef_smoke
+  rotate: false
+  xy: 2, 134
+  size: 173, 131
+  orig: 173, 131
+  offset: 0, 0
+  index: -1
+eff_01
+  rotate: true
+  xy: 773, 70
+  size: 81, 119
+  orig: 81, 119
+  offset: 0, 0
+  index: -1
+eff_02
+  rotate: true
+  xy: 176, 12
+  size: 84, 107
+  orig: 84, 107
+  offset: 0, 0
+  index: -1
+eff_attack_01
+  rotate: false
+  xy: 894, 103
+  size: 63, 39
+  orig: 63, 39
+  offset: 0, 0
+  index: -1
+eff_attack_02
+  rotate: false
+  xy: 589, 17
+  size: 44, 44
+  orig: 44, 44
+  offset: 0, 0
+  index: -1
+eff_shine_01
+  rotate: false
+  xy: 894, 79
+  size: 19, 22
+  orig: 19, 22
+  offset: 0, 0
+  index: -1
+eff_shine_02
+  rotate: false
+  xy: 750, 25
+  size: 20, 17
+  orig: 20, 17
+  offset: 0, 0
+  index: -1
+eff_shine_03
+  rotate: false
+  xy: 635, 48
+  size: 11, 13
+  orig: 11, 13
+  offset: 0, 0
+  index: -1
+eff_shine_04
+  rotate: false
+  xy: 937, 82
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+eff_shine_05
+  rotate: false
+  xy: 915, 81
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+eff_shine_06
+  rotate: true
+  xy: 484, 9
+  size: 18, 19
+  orig: 18, 19
+  offset: 0, 0
+  index: -1
+eff_shine_07
+  rotate: true
+  xy: 750, 44
+  size: 19, 21
+  orig: 19, 21
+  offset: 0, 0
+  index: -1
+face_attack
+  rotate: false
+  xy: 334, 13
+  size: 34, 16
+  orig: 34, 16
+  offset: 0, 0
+  index: -1
+face_damage
+  rotate: false
+  xy: 285, 2
+  size: 47, 27
+  orig: 47, 27
+  offset: 0, 0
+  index: -1
+face_default
+  rotate: false
+  xy: 965, 11
+  size: 40, 20
+  orig: 40, 20
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 784, 153
+  size: 112, 124
+  orig: 112, 124
+  offset: 0, 0
+  index: -1
+head_attack
+  rotate: false
+  xy: 2, 6
+  size: 117, 126
+  orig: 117, 126
+  offset: 0, 0
+  index: -1
+typhoon_01
+  rotate: false
+  xy: 177, 203
+  size: 200, 62
+  orig: 200, 62
+  offset: 0, 0
+  index: -1
+typhoon_01_2
+  rotate: false
+  xy: 177, 139
+  size: 198, 62
+  orig: 198, 62
+  offset: 0, 0
+  index: -1
+typhoon_02
+  rotate: false
+  xy: 504, 112
+  size: 144, 47
+  orig: 144, 47
+  offset: 0, 0
+  index: -1
+typhoon_02_2
+  rotate: false
+  xy: 504, 63
+  size: 142, 47
+  orig: 142, 47
+  offset: 0, 0
+  index: -1
+typhoon_03
+  rotate: false
+  xy: 374, 64
+  size: 114, 39
+  orig: 114, 39
+  offset: 0, 0
+  index: -1
+typhoon_03_2
+  rotate: false
+  xy: 177, 98
+  size: 115, 39
+  orig: 115, 39
+  offset: 0, 0
+  index: -1
+typhoon_04
+  rotate: false
+  xy: 484, 29
+  size: 103, 32
+  orig: 103, 32
+  offset: 0, 0
+  index: -1
+typhoon_04_2
+  rotate: false
+  xy: 648, 32
+  size: 100, 31
+  orig: 100, 31
+  offset: 0, 0
+  index: -1
+typhoon_05
+  rotate: true
+  xy: 965, 33
+  size: 109, 42
+  orig: 109, 42
+  offset: 0, 0
+  index: -1
+typhoon_05_2
+  rotate: false
+  xy: 374, 19
+  size: 108, 43
+  orig: 108, 43
+  offset: 0, 0
+  index: -1

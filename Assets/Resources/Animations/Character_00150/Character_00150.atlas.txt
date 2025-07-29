@@ -1,0 +1,97 @@
+
+Character_00150.png
+size: 547,101
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_l
+  rotate: true
+  xy: 2, 10
+  size: 32, 80
+  orig: 32, 80
+  offset: 0, 0
+  index: -1
+arm_r_01
+  rotate: false
+  xy: 148, 4
+  size: 29, 38
+  orig: 29, 38
+  offset: 0, 0
+  index: -1
+arm_r_02
+  rotate: false
+  xy: 223, 17
+  size: 23, 25
+  orig: 23, 25
+  offset: 0, 0
+  index: -1
+body_01
+  rotate: false
+  xy: 248, 3
+  size: 54, 44
+  orig: 54, 44
+  offset: 0, 0
+  index: -1
+body_02
+  rotate: false
+  xy: 477, 7
+  size: 68, 92
+  orig: 68, 92
+  offset: 0, 0
+  index: -1
+face_damage
+  rotate: true
+  xy: 227, 49
+  size: 50, 48
+  orig: 50, 48
+  offset: 0, 0
+  index: -1
+face_default
+  rotate: false
+  xy: 84, 5
+  size: 62, 37
+  orig: 62, 37
+  offset: 0, 0
+  index: -1
+hair
+  rotate: true
+  xy: 392, 4
+  size: 95, 83
+  orig: 95, 83
+  offset: 0, 0
+  index: -1
+hand_r
+  rotate: false
+  xy: 277, 76
+  size: 20, 23
+  orig: 20, 23
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 304, 2
+  size: 97, 86
+  orig: 97, 86
+  offset: 0, 0
+  index: -1
+leg_l
+  rotate: true
+  xy: 179, 25
+  size: 17, 41
+  orig: 17, 41
+  offset: 0, 0
+  index: -1
+leg_r
+  rotate: true
+  xy: 179, 8
+  size: 15, 42
+  orig: 15, 42
+  offset: 0, 0
+  index: -1
+weapon_n_
+  rotate: true
+  xy: 2, 44
+  size: 55, 223
+  orig: 55, 223
+  offset: 0, 0
+  index: -1

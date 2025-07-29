@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c1ab2b1b2f492bb4d825b1f0fb5efb22, type: 3}
+  m_Name: Character_30032
+  m_EditorClassIdentifier: 
+  HP: 800000
+  HB: 1
+  Speed: 35
+  AtkRange: 390
+  MinLD: 0
+  MaxLD: 0
+  Atk: 55000
+  Atk2: 0
+  Atk3: 0
+  AreaAtk: 1
+  TBA: 3
+  AttacksAllies: 0
+  rarity: 6
+  Cost: 5800
+  CD: 320
+  UnitRole: 20
+  MaxLevel: 40
+  MaxPlusLevel: 0
+  HPMaginificationLvl30: 5
+  AtkMaginificationLvl30: 10
+  MinLayer: 0
+  MaxLayer: 9
+  animOffset: 2.5
+  SelfTrait: 2
+  TargetTraits: 2
+  SecondaryType: 0
+  TraitAbilityData:
+  - UnlockAtPlus: 0
+    Ability: 7
+    Percent: 30
+    Power: 0
+    DurationSeconds: 0
+    Distance: 0
+  - UnlockAtPlus: 0
+    Ability: 6
+    Percent: 100
+    Power: 0
+    DurationSeconds: 8
+    Distance: 0
+  NeutralAbilityData:
+  - UnlockAtPlus: 0
+    Ability: 18
+    Percent: 100
+    Power: 0
+    DurationSeconds: 0
+    Distance: 0
+    NumberOfTimes: 0
+    UnitID: 
+    yabaSize: 0
+    yabaTrait: 0
+    subTarget: 0
+    SurgeElement: 0
+    SurgeAbilities: []
+  StatsBoost: []

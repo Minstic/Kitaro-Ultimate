@@ -1,0 +1,118 @@
+
+Nayuta_30010.png
+size: 971,520
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+_Touch
+  rotate: false
+  xy: 727, 11
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+body_01
+  rotate: false
+  xy: 420, 171
+  size: 313, 347
+  orig: 313, 347
+  offset: 0, 0
+  index: -1
+damage
+  rotate: false
+  xy: 2, 82
+  size: 416, 436
+  orig: 416, 436
+  offset: 0, 0
+  index: -1
+ef01
+  rotate: true
+  xy: 934, 287
+  size: 231, 35
+  orig: 231, 35
+  offset: 0, 0
+  index: -1
+ef02
+  rotate: true
+  xy: 735, 181
+  size: 337, 122
+  orig: 337, 122
+  offset: 0, 0
+  index: -1
+ef03
+  rotate: true
+  xy: 2, 2
+  size: 78, 202
+  orig: 78, 202
+  offset: 0, 0
+  index: -1
+ef04
+  rotate: true
+  xy: 206, 2
+  size: 78, 177
+  orig: 78, 177
+  offset: 0, 0
+  index: -1
+eye_angry
+  rotate: true
+  xy: 794, 51
+  size: 128, 37
+  orig: 128, 37
+  offset: 0, 0
+  index: -1
+eye_base
+  rotate: true
+  xy: 727, 18
+  size: 151, 65
+  orig: 151, 65
+  offset: 0, 0
+  index: -1
+eye_left
+  rotate: false
+  xy: 794, 21
+  size: 20, 28
+  orig: 20, 28
+  offset: 0, 0
+  index: -1
+eye_right
+  rotate: false
+  xy: 385, 47
+  size: 33, 33
+  orig: 33, 33
+  offset: 0, 0
+  index: -1
+head_01
+  rotate: false
+  xy: 420, 7
+  size: 199, 162
+  orig: 199, 162
+  offset: 0, 0
+  index: -1
+hige_l01
+  rotate: true
+  xy: 859, 172
+  size: 144, 69
+  orig: 144, 69
+  offset: 0, 0
+  index: -1
+hige_r01
+  rotate: true
+  xy: 859, 318
+  size: 200, 73
+  orig: 200, 73
+  offset: 0, 0
+  index: -1
+mayu_l01
+  rotate: false
+  xy: 833, 53
+  size: 79, 117
+  orig: 79, 117
+  offset: 0, 0
+  index: -1
+mayu_r01
+  rotate: true
+  xy: 621, 11
+  size: 158, 104
+  orig: 158, 104
+  offset: 0, 0
+  index: -1

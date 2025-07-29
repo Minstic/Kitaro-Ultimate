@@ -1,0 +1,475 @@
+
+Character_30330.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+atk_sword1
+  rotate: true
+  xy: 2, 248
+  size: 307, 88
+  orig: 307, 88
+  offset: 0, 0
+  index: -1
+atk_sword2
+  rotate: false
+  xy: 2, 965
+  size: 594, 57
+  orig: 594, 57
+  offset: 0, 0
+  index: -1
+atk_sword3
+  rotate: false
+  xy: 2, 836
+  size: 466, 127
+  orig: 466, 127
+  offset: 0, 0
+  index: -1
+eff_01
+  rotate: false
+  xy: 442, 797
+  size: 11, 7
+  orig: 11, 7
+  offset: 0, 0
+  index: -1
+eff_02
+  rotate: false
+  xy: 361, 363
+  size: 15, 11
+  orig: 15, 11
+  offset: 0, 0
+  index: -1
+eff_03
+  rotate: false
+  xy: 540, 568
+  size: 38, 39
+  orig: 38, 39
+  offset: 0, 0
+  index: -1
+eff_04
+  rotate: false
+  xy: 520, 544
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+eff_05
+  rotate: false
+  xy: 540, 609
+  size: 42, 44
+  orig: 42, 44
+  offset: 0, 0
+  index: -1
+eff_06
+  rotate: false
+  xy: 612, 574
+  size: 31, 31
+  orig: 31, 31
+  offset: 0, 0
+  index: -1
+eff_base
+  rotate: false
+  xy: 2, 557
+  size: 215, 277
+  orig: 215, 277
+  offset: 0, 0
+  index: -1
+eff_base2
+  rotate: false
+  xy: 219, 567
+  size: 221, 267
+  orig: 221, 267
+  offset: 0, 0
+  index: -1
+eff_bokuju_01
+  rotate: false
+  xy: 735, 865
+  size: 96, 95
+  orig: 96, 95
+  offset: 0, 0
+  index: -1
+eff_bokuju_02
+  rotate: true
+  xy: 385, 414
+  size: 46, 59
+  orig: 46, 59
+  offset: 0, 0
+  index: -1
+eff_bokuju_03
+  rotate: false
+  xy: 823, 757
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+eff_bokuju_04
+  rotate: false
+  xy: 586, 872
+  size: 147, 88
+  orig: 147, 88
+  offset: 0, 0
+  index: -1
+eff_bokuju_05
+  rotate: false
+  xy: 823, 674
+  size: 78, 61
+  orig: 78, 61
+  offset: 0, 0
+  index: -1
+eff_bokuju_06
+  rotate: true
+  xy: 470, 797
+  size: 166, 114
+  orig: 166, 114
+  offset: 0, 0
+  index: -1
+eff_bokuju_07
+  rotate: false
+  xy: 835, 804
+  size: 111, 76
+  orig: 111, 76
+  offset: 0, 0
+  index: -1
+eff_bokuju_08
+  rotate: false
+  xy: 715, 664
+  size: 106, 102
+  orig: 106, 102
+  offset: 0, 0
+  index: -1
+eff_bokuju_09
+  rotate: false
+  xy: 129, 58
+  size: 66, 73
+  orig: 66, 73
+  offset: 0, 0
+  index: -1
+eff_bokuju_10
+  rotate: false
+  xy: 973, 677
+  size: 49, 52
+  orig: 49, 52
+  offset: 0, 0
+  index: -1
+eff_bokuju_11
+  rotate: false
+  xy: 580, 569
+  size: 30, 36
+  orig: 30, 36
+  offset: 0, 0
+  index: -1
+eff_bokuju_12
+  rotate: true
+  xy: 442, 806
+  size: 28, 26
+  orig: 28, 26
+  offset: 0, 0
+  index: -1
+eff_bokuju_13
+  rotate: false
+  xy: 129, 43
+  size: 15, 13
+  orig: 15, 13
+  offset: 0, 0
+  index: -1
+eff_bokuju_14
+  rotate: true
+  xy: 973, 896
+  size: 37, 20
+  orig: 37, 20
+  offset: 0, 0
+  index: -1
+eff_bokuju_16
+  rotate: false
+  xy: 92, 257
+  size: 132, 113
+  orig: 132, 113
+  offset: 0, 0
+  index: -1
+eff_bokuju_17
+  rotate: false
+  xy: 918, 731
+  size: 68, 71
+  orig: 68, 71
+  offset: 0, 0
+  index: -1
+eff_bokuju_18
+  rotate: false
+  xy: 455, 797
+  size: 10, 7
+  orig: 10, 7
+  offset: 0, 0
+  index: -1
+eff_bokuju_19
+  rotate: true
+  xy: 182, 133
+  size: 69, 22
+  orig: 69, 22
+  offset: 0, 0
+  index: -1
+eff_bokuju_20
+  rotate: false
+  xy: 378, 361
+  size: 53, 51
+  orig: 53, 51
+  offset: 0, 0
+  index: -1
+eff_bokuju_21
+  rotate: false
+  xy: 102, 204
+  size: 97, 51
+  orig: 97, 51
+  offset: 0, 0
+  index: -1
+eff_katana_l
+  rotate: false
+  xy: 442, 676
+  size: 96, 119
+  orig: 96, 119
+  offset: 0, 0
+  index: -1
+eff_katana_l2
+  rotate: true
+  xy: 833, 882
+  size: 94, 115
+  orig: 94, 115
+  offset: 0, 0
+  index: -1
+eff_katana_r
+  rotate: false
+  xy: 721, 768
+  size: 112, 95
+  orig: 112, 95
+  offset: 0, 0
+  index: -1
+eff_katana_r2
+  rotate: true
+  xy: 442, 563
+  size: 111, 96
+  orig: 111, 96
+  offset: 0, 0
+  index: -1
+eff_smoke_1
+  rotate: false
+  xy: 2, 2
+  size: 108, 23
+  orig: 108, 23
+  offset: 0, 0
+  index: -1
+eff_smoke_2
+  rotate: true
+  xy: 995, 910
+  size: 112, 27
+  orig: 112, 27
+  offset: 0, 0
+  index: -1
+eff_smoke_3
+  rotate: false
+  xy: 226, 259
+  size: 123, 28
+  orig: 123, 28
+  offset: 0, 0
+  index: -1
+eff_smoke_4
+  rotate: true
+  xy: 76, 121
+  size: 125, 24
+  orig: 125, 24
+  offset: 0, 0
+  index: -1
+eff_wave01
+  rotate: true
+  xy: 385, 462
+  size: 103, 49
+  orig: 103, 49
+  offset: 0, 0
+  index: -1
+eff_wave02
+  rotate: false
+  xy: 598, 962
+  size: 211, 60
+  orig: 211, 60
+  offset: 0, 0
+  index: -1
+eff_wave03
+  rotate: true
+  xy: 540, 655
+  size: 140, 43
+  orig: 140, 43
+  offset: 0, 0
+  index: -1
+eff_wave04
+  rotate: false
+  xy: 811, 978
+  size: 182, 44
+  orig: 182, 44
+  offset: 0, 0
+  index: -1
+eff_wave05
+  rotate: true
+  xy: 2, 27
+  size: 219, 72
+  orig: 219, 72
+  offset: 0, 0
+  index: -1
+eff_wave06
+  rotate: false
+  xy: 219, 376
+  size: 157, 48
+  orig: 157, 48
+  offset: 0, 0
+  index: -1
+ghost_body
+  rotate: true
+  xy: 92, 372
+  size: 183, 125
+  orig: 183, 125
+  offset: 0, 0
+  index: -1
+ghost_eye
+  rotate: true
+  xy: 76, 43
+  size: 76, 51
+  orig: 76, 51
+  offset: 0, 0
+  index: -1
+ghost_sword_l
+  rotate: true
+  xy: 835, 737
+  size: 65, 81
+  orig: 65, 81
+  offset: 0, 0
+  index: -1
+ghost_sword_r
+  rotate: false
+  xy: 102, 133
+  size: 78, 69
+  orig: 78, 69
+  offset: 0, 0
+  index: -1
+kitaro_arm_L_default
+  rotate: false
+  xy: 112, 2
+  size: 57, 39
+  orig: 57, 39
+  offset: 0, 0
+  index: -1
+kitaro_arm_R_attack
+  rotate: false
+  xy: 219, 426
+  size: 164, 139
+  orig: 164, 139
+  offset: 0, 0
+  index: -1
+kitaro_arm_R_default
+  rotate: true
+  xy: 950, 880
+  size: 53, 21
+  orig: 53, 21
+  offset: 0, 0
+  index: -1
+kitaro_body_backstep
+  rotate: false
+  xy: 436, 483
+  size: 82, 78
+  orig: 82, 78
+  offset: 0, 0
+  index: -1
+kitaro_body_default
+  rotate: false
+  xy: 715, 600
+  size: 98, 62
+  orig: 98, 62
+  offset: 0, 0
+  index: -1
+kitaro_face_attack
+  rotate: false
+  xy: 92, 252
+  size: 8, 3
+  orig: 8, 3
+  offset: 0, 0
+  index: -1
+kitaro_face_attack_re
+  rotate: false
+  xy: 92, 252
+  size: 8, 3
+  orig: 8, 3
+  offset: 0, 0
+  index: -1
+kitaro_face_damage
+  rotate: false
+  xy: 201, 229
+  size: 19, 26
+  orig: 19, 26
+  offset: 0, 0
+  index: -1
+kitaro_face_damage_re
+  rotate: false
+  xy: 645, 579
+  size: 19, 26
+  orig: 19, 26
+  offset: 0, 0
+  index: -1
+kitaro_face_default
+  rotate: true
+  xy: 811, 962
+  size: 14, 6
+  orig: 14, 6
+  offset: 0, 0
+  index: -1
+kitaro_face_default_re
+  rotate: true
+  xy: 811, 962
+  size: 14, 6
+  orig: 14, 6
+  offset: 0, 0
+  index: -1
+kitaro_hair_backstep
+  rotate: false
+  xy: 903, 681
+  size: 68, 48
+  orig: 68, 48
+  offset: 0, 0
+  index: -1
+kitaro_hair_default
+  rotate: false
+  xy: 446, 421
+  size: 57, 60
+  orig: 57, 60
+  offset: 0, 0
+  index: -1
+kitaro_hand_R_default
+  rotate: false
+  xy: 950, 935
+  size: 37, 41
+  orig: 37, 41
+  offset: 0, 0
+  index: -1
+kitaro_head_attack
+  rotate: false
+  xy: 585, 696
+  size: 128, 87
+  orig: 128, 87
+  offset: 0, 0
+  index: -1
+kitaro_head_attack_re
+  rotate: false
+  xy: 585, 607
+  size: 128, 87
+  orig: 128, 87
+  offset: 0, 0
+  index: -1
+kitaro_head_default
+  rotate: false
+  xy: 586, 785
+  size: 133, 85
+  orig: 133, 85
+  offset: 0, 0
+  index: -1
+kitaro_head_default_re
+  rotate: false
+  xy: 226, 289
+  size: 133, 85
+  orig: 133, 85
+  offset: 0, 0
+  index: -1

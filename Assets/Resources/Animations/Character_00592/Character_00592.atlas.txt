@@ -1,0 +1,76 @@
+
+Character_00592.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+_Shadow
+  rotate: false
+  xy: 2, 2
+  size: 16, 2
+  orig: 16, 2
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 6
+  size: 522, 498
+  orig: 522, 498
+  offset: 0, 0
+  index: -1
+eff_biribiri
+  rotate: false
+  xy: 526, 357
+  size: 209, 147
+  orig: 209, 147
+  offset: 0, 0
+  index: -1
+eff_wind
+  rotate: false
+  xy: 526, 214
+  size: 160, 141
+  orig: 160, 141
+  offset: 0, 0
+  index: -1
+face_attack
+  rotate: false
+  xy: 737, 438
+  size: 106, 66
+  orig: 106, 66
+  offset: 0, 0
+  index: -1
+face_damage
+  rotate: false
+  xy: 845, 446
+  size: 111, 58
+  orig: 111, 58
+  offset: 0, 0
+  index: -1
+face_default
+  rotate: false
+  xy: 526, 146
+  size: 106, 66
+  orig: 106, 66
+  offset: 0, 0
+  index: -1
+mouth_attack01
+  rotate: false
+  xy: 688, 299
+  size: 35, 56
+  orig: 35, 56
+  offset: 0, 0
+  index: -1
+mouth_attack02
+  rotate: false
+  xy: 526, 120
+  size: 27, 24
+  orig: 27, 24
+  offset: 0, 0
+  index: -1
+mouth_default
+  rotate: false
+  xy: 737, 395
+  size: 34, 41
+  orig: 34, 41
+  offset: 0, 0
+  index: -1

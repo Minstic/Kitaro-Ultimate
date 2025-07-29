@@ -1,0 +1,146 @@
+
+Character_00741.png
+size: 424,269
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_l_a
+  rotate: false
+  xy: 239, 17
+  size: 37, 75
+  orig: 37, 75
+  offset: 0, 0
+  index: -1
+arm_r_b_01
+  rotate: false
+  xy: 122, 2
+  size: 54, 34
+  orig: 54, 34
+  offset: 0, 0
+  index: -1
+arm_r_b_02
+  rotate: true
+  xy: 350, 79
+  size: 54, 36
+  orig: 54, 36
+  offset: 0, 0
+  index: -1
+cloud_01
+  rotate: true
+  xy: 389, 32
+  size: 28, 24
+  orig: 28, 24
+  offset: 0, 0
+  index: -1
+cloud_02
+  rotate: true
+  xy: 122, 38
+  size: 100, 63
+  orig: 100, 63
+  offset: 0, 0
+  index: -1
+cloud_03
+  rotate: true
+  xy: 187, 2
+  size: 90, 50
+  orig: 90, 50
+  offset: 0, 0
+  index: -1
+cloud_04
+  rotate: false
+  xy: 340, 16
+  size: 47, 51
+  orig: 47, 51
+  offset: 0, 0
+  index: -1
+cloud_05
+  rotate: false
+  xy: 289, 187
+  size: 133, 80
+  orig: 133, 80
+  offset: 0, 0
+  index: -1
+cloud_06
+  rotate: false
+  xy: 289, 135
+  size: 94, 50
+  orig: 94, 50
+  offset: 0, 0
+  index: -1
+eye_01
+  rotate: true
+  xy: 385, 138
+  size: 47, 22
+  orig: 47, 22
+  offset: 0, 0
+  index: -1
+eye_02
+  rotate: true
+  xy: 388, 93
+  size: 43, 23
+  orig: 43, 23
+  offset: 0, 0
+  index: -1
+flower_01
+  rotate: true
+  xy: 156, 140
+  size: 18, 17
+  orig: 18, 17
+  offset: 0, 0
+  index: -1
+flower_02
+  rotate: true
+  xy: 389, 62
+  size: 29, 26
+  orig: 29, 26
+  offset: 0, 0
+  index: -1
+flower_03
+  rotate: false
+  xy: 389, 5
+  size: 24, 25
+  orig: 24, 25
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 2, 9
+  size: 118, 129
+  orig: 118, 129
+  offset: 0, 0
+  index: -1
+leaf_01
+  rotate: false
+  xy: 187, 94
+  size: 93, 64
+  orig: 93, 64
+  offset: 0, 0
+  index: -1
+leaf_02
+  rotate: false
+  xy: 278, 13
+  size: 60, 54
+  orig: 60, 54
+  offset: 0, 0
+  index: -1
+leaf_03
+  rotate: true
+  xy: 282, 69
+  size: 64, 66
+  orig: 64, 66
+  offset: 0, 0
+  index: -1
+rainbow
+  rotate: true
+  xy: 156, 160
+  size: 107, 131
+  orig: 107, 131
+  offset: 0, 0
+  index: -1
+wind
+  rotate: false
+  xy: 2, 140
+  size: 152, 127
+  orig: 152, 127
+  offset: 0, 0
+  index: -1

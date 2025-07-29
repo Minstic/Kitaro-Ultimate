@@ -1,0 +1,181 @@
+
+World_10090.png
+size: 330,267
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+airframe_b
+  rotate: false
+  xy: 156, 4
+  size: 54, 47
+  orig: 54, 47
+  offset: 0, 0
+  index: -1
+airframe_f
+  rotate: true
+  xy: 134, 166
+  size: 99, 116
+  orig: 99, 116
+  offset: 0, 0
+  index: -1
+airframe_moji
+  rotate: false
+  xy: 238, 21
+  size: 43, 26
+  orig: 43, 26
+  offset: 0, 0
+  index: -1
+airframe_moji_r
+  rotate: true
+  xy: 212, 2
+  size: 45, 24
+  orig: 45, 24
+  offset: 0, 0
+  index: -1
+eff_02
+  rotate: true
+  xy: 213, 49
+  size: 55, 36
+  orig: 55, 36
+  offset: 0, 0
+  index: -1
+eff_03
+  rotate: false
+  xy: 156, 53
+  size: 55, 51
+  orig: 55, 51
+  offset: 0, 0
+  index: -1
+eff_fire_1
+  rotate: false
+  xy: 252, 170
+  size: 64, 95
+  orig: 64, 95
+  offset: 0, 0
+  index: -1
+eff_fire_2
+  rotate: true
+  xy: 2, 5
+  size: 68, 93
+  orig: 68, 93
+  offset: 0, 0
+  index: -1
+eff_smoke_1
+  rotate: false
+  xy: 2, 170
+  size: 130, 95
+  orig: 130, 95
+  offset: 0, 0
+  index: -1
+eff_smoke_2
+  rotate: false
+  xy: 2, 75
+  size: 126, 93
+  orig: 126, 93
+  offset: 0, 0
+  index: -1
+eff_smoke_3
+  rotate: true
+  xy: 97, 11
+  size: 62, 57
+  orig: 62, 57
+  offset: 0, 0
+  index: -1
+oyaji_body
+  rotate: false
+  xy: 289, 101
+  size: 33, 35
+  orig: 33, 35
+  offset: 0, 0
+  index: -1
+oyaji_eye_damage
+  rotate: false
+  xy: 238, 2
+  size: 19, 17
+  orig: 19, 17
+  offset: 0, 0
+  index: -1
+oyaji_eye_default
+  rotate: false
+  xy: 309, 152
+  size: 19, 16
+  orig: 19, 16
+  offset: 0, 0
+  index: -1
+oyaji_tears
+  rotate: false
+  xy: 97, 2
+  size: 11, 7
+  orig: 11, 7
+  offset: 0, 0
+  index: -1
+tire_1
+  rotate: false
+  xy: 283, 79
+  size: 24, 20
+  orig: 24, 20
+  offset: 0, 0
+  index: -1
+tire_2
+  rotate: false
+  xy: 283, 56
+  size: 23, 21
+  orig: 23, 21
+  offset: 0, 0
+  index: -1
+tire_3
+  rotate: false
+  xy: 130, 83
+  size: 24, 21
+  orig: 24, 21
+  offset: 0, 0
+  index: -1
+wheel_0
+  rotate: false
+  xy: 318, 222
+  size: 8, 43
+  orig: 8, 43
+  offset: 0, 0
+  index: -1
+wheel_1_1
+  rotate: false
+  xy: 130, 133
+  size: 100, 31
+  orig: 100, 31
+  offset: 0, 0
+  index: -1
+wheel_1_2
+  rotate: false
+  xy: 252, 138
+  size: 55, 30
+  orig: 55, 30
+  offset: 0, 0
+  index: -1
+wheel_1_3
+  rotate: false
+  xy: 232, 106
+  size: 55, 30
+  orig: 55, 30
+  offset: 0, 0
+  index: -1
+wheel_1_4
+  rotate: true
+  xy: 251, 49
+  size: 55, 30
+  orig: 55, 30
+  offset: 0, 0
+  index: -1
+wheel_2
+  rotate: false
+  xy: 130, 106
+  size: 94, 25
+  orig: 94, 25
+  offset: 0, 0
+  index: -1
+wheel_3
+  rotate: false
+  xy: 318, 182
+  size: 9, 38
+  orig: 9, 38
+  offset: 0, 0
+  index: -1

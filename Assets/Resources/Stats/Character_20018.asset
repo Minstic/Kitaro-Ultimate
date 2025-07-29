@@ -1,0 +1,94 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c1ab2b1b2f492bb4d825b1f0fb5efb22, type: 3}
+  m_Name: Character_20018
+  m_EditorClassIdentifier: 
+  HP: 23000
+  HB: 2
+  Speed: 29
+  AtkRange: 100
+  MinLD: 0
+  MaxLD: 400
+  Atk: 800
+  Atk2: 0
+  Atk3: 0
+  AreaAtk: 1
+  TBA: 1
+  AttacksAllies: 0
+  rarity: 6
+  Cost: 1200
+  CD: 120
+  UnitRole: 33
+  MaxLevel: 40
+  MaxPlusLevel: 0
+  HPMaginificationLvl30: 50
+  AtkMaginificationLvl30: 100
+  MinLayer: 60
+  MaxLayer: 100
+  animOffset: 0
+  SelfTrait: 128
+  TargetTraits: -1
+  SecondaryType: 131072
+  TraitAbilityData: []
+  NeutralAbilityData:
+  - UnlockAtPlus: 0
+    Ability: 35
+    Percent: 20
+    Power: 0
+    DurationSeconds: 3
+    Distance: 200
+    NumberOfTimes: 0
+    UnitID: 
+    yabaSize: 0
+    yabaTrait: 0
+    subTarget: 0
+    SurgeElement: 6
+    SurgeAbilities:
+    - UnlockAtPlus: 0
+      Ability: 11
+      Percent: 100
+      Power: 5
+      DurationSeconds: 0
+      Distance: 0
+  - UnlockAtPlus: 0
+    Ability: 3
+    Percent: 0
+    Power: 0
+    DurationSeconds: 0
+    Distance: 300
+    NumberOfTimes: 1
+    UnitID: 
+    yabaSize: 0
+    yabaTrait: 0
+    subTarget: 0
+    SurgeElement: 6
+    SurgeAbilities: []
+  - UnlockAtPlus: 0
+    Ability: 34
+    Percent: 20
+    Power: 200
+    DurationSeconds: 3
+    Distance: 0
+    NumberOfTimes: 0
+    UnitID: 
+    yabaSize: 0
+    yabaTrait: 0
+    subTarget: 0
+    SurgeElement: 6
+    SurgeAbilities:
+    - UnlockAtPlus: 0
+      Ability: 11
+      Percent: 100
+      Power: 5
+      DurationSeconds: 0
+      Distance: 0
+  StatsBoost: []

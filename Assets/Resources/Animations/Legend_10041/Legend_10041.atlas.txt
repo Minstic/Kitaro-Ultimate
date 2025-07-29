@@ -1,0 +1,125 @@
+
+Legend_10041.png
+size: 1009,803
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+base
+  rotate: true
+  xy: 546, 269
+  size: 532, 379
+  orig: 532, 379
+  offset: 0, 0
+  index: -1
+eff_2
+  rotate: false
+  xy: 927, 381
+  size: 40, 81
+  orig: 40, 81
+  offset: 0, 0
+  index: -1
+eff_ball1
+  rotate: false
+  xy: 388, 164
+  size: 15, 17
+  orig: 15, 17
+  offset: 0, 0
+  index: -1
+eff_ball2
+  rotate: false
+  xy: 388, 183
+  size: 18, 30
+  orig: 18, 30
+  offset: 0, 0
+  index: -1
+eff_ball3
+  rotate: false
+  xy: 399, 221
+  size: 11, 16
+  orig: 11, 16
+  offset: 0, 0
+  index: -1
+eff_hit
+  rotate: true
+  xy: 903, 142
+  size: 125, 104
+  orig: 125, 104
+  offset: 0, 0
+  index: -1
+eff_splash
+  rotate: true
+  xy: 538, 4
+  size: 146, 170
+  orig: 146, 170
+  offset: 0, 0
+  index: -1
+eff_water
+  rotate: false
+  xy: 927, 464
+  size: 43, 337
+  orig: 43, 337
+  offset: 0, 0
+  index: -1
+h_1
+  rotate: false
+  xy: 2, 239
+  size: 410, 173
+  orig: 410, 173
+  offset: 0, 0
+  index: -1
+h_2
+  rotate: false
+  xy: 538, 152
+  size: 363, 115
+  orig: 363, 115
+  offset: 0, 0
+  index: -1
+h_3
+  rotate: false
+  xy: 710, 16
+  size: 183, 134
+  orig: 183, 134
+  offset: 0, 0
+  index: -1
+h_4
+  rotate: true
+  xy: 895, 2
+  size: 138, 74
+  orig: 138, 74
+  offset: 0, 0
+  index: -1
+ripple
+  rotate: true
+  xy: 207, 28
+  size: 185, 179
+  orig: 185, 179
+  offset: 0, 0
+  index: -1
+ripple2
+  rotate: false
+  xy: 2, 16
+  size: 203, 197
+  orig: 203, 197
+  offset: 0, 0
+  index: -1
+s_b
+  rotate: true
+  xy: 414, 30
+  size: 382, 122
+  orig: 382, 122
+  offset: 0, 0
+  index: -1
+suijin_l1
+  rotate: false
+  xy: 2, 414
+  size: 542, 387
+  orig: 542, 387
+  offset: 0, 0
+  index: -1
+suijin_l2
+  rotate: false
+  xy: 2, 215
+  size: 395, 22
+  orig: 395, 22
+  offset: 0, 0
+  index: -1

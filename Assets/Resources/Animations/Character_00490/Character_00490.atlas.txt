@@ -1,0 +1,83 @@
+
+Character_00490.png
+size: 277,270
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+base
+  rotate: false
+  xy: 2, 131
+  size: 150, 137
+  orig: 150, 137
+  offset: 0, 0
+  index: -1
+face_close
+  rotate: false
+  xy: 2, 3
+  size: 120, 42
+  orig: 120, 42
+  offset: 0, 0
+  index: -1
+face_damage
+  rotate: false
+  xy: 154, 182
+  size: 98, 86
+  orig: 98, 86
+  offset: 0, 0
+  index: -1
+face_default
+  rotate: false
+  xy: 2, 47
+  size: 123, 82
+  orig: 123, 82
+  offset: 0, 0
+  index: -1
+face_default_add_01
+  rotate: false
+  xy: 226, 103
+  size: 28, 23
+  orig: 28, 23
+  offset: 0, 0
+  index: -1
+face_default_add_02
+  rotate: false
+  xy: 127, 74
+  size: 97, 52
+  orig: 97, 52
+  offset: 0, 0
+  index: -1
+typhoon_a
+  rotate: true
+  xy: 231, 45
+  size: 56, 44
+  orig: 56, 44
+  offset: 0, 0
+  index: -1
+typhoon_b
+  rotate: true
+  xy: 254, 195
+  size: 73, 21
+  orig: 73, 21
+  offset: 0, 0
+  index: -1
+typhoon_c
+  rotate: false
+  xy: 127, 38
+  size: 102, 34
+  orig: 102, 34
+  offset: 0, 0
+  index: -1
+typhoon_d
+  rotate: false
+  xy: 124, 2
+  size: 95, 34
+  orig: 95, 34
+  offset: 0, 0
+  index: -1
+typhoon_e
+  rotate: false
+  xy: 154, 128
+  size: 115, 52
+  orig: 115, 52
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,146 @@
+
+Character_00541.png
+size: 773,174
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_l
+  rotate: true
+  xy: 594, 19
+  size: 36, 57
+  orig: 36, 57
+  offset: 0, 0
+  index: -1
+arm_r_01
+  rotate: false
+  xy: 741, 56
+  size: 26, 38
+  orig: 26, 38
+  offset: 0, 0
+  index: -1
+arm_r_02
+  rotate: false
+  xy: 463, 3
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+arms
+  rotate: false
+  xy: 193, 6
+  size: 119, 166
+  orig: 119, 166
+  offset: 0, 0
+  index: -1
+arms_re
+  rotate: false
+  xy: 314, 6
+  size: 119, 166
+  orig: 119, 166
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 594, 57
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: -1
+eff
+  rotate: false
+  xy: 435, 98
+  size: 146, 74
+  orig: 146, 74
+  offset: 0, 0
+  index: -1
+face_attack
+  rotate: false
+  xy: 662, 84
+  size: 63, 37
+  orig: 63, 37
+  offset: 0, 0
+  index: -1
+face_damage
+  rotate: false
+  xy: 653, 42
+  size: 60, 40
+  orig: 60, 40
+  offset: 0, 0
+  index: -1
+face_default
+  rotate: false
+  xy: 653, 5
+  size: 60, 35
+  orig: 60, 35
+  offset: 0, 0
+  index: -1
+fire
+  rotate: false
+  xy: 2, 4
+  size: 189, 168
+  orig: 189, 168
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 435, 24
+  size: 109, 72
+  orig: 109, 72
+  offset: 0, 0
+  index: -1
+leg_l
+  rotate: false
+  xy: 715, 41
+  size: 24, 41
+  orig: 24, 41
+  offset: 0, 0
+  index: -1
+leg_r
+  rotate: true
+  xy: 715, 15
+  size: 24, 39
+  orig: 24, 39
+  offset: 0, 0
+  index: -1
+line
+  rotate: true
+  xy: 435, 2
+  size: 20, 26
+  orig: 20, 26
+  offset: 0, 0
+  index: -1
+line_attack
+  rotate: true
+  xy: 739, 96
+  size: 29, 32
+  orig: 29, 32
+  offset: 0, 0
+  index: -1
+mino_attack_l
+  rotate: false
+  xy: 662, 123
+  size: 75, 49
+  orig: 75, 49
+  offset: 0, 0
+  index: -1
+mino_attack_r
+  rotate: true
+  xy: 739, 127
+  size: 45, 32
+  orig: 45, 32
+  offset: 0, 0
+  index: -1
+mino_default_l
+  rotate: true
+  xy: 583, 114
+  size: 58, 77
+  orig: 58, 77
+  offset: 0, 0
+  index: -1
+mino_default_r
+  rotate: false
+  xy: 546, 25
+  size: 46, 71
+  orig: 46, 71
+  offset: 0, 0
+  index: -1

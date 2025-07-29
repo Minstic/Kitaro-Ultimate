@@ -1,0 +1,104 @@
+
+Character_00470.png
+size: 380,141
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a_arm_l_layer
+  rotate: true
+  xy: 295, 76
+  size: 63, 80
+  orig: 63, 80
+  offset: 0, 0
+  index: -1
+a_arm_r_layer
+  rotate: false
+  xy: 295, 3
+  size: 62, 71
+  orig: 62, 71
+  offset: 0, 0
+  index: -1
+body_layer
+  rotate: true
+  xy: 208, 52
+  size: 87, 85
+  orig: 87, 85
+  offset: 0, 0
+  index: -1
+face_damage
+  rotate: false
+  xy: 184, 19
+  size: 48, 26
+  orig: 48, 26
+  offset: 0, 0
+  index: -1
+face_default
+  rotate: true
+  xy: 234, 3
+  size: 47, 20
+  orig: 47, 20
+  offset: 0, 0
+  index: -1
+hair_layer
+  rotate: true
+  xy: 2, 45
+  size: 94, 144
+  orig: 94, 144
+  offset: 0, 0
+  index: -1
+head_layer
+  rotate: false
+  xy: 148, 47
+  size: 58, 92
+  orig: 58, 92
+  offset: 0, 0
+  index: -1
+mouth_damage
+  rotate: true
+  xy: 142, 13
+  size: 30, 17
+  orig: 30, 17
+  offset: 0, 0
+  index: -1
+mouth_default
+  rotate: false
+  xy: 118, 2
+  size: 25, 5
+  orig: 25, 5
+  offset: 0, 0
+  index: -1
+mustache_l_damage
+  rotate: false
+  xy: 118, 9
+  size: 22, 34
+  orig: 22, 34
+  offset: 0, 0
+  index: -1
+mustache_l_default
+  rotate: false
+  xy: 359, 30
+  size: 19, 44
+  orig: 19, 44
+  offset: 0, 0
+  index: -1
+mustache_r_damage
+  rotate: false
+  xy: 92, 8
+  size: 24, 35
+  orig: 24, 35
+  offset: 0, 0
+  index: -1
+mustache_r_default
+  rotate: false
+  xy: 161, 2
+  size: 21, 43
+  orig: 21, 43
+  offset: 0, 0
+  index: -1
+tail_layer
+  rotate: false
+  xy: 2, 3
+  size: 88, 40
+  orig: 88, 40
+  offset: 0, 0
+  index: -1

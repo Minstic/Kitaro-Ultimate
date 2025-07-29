@@ -1,0 +1,118 @@
+
+Character_20031.png
+size: 187,143
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_l_a
+  rotate: false
+  xy: 132, 17
+  size: 20, 24
+  orig: 20, 24
+  offset: 0, 0
+  index: -1
+arm_l_b
+  rotate: false
+  xy: 154, 21
+  size: 14, 20
+  orig: 14, 20
+  offset: 0, 0
+  index: -1
+arm_l_c
+  rotate: false
+  xy: 157, 45
+  size: 18, 20
+  orig: 18, 20
+  offset: 0, 0
+  index: -1
+arm_r_a
+  rotate: false
+  xy: 153, 67
+  size: 22, 26
+  orig: 22, 26
+  offset: 0, 0
+  index: -1
+arm_r_b
+  rotate: false
+  xy: 170, 26
+  size: 14, 17
+  orig: 14, 17
+  offset: 0, 0
+  index: -1
+arm_r_c
+  rotate: true
+  xy: 154, 2
+  size: 17, 18
+  orig: 17, 18
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 42
+  size: 97, 99
+  orig: 97, 99
+  offset: 0, 0
+  index: -1
+face_01
+  rotate: false
+  xy: 101, 63
+  size: 50, 35
+  orig: 50, 35
+  offset: 0, 0
+  index: -1
+face_02
+  rotate: false
+  xy: 101, 100
+  size: 51, 41
+  orig: 51, 41
+  offset: 0, 0
+  index: -1
+face_03
+  rotate: false
+  xy: 2, 6
+  size: 54, 34
+  orig: 54, 34
+  offset: 0, 0
+  index: -1
+face_04
+  rotate: false
+  xy: 58, 6
+  size: 45, 34
+  orig: 45, 34
+  offset: 0, 0
+  index: -1
+leg_l_a
+  rotate: true
+  xy: 154, 95
+  size: 18, 28
+  orig: 18, 28
+  offset: 0, 0
+  index: -1
+leg_l_b
+  rotate: true
+  xy: 130, 43
+  size: 18, 25
+  orig: 18, 25
+  offset: 0, 0
+  index: -1
+leg_r_a
+  rotate: false
+  xy: 105, 14
+  size: 25, 26
+  orig: 25, 26
+  offset: 0, 0
+  index: -1
+leg_r_b
+  rotate: true
+  xy: 101, 42
+  size: 19, 27
+  orig: 19, 27
+  offset: 0, 0
+  index: -1
+star
+  rotate: false
+  xy: 154, 115
+  size: 31, 26
+  orig: 31, 26
+  offset: 0, 0
+  index: -1

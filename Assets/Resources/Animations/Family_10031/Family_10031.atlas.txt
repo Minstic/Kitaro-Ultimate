@@ -1,0 +1,503 @@
+
+Family_10031.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01_eff_spark
+  rotate: false
+  xy: 2, 38
+  size: 204, 169
+  orig: 204, 169
+  offset: 0, 0
+  index: -1
+01_eye_black
+  rotate: false
+  xy: 807, 660
+  size: 16, 15
+  orig: 16, 15
+  offset: 0, 0
+  index: -1
+01_kozou_body
+  rotate: true
+  xy: 944, 870
+  size: 57, 78
+  orig: 57, 78
+  offset: 0, 0
+  index: -1
+01_kozou_body_re
+  rotate: true
+  xy: 944, 811
+  size: 57, 78
+  orig: 57, 78
+  offset: 0, 0
+  index: -1
+01_kozou_body_shadow
+  rotate: false
+  xy: 653, 618
+  size: 57, 78
+  orig: 57, 78
+  offset: 0, 0
+  index: -1
+01_kozou_chan_l
+  rotate: true
+  xy: 100, 4
+  size: 32, 54
+  orig: 32, 54
+  offset: 0, 0
+  index: -1
+01_kozou_chan_l_shadow
+  rotate: true
+  xy: 156, 4
+  size: 32, 54
+  orig: 32, 54
+  offset: 0, 0
+  index: -1
+01_kozou_chan_r
+  rotate: true
+  xy: 712, 612
+  size: 18, 51
+  orig: 18, 51
+  offset: 0, 0
+  index: -1
+01_kozou_chan_r_shadow
+  rotate: true
+  xy: 407, 608
+  size: 18, 51
+  orig: 18, 51
+  offset: 0, 0
+  index: -1
+01_kozou_default_hand_l
+  rotate: false
+  xy: 329, 56
+  size: 41, 58
+  orig: 41, 58
+  offset: 0, 0
+  index: -1
+01_kozou_default_hand_l_re
+  rotate: false
+  xy: 372, 57
+  size: 41, 58
+  orig: 41, 58
+  offset: 0, 0
+  index: -1
+01_kozou_default_hand_r
+  rotate: true
+  xy: 212, 9
+  size: 43, 54
+  orig: 43, 54
+  offset: 0, 0
+  index: -1
+01_kozou_default_hand_r_re
+  rotate: true
+  xy: 268, 9
+  size: 43, 54
+  orig: 43, 54
+  offset: 0, 0
+  index: -1
+01_kozou_default_hand_r_shadow
+  rotate: false
+  xy: 775, 648
+  size: 30, 54
+  orig: 30, 54
+  offset: 0, 0
+  index: -1
+01_kozou_default_leg_l
+  rotate: true
+  xy: 460, 607
+  size: 19, 25
+  orig: 19, 25
+  offset: 0, 0
+  index: -1
+01_kozou_default_leg_l_shadow
+  rotate: false
+  xy: 807, 677
+  size: 16, 25
+  orig: 16, 25
+  offset: 0, 0
+  index: -1
+01_kozou_default_leg_r
+  rotate: true
+  xy: 487, 609
+  size: 17, 25
+  orig: 17, 25
+  offset: 0, 0
+  index: -1
+01_kozou_default_leg_r_shadow
+  rotate: true
+  xy: 798, 704
+  size: 13, 25
+  orig: 13, 25
+  offset: 0, 0
+  index: -1
+01_kozou_deft_hand_l_shadow
+  rotate: true
+  xy: 2, 2
+  size: 34, 58
+  orig: 34, 58
+  offset: 0, 0
+  index: -1
+01_kozou_end_hand_l
+  rotate: false
+  xy: 793, 770
+  size: 42, 91
+  orig: 42, 91
+  offset: 0, 0
+  index: -1
+01_kozou_end_hand_l_re
+  rotate: false
+  xy: 970, 931
+  size: 42, 91
+  orig: 42, 91
+  offset: 0, 0
+  index: -1
+01_kozou_end_hand_r
+  rotate: false
+  xy: 358, 117
+  size: 42, 90
+  orig: 42, 90
+  offset: 0, 0
+  index: -1
+01_kozou_end_hand_r_re
+  rotate: true
+  xy: 706, 704
+  size: 42, 90
+  orig: 42, 90
+  offset: 0, 0
+  index: -1
+01_kozou_end_leg_l
+  rotate: true
+  xy: 402, 140
+  size: 31, 28
+  orig: 31, 28
+  offset: 0, 0
+  index: -1
+01_kozou_end_leg_r
+  rotate: true
+  xy: 916, 824
+  size: 29, 26
+  orig: 29, 26
+  offset: 0, 0
+  index: -1
+01_kozou_face_attack_02
+  rotate: false
+  xy: 798, 719
+  size: 37, 49
+  orig: 37, 49
+  offset: 0, 0
+  index: -1
+01_kozou_face_close
+  rotate: false
+  xy: 62, 2
+  size: 36, 34
+  orig: 36, 34
+  offset: 0, 0
+  index: -1
+01_kozou_face_damage
+  rotate: false
+  xy: 401, 468
+  size: 36, 44
+  orig: 36, 44
+  offset: 0, 0
+  index: -1
+01_kozou_face_default
+  rotate: false
+  xy: 401, 423
+  size: 36, 43
+  orig: 36, 43
+  offset: 0, 0
+  index: -1
+01_kozou_head
+  rotate: false
+  xy: 837, 783
+  size: 77, 70
+  orig: 77, 70
+  offset: 0, 0
+  index: -1
+01_kozou_head_shadow
+  rotate: false
+  xy: 712, 632
+  size: 61, 70
+  orig: 61, 70
+  offset: 0, 0
+  index: -1
+02_eff_spark
+  rotate: false
+  xy: 849, 855
+  size: 93, 72
+  orig: 93, 72
+  offset: 0, 0
+  index: -1
+02_oyaji_attack_hi
+  rotate: false
+  xy: 837, 711
+  size: 14, 9
+  orig: 14, 9
+  offset: 0, 0
+  index: -1
+02_oyaji_attack_pose
+  rotate: false
+  xy: 401, 377
+  size: 35, 44
+  orig: 35, 44
+  offset: 0, 0
+  index: -1
+02_oyaji_attack_shadow
+  rotate: false
+  xy: 401, 210
+  size: 29, 40
+  orig: 29, 40
+  offset: 0, 0
+  index: -1
+02_oyaji_body_end
+  rotate: false
+  xy: 534, 611
+  size: 16, 15
+  orig: 16, 15
+  offset: 0, 0
+  index: -1
+02_oyaji_damege
+  rotate: false
+  xy: 401, 293
+  size: 36, 39
+  orig: 36, 39
+  offset: 0, 0
+  index: -1
+02_oyaji_default
+  rotate: false
+  xy: 401, 252
+  size: 36, 39
+  orig: 36, 39
+  offset: 0, 0
+  index: -1
+02_oyaji_eye_end_01
+  rotate: true
+  xy: 445, 588
+  size: 18, 13
+  orig: 18, 13
+  offset: 0, 0
+  index: -1
+02_oyaji_eye_end_02
+  rotate: true
+  xy: 416, 120
+  size: 18, 12
+  orig: 18, 12
+  offset: 0, 0
+  index: -1
+02_oyaji_hand_end_01
+  rotate: false
+  xy: 837, 722
+  size: 22, 9
+  orig: 22, 9
+  offset: 0, 0
+  index: -1
+02_oyaji_hand_end_02
+  rotate: false
+  xy: 775, 639
+  size: 28, 7
+  orig: 28, 7
+  offset: 0, 0
+  index: -1
+02_oyaji_head_end
+  rotate: true
+  xy: 402, 173
+  size: 35, 28
+  orig: 35, 28
+  offset: 0, 0
+  index: -1
+02_oyaji_leg_end_01
+  rotate: false
+  xy: 807, 648
+  size: 14, 10
+  orig: 14, 10
+  offset: 0, 0
+  index: -1
+02_oyaji_leg_end_02
+  rotate: true
+  xy: 825, 702
+  size: 15, 10
+  orig: 15, 10
+  offset: 0, 0
+  index: -1
+03_eff_spark
+  rotate: false
+  xy: 556, 616
+  size: 95, 80
+  orig: 95, 80
+  offset: 0, 0
+  index: -1
+03_ke_arm_end_01
+  rotate: true
+  xy: 402, 117
+  size: 21, 12
+  orig: 21, 12
+  offset: 0, 0
+  index: -1
+03_ke_arm_end_02
+  rotate: true
+  xy: 1014, 996
+  size: 26, 8
+  orig: 26, 8
+  offset: 0, 0
+  index: -1
+03_ke_attack_hi
+  rotate: false
+  xy: 861, 722
+  size: 14, 9
+  orig: 14, 9
+  offset: 0, 0
+  index: -1
+03_ke_attack_pose
+  rotate: false
+  xy: 837, 733
+  size: 41, 48
+  orig: 41, 48
+  offset: 0, 0
+  index: -1
+03_ke_attack_shadow
+  rotate: false
+  xy: 880, 734
+  size: 36, 47
+  orig: 36, 47
+  offset: 0, 0
+  index: -1
+03_ke_body_end
+  rotate: false
+  xy: 514, 610
+  size: 18, 16
+  orig: 18, 16
+  offset: 0, 0
+  index: -1
+03_ke_damage
+  rotate: false
+  xy: 401, 561
+  size: 42, 45
+  orig: 42, 45
+  offset: 0, 0
+  index: -1
+03_ke_default
+  rotate: false
+  xy: 401, 514
+  size: 42, 45
+  orig: 42, 45
+  offset: 0, 0
+  index: -1
+03_ke_eye_end_01
+  rotate: true
+  xy: 445, 568
+  size: 18, 12
+  orig: 18, 12
+  offset: 0, 0
+  index: -1
+03_ke_eye_end_02
+  rotate: false
+  xy: 460, 593
+  size: 18, 12
+  orig: 18, 12
+  offset: 0, 0
+  index: -1
+03_ke_head_attack_01
+  rotate: true
+  xy: 401, 334
+  size: 41, 35
+  orig: 41, 35
+  offset: 0, 0
+  index: -1
+03_ke_leg_end_01
+  rotate: true
+  xy: 445, 550
+  size: 16, 13
+  orig: 16, 13
+  offset: 0, 0
+  index: -1
+03_ke_leg_end_02
+  rotate: true
+  xy: 445, 533
+  size: 15, 13
+  orig: 15, 13
+  offset: 0, 0
+  index: -1
+04_ichi_attack_hi
+  rotate: true
+  xy: 1014, 985
+  size: 9, 8
+  orig: 9, 8
+  offset: 0, 0
+  index: -1
+04_ichi_attack_pose
+  rotate: false
+  xy: 407, 628
+  size: 147, 118
+  orig: 147, 118
+  offset: 0, 0
+  index: -1
+04_ichi_attack_shadow
+  rotate: true
+  xy: 673, 748
+  size: 113, 118
+  orig: 113, 118
+  offset: 0, 0
+  index: -1
+04_ichi_base
+  rotate: false
+  xy: 673, 863
+  size: 174, 159
+  orig: 174, 159
+  offset: 0, 0
+  index: -1
+04_ichi_damage
+  rotate: false
+  xy: 849, 929
+  size: 119, 93
+  orig: 119, 93
+  offset: 0, 0
+  index: -1
+04_ichi_default_base
+  rotate: false
+  xy: 208, 54
+  size: 119, 60
+  orig: 119, 60
+  offset: 0, 0
+  index: -1
+04_ichi_default_eye
+  rotate: true
+  xy: 916, 791
+  size: 31, 22
+  orig: 31, 22
+  offset: 0, 0
+  index: -1
+04_ichi_default_face
+  rotate: false
+  xy: 208, 116
+  size: 148, 91
+  orig: 148, 91
+  offset: 0, 0
+  index: -1
+04_ichi_eye_end
+  rotate: false
+  xy: 556, 698
+  size: 148, 48
+  orig: 148, 48
+  offset: 0, 0
+  index: -1
+eff_circle_main
+  rotate: false
+  xy: 2, 615
+  size: 403, 407
+  orig: 403, 407
+  offset: 0, 0
+  index: -1
+eff_circle_main2
+  rotate: false
+  xy: 2, 209
+  size: 397, 404
+  orig: 397, 404
+  offset: 0, 0
+  index: -1
+eff_circle_white
+  rotate: false
+  xy: 407, 748
+  size: 264, 274
+  orig: 264, 274
+  offset: 0, 0
+  index: -1

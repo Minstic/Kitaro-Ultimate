@@ -1,0 +1,300 @@
+
+Vehicle_10080.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+AT_konaki_stone__tears
+  rotate: false
+  xy: 847, 833
+  size: 42, 44
+  orig: 42, 44
+  offset: 0, 0
+  index: -1
+AT_konaki_stone_body
+  rotate: false
+  xy: 624, 509
+  size: 119, 107
+  orig: 119, 107
+  offset: 0, 0
+  index: -1
+AT_konaki_stone_face
+  rotate: false
+  xy: 499, 433
+  size: 44, 45
+  orig: 44, 45
+  offset: 0, 0
+  index: -1
+AT_konaki_stone_mouth
+  rotate: true
+  xy: 2, 2
+  size: 47, 35
+  orig: 47, 35
+  offset: 0, 0
+  index: -1
+AT_konaki_tears2
+  rotate: true
+  xy: 921, 890
+  size: 32, 46
+  orig: 32, 46
+  offset: 0, 0
+  index: -1
+eff_1
+  rotate: false
+  xy: 2, 392
+  size: 238, 86
+  orig: 238, 86
+  offset: 0, 0
+  index: -1
+eff_2
+  rotate: false
+  xy: 242, 423
+  size: 255, 55
+  orig: 255, 55
+  offset: 0, 0
+  index: -1
+ground
+  rotate: false
+  xy: 759, 924
+  size: 233, 31
+  orig: 233, 31
+  offset: 0, 0
+  index: -1
+kitaro_arm
+  rotate: false
+  xy: 751, 701
+  size: 48, 38
+  orig: 48, 38
+  offset: 0, 0
+  index: -1
+kitaro_eye_damage
+  rotate: false
+  xy: 39, 25
+  size: 27, 24
+  orig: 27, 24
+  offset: 0, 0
+  index: -1
+kitaro_eye_damage_re
+  rotate: false
+  xy: 69, 145
+  size: 27, 24
+  orig: 27, 24
+  offset: 0, 0
+  index: -1
+kitaro_eye_default
+  rotate: false
+  xy: 293, 412
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+kitaro_eye_default_w
+  rotate: false
+  xy: 891, 853
+  size: 27, 24
+  orig: 27, 24
+  offset: 0, 0
+  index: -1
+kitaro_head
+  rotate: false
+  xy: 145, 238
+  size: 87, 67
+  orig: 87, 67
+  offset: 0, 0
+  index: -1
+kitaro_head_re
+  rotate: true
+  xy: 2, 51
+  size: 86, 67
+  orig: 86, 67
+  offset: 0, 0
+  index: -1
+kitaro_mouth_damage
+  rotate: true
+  xy: 921, 879
+  size: 9, 10
+  orig: 9, 10
+  offset: 0, 0
+  index: -1
+kitaro_mouth_default
+  rotate: false
+  xy: 801, 730
+  size: 18, 9
+  orig: 18, 9
+  offset: 0, 0
+  index: -1
+konaki_arm
+  rotate: false
+  xy: 125, 174
+  size: 16, 30
+  orig: 16, 30
+  offset: 0, 0
+  index: -1
+konaki_body
+  rotate: false
+  xy: 759, 815
+  size: 86, 62
+  orig: 86, 62
+  offset: 0, 0
+  index: -1
+konaki_face_damage
+  rotate: false
+  xy: 545, 439
+  size: 39, 39
+  orig: 39, 39
+  offset: 0, 0
+  index: -1
+konaki_face_default
+  rotate: false
+  xy: 235, 354
+  size: 37, 36
+  orig: 37, 36
+  offset: 0, 0
+  index: -1
+konaki_head
+  rotate: false
+  xy: 751, 741
+  size: 77, 72
+  orig: 77, 72
+  offset: 0, 0
+  index: -1
+oyaji_arm
+  rotate: false
+  xy: 969, 913
+  size: 23, 9
+  orig: 23, 9
+  offset: 0, 0
+  index: -1
+oyaji_eye_damage
+  rotate: true
+  xy: 39, 2
+  size: 21, 17
+  orig: 21, 17
+  offset: 0, 0
+  index: -1
+oyaji_eye_default
+  rotate: false
+  xy: 847, 816
+  size: 19, 15
+  orig: 19, 15
+  offset: 0, 0
+  index: -1
+oyaji_head
+  rotate: false
+  xy: 145, 210
+  size: 33, 26
+  orig: 33, 26
+  offset: 0, 0
+  index: -1
+rope
+  rotate: true
+  xy: 69, 206
+  size: 184, 74
+  orig: 184, 74
+  offset: 0, 0
+  index: -1
+sand
+  rotate: false
+  xy: 624, 817
+  size: 133, 205
+  orig: 133, 205
+  offset: 0, 0
+  index: -1
+ship_01
+  rotate: false
+  xy: 2, 752
+  size: 620, 270
+  orig: 620, 270
+  offset: 0, 0
+  index: -1
+ship_01_re
+  rotate: false
+  xy: 2, 480
+  size: 620, 270
+  orig: 620, 270
+  offset: 0, 0
+  index: -1
+ship_02
+  rotate: false
+  xy: 759, 879
+  size: 160, 43
+  orig: 160, 43
+  offset: 0, 0
+  index: -1
+smoke
+  rotate: true
+  xy: 624, 618
+  size: 197, 125
+  orig: 197, 125
+  offset: 0, 0
+  index: -1
+stone
+  rotate: false
+  xy: 751, 679
+  size: 17, 20
+  orig: 17, 20
+  offset: 0, 0
+  index: -1
+stone2
+  rotate: false
+  xy: 586, 469
+  size: 10, 9
+  orig: 10, 9
+  offset: 0, 0
+  index: -1
+tone
+  rotate: false
+  xy: 759, 957
+  size: 253, 65
+  orig: 253, 65
+  offset: 0, 0
+  index: -1
+tone_re
+  rotate: true
+  xy: 2, 139
+  size: 251, 65
+  orig: 251, 65
+  offset: 0, 0
+  index: -1
+yobuko_arm
+  rotate: false
+  xy: 69, 171
+  size: 54, 33
+  orig: 54, 33
+  offset: 0, 0
+  index: -1
+yobuko_face_damage
+  rotate: false
+  xy: 242, 392
+  size: 49, 29
+  orig: 49, 29
+  offset: 0, 0
+  index: -1
+yobuko_face_default
+  rotate: true
+  xy: 830, 781
+  size: 32, 10
+  orig: 32, 10
+  offset: 0, 0
+  index: -1
+yobuko_face_default_w
+  rotate: true
+  xy: 994, 911
+  size: 44, 28
+  orig: 44, 28
+  offset: 0, 0
+  index: -1
+yobuko_hair
+  rotate: true
+  xy: 624, 489
+  size: 18, 46
+  orig: 18, 46
+  offset: 0, 0
+  index: -1
+yobuko_head
+  rotate: false
+  xy: 145, 307
+  size: 88, 83
+  orig: 88, 83
+  offset: 0, 0
+  index: -1

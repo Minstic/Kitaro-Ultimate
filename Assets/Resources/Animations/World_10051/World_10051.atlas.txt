@@ -1,0 +1,398 @@
+
+World_10051.png
+size: 1009,882
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+AT_splashes_02
+  rotate: true
+  xy: 985, 236
+  size: 30, 17
+  orig: 30, 17
+  offset: 0, 0
+  index: -1
+AT_splashes_03
+  rotate: true
+  xy: 942, 48
+  size: 36, 25
+  orig: 36, 25
+  offset: 0, 0
+  index: -1
+AT_splashes_04
+  rotate: true
+  xy: 748, 34
+  size: 58, 38
+  orig: 58, 38
+  offset: 0, 0
+  index: -1
+eff_water_atatck01
+  rotate: false
+  xy: 940, 232
+  size: 43, 89
+  orig: 43, 89
+  offset: 0, 0
+  index: -1
+eff_water_attack02
+  rotate: false
+  xy: 949, 90
+  size: 36, 51
+  orig: 36, 51
+  offset: 0, 0
+  index: -1
+eff_water_attack03
+  rotate: true
+  xy: 442, 8
+  size: 75, 50
+  orig: 75, 50
+  offset: 0, 0
+  index: -1
+flag_1
+  rotate: true
+  xy: 2, 2
+  size: 25, 203
+  orig: 25, 203
+  offset: 0, 0
+  index: -1
+flag_2
+  rotate: true
+  xy: 528, 113
+  size: 163, 98
+  orig: 163, 98
+  offset: 0, 0
+  index: -1
+flag_2_re
+  rotate: true
+  xy: 628, 113
+  size: 163, 98
+  orig: 163, 98
+  offset: 0, 0
+  index: -1
+ghostwhale_body
+  rotate: false
+  xy: 2, 85
+  size: 490, 403
+  orig: 490, 403
+  offset: 0, 0
+  index: -1
+ghostwhale_head
+  rotate: false
+  xy: 2, 490
+  size: 508, 390
+  orig: 508, 390
+  offset: 0, 0
+  index: -1
+mast_fly
+  rotate: true
+  xy: 756, 213
+  size: 117, 63
+  orig: 117, 63
+  offset: 0, 0
+  index: -1
+mast_fly_re
+  rotate: true
+  xy: 756, 94
+  size: 117, 63
+  orig: 117, 63
+  offset: 0, 0
+  index: -1
+raft_default
+  rotate: true
+  xy: 494, 3
+  size: 250, 32
+  orig: 250, 32
+  offset: 0, 0
+  index: -1
+raft_fly2
+  rotate: true
+  xy: 849, 561
+  size: 160, 133
+  orig: 160, 133
+  offset: 0, 0
+  index: -1
+splashes_01
+  rotate: false
+  xy: 669, 723
+  size: 313, 157
+  orig: 313, 157
+  offset: 0, 0
+  index: -1
+splashes_02
+  rotate: true
+  xy: 512, 278
+  size: 602, 155
+  orig: 602, 155
+  offset: 0, 0
+  index: -1
+splashes_03
+  rotate: true
+  xy: 849, 323
+  size: 86, 148
+  orig: 86, 148
+  offset: 0, 0
+  index: -1
+splashes_05_2
+  rotate: false
+  xy: 900, 6
+  size: 39, 37
+  orig: 39, 37
+  offset: 0, 0
+  index: -1
+splashes_05_3
+  rotate: true
+  xy: 769, 2
+  size: 30, 34
+  orig: 30, 34
+  offset: 0, 0
+  index: -1
+splashes_05_4
+  rotate: false
+  xy: 858, 5
+  size: 40, 32
+  orig: 40, 32
+  offset: 0, 0
+  index: -1
+splashes_05_5
+  rotate: false
+  xy: 984, 580
+  size: 18, 20
+  orig: 18, 20
+  offset: 0, 0
+  index: -1
+splashes_down
+  rotate: false
+  xy: 2, 65
+  size: 407, 18
+  orig: 407, 18
+  offset: 0, 0
+  index: -1
+wave_01
+  rotate: true
+  xy: 984, 647
+  size: 233, 13
+  orig: 233, 13
+  offset: 0, 0
+  index: -1
+wave_02
+  rotate: false
+  xy: 207, 14
+  size: 233, 13
+  orig: 233, 13
+  offset: 0, 0
+  index: -1
+wave_03
+  rotate: true
+  xy: 743, 98
+  size: 232, 11
+  orig: 232, 11
+  offset: 0, 0
+  index: -1
+wave_04
+  rotate: true
+  xy: 728, 97
+  size: 233, 13
+  orig: 233, 13
+  offset: 0, 0
+  index: -1
+wave_1_B
+  rotate: false
+  xy: 2, 29
+  size: 389, 34
+  orig: 389, 34
+  offset: 0, 0
+  index: -1
+wave_2_B
+  rotate: true
+  xy: 704, 332
+  size: 389, 34
+  orig: 389, 34
+  offset: 0, 0
+  index: -1
+wave_3_B
+  rotate: true
+  xy: 813, 334
+  size: 387, 34
+  orig: 387, 34
+  offset: 0, 0
+  index: -1
+wave_4_B
+  rotate: true
+  xy: 740, 332
+  size: 389, 34
+  orig: 389, 34
+  offset: 0, 0
+  index: -1
+wave_5_B
+  rotate: true
+  xy: 669, 330
+  size: 391, 33
+  orig: 391, 33
+  offset: 0, 0
+  index: -1
+wave_6_B
+  rotate: true
+  xy: 776, 334
+  size: 387, 35
+  orig: 387, 35
+  offset: 0, 0
+  index: -1
+yobuko_arm_l
+  rotate: false
+  xy: 984, 602
+  size: 13, 43
+  orig: 13, 43
+  offset: 0, 0
+  index: -1
+yobuko_arm_r
+  rotate: true
+  xy: 207, 2
+  size: 10, 40
+  orig: 10, 40
+  offset: 0, 0
+  index: -1
+yobuko_arm_r_attack01
+  rotate: false
+  xy: 985, 268
+  size: 22, 53
+  orig: 22, 53
+  offset: 0, 0
+  index: -1
+yobuko_arm_r_attack02
+  rotate: true
+  xy: 788, 44
+  size: 48, 29
+  orig: 48, 29
+  offset: 0, 0
+  index: -1
+yobuko_attack_fly
+  rotate: false
+  xy: 849, 411
+  size: 134, 148
+  orig: 134, 148
+  offset: 0, 0
+  index: -1
+yobuko_body
+  rotate: false
+  xy: 894, 86
+  size: 53, 55
+  orig: 53, 55
+  offset: 0, 0
+  index: -1
+yobuko_body_attack
+  rotate: false
+  xy: 821, 77
+  size: 71, 64
+  orig: 71, 64
+  offset: 0, 0
+  index: -1
+yobuko_camera
+  rotate: true
+  xy: 718, 2
+  size: 30, 49
+  orig: 30, 49
+  offset: 0, 0
+  index: -1
+yobuko_eff_01
+  rotate: false
+  xy: 669, 278
+  size: 28, 50
+  orig: 28, 50
+  offset: 0, 0
+  index: -1
+yobuko_eff_02
+  rotate: true
+  xy: 894, 45
+  size: 39, 46
+  orig: 39, 46
+  offset: 0, 0
+  index: -1
+yobuko_eff_03
+  rotate: false
+  xy: 718, 34
+  size: 28, 61
+  orig: 28, 61
+  offset: 0, 0
+  index: -1
+yobuko_eff_04
+  rotate: true
+  xy: 943, 143
+  size: 87, 39
+  orig: 87, 39
+  offset: 0, 0
+  index: -1
+yobuko_eye_wait
+  rotate: false
+  xy: 249, 3
+  size: 41, 9
+  orig: 41, 9
+  offset: 0, 0
+  index: -1
+yobuko_face_attack_01
+  rotate: false
+  xy: 819, 39
+  size: 56, 36
+  orig: 56, 36
+  offset: 0, 0
+  index: -1
+yobuko_face_attack_02
+  rotate: true
+  xy: 897, 144
+  size: 65, 44
+  orig: 65, 44
+  offset: 0, 0
+  index: -1
+yobuko_face_damage
+  rotate: false
+  xy: 805, 5
+  size: 51, 32
+  orig: 51, 32
+  offset: 0, 0
+  index: -1
+yobuko_face_default
+  rotate: true
+  xy: 411, 32
+  size: 51, 29
+  orig: 51, 29
+  offset: 0, 0
+  index: -1
+yobuko_hair_back
+  rotate: true
+  xy: 646, 10
+  size: 101, 70
+  orig: 101, 70
+  offset: 0, 0
+  index: -1
+yobuko_hair_front
+  rotate: false
+  xy: 821, 211
+  size: 117, 110
+  orig: 117, 110
+  offset: 0, 0
+  index: -1
+yobuko_hand_r_attack
+  rotate: false
+  xy: 393, 56
+  size: 5, 7
+  orig: 5, 7
+  offset: 0, 0
+  index: -1
+yobuko_head
+  rotate: false
+  xy: 821, 143
+  size: 74, 66
+  orig: 74, 66
+  offset: 0, 0
+  index: -1
+yobuko_head_AT
+  rotate: false
+  xy: 528, 2
+  size: 116, 109
+  orig: 116, 109
+  offset: 0, 0
+  index: -1
+yobuko_spear
+  rotate: false
+  xy: 494, 255
+  size: 14, 233
+  orig: 14, 233
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,272 @@
+
+Character_00621.png
+size: 739,282
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a_arm_attack01
+  rotate: true
+  xy: 691, 165
+  size: 55, 43
+  orig: 55, 43
+  offset: 0, 0
+  index: -1
+a_arm_l_01
+  rotate: true
+  xy: 624, 27
+  size: 33, 25
+  orig: 33, 25
+  offset: 0, 0
+  index: -1
+a_arm_l_02
+  rotate: true
+  xy: 581, 90
+  size: 49, 24
+  orig: 49, 24
+  offset: 0, 0
+  index: -1
+a_arm_r
+  rotate: true
+  xy: 691, 141
+  size: 22, 46
+  orig: 22, 46
+  offset: 0, 0
+  index: -1
+a_body
+  rotate: false
+  xy: 691, 222
+  size: 44, 58
+  orig: 44, 58
+  offset: 0, 0
+  index: -1
+a_face_damage
+  rotate: false
+  xy: 577, 33
+  size: 45, 45
+  orig: 45, 45
+  offset: 0, 0
+  index: -1
+a_face_default
+  rotate: true
+  xy: 607, 96
+  size: 43, 41
+  orig: 43, 41
+  offset: 0, 0
+  index: -1
+a_face_eye_default
+  rotate: true
+  xy: 425, 7
+  size: 26, 9
+  orig: 26, 9
+  offset: 0, 0
+  index: -1
+a_head
+  rotate: false
+  xy: 443, 6
+  size: 72, 72
+  orig: 72, 72
+  offset: 0, 0
+  index: -1
+a_leg_l
+  rotate: true
+  xy: 577, 12
+  size: 19, 40
+  orig: 19, 40
+  offset: 0, 0
+  index: -1
+a_leg_r
+  rotate: true
+  xy: 467, 160
+  size: 26, 14
+  orig: 26, 14
+  offset: 0, 0
+  index: -1
+b_arm_l
+  rotate: false
+  xy: 690, 84
+  size: 40, 21
+  orig: 40, 21
+  offset: 0, 0
+  index: -1
+b_arm_r
+  rotate: true
+  xy: 705, 33
+  size: 21, 27
+  orig: 21, 27
+  offset: 0, 0
+  index: -1
+b_body
+  rotate: false
+  xy: 378, 4
+  size: 45, 29
+  orig: 45, 29
+  offset: 0, 0
+  index: -1
+b_face_damage
+  rotate: true
+  xy: 650, 116
+  size: 38, 39
+  orig: 38, 39
+  offset: 0, 0
+  index: -1
+b_face_default
+  rotate: false
+  xy: 650, 82
+  size: 38, 32
+  orig: 38, 32
+  offset: 0, 0
+  index: -1
+b_face_eye__default
+  rotate: true
+  xy: 436, 9
+  size: 24, 5
+  orig: 24, 5
+  offset: 0, 0
+  index: -1
+b_foot_r
+  rotate: false
+  xy: 610, 168
+  size: 16, 26
+  orig: 16, 26
+  offset: 0, 0
+  index: -1
+b_head
+  rotate: false
+  xy: 517, 12
+  size: 58, 66
+  orig: 58, 66
+  offset: 0, 0
+  index: -1
+b_leg_l_01
+  rotate: true
+  xy: 677, 50
+  size: 30, 26
+  orig: 30, 26
+  offset: 0, 0
+  index: -1
+b_leg_l_02
+  rotate: true
+  xy: 651, 2
+  size: 24, 28
+  orig: 24, 28
+  offset: 0, 0
+  index: -1
+b_leg_r
+  rotate: false
+  xy: 705, 56
+  size: 25, 26
+  orig: 25, 26
+  offset: 0, 0
+  index: -1
+eff_02
+  rotate: false
+  xy: 349, 2
+  size: 27, 31
+  orig: 27, 31
+  offset: 0, 0
+  index: -1
+eff_03
+  rotate: true
+  xy: 318, 2
+  size: 31, 29
+  orig: 31, 29
+  offset: 0, 0
+  index: -1
+eff_04
+  rotate: true
+  xy: 650, 62
+  size: 18, 25
+  orig: 18, 25
+  offset: 0, 0
+  index: -1
+leaf_01_a
+  rotate: false
+  xy: 318, 35
+  size: 123, 65
+  orig: 123, 65
+  offset: 0, 0
+  index: -1
+leaf_01_b
+  rotate: false
+  xy: 318, 188
+  size: 166, 92
+  orig: 166, 92
+  offset: 0, 0
+  index: -1
+leaf_02
+  rotate: false
+  xy: 486, 141
+  size: 122, 53
+  orig: 122, 53
+  offset: 0, 0
+  index: -1
+leaf_03
+  rotate: false
+  xy: 318, 102
+  size: 147, 84
+  orig: 147, 84
+  offset: 0, 0
+  index: -1
+leaf_04
+  rotate: false
+  xy: 486, 196
+  size: 140, 84
+  orig: 140, 84
+  offset: 0, 0
+  index: -1
+leaf_05
+  rotate: true
+  xy: 628, 156
+  size: 124, 61
+  orig: 124, 61
+  offset: 0, 0
+  index: -1
+leaf_06
+  rotate: false
+  xy: 467, 80
+  size: 112, 59
+  orig: 112, 59
+  offset: 0, 0
+  index: -1
+pinecone
+  rotate: false
+  xy: 681, 24
+  size: 22, 24
+  orig: 22, 24
+  offset: 0, 0
+  index: -1
+pinecone_01
+  rotate: false
+  xy: 624, 62
+  size: 24, 32
+  orig: 24, 32
+  offset: 0, 0
+  index: -1
+pinecone_02
+  rotate: true
+  xy: 691, 107
+  size: 32, 40
+  orig: 32, 40
+  offset: 0, 0
+  index: -1
+pinecone_03
+  rotate: true
+  xy: 619, 4
+  size: 21, 28
+  orig: 21, 28
+  offset: 0, 0
+  index: -1
+pinecone_04
+  rotate: false
+  xy: 651, 28
+  size: 24, 32
+  orig: 24, 32
+  offset: 0, 0
+  index: -1
+tree
+  rotate: false
+  xy: 2, 6
+  size: 314, 274
+  orig: 314, 274
+  offset: 0, 0
+  index: -1

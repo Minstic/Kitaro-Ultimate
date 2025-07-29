@@ -1,0 +1,181 @@
+
+Legend_10080.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+_Shadow
+  rotate: false
+  xy: 2, 2
+  size: 16, 2
+  orig: 16, 2
+  offset: 0, 0
+  index: -1
+gama_body
+  rotate: false
+  xy: 162, 70
+  size: 100, 56
+  orig: 100, 56
+  offset: 0, 0
+  index: -1
+gama_eye_L
+  rotate: true
+  xy: 479, 54
+  size: 34, 30
+  orig: 34, 30
+  offset: 0, 0
+  index: -1
+gama_eye_L_damage
+  rotate: false
+  xy: 303, 49
+  size: 34, 30
+  orig: 34, 30
+  offset: 0, 0
+  index: -1
+gama_eye_R
+  rotate: false
+  xy: 367, 39
+  size: 33, 33
+  orig: 33, 33
+  offset: 0, 0
+  index: -1
+gama_eye_R_damage
+  rotate: false
+  xy: 402, 39
+  size: 33, 33
+  orig: 33, 33
+  offset: 0, 0
+  index: -1
+gama_hand_L
+  rotate: false
+  xy: 468, 30
+  size: 18, 22
+  orig: 18, 22
+  offset: 0, 0
+  index: -1
+gama_hand_R
+  rotate: true
+  xy: 118, 2
+  size: 10, 19
+  orig: 10, 19
+  offset: 0, 0
+  index: -1
+gama_head
+  rotate: false
+  xy: 264, 81
+  size: 102, 45
+  orig: 102, 45
+  offset: 0, 0
+  index: -1
+gama_leg_L_1
+  rotate: true
+  xy: 151, 2
+  size: 40, 41
+  orig: 40, 41
+  offset: 0, 0
+  index: -1
+gama_leg_L_2
+  rotate: true
+  xy: 437, 54
+  size: 34, 40
+  orig: 34, 40
+  offset: 0, 0
+  index: -1
+gama_leg_L_3
+  rotate: false
+  xy: 118, 14
+  size: 30, 12
+  orig: 30, 12
+  offset: 0, 0
+  index: -1
+gama_leg_R_1
+  rotate: true
+  xy: 339, 49
+  size: 30, 26
+  orig: 30, 26
+  offset: 0, 0
+  index: -1
+gama_leg_R_2
+  rotate: false
+  xy: 264, 51
+  size: 37, 28
+  orig: 37, 28
+  offset: 0, 0
+  index: -1
+gama_leg_R_3
+  rotate: false
+  xy: 197, 55
+  size: 26, 13
+  orig: 26, 13
+  offset: 0, 0
+  index: -1
+gama_mouth
+  rotate: false
+  xy: 2, 6
+  size: 77, 20
+  orig: 77, 20
+  offset: 0, 0
+  index: -1
+gama_tongue
+  rotate: false
+  xy: 2, 28
+  size: 147, 14
+  orig: 147, 14
+  offset: 0, 0
+  index: -1
+sennin_beard
+  rotate: false
+  xy: 437, 23
+  size: 29, 29
+  orig: 29, 29
+  offset: 0, 0
+  index: -1
+sennin_eye
+  rotate: false
+  xy: 162, 55
+  size: 33, 13
+  orig: 33, 13
+  offset: 0, 0
+  index: -1
+sennin_eye_damage
+  rotate: false
+  xy: 81, 7
+  size: 35, 19
+  orig: 35, 19
+  offset: 0, 0
+  index: -1
+sennin_hand_L
+  rotate: false
+  xy: 488, 40
+  size: 18, 12
+  orig: 18, 12
+  offset: 0, 0
+  index: -1
+sennin_head
+  rotate: true
+  xy: 2, 44
+  size: 82, 158
+  orig: 82, 158
+  offset: 0, 0
+  index: -1
+sennin_leg_L
+  rotate: true
+  xy: 368, 74
+  size: 52, 67
+  orig: 52, 67
+  offset: 0, 0
+  index: -1
+sennin_nose
+  rotate: true
+  xy: 162, 44
+  size: 9, 10
+  orig: 9, 10
+  offset: 0, 0
+  index: -1
+sennin_stick
+  rotate: true
+  xy: 437, 90
+  size: 36, 71
+  orig: 36, 71
+  offset: 0, 0
+  index: -1

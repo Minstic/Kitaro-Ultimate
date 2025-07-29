@@ -1,0 +1,216 @@
+
+Character_00991.png
+size: 504,520
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+binocular
+  rotate: true
+  xy: 150, 5
+  size: 21, 35
+  orig: 21, 35
+  offset: 0, 0
+  index: -1
+bird
+  rotate: true
+  xy: 247, 2
+  size: 65, 41
+  orig: 65, 41
+  offset: 0, 0
+  index: -1
+eff_01
+  rotate: true
+  xy: 2, 4
+  size: 22, 78
+  orig: 22, 78
+  offset: 0, 0
+  index: -1
+eff_02
+  rotate: false
+  xy: 414, 318
+  size: 80, 122
+  orig: 80, 122
+  offset: 0, 0
+  index: -1
+eff_03
+  rotate: true
+  xy: 448, 75
+  size: 43, 42
+  orig: 43, 42
+  offset: 0, 0
+  index: -1
+elephant_body
+  rotate: false
+  xy: 2, 296
+  size: 280, 222
+  orig: 280, 222
+  offset: 0, 0
+  index: -1
+elephant_body_dwn
+  rotate: false
+  xy: 2, 28
+  size: 243, 38
+  orig: 243, 38
+  offset: 0, 0
+  index: -1
+elephant_ear
+  rotate: false
+  xy: 284, 293
+  size: 128, 225
+  orig: 128, 225
+  offset: 0, 0
+  index: -1
+elephant_eye
+  rotate: false
+  xy: 431, 120
+  size: 46, 41
+  orig: 46, 41
+  offset: 0, 0
+  index: -1
+elephant_head
+  rotate: false
+  xy: 2, 68
+  size: 241, 226
+  orig: 241, 226
+  offset: 0, 0
+  index: -1
+elephant_leg_B1
+  rotate: true
+  xy: 414, 442
+  size: 76, 88
+  orig: 76, 88
+  offset: 0, 0
+  index: -1
+elephant_leg_B2
+  rotate: false
+  xy: 432, 163
+  size: 54, 72
+  orig: 54, 72
+  offset: 0, 0
+  index: -1
+elephant_leg_F1
+  rotate: false
+  xy: 432, 237
+  size: 69, 79
+  orig: 69, 79
+  offset: 0, 0
+  index: -1
+elephant_leg_F2
+  rotate: true
+  xy: 324, 38
+  size: 72, 87
+  orig: 72, 87
+  offset: 0, 0
+  index: -1
+elephant_nose_attack
+  rotate: false
+  xy: 245, 188
+  size: 111, 103
+  orig: 111, 103
+  offset: 0, 0
+  index: -1
+elephant_nose_default
+  rotate: false
+  xy: 245, 69
+  size: 77, 117
+  orig: 77, 117
+  offset: 0, 0
+  index: -1
+kitaro_arm_l
+  rotate: true
+  xy: 187, 8
+  size: 18, 33
+  orig: 18, 33
+  offset: 0, 0
+  index: -1
+kitaro_arm_r
+  rotate: true
+  xy: 413, 39
+  size: 16, 31
+  orig: 16, 31
+  offset: 0, 0
+  index: -1
+kitaro_body
+  rotate: true
+  xy: 413, 57
+  size: 53, 33
+  orig: 53, 33
+  offset: 0, 0
+  index: -1
+kitaro_face_damage
+  rotate: false
+  xy: 448, 47
+  size: 27, 26
+  orig: 27, 26
+  offset: 0, 0
+  index: -1
+kitaro_face_damage_re
+  rotate: false
+  xy: 82, 2
+  size: 32, 24
+  orig: 32, 24
+  offset: 0, 0
+  index: -1
+kitaro_face_default
+  rotate: false
+  xy: 322, 10
+  size: 27, 26
+  orig: 27, 26
+  offset: 0, 0
+  index: -1
+kitaro_face_default_re
+  rotate: false
+  xy: 116, 2
+  size: 32, 24
+  orig: 32, 24
+  offset: 0, 0
+  index: -1
+kitaro_head
+  rotate: true
+  xy: 358, 186
+  size: 105, 72
+  orig: 105, 72
+  offset: 0, 0
+  index: -1
+kitaro_head_re
+  rotate: false
+  xy: 324, 112
+  size: 105, 72
+  orig: 105, 72
+  offset: 0, 0
+  index: -1
+kitaro_leg_L
+  rotate: false
+  xy: 488, 216
+  size: 13, 19
+  orig: 13, 19
+  offset: 0, 0
+  index: -1
+oyaji_body
+  rotate: true
+  xy: 290, 2
+  size: 25, 19
+  orig: 25, 19
+  offset: 0, 0
+  index: -1
+oyaji_face_damage
+  rotate: true
+  xy: 414, 299
+  size: 17, 16
+  orig: 17, 16
+  offset: 0, 0
+  index: -1
+oyaji_face_default
+  rotate: false
+  xy: 222, 13
+  size: 16, 13
+  orig: 16, 13
+  offset: 0, 0
+  index: -1
+oyaji_head
+  rotate: true
+  xy: 290, 29
+  size: 38, 30
+  orig: 38, 30
+  offset: 0, 0
+  index: -1

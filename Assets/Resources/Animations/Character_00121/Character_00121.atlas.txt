@@ -1,0 +1,195 @@
+
+Character_00121.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_l_a_01
+  rotate: true
+  xy: 782, 108
+  size: 18, 29
+  orig: 18, 29
+  offset: 0, 0
+  index: -1
+arm_l_a_02
+  rotate: true
+  xy: 314, 2
+  size: 24, 23
+  orig: 24, 23
+  offset: 0, 0
+  index: -1
+arm_l_b_01
+  rotate: false
+  xy: 314, 28
+  size: 52, 39
+  orig: 52, 39
+  offset: 0, 0
+  index: -1
+arm_l_b_02
+  rotate: false
+  xy: 45, 3
+  size: 19, 13
+  orig: 19, 13
+  offset: 0, 0
+  index: -1
+arm_r_a_01
+  rotate: true
+  xy: 813, 110
+  size: 16, 27
+  orig: 16, 27
+  offset: 0, 0
+  index: -1
+arm_r_a_02
+  rotate: true
+  xy: 842, 105
+  size: 21, 22
+  orig: 21, 22
+  offset: 0, 0
+  index: -1
+arm_r_b_01
+  rotate: true
+  xy: 647, 96
+  size: 30, 43
+  orig: 30, 43
+  offset: 0, 0
+  index: -1
+arm_r_b_02
+  rotate: false
+  xy: 692, 97
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+body_a
+  rotate: false
+  xy: 198, 19
+  size: 58, 48
+  orig: 58, 48
+  offset: 0, 0
+  index: -1
+body_b
+  rotate: false
+  xy: 258, 17
+  size: 54, 50
+  orig: 54, 50
+  offset: 0, 0
+  index: -1
+face_01
+  rotate: false
+  xy: 739, 108
+  size: 41, 18
+  orig: 41, 18
+  offset: 0, 0
+  index: -1
+face_02
+  rotate: false
+  xy: 598, 91
+  size: 47, 35
+  orig: 47, 35
+  offset: 0, 0
+  index: -1
+hair_01
+  rotate: false
+  xy: 2, 18
+  size: 110, 108
+  orig: 110, 108
+  offset: 0, 0
+  index: -1
+hair_03
+  rotate: true
+  xy: 114, 18
+  size: 49, 82
+  orig: 49, 82
+  offset: 0, 0
+  index: -1
+hat_01
+  rotate: false
+  xy: 460, 93
+  size: 77, 33
+  orig: 77, 33
+  offset: 0, 0
+  index: -1
+hat_02
+  rotate: false
+  xy: 2, 2
+  size: 41, 14
+  orig: 41, 14
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 390, 65
+  size: 68, 61
+  orig: 68, 61
+  offset: 0, 0
+  index: -1
+horn
+  rotate: true
+  xy: 423, 37
+  size: 26, 27
+  orig: 26, 27
+  offset: 0, 0
+  index: -1
+leg_a
+  rotate: true
+  xy: 339, 6
+  size: 20, 25
+  orig: 20, 25
+  offset: 0, 0
+  index: -1
+leg_b
+  rotate: false
+  xy: 505, 68
+  size: 29, 23
+  orig: 29, 23
+  offset: 0, 0
+  index: -1
+line_01
+  rotate: false
+  xy: 390, 37
+  size: 31, 26
+  orig: 31, 26
+  offset: 0, 0
+  index: -1
+line_02
+  rotate: false
+  xy: 368, 34
+  size: 20, 33
+  orig: 20, 33
+  offset: 0, 0
+  index: -1
+mouth_01
+  rotate: false
+  xy: 460, 69
+  size: 43, 22
+  orig: 43, 22
+  offset: 0, 0
+  index: -1
+mouth_02
+  rotate: false
+  xy: 692, 108
+  size: 45, 18
+  orig: 45, 18
+  offset: 0, 0
+  index: -1
+patch_body_a
+  rotate: false
+  xy: 539, 98
+  size: 57, 28
+  orig: 57, 28
+  offset: 0, 0
+  index: -1
+voice
+  rotate: true
+  xy: 114, 69
+  size: 57, 136
+  orig: 57, 136
+  offset: 0, 0
+  index: -1
+voice_re
+  rotate: true
+  xy: 252, 69
+  size: 57, 136
+  orig: 57, 136
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,279 @@
+
+Biggest_10042.png
+size: 898,898
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+atk_arm_l
+  rotate: true
+  xy: 295, 101
+  size: 81, 207
+  orig: 81, 207
+  offset: 0, 0
+  index: -1
+atk_arm_r
+  rotate: false
+  xy: 757, 690
+  size: 85, 206
+  orig: 85, 206
+  offset: 0, 0
+  index: -1
+atk_body
+  rotate: false
+  xy: 2, 258
+  size: 335, 399
+  orig: 335, 399
+  offset: 0, 0
+  index: -1
+atk_head_1
+  rotate: false
+  xy: 339, 416
+  size: 427, 241
+  orig: 427, 241
+  offset: 0, 0
+  index: -1
+atk_head_2
+  rotate: false
+  xy: 339, 201
+  size: 435, 213
+  orig: 435, 213
+  offset: 0, 0
+  index: -1
+atk_head_light
+  rotate: true
+  xy: 835, 428
+  size: 92, 59
+  orig: 92, 59
+  offset: 0, 0
+  index: -1
+atk_mouth
+  rotate: false
+  xy: 2, 131
+  size: 291, 125
+  orig: 291, 125
+  offset: 0, 0
+  index: -1
+atk_tail_1
+  rotate: false
+  xy: 776, 196
+  size: 68, 54
+  orig: 68, 54
+  offset: 0, 0
+  index: -1
+atk_tail_2
+  rotate: true
+  xy: 768, 416
+  size: 77, 65
+  orig: 77, 65
+  offset: 0, 0
+  index: -1
+atk_tail_3
+  rotate: true
+  xy: 853, 338
+  size: 88, 40
+  orig: 88, 40
+  offset: 0, 0
+  index: -1
+body_light_1
+  rotate: true
+  xy: 833, 522
+  size: 166, 47
+  orig: 166, 47
+  offset: 0, 0
+  index: -1
+body_light_2
+  rotate: false
+  xy: 485, 46
+  size: 166, 47
+  orig: 166, 47
+  offset: 0, 0
+  index: -1
+body_light_3
+  rotate: true
+  xy: 776, 252
+  size: 162, 36
+  orig: 162, 36
+  offset: 0, 0
+  index: -1
+body_light_4
+  rotate: true
+  xy: 814, 261
+  size: 153, 37
+  orig: 153, 37
+  offset: 0, 0
+  index: -1
+body_light_5
+  rotate: false
+  xy: 485, 2
+  size: 134, 42
+  orig: 134, 42
+  offset: 0, 0
+  index: -1
+body_liquid_1
+  rotate: true
+  xy: 739, 2
+  size: 14, 37
+  orig: 14, 37
+  offset: 0, 0
+  index: -1
+body_liquid_2
+  rotate: true
+  xy: 836, 48
+  size: 35, 56
+  orig: 35, 56
+  offset: 0, 0
+  index: -1
+body_liquid_3
+  rotate: true
+  xy: 754, 18
+  size: 28, 67
+  orig: 28, 67
+  offset: 0, 0
+  index: -1
+def_body
+  rotate: false
+  xy: 2, 659
+  size: 753, 237
+  orig: 753, 237
+  offset: 0, 0
+  index: -1
+def_tail
+  rotate: true
+  xy: 853, 268
+  size: 68, 41
+  orig: 68, 41
+  offset: 0, 0
+  index: -1
+eff_beam_1
+  rotate: true
+  xy: 2, 30
+  size: 99, 192
+  orig: 99, 192
+  offset: 0, 0
+  index: -1
+eff_beam_2
+  rotate: true
+  xy: 504, 95
+  size: 87, 187
+  orig: 87, 187
+  offset: 0, 0
+  index: -1
+eff_beam_charge
+  rotate: false
+  xy: 400, 19
+  size: 83, 80
+  orig: 83, 80
+  offset: 0, 0
+  index: -1
+eff_beam_inside
+  rotate: false
+  xy: 757, 662
+  size: 9, 26
+  orig: 9, 26
+  offset: 0, 0
+  index: -1
+eff_beam_splash
+  rotate: false
+  xy: 844, 717
+  size: 44, 179
+  orig: 44, 179
+  offset: 0, 0
+  index: -1
+eff_bubble
+  rotate: true
+  xy: 768, 495
+  size: 193, 63
+  orig: 193, 63
+  offset: 0, 0
+  index: -1
+eff_bubble_mini
+  rotate: false
+  xy: 2, 2
+  size: 29, 26
+  orig: 29, 26
+  offset: 0, 0
+  index: -1
+eff_circle
+  rotate: false
+  xy: 621, 2
+  size: 116, 42
+  orig: 116, 42
+  offset: 0, 0
+  index: -1
+eff_mini_splash_1
+  rotate: false
+  xy: 295, 237
+  size: 8, 19
+  orig: 8, 19
+  offset: 0, 0
+  index: -1
+eff_mini_splash_2
+  rotate: false
+  xy: 890, 880
+  size: 6, 16
+  orig: 6, 16
+  offset: 0, 0
+  index: -1
+eff_mini_splash_3
+  rotate: false
+  xy: 829, 74
+  size: 5, 8
+  orig: 5, 8
+  offset: 0, 0
+  index: -1
+eff_splash_1
+  rotate: false
+  xy: 836, 85
+  size: 60, 109
+  orig: 60, 109
+  offset: 0, 0
+  index: -1
+eff_splash_2
+  rotate: false
+  xy: 196, 11
+  size: 65, 118
+  orig: 65, 118
+  offset: 0, 0
+  index: -1
+eff_splash_3
+  rotate: false
+  xy: 772, 84
+  size: 62, 110
+  orig: 62, 110
+  offset: 0, 0
+  index: -1
+eff_wind_1
+  rotate: false
+  xy: 754, 48
+  size: 73, 34
+  orig: 73, 34
+  offset: 0, 0
+  index: -1
+eff_wind_2
+  rotate: false
+  xy: 653, 46
+  size: 99, 47
+  orig: 99, 47
+  offset: 0, 0
+  index: -1
+face_damage_l
+  rotate: false
+  xy: 263, 10
+  size: 135, 89
+  orig: 135, 89
+  offset: 0, 0
+  index: -1
+face_damage_r
+  rotate: true
+  xy: 693, 101
+  size: 81, 77
+  orig: 81, 77
+  offset: 0, 0
+  index: -1
+wave
+  rotate: false
+  xy: 295, 184
+  size: 427, 15
+  orig: 427, 15
+  offset: 0, 0
+  index: -1

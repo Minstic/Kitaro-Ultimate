@@ -1,0 +1,496 @@
+
+Season_15011.png
+size: 1009,851
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+acc_hair
+  rotate: true
+  xy: 661, 2
+  size: 52, 57
+  orig: 52, 57
+  offset: 0, 0
+  index: -1
+crystal
+  rotate: true
+  xy: 479, 619
+  size: 195, 132
+  orig: 195, 132
+  offset: 0, 0
+  index: -1
+crystal2
+  rotate: true
+  xy: 766, 290
+  size: 152, 102
+  orig: 152, 102
+  offset: 0, 0
+  index: -1
+eff_snow1
+  rotate: false
+  xy: 441, 442
+  size: 174, 175
+  orig: 174, 175
+  offset: 0, 0
+  index: -1
+eff_snow2
+  rotate: false
+  xy: 247, 228
+  size: 211, 171
+  orig: 211, 171
+  offset: 0, 0
+  index: -1
+eff_snow3
+  rotate: false
+  xy: 613, 629
+  size: 229, 147
+  orig: 229, 147
+  offset: 0, 0
+  index: -1
+eff_snow4
+  rotate: true
+  xy: 247, 401
+  size: 235, 192
+  orig: 235, 192
+  offset: 0, 0
+  index: -1
+ice_1
+  rotate: true
+  xy: 870, 277
+  size: 69, 99
+  orig: 69, 99
+  offset: 0, 0
+  index: -1
+ice_2
+  rotate: true
+  xy: 802, 202
+  size: 86, 66
+  orig: 86, 66
+  offset: 0, 0
+  index: -1
+ice_castle
+  rotate: false
+  xy: 617, 529
+  size: 247, 98
+  orig: 247, 98
+  offset: 0, 0
+  index: -1
+ice_floor
+  rotate: false
+  xy: 617, 444
+  size: 225, 83
+  orig: 225, 83
+  offset: 0, 0
+  index: -1
+ice_grand
+  rotate: false
+  xy: 623, 778
+  size: 338, 71
+  orig: 338, 71
+  offset: 0, 0
+  index: -1
+ice_hit
+  rotate: true
+  xy: 2, 2
+  size: 139, 82
+  orig: 139, 82
+  offset: 0, 0
+  index: -1
+ice_hit2
+  rotate: true
+  xy: 214, 2
+  size: 149, 70
+  orig: 149, 70
+  offset: 0, 0
+  index: -1
+icicle_1_A1
+  rotate: false
+  xy: 977, 211
+  size: 23, 63
+  orig: 23, 63
+  offset: 0, 0
+  index: -1
+icicle_1_A2
+  rotate: false
+  xy: 607, 50
+  size: 52, 116
+  orig: 52, 116
+  offset: 0, 0
+  index: -1
+icicle_1_A3
+  rotate: false
+  xy: 963, 696
+  size: 44, 153
+  orig: 44, 153
+  offset: 0, 0
+  index: -1
+icicle_1_B1
+  rotate: false
+  xy: 396, 16
+  size: 40, 135
+  orig: 40, 135
+  offset: 0, 0
+  index: -1
+icicle_1_B2
+  rotate: false
+  xy: 564, 263
+  size: 73, 177
+  orig: 73, 177
+  offset: 0, 0
+  index: -1
+icicle_1_B3
+  rotate: false
+  xy: 957, 516
+  size: 48, 110
+  orig: 48, 110
+  offset: 0, 0
+  index: -1
+icicle_2
+  rotate: false
+  xy: 460, 233
+  size: 102, 207
+  orig: 102, 207
+  offset: 0, 0
+  index: -1
+icicle_3
+  rotate: true
+  xy: 396, 2
+  size: 12, 47
+  orig: 12, 47
+  offset: 0, 0
+  index: -1
+icicle_4
+  rotate: true
+  xy: 619, 185
+  size: 42, 40
+  orig: 42, 40
+  offset: 0, 0
+  index: -1
+icicle_5
+  rotate: true
+  xy: 86, 2
+  size: 11, 31
+  orig: 11, 31
+  offset: 0, 0
+  index: -1
+icicle_B
+  rotate: true
+  xy: 286, 3
+  size: 148, 108
+  orig: 148, 108
+  offset: 0, 0
+  index: -1
+kirakira_eff
+  rotate: true
+  xy: 855, 54
+  size: 56, 82
+  orig: 56, 82
+  offset: 0, 0
+  index: -1
+snowgirl_A_body
+  rotate: false
+  xy: 945, 353
+  size: 58, 161
+  orig: 58, 161
+  offset: 0, 0
+  index: -1
+snowgirl_A_body_re
+  rotate: true
+  xy: 639, 229
+  size: 58, 161
+  orig: 58, 161
+  offset: 0, 0
+  index: -1
+snowgirl_A_face_default
+  rotate: false
+  xy: 596, 190
+  size: 21, 22
+  orig: 21, 22
+  offset: 0, 0
+  index: -1
+snowgirl_A_hair
+  rotate: false
+  xy: 866, 516
+  size: 89, 128
+  orig: 89, 128
+  offset: 0, 0
+  index: -1
+snowgirl_A_hand
+  rotate: false
+  xy: 800, 57
+  size: 53, 35
+  orig: 53, 35
+  offset: 0, 0
+  index: -1
+snowgirl_B_body
+  rotate: false
+  xy: 799, 94
+  size: 54, 106
+  orig: 54, 106
+  offset: 0, 0
+  index: -1
+snowgirl_B_body_re
+  rotate: true
+  xy: 855, 112
+  size: 54, 106
+  orig: 54, 106
+  offset: 0, 0
+  index: -1
+snowgirl_B_face_default
+  rotate: true
+  xy: 939, 732
+  size: 21, 22
+  orig: 21, 22
+  offset: 0, 0
+  index: -1
+snowgirl_B_hair
+  rotate: true
+  xy: 415, 154
+  size: 72, 128
+  orig: 72, 128
+  offset: 0, 0
+  index: -1
+snowgirl_B_hair_re
+  rotate: false
+  xy: 533, 24
+  size: 72, 128
+  orig: 72, 128
+  offset: 0, 0
+  index: -1
+snowgirl_B_hand
+  rotate: true
+  xy: 939, 61
+  size: 49, 37
+  orig: 49, 37
+  offset: 0, 0
+  index: -1
+snowgirl_B_head
+  rotate: false
+  xy: 957, 628
+  size: 50, 66
+  orig: 50, 66
+  offset: 0, 0
+  index: -1
+snowgirl_B_head_re
+  rotate: true
+  xy: 800, 2
+  size: 50, 66
+  orig: 50, 66
+  offset: 0, 0
+  index: -1
+snowgirl_C_body
+  rotate: true
+  xy: 247, 153
+  size: 73, 166
+  orig: 73, 166
+  offset: 0, 0
+  index: -1
+snowgirl_C_body_re
+  rotate: false
+  xy: 870, 348
+  size: 73, 166
+  orig: 73, 166
+  offset: 0, 0
+  index: -1
+snowgirl_C_face_default
+  rotate: false
+  xy: 939, 755
+  size: 22, 21
+  orig: 22, 21
+  offset: 0, 0
+  index: -1
+snowgirl_C_hair
+  rotate: false
+  xy: 661, 114
+  size: 67, 113
+  orig: 67, 113
+  offset: 0, 0
+  index: -1
+snowgirl_C_hair_re
+  rotate: false
+  xy: 730, 114
+  size: 67, 113
+  orig: 67, 113
+  offset: 0, 0
+  index: -1
+snowgirl_C_hand
+  rotate: true
+  xy: 212, 172
+  size: 48, 33
+  orig: 48, 33
+  offset: 0, 0
+  index: -1
+sunglass
+  rotate: false
+  xy: 868, 15
+  size: 81, 37
+  orig: 81, 37
+  offset: 0, 0
+  index: -1
+tree_l
+  rotate: true
+  xy: 206, 638
+  size: 176, 271
+  orig: 176, 271
+  offset: 0, 0
+  index: -1
+tree_r
+  rotate: false
+  xy: 2, 560
+  size: 202, 289
+  orig: 202, 289
+  offset: 0, 0
+  index: -1
+wave_01
+  rotate: true
+  xy: 37, 144
+  size: 414, 33
+  orig: 414, 33
+  offset: 0, 0
+  index: -1
+wave_02
+  rotate: true
+  xy: 2, 143
+  size: 415, 33
+  orig: 415, 33
+  offset: 0, 0
+  index: -1
+wave_03
+  rotate: true
+  xy: 72, 144
+  size: 414, 33
+  orig: 414, 33
+  offset: 0, 0
+  index: -1
+wave_04
+  rotate: true
+  xy: 107, 144
+  size: 414, 33
+  orig: 414, 33
+  offset: 0, 0
+  index: -1
+wave_05
+  rotate: false
+  xy: 206, 816
+  size: 415, 33
+  orig: 415, 33
+  offset: 0, 0
+  index: -1
+wave_06
+  rotate: true
+  xy: 142, 144
+  size: 414, 33
+  orig: 414, 33
+  offset: 0, 0
+  index: -1
+wave_07
+  rotate: true
+  xy: 177, 144
+  size: 414, 33
+  orig: 414, 33
+  offset: 0, 0
+  index: -1
+wave_08
+  rotate: true
+  xy: 212, 222
+  size: 414, 33
+  orig: 414, 33
+  offset: 0, 0
+  index: -1
+yukijoro_arm_R
+  rotate: false
+  xy: 545, 167
+  size: 49, 45
+  orig: 49, 45
+  offset: 0, 0
+  index: -1
+yukijoro_arm_l
+  rotate: false
+  xy: 951, 10
+  size: 25, 49
+  orig: 25, 49
+  offset: 0, 0
+  index: -1
+yukijoro_backrest
+  rotate: false
+  xy: 639, 289
+  size: 125, 153
+  orig: 125, 153
+  offset: 0, 0
+  index: -1
+yukijoro_body
+  rotate: false
+  xy: 870, 168
+  size: 105, 107
+  orig: 105, 107
+  offset: 0, 0
+  index: -1
+yukijoro_chair_1
+  rotate: true
+  xy: 977, 276
+  size: 75, 30
+  orig: 75, 30
+  offset: 0, 0
+  index: -1
+yukijoro_chair_2
+  rotate: false
+  xy: 661, 56
+  size: 111, 56
+  orig: 111, 56
+  offset: 0, 0
+  index: -1
+yukijoro_face_damage
+  rotate: false
+  xy: 607, 17
+  size: 49, 31
+  orig: 49, 31
+  offset: 0, 0
+  index: -1
+yukijoro_face_default
+  rotate: true
+  xy: 977, 164
+  size: 45, 28
+  orig: 45, 28
+  offset: 0, 0
+  index: -1
+yukijoro_fan
+  rotate: false
+  xy: 720, 3
+  size: 78, 51
+  orig: 78, 51
+  offset: 0, 0
+  index: -1
+yukijoro_hair_F
+  rotate: true
+  xy: 86, 15
+  size: 127, 126
+  orig: 127, 126
+  offset: 0, 0
+  index: -1
+yukijoro_hand_L
+  rotate: true
+  xy: 564, 214
+  size: 47, 53
+  orig: 47, 53
+  offset: 0, 0
+  index: -1
+yukijoro_hand_r
+  rotate: true
+  xy: 619, 247
+  size: 14, 18
+  orig: 14, 18
+  offset: 0, 0
+  index: -1
+yukijoro_head
+  rotate: true
+  xy: 844, 646
+  size: 130, 93
+  orig: 130, 93
+  offset: 0, 0
+  index: -1
+yukijoro_head_re
+  rotate: true
+  xy: 438, 22
+  size: 130, 93
+  orig: 130, 93
+  offset: 0, 0
+  index: -1

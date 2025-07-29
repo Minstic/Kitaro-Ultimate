@@ -1,0 +1,104 @@
+
+Character_00551.png
+size: 333,252
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_l
+  rotate: true
+  xy: 181, 168
+  size: 82, 98
+  orig: 82, 98
+  offset: 0, 0
+  index: -1
+arm_r_01
+  rotate: false
+  xy: 114, 27
+  size: 47, 79
+  orig: 47, 79
+  offset: 0, 0
+  index: -1
+arm_r_02
+  rotate: false
+  xy: 263, 79
+  size: 68, 64
+  orig: 68, 64
+  offset: 0, 0
+  index: -1
+body_01
+  rotate: true
+  xy: 163, 9
+  size: 68, 75
+  orig: 68, 75
+  offset: 0, 0
+  index: -1
+bowknot
+  rotate: false
+  xy: 240, 20
+  size: 51, 57
+  orig: 51, 57
+  offset: 0, 0
+  index: -1
+face_damage
+  rotate: false
+  xy: 2, 2
+  size: 84, 27
+  orig: 84, 27
+  offset: 0, 0
+  index: -1
+face_default
+  rotate: true
+  xy: 310, 39
+  size: 38, 20
+  orig: 38, 20
+  offset: 0, 0
+  index: -1
+face_default_eye
+  rotate: true
+  xy: 88, 4
+  size: 25, 5
+  orig: 25, 5
+  offset: 0, 0
+  index: -1
+face_default_pipe
+  rotate: true
+  xy: 293, 19
+  size: 58, 15
+  orig: 58, 15
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 2, 31
+  size: 110, 75
+  orig: 110, 75
+  offset: 0, 0
+  index: -1
+hip
+  rotate: false
+  xy: 2, 108
+  size: 160, 78
+  orig: 160, 78
+  offset: 0, 0
+  index: -1
+neck_01
+  rotate: true
+  xy: 164, 79
+  size: 87, 97
+  orig: 87, 97
+  offset: 0, 0
+  index: -1
+neck_02
+  rotate: true
+  xy: 281, 145
+  size: 105, 49
+  orig: 105, 49
+  offset: 0, 0
+  index: -1
+neck_03
+  rotate: false
+  xy: 2, 188
+  size: 177, 62
+  orig: 177, 62
+  offset: 0, 0
+  index: -1

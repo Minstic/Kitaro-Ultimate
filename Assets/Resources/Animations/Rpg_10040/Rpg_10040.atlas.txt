@@ -1,0 +1,293 @@
+
+Rpg_10040.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_L
+  rotate: true
+  xy: 622, 49
+  size: 15, 38
+  orig: 15, 38
+  offset: 0, 0
+  index: -1
+arm_L_atk
+  rotate: false
+  xy: 524, 49
+  size: 42, 17
+  orig: 42, 17
+  offset: 0, 0
+  index: -1
+arm_R
+  rotate: false
+  xy: 307, 10
+  size: 14, 33
+  orig: 14, 33
+  offset: 0, 0
+  index: -1
+arm_R_atk
+  rotate: true
+  xy: 220, 2
+  size: 41, 35
+  orig: 41, 35
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 169, 11
+  size: 49, 34
+  orig: 49, 34
+  offset: 0, 0
+  index: -1
+cap
+  rotate: false
+  xy: 2, 2
+  size: 97, 45
+  orig: 97, 45
+  offset: 0, 0
+  index: -1
+eff_splash1_1
+  rotate: false
+  xy: 666, 42
+  size: 84, 84
+  orig: 84, 84
+  offset: 0, 0
+  index: -1
+eff_splash1_2
+  rotate: false
+  xy: 838, 73
+  size: 84, 53
+  orig: 84, 53
+  offset: 0, 0
+  index: -1
+eff_splash1_3
+  rotate: false
+  xy: 752, 46
+  size: 84, 80
+  orig: 84, 80
+  offset: 0, 0
+  index: -1
+eff_splash2_1
+  rotate: true
+  xy: 101, 2
+  size: 43, 35
+  orig: 43, 35
+  offset: 0, 0
+  index: -1
+eff_splash2_2
+  rotate: true
+  xy: 924, 87
+  size: 39, 66
+  orig: 39, 66
+  offset: 0, 0
+  index: -1
+eff_splash2_3
+  rotate: false
+  xy: 257, 9
+  size: 48, 34
+  orig: 48, 34
+  offset: 0, 0
+  index: -1
+eff_splash2_4
+  rotate: false
+  xy: 924, 67
+  size: 53, 18
+  orig: 53, 18
+  offset: 0, 0
+  index: -1
+eff_splash2_5
+  rotate: false
+  xy: 388, 9
+  size: 18, 17
+  orig: 18, 17
+  offset: 0, 0
+  index: -1
+eff_splash2_6
+  rotate: true
+  xy: 408, 9
+  size: 17, 18
+  orig: 17, 18
+  offset: 0, 0
+  index: -1
+eff_splash3_1
+  rotate: false
+  xy: 803, 32
+  size: 23, 12
+  orig: 23, 12
+  offset: 0, 0
+  index: -1
+eff_splash3_2
+  rotate: false
+  xy: 922, 52
+  size: 18, 13
+  orig: 18, 13
+  offset: 0, 0
+  index: -1
+eff_splash3_3
+  rotate: false
+  xy: 366, 8
+  size: 20, 18
+  orig: 20, 18
+  offset: 0, 0
+  index: -1
+eff_splash3_4
+  rotate: false
+  xy: 428, 11
+  size: 19, 15
+  orig: 19, 15
+  offset: 0, 0
+  index: -1
+eff_water_1
+  rotate: false
+  xy: 2, 49
+  size: 113, 77
+  orig: 113, 77
+  offset: 0, 0
+  index: -1
+eff_water_2
+  rotate: false
+  xy: 230, 45
+  size: 109, 81
+  orig: 109, 81
+  offset: 0, 0
+  index: -1
+eff_water_3
+  rotate: false
+  xy: 341, 46
+  size: 109, 80
+  orig: 109, 80
+  offset: 0, 0
+  index: -1
+eff_water_4
+  rotate: false
+  xy: 117, 47
+  size: 111, 79
+  orig: 111, 79
+  offset: 0, 0
+  index: -1
+eye_L
+  rotate: false
+  xy: 169, 2
+  size: 3, 7
+  orig: 3, 7
+  offset: 0, 0
+  index: -1
+eye_L_re
+  rotate: false
+  xy: 174, 2
+  size: 3, 7
+  orig: 3, 7
+  offset: 0, 0
+  index: -1
+eye_R_patch
+  rotate: true
+  xy: 138, 2
+  size: 43, 29
+  orig: 43, 29
+  offset: 0, 0
+  index: -1
+eye_R_patch_re
+  rotate: true
+  xy: 992, 82
+  size: 44, 29
+  orig: 44, 29
+  offset: 0, 0
+  index: -1
+eye_close
+  rotate: false
+  xy: 343, 28
+  size: 25, 16
+  orig: 25, 16
+  offset: 0, 0
+  index: -1
+eye_close_re
+  rotate: false
+  xy: 370, 28
+  size: 25, 16
+  orig: 25, 16
+  offset: 0, 0
+  index: -1
+eye_dmg
+  rotate: false
+  xy: 891, 53
+  size: 29, 18
+  orig: 29, 18
+  offset: 0, 0
+  index: -1
+eye_dmg_re
+  rotate: true
+  xy: 323, 14
+  size: 29, 18
+  orig: 29, 18
+  offset: 0, 0
+  index: -1
+eyeline_L
+  rotate: false
+  xy: 397, 28
+  size: 25, 16
+  orig: 25, 16
+  offset: 0, 0
+  index: -1
+eyeline_L_re
+  rotate: false
+  xy: 424, 28
+  size: 25, 16
+  orig: 25, 16
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 568, 66
+  size: 96, 60
+  orig: 96, 60
+  offset: 0, 0
+  index: -1
+leg_L
+  rotate: true
+  xy: 343, 7
+  size: 19, 21
+  orig: 19, 21
+  offset: 0, 0
+  index: -1
+leg_R
+  rotate: true
+  xy: 942, 52
+  size: 13, 18
+  orig: 13, 18
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: false
+  xy: 752, 30
+  size: 49, 14
+  orig: 49, 14
+  offset: 0, 0
+  index: -1
+mouth_dmg
+  rotate: false
+  xy: 568, 52
+  size: 52, 12
+  orig: 52, 12
+  offset: 0, 0
+  index: -1
+neck
+  rotate: false
+  xy: 452, 48
+  size: 70, 18
+  orig: 70, 18
+  offset: 0, 0
+  index: -1
+pants
+  rotate: false
+  xy: 838, 49
+  size: 51, 22
+  orig: 51, 22
+  offset: 0, 0
+  index: -1
+pump
+  rotate: false
+  xy: 452, 68
+  size: 114, 58
+  orig: 114, 58
+  offset: 0, 0
+  index: -1

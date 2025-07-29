@@ -1,0 +1,342 @@
+
+Character_00032.png
+size: 535,520
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+catA_body
+  rotate: false
+  xy: 263, 423
+  size: 185, 95
+  orig: 185, 95
+  offset: 0, 0
+  index: -1
+catA_face_attack
+  rotate: true
+  xy: 399, 165
+  size: 113, 37
+  orig: 113, 37
+  offset: 0, 0
+  index: -1
+catA_face_damage
+  rotate: true
+  xy: 286, 10
+  size: 108, 42
+  orig: 108, 42
+  offset: 0, 0
+  index: -1
+catA_face_default
+  rotate: true
+  xy: 249, 16
+  size: 108, 35
+  orig: 108, 35
+  offset: 0, 0
+  index: -1
+catA_head
+  rotate: true
+  xy: 120, 119
+  size: 126, 99
+  orig: 126, 99
+  offset: 0, 0
+  index: -1
+catA_tail_01
+  rotate: true
+  xy: 399, 119
+  size: 44, 37
+  orig: 44, 37
+  offset: 0, 0
+  index: -1
+catA_tail_02
+  rotate: false
+  xy: 438, 79
+  size: 55, 28
+  orig: 55, 28
+  offset: 0, 0
+  index: -1
+catA_tail_03
+  rotate: false
+  xy: 438, 109
+  size: 47, 41
+  orig: 47, 41
+  offset: 0, 0
+  index: -1
+catB_arm_l1
+  rotate: false
+  xy: 485, 261
+  size: 48, 35
+  orig: 48, 35
+  offset: 0, 0
+  index: -1
+catB_arm_l2
+  rotate: false
+  xy: 337, 96
+  size: 58, 36
+  orig: 58, 36
+  offset: 0, 0
+  index: -1
+catB_arm_r1
+  rotate: true
+  xy: 460, 298
+  size: 46, 68
+  orig: 46, 68
+  offset: 0, 0
+  index: -1
+catB_arm_r2
+  rotate: false
+  xy: 438, 215
+  size: 45, 63
+  orig: 45, 63
+  offset: 0, 0
+  index: -1
+catB_body
+  rotate: false
+  xy: 2, 371
+  size: 259, 147
+  orig: 259, 147
+  offset: 0, 0
+  index: -1
+catB_face_attack
+  rotate: false
+  xy: 263, 371
+  size: 155, 50
+  orig: 155, 50
+  offset: 0, 0
+  index: -1
+catB_face_damage
+  rotate: true
+  xy: 337, 134
+  size: 144, 60
+  orig: 144, 60
+  offset: 0, 0
+  index: -1
+catB_face_default
+  rotate: true
+  xy: 288, 120
+  size: 154, 47
+  orig: 154, 47
+  offset: 0, 0
+  index: -1
+catB_head
+  rotate: false
+  xy: 2, 247
+  size: 185, 122
+  orig: 185, 122
+  offset: 0, 0
+  index: -1
+catB_leg_l
+  rotate: true
+  xy: 420, 371
+  size: 50, 49
+  orig: 50, 49
+  offset: 0, 0
+  index: -1
+catB_leg_r
+  rotate: false
+  xy: 438, 152
+  size: 42, 61
+  orig: 42, 61
+  offset: 0, 0
+  index: -1
+catB_ribbon
+  rotate: true
+  xy: 330, 2
+  size: 52, 33
+  orig: 52, 33
+  offset: 0, 0
+  index: -1
+catB_tail
+  rotate: false
+  xy: 189, 276
+  size: 144, 93
+  orig: 144, 93
+  offset: 0, 0
+  index: -1
+eff_a_01
+  rotate: false
+  xy: 221, 126
+  size: 65, 148
+  orig: 65, 148
+  offset: 0, 0
+  index: -1
+eff_hit_1
+  rotate: true
+  xy: 487, 194
+  size: 43, 46
+  orig: 43, 46
+  offset: 0, 0
+  index: -1
+eff_hit_2
+  rotate: true
+  xy: 397, 85
+  size: 32, 39
+  orig: 32, 39
+  offset: 0, 0
+  index: -1
+eff_hit_3
+  rotate: true
+  xy: 487, 123
+  size: 41, 46
+  orig: 41, 46
+  offset: 0, 0
+  index: -1
+eff_hit_4
+  rotate: true
+  xy: 189, 248
+  size: 26, 30
+  orig: 26, 30
+  offset: 0, 0
+  index: -1
+eff_slash_1
+  rotate: false
+  xy: 2, 119
+  size: 116, 126
+  orig: 116, 126
+  offset: 0, 0
+  index: -1
+eff_slash_2
+  rotate: false
+  xy: 2, 3
+  size: 123, 114
+  orig: 123, 114
+  offset: 0, 0
+  index: -1
+eff_slash_3
+  rotate: true
+  xy: 127, 11
+  size: 106, 120
+  orig: 106, 120
+  offset: 0, 0
+  index: -1
+eff_slash_4
+  rotate: true
+  xy: 335, 280
+  size: 89, 123
+  orig: 89, 123
+  offset: 0, 0
+  index: -1
+neko_arm_a_down_l
+  rotate: true
+  xy: 485, 239
+  size: 20, 48
+  orig: 20, 48
+  offset: 0, 0
+  index: -1
+neko_arm_a_down_r
+  rotate: false
+  xy: 365, 9
+  size: 25, 45
+  orig: 25, 45
+  offset: 0, 0
+  index: -1
+neko_arm_b_l
+  rotate: false
+  xy: 467, 43
+  size: 19, 34
+  orig: 19, 34
+  offset: 0, 0
+  index: -1
+neko_arm_b_r
+  rotate: false
+  xy: 385, 59
+  size: 10, 35
+  orig: 10, 35
+  offset: 0, 0
+  index: -1
+neko_arm_c_l
+  rotate: true
+  xy: 450, 426
+  size: 24, 81
+  orig: 24, 81
+  offset: 0, 0
+  index: -1
+neko_arm_c_r
+  rotate: false
+  xy: 471, 346
+  size: 54, 78
+  orig: 54, 78
+  offset: 0, 0
+  index: -1
+neko_body
+  rotate: false
+  xy: 397, 43
+  size: 39, 40
+  orig: 39, 40
+  offset: 0, 0
+  index: -1
+neko_face_attack
+  rotate: false
+  xy: 330, 56
+  size: 53, 38
+  orig: 53, 38
+  offset: 0, 0
+  index: -1
+neko_face_damage
+  rotate: false
+  xy: 482, 166
+  size: 51, 26
+  orig: 51, 26
+  offset: 0, 0
+  index: -1
+neko_face_default
+  rotate: true
+  xy: 495, 67
+  size: 54, 29
+  orig: 54, 29
+  offset: 0, 0
+  index: -1
+neko_foot_l
+  rotate: true
+  xy: 460, 283
+  size: 13, 17
+  orig: 13, 17
+  offset: 0, 0
+  index: -1
+neko_foot_r
+  rotate: false
+  xy: 423, 24
+  size: 11, 17
+  orig: 11, 17
+  offset: 0, 0
+  index: -1
+neko_head
+  rotate: false
+  xy: 450, 452
+  size: 81, 66
+  orig: 81, 66
+  offset: 0, 0
+  index: -1
+neko_leg_l
+  rotate: false
+  xy: 436, 24
+  size: 11, 17
+  orig: 11, 17
+  offset: 0, 0
+  index: -1
+neko_leg_r
+  rotate: false
+  xy: 460, 352
+  size: 9, 17
+  orig: 9, 17
+  offset: 0, 0
+  index: -1
+neko_ribbon_l
+  rotate: false
+  xy: 438, 43
+  size: 27, 34
+  orig: 27, 34
+  offset: 0, 0
+  index: -1
+neko_ribbon_r
+  rotate: false
+  xy: 392, 11
+  size: 29, 30
+  orig: 29, 30
+  offset: 0, 0
+  index: -1
+neko_tie
+  rotate: true
+  xy: 423, 11
+  size: 11, 14
+  orig: 11, 14
+  offset: 0, 0
+  index: -1

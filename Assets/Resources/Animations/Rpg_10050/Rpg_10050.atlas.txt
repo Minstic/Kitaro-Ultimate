@@ -1,0 +1,188 @@
+
+Rpg_10050.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_l
+  rotate: true
+  xy: 354, 3
+  size: 26, 36
+  orig: 26, 36
+  offset: 0, 0
+  index: -1
+arm_r
+  rotate: true
+  xy: 769, 165
+  size: 20, 44
+  orig: 20, 44
+  offset: 0, 0
+  index: -1
+atk_arm_l_1
+  rotate: false
+  xy: 495, 197
+  size: 138, 57
+  orig: 138, 57
+  offset: 0, 0
+  index: -1
+atk_arm_l_2
+  rotate: false
+  xy: 186, 8
+  size: 135, 21
+  orig: 135, 21
+  offset: 0, 0
+  index: -1
+atk_arm_r_1
+  rotate: false
+  xy: 769, 212
+  size: 127, 42
+  orig: 127, 42
+  offset: 0, 0
+  index: -1
+atk_arm_r_2
+  rotate: false
+  xy: 898, 234
+  size: 114, 20
+  orig: 114, 20
+  offset: 0, 0
+  index: -1
+atk_hand_l_1
+  rotate: false
+  xy: 392, 7
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1
+atk_hand_l_2
+  rotate: true
+  xy: 427, 31
+  size: 18, 22
+  orig: 18, 22
+  offset: 0, 0
+  index: -1
+atk_hand_r_1
+  rotate: false
+  xy: 943, 215
+  size: 18, 17
+  orig: 18, 17
+  offset: 0, 0
+  index: -1
+atk_hand_r_2
+  rotate: false
+  xy: 526, 134
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+atk_stick_2
+  rotate: true
+  xy: 186, 31
+  size: 82, 239
+  orig: 82, 239
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 635, 157
+  size: 97, 132
+  orig: 97, 132
+  offset: 0, 0
+  index: -1
+body_B_1
+  rotate: false
+  xy: 464, 134
+  size: 60, 61
+  orig: 60, 61
+  offset: 0, 0
+  index: -1
+body_B_2
+  rotate: true
+  xy: 427, 51
+  size: 62, 40
+  orig: 62, 40
+  offset: 0, 0
+  index: -1
+body_B_3
+  rotate: true
+  xy: 323, 2
+  size: 27, 29
+  orig: 27, 29
+  offset: 0, 0
+  index: -1
+body_B_4
+  rotate: false
+  xy: 769, 187
+  size: 113, 23
+  orig: 113, 23
+  offset: 0, 0
+  index: -1
+cap
+  rotate: false
+  xy: 526, 156
+  size: 52, 39
+  orig: 52, 39
+  offset: 0, 0
+  index: -1
+dmg_eye
+  rotate: false
+  xy: 898, 214
+  size: 43, 18
+  orig: 43, 18
+  offset: 0, 0
+  index: -1
+effect
+  rotate: false
+  xy: 2, 15
+  size: 182, 239
+  orig: 182, 239
+  offset: 0, 0
+  index: -1
+effect_2
+  rotate: false
+  xy: 186, 200
+  size: 307, 54
+  orig: 307, 54
+  offset: 0, 0
+  index: -1
+eye
+  rotate: false
+  xy: 464, 116
+  size: 41, 16
+  orig: 41, 16
+  offset: 0, 0
+  index: -1
+hand_l
+  rotate: false
+  xy: 815, 169
+  size: 22, 16
+  orig: 22, 16
+  offset: 0, 0
+  index: -1
+hand_r
+  rotate: true
+  xy: 618, 174
+  size: 21, 14
+  orig: 21, 14
+  offset: 0, 0
+  index: -1
+star_l
+  rotate: false
+  xy: 469, 84
+  size: 32, 30
+  orig: 32, 30
+  offset: 0, 0
+  index: -1
+star_r
+  rotate: false
+  xy: 580, 162
+  size: 36, 33
+  orig: 36, 33
+  offset: 0, 0
+  index: -1
+stick
+  rotate: false
+  xy: 186, 115
+  size: 276, 83
+  orig: 276, 83
+  offset: 0, 0
+  index: -1

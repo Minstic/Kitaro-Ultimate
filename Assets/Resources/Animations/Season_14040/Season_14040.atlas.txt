@@ -1,0 +1,188 @@
+
+Season_14040.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Smoke
+  rotate: false
+  xy: 178, 61
+  size: 145, 65
+  orig: 145, 65
+  offset: 0, 0
+  index: -1
+eff_hit
+  rotate: false
+  xy: 521, 52
+  size: 22, 21
+  orig: 22, 21
+  offset: 0, 0
+  index: -1
+kawa_arm_l
+  rotate: false
+  xy: 470, 47
+  size: 24, 26
+  orig: 24, 26
+  offset: 0, 0
+  index: -1
+kawa_arm_r
+  rotate: false
+  xy: 496, 47
+  size: 23, 26
+  orig: 23, 26
+  offset: 0, 0
+  index: -1
+kawa_arm_r_k
+  rotate: false
+  xy: 961, 96
+  size: 41, 30
+  orig: 41, 30
+  offset: 0, 0
+  index: -1
+kawa_body
+  rotate: false
+  xy: 261, 24
+  size: 52, 35
+  orig: 52, 35
+  offset: 0, 0
+  index: -1
+kawa_eye_close
+  rotate: true
+  xy: 1004, 76
+  size: 50, 18
+  orig: 50, 18
+  offset: 0, 0
+  index: -1
+kawa_eye_damage
+  rotate: false
+  xy: 684, 86
+  size: 55, 21
+  orig: 55, 21
+  offset: 0, 0
+  index: -1
+kawa_eye_default
+  rotate: false
+  xy: 81, 5
+  size: 50, 17
+  orig: 50, 17
+  offset: 0, 0
+  index: -1
+kawa_eyes
+  rotate: false
+  xy: 213, 5
+  size: 34, 8
+  orig: 34, 8
+  offset: 0, 0
+  index: -1
+kawa_hat
+  rotate: false
+  xy: 612, 86
+  size: 70, 40
+  orig: 70, 40
+  offset: 0, 0
+  index: -1
+kawa_head
+  rotate: false
+  xy: 474, 75
+  size: 74, 51
+  orig: 74, 51
+  offset: 0, 0
+  index: -1
+kawa_mouth_damage
+  rotate: false
+  xy: 684, 109
+  size: 77, 17
+  orig: 77, 17
+  offset: 0, 0
+  index: -1
+kawa_mouth_default
+  rotate: false
+  xy: 2, 8
+  size: 77, 14
+  orig: 77, 14
+  offset: 0, 0
+  index: -1
+leg_l
+  rotate: true
+  xy: 435, 42
+  size: 31, 33
+  orig: 31, 33
+  offset: 0, 0
+  index: -1
+leg_r
+  rotate: false
+  xy: 870, 92
+  size: 45, 34
+  orig: 45, 34
+  offset: 0, 0
+  index: -1
+shiro_arm_r_01
+  rotate: true
+  xy: 395, 75
+  size: 51, 77
+  orig: 51, 77
+  offset: 0, 0
+  index: -1
+shiro_arm_r_02
+  rotate: false
+  xy: 550, 75
+  size: 60, 51
+  orig: 60, 51
+  offset: 0, 0
+  index: -1
+shiro_body_02
+  rotate: true
+  xy: 2, 24
+  size: 102, 174
+  orig: 102, 174
+  offset: 0, 0
+  index: -1
+shiro_body_02_arm_L
+  rotate: true
+  xy: 325, 63
+  size: 63, 68
+  orig: 63, 68
+  offset: 0, 0
+  index: -1
+shiro_face_default_02
+  rotate: false
+  xy: 395, 44
+  size: 38, 29
+  orig: 38, 29
+  offset: 0, 0
+  index: -1
+stick
+  rotate: true
+  xy: 178, 2
+  size: 57, 33
+  orig: 57, 33
+  offset: 0, 0
+  index: -1
+stick_whiteA
+  rotate: true
+  xy: 917, 92
+  size: 34, 42
+  orig: 34, 42
+  offset: 0, 0
+  index: -1
+stick_whiteB
+  rotate: false
+  xy: 818, 94
+  size: 50, 32
+  orig: 50, 32
+  offset: 0, 0
+  index: -1
+stick_whiteC
+  rotate: true
+  xy: 763, 96
+  size: 30, 53
+  orig: 30, 53
+  offset: 0, 0
+  index: -1
+stick_whiteD
+  rotate: false
+  xy: 213, 15
+  size: 46, 44
+  orig: 46, 44
+  offset: 0, 0
+  index: -1

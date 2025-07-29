@@ -1,0 +1,160 @@
+
+BattleCat_30030.png
+size: 963,344
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+L_leg_default
+  rotate: false
+  xy: 917, 150
+  size: 36, 94
+  orig: 36, 94
+  offset: 0, 0
+  index: -1
+R_leg_default
+  rotate: false
+  xy: 831, 3
+  size: 34, 98
+  orig: 34, 98
+  offset: 0, 0
+  index: -1
+body_attack01
+  rotate: true
+  xy: 2, 91
+  size: 251, 236
+  orig: 251, 236
+  offset: 0, 0
+  index: -1
+body_attack02
+  rotate: true
+  xy: 240, 121
+  size: 221, 193
+  orig: 221, 193
+  offset: 0, 0
+  index: -1
+body_default
+  rotate: false
+  xy: 596, 156
+  size: 132, 186
+  orig: 132, 186
+  offset: 0, 0
+  index: -1
+eff01
+  rotate: false
+  xy: 435, 126
+  size: 159, 216
+  orig: 159, 216
+  offset: 0, 0
+  index: -1
+eff02
+  rotate: true
+  xy: 823, 160
+  size: 84, 92
+  orig: 84, 92
+  offset: 0, 0
+  index: -1
+eff03
+  rotate: false
+  xy: 271, 5
+  size: 138, 114
+  orig: 138, 114
+  offset: 0, 0
+  index: -1
+eff04
+  rotate: false
+  xy: 582, 3
+  size: 142, 121
+  orig: 142, 121
+  offset: 0, 0
+  index: -1
+eff05
+  rotate: true
+  xy: 523, 2
+  size: 122, 57
+  orig: 122, 57
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 894, 113
+  size: 33, 35
+  orig: 33, 35
+  offset: 0, 0
+  index: -1
+face2
+  rotate: false
+  xy: 929, 113
+  size: 32, 35
+  orig: 32, 35
+  offset: 0, 0
+  index: -1
+head_attack01
+  rotate: true
+  xy: 730, 246
+  size: 96, 97
+  orig: 96, 97
+  offset: 0, 0
+  index: -1
+head_attack02
+  rotate: true
+  xy: 726, 23
+  size: 131, 103
+  orig: 131, 103
+  offset: 0, 0
+  index: -1
+head_attack03
+  rotate: false
+  xy: 186, 4
+  size: 83, 85
+  orig: 83, 85
+  offset: 0, 0
+  index: -1
+head_default01
+  rotate: false
+  xy: 867, 12
+  size: 92, 89
+  orig: 92, 89
+  offset: 0, 0
+  index: -1
+head_default02
+  rotate: true
+  xy: 95, 4
+  size: 85, 89
+  orig: 85, 89
+  offset: 0, 0
+  index: -1
+head_default03
+  rotate: false
+  xy: 730, 156
+  size: 91, 88
+  orig: 91, 88
+  offset: 0, 0
+  index: -1
+head_default04
+  rotate: true
+  xy: 2, 3
+  size: 86, 91
+  orig: 86, 91
+  offset: 0, 0
+  index: -1
+leg_attack01
+  rotate: false
+  xy: 831, 246
+  size: 113, 96
+  orig: 113, 96
+  offset: 0, 0
+  index: -1
+leg_attack02
+  rotate: false
+  xy: 411, 6
+  size: 110, 113
+  orig: 110, 113
+  offset: 0, 0
+  index: -1
+leg_default
+  rotate: false
+  xy: 831, 103
+  size: 61, 55
+  orig: 61, 55
+  offset: 0, 0
+  index: -1

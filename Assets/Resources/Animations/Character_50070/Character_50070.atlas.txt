@@ -1,0 +1,181 @@
+
+Character_50070.png
+size: 598,251
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+antena
+  rotate: true
+  xy: 451, 131
+  size: 11, 32
+  orig: 11, 32
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 6
+  size: 255, 243
+  orig: 255, 243
+  offset: 0, 0
+  index: -1
+face_01
+  rotate: false
+  xy: 517, 103
+  size: 71, 39
+  orig: 71, 39
+  offset: 0, 0
+  index: -1
+face_02
+  rotate: false
+  xy: 526, 207
+  size: 69, 42
+  orig: 69, 42
+  offset: 0, 0
+  index: -1
+hand_l_a
+  rotate: false
+  xy: 259, 93
+  size: 64, 156
+  orig: 64, 156
+  offset: 0, 0
+  index: -1
+hand_l_b
+  rotate: false
+  xy: 325, 103
+  size: 68, 146
+  orig: 68, 146
+  offset: 0, 0
+  index: -1
+hand_r_a
+  rotate: false
+  xy: 441, 14
+  size: 66, 114
+  orig: 66, 114
+  offset: 0, 0
+  index: -1
+hand_r_b
+  rotate: true
+  xy: 259, 8
+  size: 83, 68
+  orig: 83, 68
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 451, 144
+  size: 105, 73
+  orig: 105, 73
+  offset: 0, 0
+  index: -1
+leg_l
+  rotate: false
+  xy: 509, 62
+  size: 51, 39
+  orig: 51, 39
+  offset: 0, 0
+  index: -1
+leg_r
+  rotate: true
+  xy: 526, 146
+  size: 59, 44
+  orig: 59, 44
+  offset: 0, 0
+  index: -1
+mud_a_01
+  rotate: false
+  xy: 485, 131
+  size: 30, 11
+  orig: 30, 11
+  offset: 0, 0
+  index: -1
+mud_a_02
+  rotate: false
+  xy: 562, 60
+  size: 31, 19
+  orig: 31, 19
+  offset: 0, 0
+  index: -1
+mud_a_03
+  rotate: true
+  xy: 325, 93
+  size: 8, 19
+  orig: 8, 19
+  offset: 0, 0
+  index: -1
+mud_a_04
+  rotate: false
+  xy: 395, 93
+  size: 44, 35
+  orig: 44, 35
+  offset: 0, 0
+  index: -1
+mud_a_05
+  rotate: false
+  xy: 509, 30
+  size: 38, 30
+  orig: 38, 30
+  offset: 0, 0
+  index: -1
+mud_a_06
+  rotate: false
+  xy: 572, 170
+  size: 24, 35
+  orig: 24, 35
+  offset: 0, 0
+  index: -1
+mud_a_07
+  rotate: true
+  xy: 434, 2
+  size: 10, 19
+  orig: 10, 19
+  offset: 0, 0
+  index: -1
+mud_a_09
+  rotate: true
+  xy: 455, 2
+  size: 10, 13
+  orig: 10, 13
+  offset: 0, 0
+  index: -1
+mud_b_01
+  rotate: false
+  xy: 572, 155
+  size: 14, 13
+  orig: 14, 13
+  offset: 0, 0
+  index: -1
+mud_b_02
+  rotate: false
+  xy: 470, 2
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+mud_b_03
+  rotate: false
+  xy: 562, 81
+  size: 31, 20
+  orig: 31, 20
+  offset: 0, 0
+  index: -1
+mud_b_04
+  rotate: false
+  xy: 509, 3
+  size: 20, 25
+  orig: 20, 25
+  offset: 0, 0
+  index: -1
+mud_b_05
+  rotate: false
+  xy: 329, 9
+  size: 103, 82
+  orig: 103, 82
+  offset: 0, 0
+  index: -1
+shades
+  rotate: true
+  xy: 395, 130
+  size: 119, 54
+  orig: 119, 54
+  offset: 0, 0
+  index: -1

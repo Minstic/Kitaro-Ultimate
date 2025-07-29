@@ -1,0 +1,139 @@
+
+Character_00320.png
+size: 298,267
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_l_default
+  rotate: false
+  xy: 2, 17
+  size: 63, 98
+  orig: 63, 98
+  offset: 0, 0
+  index: -1
+arm_l_default_thorn
+  rotate: false
+  xy: 140, 173
+  size: 125, 42
+  orig: 125, 42
+  offset: 0, 0
+  index: -1
+arm_r_default
+  rotate: false
+  xy: 2, 117
+  size: 106, 80
+  orig: 106, 80
+  offset: 0, 0
+  index: -1
+arm_r_default_thorn
+  rotate: true
+  xy: 67, 13
+  size: 102, 57
+  orig: 102, 57
+  offset: 0, 0
+  index: -1
+base_bowknot
+  rotate: false
+  xy: 140, 217
+  size: 124, 48
+  orig: 124, 48
+  offset: 0, 0
+  index: -1
+base_hand
+  rotate: false
+  xy: 2, 199
+  size: 136, 66
+  orig: 136, 66
+  offset: 0, 0
+  index: -1
+base_layer
+  rotate: true
+  xy: 110, 117
+  size: 54, 48
+  orig: 54, 48
+  offset: 0, 0
+  index: -1
+base_prop
+  rotate: true
+  xy: 266, 222
+  size: 43, 18
+  orig: 43, 18
+  offset: 0, 0
+  index: -1
+body_low_01
+  rotate: true
+  xy: 244, 107
+  size: 64, 50
+  orig: 64, 50
+  offset: 0, 0
+  index: -1
+body_low_02
+  rotate: false
+  xy: 160, 103
+  size: 82, 68
+  orig: 82, 68
+  offset: 0, 0
+  index: -1
+body_low_02_add
+  rotate: false
+  xy: 126, 2
+  size: 54, 35
+  orig: 54, 35
+  offset: 0, 0
+  index: -1
+body_low_03
+  rotate: false
+  xy: 126, 39
+  size: 58, 62
+  orig: 58, 62
+  offset: 0, 0
+  index: -1
+body_low_04
+  rotate: true
+  xy: 186, 39
+  size: 62, 56
+  orig: 62, 56
+  offset: 0, 0
+  index: -1
+bowknot_l_layer
+  rotate: true
+  xy: 2, 2
+  size: 13, 25
+  orig: 13, 25
+  offset: 0, 0
+  index: -1
+bowknot_layer
+  rotate: false
+  xy: 126, 108
+  size: 6, 7
+  orig: 6, 7
+  offset: 0, 0
+  index: -1
+bowknot_r_layer
+  rotate: false
+  xy: 110, 174
+  size: 27, 23
+  orig: 27, 23
+  offset: 0, 0
+  index: -1
+face_damage
+  rotate: false
+  xy: 182, 13
+  size: 50, 24
+  orig: 50, 24
+  offset: 0, 0
+  index: -1
+face_default
+  rotate: false
+  xy: 244, 19
+  size: 52, 22
+  orig: 52, 22
+  offset: 0, 0
+  index: -1
+tongue_layer
+  rotate: true
+  xy: 244, 43
+  size: 62, 50
+  orig: 62, 50
+  offset: 0, 0
+  index: -1

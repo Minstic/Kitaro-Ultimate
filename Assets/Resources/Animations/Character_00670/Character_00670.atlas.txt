@@ -1,0 +1,62 @@
+
+Character_00670.png
+size: 249,267
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_l
+  rotate: true
+  xy: 130, 96
+  size: 19, 17
+  orig: 19, 17
+  offset: 0, 0
+  index: -1
+arm_r
+  rotate: false
+  xy: 130, 124
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+body_attack
+  rotate: false
+  xy: 2, 140
+  size: 144, 125
+  orig: 144, 125
+  offset: 0, 0
+  index: -1
+body_default
+  rotate: false
+  xy: 2, 5
+  size: 67, 133
+  orig: 67, 133
+  offset: 0, 0
+  index: -1
+collar
+  rotate: false
+  xy: 71, 2
+  size: 139, 83
+  orig: 139, 83
+  offset: 0, 0
+  index: -1
+hand_default
+  rotate: false
+  xy: 71, 87
+  size: 57, 51
+  orig: 57, 51
+  offset: 0, 0
+  index: -1
+head_damage
+  rotate: false
+  xy: 148, 192
+  size: 99, 73
+  orig: 99, 73
+  offset: 0, 0
+  index: -1
+head_default
+  rotate: false
+  xy: 148, 117
+  size: 99, 73
+  orig: 99, 73
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,90 @@
+
+Character_00241.png
+size: 424,78
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm
+  rotate: false
+  xy: 253, 4
+  size: 23, 15
+  orig: 23, 15
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 158, 4
+  size: 93, 72
+  orig: 93, 72
+  offset: 0, 0
+  index: -1
+broom
+  rotate: true
+  xy: 2, 48
+  size: 28, 154
+  orig: 28, 154
+  offset: 0, 0
+  index: -1
+cap
+  rotate: false
+  xy: 253, 21
+  size: 89, 55
+  orig: 89, 55
+  offset: 0, 0
+  index: -1
+eye_01
+  rotate: false
+  xy: 129, 32
+  size: 23, 14
+  orig: 23, 14
+  offset: 0, 0
+  index: -1
+eye_02
+  rotate: false
+  xy: 411, 66
+  size: 11, 10
+  orig: 11, 10
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 344, 12
+  size: 65, 64
+  orig: 65, 64
+  offset: 0, 0
+  index: -1
+leg
+  rotate: false
+  xy: 107, 15
+  size: 20, 31
+  orig: 20, 31
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: false
+  xy: 2, 2
+  size: 49, 44
+  orig: 49, 44
+  offset: 0, 0
+  index: -1
+mouth_r
+  rotate: false
+  xy: 53, 8
+  size: 52, 38
+  orig: 52, 38
+  offset: 0, 0
+  index: -1
+nose
+  rotate: false
+  xy: 411, 55
+  size: 11, 9
+  orig: 11, 9
+  offset: 0, 0
+  index: -1
+nose_r
+  rotate: false
+  xy: 278, 11
+  size: 10, 8
+  orig: 10, 8
+  offset: 0, 0
+  index: -1

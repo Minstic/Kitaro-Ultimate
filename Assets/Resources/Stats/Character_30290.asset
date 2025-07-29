@@ -1,0 +1,106 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c1ab2b1b2f492bb4d825b1f0fb5efb22, type: 3}
+  m_Name: Character_30290
+  m_EditorClassIdentifier: 
+  HP: 780000
+  HB: 3
+  Speed: 46
+  AtkRange: 450
+  MinLD: 0
+  MaxLD: 750
+  Atk: 10500
+  Atk2: 10500
+  Atk3: 0
+  AreaAtk: 1
+  TBA: 3.2
+  AttacksAllies: 0
+  rarity: 6
+  Cost: 5200
+  CD: 320
+  UnitRole: 17
+  MaxLevel: 40
+  MaxPlusLevel: 0
+  HPMaginificationLvl30: 10
+  AtkMaginificationLvl30: 30
+  MinLayer: 10
+  MaxLayer: 40
+  SelfTrait: 256
+  TargetTraits: 128
+  SecondaryType: 16777216
+  TraitAbilityData:
+  - UnlockAtPlus: 0
+    Ability: 7
+    Percent: 50
+    Power: 0
+    DurationSeconds: 0
+    Distance: 0
+  - UnlockAtPlus: 0
+    Ability: 8
+    Percent: 50
+    Power: 0
+    DurationSeconds: 5
+    Distance: 0
+  NeutralAbilityData:
+  - UnlockAtPlus: 0
+    Ability: 34
+    Percent: 100
+    Power: 3200
+    DurationSeconds: 3
+    Distance: 0
+    NumberOfTimes: 0
+    UnitID: 
+    yabaSize: 0
+    yabaTrait: 0
+    subTarget: 0
+    SurgeElement: 5
+    SurgeAbilities: []
+  - UnlockAtPlus: 0
+    Ability: 35
+    Percent: 100
+    Power: 0
+    DurationSeconds: 0
+    Distance: 0
+    NumberOfTimes: 0
+    UnitID: 
+    yabaSize: 0
+    yabaTrait: 0
+    subTarget: 0
+    SurgeElement: 0
+    SurgeAbilities: []
+  - UnlockAtPlus: 0
+    Ability: 17
+    Percent: 100
+    Power: 0
+    DurationSeconds: 0
+    Distance: 0
+    NumberOfTimes: 0
+    UnitID: 
+    yabaSize: 0
+    yabaTrait: 0
+    subTarget: 0
+    SurgeElement: 0
+    SurgeAbilities: []
+  - UnlockAtPlus: 0
+    Ability: 20
+    Percent: 100
+    Power: 0
+    DurationSeconds: 0
+    Distance: 0
+    NumberOfTimes: 0
+    UnitID: 
+    yabaSize: 0
+    yabaTrait: 0
+    subTarget: 0
+    SurgeElement: 0
+    SurgeAbilities: []
+  StatsBoost: []

@@ -1,0 +1,174 @@
+
+BattleCat_30010.png
+size: 1007,383
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+eff
+  rotate: false
+  xy: 2, 20
+  size: 181, 361
+  orig: 181, 361
+  offset: 0, 0
+  index: -1
+face_attack
+  rotate: false
+  xy: 858, 7
+  size: 26, 25
+  orig: 26, 25
+  offset: 0, 0
+  index: -1
+face_default
+  rotate: true
+  xy: 827, 5
+  size: 27, 29
+  orig: 27, 29
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 931, 282
+  size: 99, 73
+  orig: 99, 73
+  offset: 0, 0
+  index: -1
+head_attack
+  rotate: false
+  xy: 802, 83
+  size: 101, 78
+  orig: 101, 78
+  offset: 0, 0
+  index: -1
+head_migration
+  rotate: true
+  xy: 728, 72
+  size: 93, 72
+  orig: 93, 72
+  offset: 0, 0
+  index: -1
+l_leg_walk02
+  rotate: true
+  xy: 827, 34
+  size: 47, 103
+  orig: 47, 103
+  offset: 0, 0
+  index: -1
+leg_ankle01
+  rotate: true
+  xy: 905, 95
+  size: 66, 47
+  orig: 66, 47
+  offset: 0, 0
+  index: -1
+leg_ankle02
+  rotate: true
+  xy: 954, 121
+  size: 56, 51
+  orig: 56, 51
+  offset: 0, 0
+  index: -1
+leg_ankle03
+  rotate: true
+  xy: 932, 35
+  size: 58, 37
+  orig: 58, 37
+  offset: 0, 0
+  index: -1
+leg_default
+  rotate: false
+  xy: 591, 167
+  size: 172, 214
+  orig: 172, 214
+  offset: 0, 0
+  index: -1
+leg_l_attack01
+  rotate: false
+  xy: 765, 173
+  size: 66, 208
+  orig: 66, 208
+  offset: 0, 0
+  index: -1
+leg_migration02
+  rotate: true
+  xy: 419, 2
+  size: 148, 206
+  orig: 148, 206
+  offset: 0, 0
+  index: -1
+leg_r_attack01
+  rotate: true
+  xy: 627, 6
+  size: 59, 103
+  orig: 59, 103
+  offset: 0, 0
+  index: -1
+leg_r_attack03
+  rotate: false
+  xy: 419, 152
+  size: 170, 229
+  orig: 170, 229
+  offset: 0, 0
+  index: -1
+leg_r_attack04
+  rotate: false
+  xy: 185, 151
+  size: 232, 230
+  orig: 232, 230
+  offset: 0, 0
+  index: -1
+leg_r_attack05
+  rotate: false
+  xy: 185, 26
+  size: 115, 123
+  orig: 115, 123
+  offset: 0, 0
+  index: -1
+leg_r_attack06
+  rotate: false
+  xy: 833, 257
+  size: 96, 124
+  orig: 96, 124
+  offset: 0, 0
+  index: -1
+leg_r_attack07
+  rotate: false
+  xy: 627, 67
+  size: 99, 98
+  orig: 99, 98
+  offset: 0, 0
+  index: -1
+leg_r_attack08
+  rotate: true
+  xy: 833, 163
+  size: 92, 102
+  orig: 92, 102
+  offset: 0, 0
+  index: -1
+leg_walk05_l
+  rotate: false
+  xy: 302, 39
+  size: 107, 110
+  orig: 107, 110
+  offset: 0, 0
+  index: -1
+leg_walk05_r
+  rotate: false
+  xy: 937, 179
+  size: 65, 101
+  orig: 65, 101
+  offset: 0, 0
+  index: -1
+r_leg_walk05
+  rotate: true
+  xy: 732, 11
+  size: 59, 93
+  orig: 59, 93
+  offset: 0, 0
+  index: -1
+ungry
+  rotate: false
+  xy: 954, 96
+  size: 21, 23
+  orig: 21, 23
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,48 @@
+
+Character_20245.png
+size: 449,114
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+antena
+  rotate: true
+  xy: 143, 5
+  size: 10, 26
+  orig: 10, 26
+  offset: 0, 0
+  index: -1
+attack
+  rotate: false
+  xy: 143, 17
+  size: 153, 95
+  orig: 153, 95
+  offset: 0, 0
+  index: -1
+base
+  rotate: false
+  xy: 2, 2
+  size: 139, 110
+  orig: 139, 110
+  offset: 0, 0
+  index: -1
+eff_attack1
+  rotate: true
+  xy: 392, 6
+  size: 28, 23
+  orig: 28, 23
+  offset: 0, 0
+  index: -1
+eff_attack2
+  rotate: false
+  xy: 392, 36
+  size: 55, 76
+  orig: 55, 76
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: true
+  xy: 298, 6
+  size: 106, 92
+  orig: 106, 92
+  offset: 0, 0
+  index: -1

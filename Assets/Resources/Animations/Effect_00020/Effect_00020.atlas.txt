@@ -1,0 +1,97 @@
+
+Effect_00020.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+eff1
+  rotate: true
+  xy: 592, 109
+  size: 93, 276
+  orig: 93, 276
+  offset: 0, 0
+  index: -1
+eff2
+  rotate: false
+  xy: 356, 50
+  size: 111, 362
+  orig: 111, 362
+  offset: 0, 0
+  index: -1
+eff3
+  rotate: false
+  xy: 469, 99
+  size: 121, 313
+  orig: 121, 313
+  offset: 0, 0
+  index: -1
+eff4
+  rotate: true
+  xy: 592, 10
+  size: 97, 257
+  orig: 97, 257
+  offset: 0, 0
+  index: -1
+fire1_1
+  rotate: false
+  xy: 469, 22
+  size: 89, 75
+  orig: 89, 75
+  offset: 0, 0
+  index: -1
+fire1_2
+  rotate: true
+  xy: 870, 28
+  size: 236, 88
+  orig: 236, 88
+  offset: 0, 0
+  index: -1
+fire1_3
+  rotate: false
+  xy: 592, 204
+  size: 265, 97
+  orig: 265, 97
+  offset: 0, 0
+  index: -1
+fire1_4
+  rotate: false
+  xy: 592, 303
+  size: 266, 109
+  orig: 266, 109
+  offset: 0, 0
+  index: -1
+fire1_5
+  rotate: true
+  xy: 866, 266
+  size: 232, 112
+  orig: 232, 112
+  offset: 0, 0
+  index: -1
+pillar1
+  rotate: true
+  xy: 980, 367
+  size: 131, 31
+  orig: 131, 31
+  offset: 0, 0
+  index: -1
+pillar2
+  rotate: false
+  xy: 2, 2
+  size: 175, 496
+  orig: 175, 496
+  offset: 0, 0
+  index: -1
+pillar2_2
+  rotate: false
+  xy: 179, 2
+  size: 175, 496
+  orig: 175, 496
+  offset: 0, 0
+  index: -1
+pillar3
+  rotate: true
+  xy: 356, 414
+  size: 84, 508
+  orig: 84, 508
+  offset: 0, 0
+  index: -1

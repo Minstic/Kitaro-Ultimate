@@ -1,0 +1,230 @@
+
+Season_15010.png
+size: 929,361
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_l
+  rotate: false
+  xy: 768, 109
+  size: 57, 79
+  orig: 57, 79
+  offset: 0, 0
+  index: -1
+arm_r
+  rotate: false
+  xy: 715, 36
+  size: 51, 113
+  orig: 51, 113
+  offset: 0, 0
+  index: -1
+arm_r_attack
+  rotate: true
+  xy: 834, 180
+  size: 72, 79
+  orig: 72, 79
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 722, 190
+  size: 110, 169
+  orig: 110, 169
+  offset: 0, 0
+  index: -1
+eff_ice1
+  rotate: true
+  xy: 827, 53
+  size: 125, 100
+  orig: 125, 100
+  offset: 0, 0
+  index: -1
+eff_ice2
+  rotate: false
+  xy: 2, 72
+  size: 239, 287
+  orig: 239, 287
+  offset: 0, 0
+  index: -1
+eff_ice3
+  rotate: true
+  xy: 243, 111
+  size: 248, 153
+  orig: 248, 153
+  offset: 0, 0
+  index: -1
+eff_ice4
+  rotate: true
+  xy: 398, 141
+  size: 218, 195
+  orig: 218, 195
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 2, 7
+  size: 80, 63
+  orig: 80, 63
+  offset: 0, 0
+  index: -1
+face_damage
+  rotate: false
+  xy: 243, 79
+  size: 50, 30
+  orig: 50, 30
+  offset: 0, 0
+  index: -1
+face_default
+  rotate: true
+  xy: 768, 2
+  size: 49, 29
+  orig: 49, 29
+  offset: 0, 0
+  index: -1
+face_re
+  rotate: false
+  xy: 142, 8
+  size: 79, 62
+  orig: 79, 62
+  offset: 0, 0
+  index: -1
+fan_01
+  rotate: true
+  xy: 834, 254
+  size: 84, 86
+  orig: 84, 86
+  offset: 0, 0
+  index: -1
+hair
+  rotate: false
+  xy: 595, 183
+  size: 125, 176
+  orig: 125, 176
+  offset: 0, 0
+  index: -1
+hair_F_L
+  rotate: false
+  xy: 304, 3
+  size: 49, 106
+  orig: 49, 106
+  offset: 0, 0
+  index: -1
+hair_F_R
+  rotate: false
+  xy: 489, 7
+  size: 108, 132
+  orig: 108, 132
+  offset: 0, 0
+  index: -1
+hand_l
+  rotate: false
+  xy: 84, 7
+  size: 56, 63
+  orig: 56, 63
+  offset: 0, 0
+  index: -1
+hand_r_attack
+  rotate: true
+  xy: 438, 120
+  size: 19, 45
+  orig: 19, 45
+  offset: 0, 0
+  index: -1
+hat_b
+  rotate: false
+  xy: 355, 6
+  size: 132, 103
+  orig: 132, 103
+  offset: 0, 0
+  index: -1
+hat_f
+  rotate: false
+  xy: 768, 53
+  size: 43, 54
+  orig: 43, 54
+  offset: 0, 0
+  index: -1
+ice
+  rotate: false
+  xy: 599, 3
+  size: 114, 141
+  orig: 114, 141
+  offset: 0, 0
+  index: -1
+ice2
+  rotate: false
+  xy: 799, 28
+  size: 19, 23
+  orig: 19, 23
+  offset: 0, 0
+  index: -1
+ice3
+  rotate: true
+  xy: 715, 5
+  size: 29, 46
+  orig: 29, 46
+  offset: 0, 0
+  index: -1
+ice4
+  rotate: true
+  xy: 595, 146
+  size: 35, 93
+  orig: 35, 93
+  offset: 0, 0
+  index: -1
+ice_e1
+  rotate: false
+  xy: 295, 100
+  size: 7, 9
+  orig: 7, 9
+  offset: 0, 0
+  index: -1
+ice_e2
+  rotate: false
+  xy: 915, 223
+  size: 10, 18
+  orig: 10, 18
+  offset: 0, 0
+  index: -1
+ice_e3
+  rotate: false
+  xy: 799, 10
+  size: 13, 16
+  orig: 13, 16
+  offset: 0, 0
+  index: -1
+ice_e4
+  rotate: true
+  xy: 915, 243
+  size: 9, 12
+  orig: 9, 12
+  offset: 0, 0
+  index: -1
+ice_kira
+  rotate: false
+  xy: 398, 112
+  size: 38, 27
+  orig: 38, 27
+  offset: 0, 0
+  index: -1
+ice_yuka
+  rotate: false
+  xy: 834, 340
+  size: 87, 19
+  orig: 87, 19
+  offset: 0, 0
+  index: -1
+ribbon
+  rotate: true
+  xy: 223, 10
+  size: 60, 79
+  orig: 60, 79
+  offset: 0, 0
+  index: -1
+sungrass
+  rotate: false
+  xy: 690, 151
+  size: 76, 30
+  orig: 76, 30
+  offset: 0, 0
+  index: -1

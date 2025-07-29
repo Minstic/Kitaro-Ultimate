@@ -1,0 +1,48 @@
+
+Character_20460.png
+size: 173,133
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body_A
+  rotate: true
+  xy: 126, 16
+  size: 52, 41
+  orig: 52, 41
+  offset: 0, 0
+  index: -1
+body_C
+  rotate: false
+  xy: 2, 70
+  size: 158, 61
+  orig: 158, 61
+  offset: 0, 0
+  index: -1
+bosy_B
+  rotate: false
+  xy: 2, 14
+  size: 122, 54
+  orig: 122, 54
+  offset: 0, 0
+  index: -1
+face_default_A
+  rotate: true
+  xy: 162, 110
+  size: 21, 9
+  orig: 21, 9
+  offset: 0, 0
+  index: -1
+face_default_B
+  rotate: true
+  xy: 162, 110
+  size: 21, 9
+  orig: 21, 9
+  offset: 0, 0
+  index: -1
+face_default_C
+  rotate: false
+  xy: 2, 2
+  size: 23, 10
+  orig: 23, 10
+  offset: 0, 0
+  index: -1

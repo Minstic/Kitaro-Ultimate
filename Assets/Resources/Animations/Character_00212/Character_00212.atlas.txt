@@ -1,0 +1,174 @@
+
+Character_00212.png
+size: 598,235
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+eff_01
+  rotate: false
+  xy: 458, 6
+  size: 32, 23
+  orig: 32, 23
+  offset: 0, 0
+  index: -1
+eff_03
+  rotate: true
+  xy: 582, 111
+  size: 23, 14
+  orig: 23, 14
+  offset: 0, 0
+  index: -1
+eff_04
+  rotate: true
+  xy: 410, 2
+  size: 27, 26
+  orig: 27, 26
+  offset: 0, 0
+  index: -1
+eff_06
+  rotate: false
+  xy: 576, 48
+  size: 20, 18
+  orig: 20, 18
+  offset: 0, 0
+  index: -1
+eff_07
+  rotate: false
+  xy: 551, 68
+  size: 29, 25
+  orig: 29, 25
+  offset: 0, 0
+  index: -1
+mintuchi_arm
+  rotate: true
+  xy: 582, 136
+  size: 27, 14
+  orig: 27, 14
+  offset: 0, 0
+  index: -1
+mintuchi_body
+  rotate: false
+  xy: 313, 9
+  size: 68, 60
+  orig: 68, 60
+  offset: 0, 0
+  index: -1
+mintuchi_face_01
+  rotate: false
+  xy: 498, 51
+  size: 49, 20
+  orig: 49, 20
+  offset: 0, 0
+  index: -1
+mintuchi_face_02
+  rotate: false
+  xy: 498, 73
+  size: 51, 20
+  orig: 51, 20
+  offset: 0, 0
+  index: -1
+mintuchi_face_03
+  rotate: true
+  xy: 383, 17
+  size: 52, 25
+  orig: 52, 25
+  offset: 0, 0
+  index: -1
+mintuchi_hand
+  rotate: false
+  xy: 533, 40
+  size: 10, 9
+  orig: 10, 9
+  offset: 0, 0
+  index: -1
+mintuchi_head
+  rotate: false
+  xy: 424, 171
+  size: 92, 62
+  orig: 92, 62
+  offset: 0, 0
+  index: -1
+mintuchi_leg_l
+  rotate: false
+  xy: 492, 6
+  size: 30, 22
+  orig: 30, 22
+  offset: 0, 0
+  index: -1
+mintuchi_leg_r
+  rotate: false
+  xy: 549, 43
+  size: 25, 23
+  orig: 25, 23
+  offset: 0, 0
+  index: -1
+shark_arm
+  rotate: false
+  xy: 313, 71
+  size: 105, 65
+  orig: 105, 65
+  offset: 0, 0
+  index: -1
+shark_body
+  rotate: false
+  xy: 2, 4
+  size: 309, 229
+  orig: 309, 229
+  offset: 0, 0
+  index: -1
+shark_eye_01
+  rotate: true
+  xy: 582, 93
+  size: 16, 14
+  orig: 16, 14
+  offset: 0, 0
+  index: -1
+shark_eye_02
+  rotate: true
+  xy: 438, 2
+  size: 27, 18
+  orig: 27, 18
+  offset: 0, 0
+  index: -1
+shark_eye_damage
+  rotate: false
+  xy: 498, 30
+  size: 33, 19
+  orig: 33, 19
+  offset: 0, 0
+  index: -1
+shark_mouth_01
+  rotate: false
+  xy: 518, 165
+  size: 77, 68
+  orig: 77, 68
+  offset: 0, 0
+  index: -1
+shark_mouth_02
+  rotate: false
+  xy: 420, 31
+  size: 76, 68
+  orig: 76, 68
+  offset: 0, 0
+  index: -1
+shark_mouth_03
+  rotate: false
+  xy: 424, 101
+  size: 77, 68
+  orig: 77, 68
+  offset: 0, 0
+  index: -1
+shark_mouth_damage
+  rotate: false
+  xy: 503, 95
+  size: 77, 68
+  orig: 77, 68
+  offset: 0, 0
+  index: -1
+shark_tail
+  rotate: false
+  xy: 313, 138
+  size: 109, 95
+  orig: 109, 95
+  offset: 0, 0
+  index: -1

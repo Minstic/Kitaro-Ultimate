@@ -1,0 +1,300 @@
+
+6thAnime_10060.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_L
+  rotate: false
+  xy: 280, 52
+  size: 7, 11
+  orig: 7, 11
+  offset: 0, 0
+  index: -1
+arm_L1_dmg
+  rotate: true
+  xy: 1017, 248
+  size: 6, 4
+  orig: 6, 4
+  offset: 0, 0
+  index: -1
+arm_L2_dmg
+  rotate: false
+  xy: 17, 19
+  size: 10, 7
+  orig: 10, 7
+  offset: 0, 0
+  index: -1
+arm_L_atk
+  rotate: false
+  xy: 450, 42
+  size: 16, 6
+  orig: 16, 6
+  offset: 0, 0
+  index: -1
+arm_R
+  rotate: false
+  xy: 971, 130
+  size: 7, 11
+  orig: 7, 11
+  offset: 0, 0
+  index: -1
+arm_R1_dmg
+  rotate: false
+  xy: 280, 36
+  size: 7, 4
+  orig: 7, 4
+  offset: 0, 0
+  index: -1
+arm_R2_dmg
+  rotate: true
+  xy: 280, 42
+  size: 8, 7
+  orig: 8, 7
+  offset: 0, 0
+  index: -1
+arm_R_atk
+  rotate: false
+  xy: 252, 30
+  size: 14, 6
+  orig: 14, 6
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 497, 63
+  size: 11, 14
+  orig: 11, 14
+  offset: 0, 0
+  index: -1
+body_atk
+  rotate: true
+  xy: 380, 27
+  size: 10, 14
+  orig: 10, 14
+  offset: 0, 0
+  index: -1
+eff_beam_1
+  rotate: false
+  xy: 297, 79
+  size: 284, 84
+  orig: 284, 84
+  offset: 0, 0
+  index: -1
+eff_beam_2
+  rotate: false
+  xy: 297, 165
+  size: 291, 89
+  orig: 291, 89
+  offset: 0, 0
+  index: -1
+eff_beam_3
+  rotate: false
+  xy: 2, 65
+  size: 293, 92
+  orig: 293, 92
+  offset: 0, 0
+  index: -1
+eff_beam_4
+  rotate: false
+  xy: 2, 159
+  size: 293, 95
+  orig: 293, 95
+  offset: 0, 0
+  index: -1
+eff_chr_light
+  rotate: true
+  xy: 450, 50
+  size: 27, 45
+  orig: 27, 45
+  offset: 0, 0
+  index: -1
+eff_flash_A
+  rotate: true
+  xy: 590, 83
+  size: 171, 176
+  orig: 171, 176
+  offset: 0, 0
+  index: -1
+eff_flash_B1
+  rotate: false
+  xy: 885, 158
+  size: 99, 96
+  orig: 99, 96
+  offset: 0, 0
+  index: -1
+eff_ring
+  rotate: false
+  xy: 380, 39
+  size: 68, 38
+  orig: 68, 38
+  offset: 0, 0
+  index: -1
+eff_round
+  rotate: true
+  xy: 297, 27
+  size: 50, 81
+  orig: 50, 81
+  offset: 0, 0
+  index: -1
+eff_smoke_1
+  rotate: false
+  xy: 885, 102
+  size: 84, 54
+  orig: 84, 54
+  offset: 0, 0
+  index: -1
+eff_smoke_2
+  rotate: false
+  xy: 768, 55
+  size: 96, 41
+  orig: 96, 41
+  offset: 0, 0
+  index: -1
+eff_smoke_3
+  rotate: false
+  xy: 136, 23
+  size: 114, 40
+  orig: 114, 40
+  offset: 0, 0
+  index: -1
+eff_smoke_4
+  rotate: false
+  xy: 2, 28
+  size: 132, 35
+  orig: 132, 35
+  offset: 0, 0
+  index: -1
+eff_smoke_5
+  rotate: true
+  xy: 986, 145
+  size: 109, 29
+  orig: 109, 29
+  offset: 0, 0
+  index: -1
+eff_wall
+  rotate: false
+  xy: 768, 98
+  size: 115, 156
+  orig: 115, 156
+  offset: 0, 0
+  index: -1
+eye
+  rotate: false
+  xy: 971, 143
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+eye_2
+  rotate: false
+  xy: 2, 13
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+eye_dmg
+  rotate: false
+  xy: 866, 83
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 252, 38
+  size: 26, 25
+  orig: 26, 25
+  offset: 0, 0
+  index: -1
+highlight
+  rotate: false
+  xy: 468, 44
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+leg_L1
+  rotate: false
+  xy: 2, 2
+  size: 6, 9
+  orig: 6, 9
+  offset: 0, 0
+  index: -1
+leg_L1_atk
+  rotate: false
+  xy: 289, 55
+  size: 6, 8
+  orig: 6, 8
+  offset: 0, 0
+  index: -1
+leg_L2
+  rotate: false
+  xy: 497, 55
+  size: 4, 6
+  orig: 4, 6
+  offset: 0, 0
+  index: -1
+leg_L2_atk
+  rotate: true
+  xy: 289, 36
+  size: 7, 6
+  orig: 7, 6
+  offset: 0, 0
+  index: -1
+leg_L3
+  rotate: false
+  xy: 497, 50
+  size: 4, 3
+  orig: 4, 3
+  offset: 0, 0
+  index: -1
+leg_L3_atk
+  rotate: false
+  xy: 252, 24
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+leg_R1
+  rotate: false
+  xy: 289, 45
+  size: 6, 8
+  orig: 6, 8
+  offset: 0, 0
+  index: -1
+leg_R1_atk
+  rotate: false
+  xy: 866, 73
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+leg_R2
+  rotate: false
+  xy: 510, 71
+  size: 4, 6
+  orig: 4, 6
+  offset: 0, 0
+  index: -1
+leg_R2_atk
+  rotate: false
+  xy: 583, 156
+  size: 4, 7
+  orig: 4, 7
+  offset: 0, 0
+  index: -1
+leg_R3
+  rotate: false
+  xy: 396, 34
+  size: 6, 3
+  orig: 6, 3
+  offset: 0, 0
+  index: -1
+leg_R3_atk
+  rotate: true
+  xy: 10, 5
+  size: 6, 3
+  orig: 6, 3
+  offset: 0, 0
+  index: -1

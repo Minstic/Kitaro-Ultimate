@@ -1,0 +1,167 @@
+
+Character_00851.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+carrot_a_01
+  rotate: false
+  xy: 949, 975
+  size: 44, 47
+  orig: 44, 47
+  offset: 0, 0
+  index: -1
+carrot_a_02
+  rotate: true
+  xy: 986, 4
+  size: 35, 36
+  orig: 35, 36
+  offset: 0, 0
+  index: -1
+carrot_b_01
+  rotate: true
+  xy: 943, 41
+  size: 36, 55
+  orig: 36, 55
+  offset: 0, 0
+  index: -1
+carrot_b_02
+  rotate: false
+  xy: 943, 2
+  size: 41, 37
+  orig: 41, 37
+  offset: 0, 0
+  index: -1
+carrot_c_01
+  rotate: false
+  xy: 881, 554
+  size: 42, 53
+  orig: 42, 53
+  offset: 0, 0
+  index: -1
+drop_move_03
+  rotate: false
+  xy: 270, 25
+  size: 34, 20
+  orig: 34, 20
+  offset: 0, 0
+  index: -1
+eff_01
+  rotate: false
+  xy: 644, 753
+  size: 271, 269
+  orig: 271, 269
+  offset: 0, 0
+  index: -1
+eff_02
+  rotate: true
+  xy: 703, 183
+  size: 357, 152
+  orig: 357, 152
+  offset: 0, 0
+  index: -1
+house
+  rotate: false
+  xy: 703, 26
+  size: 238, 155
+  orig: 238, 155
+  offset: 0, 0
+  index: -1
+shell_01_close
+  rotate: false
+  xy: 2, 532
+  size: 634, 238
+  orig: 634, 238
+  offset: 0, 0
+  index: -1
+shell_01_open_a
+  rotate: false
+  xy: 372, 35
+  size: 329, 495
+  orig: 329, 495
+  offset: 0, 0
+  index: -1
+shell_01_open_b
+  rotate: false
+  xy: 2, 47
+  size: 368, 483
+  orig: 368, 483
+  offset: 0, 0
+  index: -1
+shell_02
+  rotate: false
+  xy: 2, 772
+  size: 640, 250
+  orig: 640, 250
+  offset: 0, 0
+  index: -1
+surface_move_01
+  rotate: true
+  xy: 857, 195
+  size: 345, 108
+  orig: 345, 108
+  offset: 0, 0
+  index: -1
+water_05
+  rotate: true
+  xy: 2, 2
+  size: 9, 7
+  orig: 9, 7
+  offset: 0, 0
+  index: -1
+water_07
+  rotate: true
+  xy: 11, 2
+  size: 9, 6
+  orig: 9, 6
+  offset: 0, 0
+  index: -1
+wave_01
+  rotate: false
+  xy: 2, 30
+  size: 266, 15
+  orig: 266, 15
+  offset: 0, 0
+  index: -1
+wave_02
+  rotate: true
+  xy: 917, 756
+  size: 266, 15
+  orig: 266, 15
+  offset: 0, 0
+  index: -1
+wave_03
+  rotate: true
+  xy: 934, 756
+  size: 266, 13
+  orig: 266, 13
+  offset: 0, 0
+  index: -1
+wave_04
+  rotate: false
+  xy: 2, 13
+  size: 266, 15
+  orig: 266, 15
+  offset: 0, 0
+  index: -1
+wood_01
+  rotate: false
+  xy: 638, 542
+  size: 241, 209
+  orig: 241, 209
+  offset: 0, 0
+  index: -1
+wood_02
+  rotate: true
+  xy: 943, 79
+  size: 114, 78
+  orig: 114, 78
+  offset: 0, 0
+  index: -1
+wood_03
+  rotate: true
+  xy: 881, 609
+  size: 142, 126
+  orig: 142, 126
+  offset: 0, 0
+  index: -1

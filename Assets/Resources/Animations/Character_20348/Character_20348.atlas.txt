@@ -1,0 +1,83 @@
+
+Character_20348.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body_attack
+  rotate: false
+  xy: 218, 74
+  size: 222, 180
+  orig: 222, 180
+  offset: 0, 0
+  index: -1
+body_default
+  rotate: false
+  xy: 2, 65
+  size: 214, 189
+  orig: 214, 189
+  offset: 0, 0
+  index: -1
+eff_attack
+  rotate: false
+  xy: 136, 27
+  size: 33, 36
+  orig: 33, 36
+  offset: 0, 0
+  index: -1
+face_attack_01
+  rotate: false
+  xy: 442, 137
+  size: 114, 117
+  orig: 114, 117
+  offset: 0, 0
+  index: -1
+face_attack_02
+  rotate: false
+  xy: 2, 2
+  size: 132, 61
+  orig: 132, 61
+  offset: 0, 0
+  index: -1
+face_damage
+  rotate: false
+  xy: 697, 200
+  size: 115, 54
+  orig: 115, 54
+  offset: 0, 0
+  index: -1
+face_default
+  rotate: false
+  xy: 558, 182
+  size: 137, 72
+  orig: 137, 72
+  offset: 0, 0
+  index: -1
+foot_l_01
+  rotate: false
+  xy: 697, 182
+  size: 21, 16
+  orig: 21, 16
+  offset: 0, 0
+  index: -1
+foot_l_02
+  rotate: false
+  xy: 442, 111
+  size: 29, 24
+  orig: 29, 24
+  offset: 0, 0
+  index: -1
+foot_r_01
+  rotate: false
+  xy: 814, 235
+  size: 26, 19
+  orig: 26, 19
+  offset: 0, 0
+  index: -1
+foot_r_02
+  rotate: false
+  xy: 558, 149
+  size: 21, 31
+  orig: 21, 31
+  offset: 0, 0
+  index: -1

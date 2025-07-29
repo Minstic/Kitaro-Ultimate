@@ -1,0 +1,279 @@
+
+Character_20600.png
+size: 946,300
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+AT_face
+  rotate: true
+  xy: 677, 9
+  size: 89, 60
+  orig: 89, 60
+  offset: 0, 0
+  index: -1
+AT_head
+  rotate: false
+  xy: 362, 54
+  size: 158, 99
+  orig: 158, 99
+  offset: 0, 0
+  index: -1
+AT_leg_1_top
+  rotate: false
+  xy: 362, 2
+  size: 34, 50
+  orig: 34, 50
+  offset: 0, 0
+  index: -1
+AT_leg_1_under
+  rotate: false
+  xy: 69, 6
+  size: 38, 31
+  orig: 38, 31
+  offset: 0, 0
+  index: -1
+AT_leg_2
+  rotate: false
+  xy: 469, 3
+  size: 51, 49
+  orig: 51, 49
+  offset: 0, 0
+  index: -1
+AT_leg_3
+  rotate: true
+  xy: 398, 10
+  size: 42, 69
+  orig: 42, 69
+  offset: 0, 0
+  index: -1
+AT_leg_4
+  rotate: true
+  xy: 903, 80
+  size: 57, 40
+  orig: 57, 40
+  offset: 0, 0
+  index: -1
+AT_leg_5
+  rotate: true
+  xy: 903, 139
+  size: 33, 41
+  orig: 33, 41
+  offset: 0, 0
+  index: -1
+eff_shine
+  rotate: false
+  xy: 2, 39
+  size: 235, 259
+  orig: 235, 259
+  offset: 0, 0
+  index: -1
+face_damage
+  rotate: false
+  xy: 840, 230
+  size: 89, 68
+  orig: 89, 68
+  offset: 0, 0
+  index: -1
+face_default
+  rotate: false
+  xy: 726, 154
+  size: 84, 54
+  orig: 84, 54
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 239, 2
+  size: 151, 121
+  orig: 151, 121
+  offset: 0, 0
+  index: -1
+hole_floor
+  rotate: false
+  xy: 239, 155
+  size: 273, 40
+  orig: 273, 40
+  offset: 0, 0
+  index: -1
+hole_line_floor
+  rotate: false
+  xy: 527, 210
+  size: 274, 23
+  orig: 274, 23
+  offset: 0, 0
+  index: -1
+hole_line_top
+  rotate: false
+  xy: 527, 235
+  size: 311, 63
+  orig: 311, 63
+  offset: 0, 0
+  index: -1
+hole_top
+  rotate: false
+  xy: 239, 197
+  size: 286, 101
+  orig: 286, 101
+  offset: 0, 0
+  index: -1
+leg_A_1_top
+  rotate: false
+  xy: 903, 32
+  size: 39, 46
+  orig: 39, 46
+  offset: 0, 0
+  index: -1
+leg_A_1_under
+  rotate: true
+  xy: 109, 7
+  size: 30, 37
+  orig: 30, 37
+  offset: 0, 0
+  index: -1
+leg_A_2_top
+  rotate: true
+  xy: 773, 110
+  size: 42, 37
+  orig: 42, 37
+  offset: 0, 0
+  index: -1
+leg_A_2_under
+  rotate: true
+  xy: 790, 56
+  size: 52, 20
+  orig: 52, 20
+  offset: 0, 0
+  index: -1
+leg_A_3_top
+  rotate: true
+  xy: 24, 6
+  size: 31, 43
+  orig: 31, 43
+  offset: 0, 0
+  index: -1
+leg_A_3_under
+  rotate: false
+  xy: 2, 2
+  size: 20, 35
+  orig: 20, 35
+  offset: 0, 0
+  index: -1
+leg_A_4_top
+  rotate: true
+  xy: 869, 47
+  size: 38, 32
+  orig: 38, 32
+  offset: 0, 0
+  index: -1
+leg_A_4_under
+  rotate: false
+  xy: 148, 11
+  size: 36, 26
+  orig: 36, 26
+  offset: 0, 0
+  index: -1
+leg_A_5_top
+  rotate: true
+  xy: 874, 9
+  size: 36, 27
+  orig: 36, 27
+  offset: 0, 0
+  index: -1
+leg_A_5_under
+  rotate: false
+  xy: 186, 12
+  size: 30, 25
+  orig: 30, 25
+  offset: 0, 0
+  index: -1
+leg_B_1
+  rotate: false
+  xy: 739, 46
+  size: 49, 55
+  orig: 49, 55
+  offset: 0, 0
+  index: -1
+leg_B_2
+  rotate: true
+  xy: 714, 103
+  size: 49, 57
+  orig: 49, 57
+  offset: 0, 0
+  index: -1
+leg_B_3
+  rotate: true
+  xy: 790, 2
+  size: 43, 44
+  orig: 43, 44
+  offset: 0, 0
+  index: -1
+leg_B_4
+  rotate: true
+  xy: 812, 47
+  size: 38, 55
+  orig: 38, 55
+  offset: 0, 0
+  index: -1
+leg_B_5
+  rotate: false
+  xy: 836, 6
+  size: 36, 39
+  orig: 36, 39
+  offset: 0, 0
+  index: -1
+monster_1
+  rotate: true
+  xy: 812, 87
+  size: 85, 89
+  orig: 85, 89
+  offset: 0, 0
+  index: -1
+monster_2
+  rotate: true
+  xy: 522, 100
+  size: 69, 190
+  orig: 69, 190
+  offset: 0, 0
+  index: -1
+monster_3
+  rotate: true
+  xy: 522, 13
+  size: 85, 153
+  orig: 85, 153
+  offset: 0, 0
+  index: -1
+monster_4
+  rotate: true
+  xy: 812, 174
+  size: 54, 119
+  orig: 54, 119
+  offset: 0, 0
+  index: -1
+monster_5
+  rotate: true
+  xy: 527, 171
+  size: 37, 197
+  orig: 37, 197
+  offset: 0, 0
+  index: -1
+monster_6
+  rotate: false
+  xy: 739, 2
+  size: 37, 42
+  orig: 37, 42
+  offset: 0, 0
+  index: -1
+monster_6_wing_l
+  rotate: false
+  xy: 903, 10
+  size: 22, 20
+  orig: 22, 20
+  offset: 0, 0
+  index: -1
+monster_6_wing_r
+  rotate: true
+  xy: 218, 15
+  size: 22, 18
+  orig: 22, 18
+  offset: 0, 0
+  index: -1

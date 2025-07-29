@@ -1,0 +1,153 @@
+
+Character_20570.png
+size: 739,93
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+AT_arm_01_l
+  rotate: false
+  xy: 630, 67
+  size: 107, 24
+  orig: 107, 24
+  offset: 0, 0
+  index: -1
+AT_arm_01_r
+  rotate: false
+  xy: 310, 2
+  size: 112, 18
+  orig: 112, 18
+  offset: 0, 0
+  index: -1
+AT_arm_02_l
+  rotate: false
+  xy: 80, 10
+  size: 49, 81
+  orig: 49, 81
+  offset: 0, 0
+  index: -1
+AT_arm_02_r
+  rotate: false
+  xy: 179, 15
+  size: 61, 76
+  orig: 61, 76
+  offset: 0, 0
+  index: -1
+AT_body
+  rotate: true
+  xy: 419, 24
+  size: 67, 66
+  orig: 67, 66
+  offset: 0, 0
+  index: -1
+AT_face
+  rotate: false
+  xy: 584, 41
+  size: 44, 50
+  orig: 44, 50
+  offset: 0, 0
+  index: -1
+AT_head
+  rotate: false
+  xy: 487, 25
+  size: 95, 66
+  orig: 95, 66
+  offset: 0, 0
+  index: -1
+AT_leg_l
+  rotate: true
+  xy: 424, 3
+  size: 19, 41
+  orig: 19, 41
+  offset: 0, 0
+  index: -1
+AT_leg_r
+  rotate: true
+  xy: 501, 5
+  size: 18, 42
+  orig: 18, 42
+  offset: 0, 0
+  index: -1
+Eff_attack_1
+  rotate: false
+  xy: 310, 22
+  size: 107, 69
+  orig: 107, 69
+  offset: 0, 0
+  index: -1
+Eff_attack_2
+  rotate: false
+  xy: 242, 3
+  size: 15, 13
+  orig: 15, 13
+  offset: 0, 0
+  index: -1
+Eff_attack_3
+  rotate: true
+  xy: 545, 5
+  size: 18, 16
+  orig: 18, 16
+  offset: 0, 0
+  index: -1
+arm_l
+  rotate: false
+  xy: 131, 10
+  size: 22, 81
+  orig: 22, 81
+  offset: 0, 0
+  index: -1
+arm_r
+  rotate: false
+  xy: 155, 10
+  size: 22, 81
+  orig: 22, 81
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 242, 18
+  size: 66, 73
+  orig: 66, 73
+  offset: 0, 0
+  index: -1
+face_damage
+  rotate: true
+  xy: 680, 18
+  size: 47, 49
+  orig: 47, 49
+  offset: 0, 0
+  index: -1
+face_default
+  rotate: false
+  xy: 630, 16
+  size: 48, 49
+  orig: 48, 49
+  offset: 0, 0
+  index: -1
+face_eye
+  rotate: false
+  xy: 80, 4
+  size: 28, 4
+  orig: 28, 4
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 2, 3
+  size: 88, 76
+  orig: 88, 76
+  offset: 0, 0
+  index: -1
+leg_l
+  rotate: true
+  xy: 563, 8
+  size: 15, 33
+  orig: 15, 33
+  offset: 0, 0
+  index: -1
+leg_r
+  rotate: true
+  xy: 467, 3
+  size: 19, 32
+  orig: 19, 32
+  offset: 0, 0
+  index: -1

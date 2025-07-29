@@ -1,0 +1,188 @@
+
+Character_50562.png
+size: 583,520
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+AT_arm_r_1
+  rotate: true
+  xy: 481, 173
+  size: 44, 60
+  orig: 44, 60
+  offset: 0, 0
+  index: -1
+AT_arm_r_2
+  rotate: true
+  xy: 543, 142
+  size: 79, 28
+  orig: 79, 28
+  offset: 0, 0
+  index: -1
+AT_hand_r_1
+  rotate: false
+  xy: 2, 2
+  size: 95, 349
+  orig: 95, 349
+  offset: 0, 0
+  index: -1
+AT_hand_r_2
+  rotate: true
+  xy: 289, 172
+  size: 346, 81
+  orig: 346, 81
+  offset: 0, 0
+  index: -1
+arm_l
+  rotate: true
+  xy: 451, 134
+  size: 37, 74
+  orig: 37, 74
+  offset: 0, 0
+  index: -1
+arm_r_1
+  rotate: true
+  xy: 452, 14
+  size: 22, 49
+  orig: 22, 49
+  offset: 0, 0
+  index: -1
+arm_r_2
+  rotate: true
+  xy: 503, 10
+  size: 28, 32
+  orig: 28, 32
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 372, 287
+  size: 103, 109
+  orig: 103, 109
+  offset: 0, 0
+  index: -1
+death_horn_L
+  rotate: false
+  xy: 507, 385
+  size: 67, 133
+  orig: 67, 133
+  offset: 0, 0
+  index: -1
+death_horn_R
+  rotate: false
+  xy: 372, 156
+  size: 64, 129
+  orig: 64, 129
+  offset: 0, 0
+  index: -1
+death_horn_fire_1
+  rotate: false
+  xy: 481, 219
+  size: 49, 86
+  orig: 49, 86
+  offset: 0, 0
+  index: -1
+death_horn_fire_2
+  rotate: true
+  xy: 367, 104
+  size: 50, 82
+  orig: 50, 82
+  offset: 0, 0
+  index: -1
+death_horn_fire_3
+  rotate: true
+  xy: 289, 102
+  size: 52, 76
+  orig: 52, 76
+  offset: 0, 0
+  index: -1
+death_horn_fire_4
+  rotate: false
+  xy: 573, 284
+  size: 8, 21
+  orig: 8, 21
+  offset: 0, 0
+  index: -1
+death_horn_fire_5
+  rotate: true
+  xy: 477, 385
+  size: 11, 16
+  orig: 11, 16
+  offset: 0, 0
+  index: -1
+face_damage
+  rotate: true
+  xy: 532, 223
+  size: 82, 39
+  orig: 82, 39
+  offset: 0, 0
+  index: -1
+face_default
+  rotate: false
+  xy: 452, 97
+  size: 69, 35
+  orig: 69, 35
+  offset: 0, 0
+  index: -1
+hagoromo
+  rotate: false
+  xy: 2, 353
+  size: 282, 165
+  orig: 282, 165
+  offset: 0, 0
+  index: -1
+hair_b_l
+  rotate: false
+  xy: 372, 398
+  size: 133, 120
+  orig: 133, 120
+  offset: 0, 0
+  index: -1
+hair_b_r
+  rotate: false
+  xy: 438, 177
+  size: 41, 108
+  orig: 41, 108
+  offset: 0, 0
+  index: -1
+hand_l
+  rotate: true
+  xy: 523, 101
+  size: 31, 28
+  orig: 31, 28
+  offset: 0, 0
+  index: -1
+hand_r
+  rotate: false
+  xy: 99, 14
+  size: 351, 86
+  orig: 351, 86
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 477, 307
+  size: 98, 76
+  orig: 98, 76
+  offset: 0, 0
+  index: -1
+leg_l
+  rotate: false
+  xy: 498, 40
+  size: 42, 55
+  orig: 42, 55
+  offset: 0, 0
+  index: -1
+leg_r
+  rotate: false
+  xy: 452, 38
+  size: 44, 57
+  orig: 44, 57
+  offset: 0, 0
+  index: -1
+shine
+  rotate: true
+  xy: 99, 102
+  size: 249, 188
+  orig: 249, 188
+  offset: 0, 0
+  index: -1

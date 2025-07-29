@@ -1,0 +1,335 @@
+
+Legend_10070.png
+size: 913,109
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cloud_main
+  rotate: false
+  xy: 68, 32
+  size: 212, 75
+  orig: 212, 75
+  offset: 0, 0
+  index: -1
+cloud_sub
+  rotate: true
+  xy: 835, 7
+  size: 41, 16
+  orig: 41, 16
+  offset: 0, 0
+  index: -1
+eff_attack
+  rotate: false
+  xy: 737, 49
+  size: 52, 58
+  orig: 52, 58
+  offset: 0, 0
+  index: -1
+eff_drum_1
+  rotate: true
+  xy: 791, 50
+  size: 57, 53
+  orig: 57, 53
+  offset: 0, 0
+  index: -1
+eff_drum_2
+  rotate: true
+  xy: 581, 46
+  size: 61, 56
+  orig: 61, 56
+  offset: 0, 0
+  index: -1
+eff_imp
+  rotate: true
+  xy: 406, 2
+  size: 32, 40
+  orig: 32, 40
+  offset: 0, 0
+  index: -1
+fujin_arm_l
+  rotate: true
+  xy: 881, 57
+  size: 13, 30
+  orig: 13, 30
+  offset: 0, 0
+  index: -1
+fujin_arm_r
+  rotate: false
+  xy: 889, 23
+  size: 15, 32
+  orig: 15, 32
+  offset: 0, 0
+  index: -1
+fujin_arm_r_attack_1
+  rotate: true
+  xy: 420, 37
+  size: 70, 60
+  orig: 70, 60
+  offset: 0, 0
+  index: -1
+fujin_arm_r_attack_2
+  rotate: true
+  xy: 2, 3
+  size: 24, 28
+  orig: 24, 28
+  offset: 0, 0
+  index: -1
+fujin_arm_r_attack_bag
+  rotate: false
+  xy: 2, 29
+  size: 64, 78
+  orig: 64, 78
+  offset: 0, 0
+  index: -1
+fujin_bag
+  rotate: true
+  xy: 521, 44
+  size: 63, 58
+  orig: 63, 58
+  offset: 0, 0
+  index: -1
+fujin_beard
+  rotate: false
+  xy: 570, 6
+  size: 61, 36
+  orig: 61, 36
+  offset: 0, 0
+  index: -1
+fujin_body
+  rotate: false
+  xy: 633, 3
+  size: 50, 41
+  orig: 50, 41
+  offset: 0, 0
+  index: -1
+fujin_eye_l
+  rotate: true
+  xy: 869, 54
+  size: 6, 5
+  orig: 6, 5
+  offset: 0, 0
+  index: -1
+fujin_eye_r
+  rotate: true
+  xy: 881, 15
+  size: 6, 5
+  orig: 6, 5
+  offset: 0, 0
+  index: -1
+fujin_face_damage
+  rotate: false
+  xy: 215, 2
+  size: 38, 28
+  orig: 38, 28
+  offset: 0, 0
+  index: -1
+fujin_face_default_1
+  rotate: true
+  xy: 882, 72
+  size: 35, 26
+  orig: 35, 26
+  offset: 0, 0
+  index: -1
+fujin_face_default_2
+  rotate: true
+  xy: 846, 72
+  size: 35, 34
+  orig: 35, 34
+  offset: 0, 0
+  index: -1
+fujin_face_default_3
+  rotate: false
+  xy: 255, 3
+  size: 38, 27
+  orig: 38, 27
+  offset: 0, 0
+  index: -1
+fujin_face_default_4
+  rotate: true
+  xy: 853, 15
+  size: 35, 26
+  orig: 35, 26
+  offset: 0, 0
+  index: -1
+fujin_foot_l
+  rotate: true
+  xy: 872, 3
+  size: 10, 15
+  orig: 10, 15
+  offset: 0, 0
+  index: -1
+fujin_foot_r
+  rotate: false
+  xy: 857, 57
+  size: 10, 13
+  orig: 10, 13
+  offset: 0, 0
+  index: -1
+fujin_hair
+  rotate: true
+  xy: 282, 34
+  size: 73, 72
+  orig: 73, 72
+  offset: 0, 0
+  index: -1
+fujin_head
+  rotate: true
+  xy: 685, 48
+  size: 59, 50
+  orig: 59, 50
+  offset: 0, 0
+  index: -1
+kaminari_arm_attack_l
+  rotate: true
+  xy: 59, 6
+  size: 21, 26
+  orig: 21, 26
+  offset: 0, 0
+  index: -1
+kaminari_arm_l
+  rotate: false
+  xy: 32, 4
+  size: 11, 23
+  orig: 11, 23
+  offset: 0, 0
+  index: -1
+kaminari_arm_r
+  rotate: false
+  xy: 45, 5
+  size: 12, 22
+  orig: 12, 22
+  offset: 0, 0
+  index: -1
+kaminari_beard
+  rotate: false
+  xy: 295, 2
+  size: 63, 30
+  orig: 63, 30
+  offset: 0, 0
+  index: -1
+kaminari_body
+  rotate: true
+  xy: 639, 46
+  size: 61, 44
+  orig: 61, 44
+  offset: 0, 0
+  index: -1
+kaminari_eye_l
+  rotate: false
+  xy: 906, 50
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+kaminari_eye_r
+  rotate: false
+  xy: 906, 43
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+kaminari_face_damage
+  rotate: false
+  xy: 87, 2
+  size: 42, 28
+  orig: 42, 28
+  offset: 0, 0
+  index: -1
+kaminari_face_default_1
+  rotate: false
+  xy: 131, 2
+  size: 40, 28
+  orig: 40, 28
+  offset: 0, 0
+  index: -1
+kaminari_face_default_2
+  rotate: false
+  xy: 173, 2
+  size: 40, 28
+  orig: 40, 28
+  offset: 0, 0
+  index: -1
+kaminari_face_default_3
+  rotate: true
+  xy: 489, 3
+  size: 38, 33
+  orig: 38, 33
+  offset: 0, 0
+  index: -1
+kaminari_face_default_4
+  rotate: false
+  xy: 448, 2
+  size: 39, 33
+  orig: 39, 33
+  offset: 0, 0
+  index: -1
+kaminari_foot_l
+  rotate: false
+  xy: 846, 52
+  size: 9, 18
+  orig: 9, 18
+  offset: 0, 0
+  index: -1
+kaminari_foot_r
+  rotate: true
+  xy: 853, 2
+  size: 11, 17
+  orig: 11, 17
+  offset: 0, 0
+  index: -1
+kaminari_hair
+  rotate: true
+  xy: 356, 36
+  size: 71, 62
+  orig: 71, 62
+  offset: 0, 0
+  index: -1
+kaminari_hand_l1
+  rotate: false
+  xy: 785, 3
+  size: 48, 44
+  orig: 48, 44
+  offset: 0, 0
+  index: -1
+kaminari_hand_l2
+  rotate: true
+  xy: 524, 2
+  size: 40, 44
+  orig: 40, 44
+  offset: 0, 0
+  index: -1
+kaminari_hand_l3
+  rotate: true
+  xy: 360, 2
+  size: 32, 44
+  orig: 32, 44
+  offset: 0, 0
+  index: -1
+kaminari_hand_l4
+  rotate: false
+  xy: 685, 2
+  size: 50, 44
+  orig: 50, 44
+  offset: 0, 0
+  index: -1
+kaminari_hand_l5
+  rotate: false
+  xy: 737, 2
+  size: 46, 45
+  orig: 46, 45
+  offset: 0, 0
+  index: -1
+kaminari_hand_r
+  rotate: true
+  xy: 869, 62
+  size: 8, 9
+  orig: 8, 9
+  offset: 0, 0
+  index: -1
+kaminari_head
+  rotate: true
+  xy: 482, 43
+  size: 64, 37
+  orig: 64, 37
+  offset: 0, 0
+  index: -1

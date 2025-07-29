@@ -1,0 +1,188 @@
+
+Cryptid_10050.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+_Shadow
+  rotate: true
+  xy: 541, 192
+  size: 16, 2
+  orig: 16, 2
+  offset: 0, 0
+  index: -1
+eff_splash_1
+  rotate: false
+  xy: 67, 2
+  size: 14, 9
+  orig: 14, 9
+  offset: 0, 0
+  index: -1
+eff_splash_2
+  rotate: true
+  xy: 722, 63
+  size: 8, 13
+  orig: 8, 13
+  offset: 0, 0
+  index: -1
+eff_splash_3
+  rotate: false
+  xy: 914, 137
+  size: 67, 43
+  orig: 67, 43
+  offset: 0, 0
+  index: -1
+eff_splash_4
+  rotate: true
+  xy: 83, 2
+  size: 9, 13
+  orig: 9, 13
+  offset: 0, 0
+  index: -1
+eff_splash_5
+  rotate: true
+  xy: 914, 129
+  size: 6, 11
+  orig: 6, 11
+  offset: 0, 0
+  index: -1
+eff_splash_6
+  rotate: true
+  xy: 628, 4
+  size: 8, 13
+  orig: 8, 13
+  offset: 0, 0
+  index: -1
+eff_splash_7
+  rotate: false
+  xy: 992, 215
+  size: 28, 39
+  orig: 28, 39
+  offset: 0, 0
+  index: -1
+eff_thunder_1
+  rotate: false
+  xy: 2, 2
+  size: 25, 29
+  orig: 25, 29
+  offset: 0, 0
+  index: -1
+eff_thunder_2
+  rotate: false
+  xy: 992, 189
+  size: 28, 24
+  orig: 28, 24
+  offset: 0, 0
+  index: -1
+eff_thunder_3
+  rotate: true
+  xy: 29, 11
+  size: 20, 36
+  orig: 20, 36
+  offset: 0, 0
+  index: -1
+eff_thunder_4
+  rotate: false
+  xy: 67, 13
+  size: 37, 18
+  orig: 37, 18
+  offset: 0, 0
+  index: -1
+eff_ｄarksphere
+  rotate: false
+  xy: 914, 182
+  size: 76, 72
+  orig: 76, 72
+  offset: 0, 0
+  index: -1
+eye
+  rotate: false
+  xy: 760, 91
+  size: 43, 34
+  orig: 43, 34
+  offset: 0, 0
+  index: -1
+eye_damage
+  rotate: false
+  xy: 805, 91
+  size: 43, 34
+  orig: 43, 34
+  offset: 0, 0
+  index: -1
+hair
+  rotate: true
+  xy: 734, 127
+  size: 127, 178
+  orig: 127, 178
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 546, 121
+  size: 133, 186
+  orig: 133, 186
+  offset: 0, 0
+  index: -1
+mouth_1
+  rotate: true
+  xy: 543, 2
+  size: 117, 83
+  orig: 117, 83
+  offset: 0, 0
+  index: -1
+mouth_2
+  rotate: false
+  xy: 628, 14
+  size: 95, 47
+  orig: 95, 47
+  offset: 0, 0
+  index: -1
+tongue
+  rotate: false
+  xy: 722, 73
+  size: 36, 46
+  orig: 36, 46
+  offset: 0, 0
+  index: -1
+tooth
+  rotate: false
+  xy: 628, 63
+  size: 92, 56
+  orig: 92, 56
+  offset: 0, 0
+  index: -1
+wave_1
+  rotate: false
+  xy: 2, 162
+  size: 537, 46
+  orig: 537, 46
+  offset: 0, 0
+  index: -1
+wave_2
+  rotate: false
+  xy: 2, 115
+  size: 537, 45
+  orig: 537, 45
+  offset: 0, 0
+  index: -1
+wave_3
+  rotate: false
+  xy: 2, 74
+  size: 539, 39
+  orig: 539, 39
+  offset: 0, 0
+  index: -1
+wave_4
+  rotate: false
+  xy: 2, 210
+  size: 542, 44
+  orig: 542, 44
+  offset: 0, 0
+  index: -1
+wave_5
+  rotate: false
+  xy: 2, 33
+  size: 539, 39
+  orig: 539, 39
+  offset: 0, 0
+  index: -1

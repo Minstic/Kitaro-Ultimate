@@ -1,0 +1,167 @@
+
+Biggest_10060.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 462
+  size: 467, 367
+  orig: 467, 367
+  offset: 0, 0
+  index: -1
+drop_01
+  rotate: true
+  xy: 802, 644
+  size: 20, 66
+  orig: 20, 66
+  offset: 0, 0
+  index: -1
+drop_02
+  rotate: false
+  xy: 345, 267
+  size: 15, 42
+  orig: 15, 42
+  offset: 0, 0
+  index: -1
+drop_move_03
+  rotate: false
+  xy: 471, 470
+  size: 21, 12
+  orig: 21, 12
+  offset: 0, 0
+  index: -1
+eye
+  rotate: true
+  xy: 345, 311
+  size: 149, 60
+  orig: 149, 60
+  offset: 0, 0
+  index: -1
+horn_l
+  rotate: false
+  xy: 2, 19
+  size: 84, 65
+  orig: 84, 65
+  offset: 0, 0
+  index: -1
+horn_r
+  rotate: true
+  xy: 680, 562
+  size: 62, 66
+  orig: 62, 66
+  offset: 0, 0
+  index: -1
+impact
+  rotate: false
+  xy: 471, 484
+  size: 73, 73
+  orig: 73, 73
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: false
+  xy: 802, 666
+  size: 182, 163
+  orig: 182, 163
+  offset: 0, 0
+  index: -1
+splash_01
+  rotate: false
+  xy: 748, 616
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+surface_attack_03
+  rotate: false
+  xy: 471, 626
+  size: 329, 203
+  orig: 329, 203
+  offset: 0, 0
+  index: -1
+surface_attack_04
+  rotate: false
+  xy: 2, 265
+  size: 341, 195
+  orig: 341, 195
+  offset: 0, 0
+  index: -1
+surface_move_01
+  rotate: false
+  xy: 471, 559
+  size: 207, 65
+  orig: 207, 65
+  offset: 0, 0
+  index: -1
+water_01
+  rotate: false
+  xy: 546, 544
+  size: 19, 13
+  orig: 19, 13
+  offset: 0, 0
+  index: -1
+water_02
+  rotate: false
+  xy: 407, 450
+  size: 35, 10
+  orig: 35, 10
+  offset: 0, 0
+  index: -1
+water_03
+  rotate: false
+  xy: 2, 2
+  size: 25, 15
+  orig: 25, 15
+  offset: 0, 0
+  index: -1
+water_04
+  rotate: true
+  xy: 986, 779
+  size: 50, 27
+  orig: 50, 27
+  offset: 0, 0
+  index: -1
+water_05
+  rotate: false
+  xy: 88, 69
+  size: 22, 15
+  orig: 22, 15
+  offset: 0, 0
+  index: -1
+wave_01
+  rotate: false
+  xy: 2, 120
+  size: 700, 32
+  orig: 700, 32
+  offset: 0, 0
+  index: -1
+wave_02
+  rotate: false
+  xy: 2, 86
+  size: 700, 32
+  orig: 700, 32
+  offset: 0, 0
+  index: -1
+wave_03
+  rotate: false
+  xy: 2, 190
+  size: 701, 35
+  orig: 701, 35
+  offset: 0, 0
+  index: -1
+wave_04
+  rotate: false
+  xy: 2, 227
+  size: 701, 36
+  orig: 701, 36
+  offset: 0, 0
+  index: -1
+wave_05
+  rotate: false
+  xy: 2, 154
+  size: 700, 34
+  orig: 700, 34
+  offset: 0, 0
+  index: -1

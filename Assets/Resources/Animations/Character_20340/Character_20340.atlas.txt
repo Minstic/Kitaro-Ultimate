@@ -1,0 +1,83 @@
+
+Character_20340.png
+size: 689,156
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body_attack
+  rotate: false
+  xy: 2, 11
+  size: 195, 143
+  orig: 195, 143
+  offset: 0, 0
+  index: -1
+body_default
+  rotate: false
+  xy: 199, 3
+  size: 178, 151
+  orig: 178, 151
+  offset: 0, 0
+  index: -1
+eff_attack
+  rotate: true
+  xy: 379, 2
+  size: 33, 36
+  orig: 33, 36
+  offset: 0, 0
+  index: -1
+face_attack_01
+  rotate: false
+  xy: 379, 37
+  size: 113, 117
+  orig: 113, 117
+  offset: 0, 0
+  index: -1
+face_attack_02
+  rotate: false
+  xy: 494, 19
+  size: 132, 61
+  orig: 132, 61
+  offset: 0, 0
+  index: -1
+face_damage
+  rotate: true
+  xy: 633, 39
+  size: 115, 54
+  orig: 115, 54
+  offset: 0, 0
+  index: -1
+face_default
+  rotate: false
+  xy: 494, 82
+  size: 137, 72
+  orig: 137, 72
+  offset: 0, 0
+  index: -1
+foot_l_01
+  rotate: false
+  xy: 656, 21
+  size: 21, 16
+  orig: 21, 16
+  offset: 0, 0
+  index: -1
+foot_l_02
+  rotate: false
+  xy: 417, 11
+  size: 29, 24
+  orig: 29, 24
+  offset: 0, 0
+  index: -1
+foot_r_01
+  rotate: false
+  xy: 628, 18
+  size: 26, 19
+  orig: 26, 19
+  offset: 0, 0
+  index: -1
+foot_r_02
+  rotate: true
+  xy: 448, 14
+  size: 21, 31
+  orig: 21, 31
+  offset: 0, 0
+  index: -1

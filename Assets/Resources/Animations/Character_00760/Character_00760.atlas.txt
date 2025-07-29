@@ -1,0 +1,160 @@
+
+Character_00760.png
+size: 219,269
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Hachimaki_01
+  rotate: false
+  xy: 71, 2
+  size: 26, 19
+  orig: 26, 19
+  offset: 0, 0
+  index: -1
+Hachimaki_02
+  rotate: false
+  xy: 121, 2
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+arm_l_a_01
+  rotate: true
+  xy: 188, 114
+  size: 18, 29
+  orig: 18, 29
+  offset: 0, 0
+  index: -1
+arm_l_a_02
+  rotate: false
+  xy: 145, 20
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+arm_l_b_01
+  rotate: true
+  xy: 188, 134
+  size: 23, 29
+  orig: 23, 29
+  offset: 0, 0
+  index: -1
+arm_l_b_02
+  rotate: false
+  xy: 170, 36
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+arm_r_a_01
+  rotate: true
+  xy: 190, 94
+  size: 18, 27
+  orig: 18, 27
+  offset: 0, 0
+  index: -1
+arm_r_a_02
+  rotate: false
+  xy: 151, 46
+  size: 15, 20
+  orig: 15, 20
+  offset: 0, 0
+  index: -1
+arm_r_b_01
+  rotate: true
+  xy: 121, 45
+  size: 21, 28
+  orig: 21, 28
+  offset: 0, 0
+  index: -1
+arm_r_b_02
+  rotate: true
+  xy: 99, 2
+  size: 19, 20
+  orig: 19, 20
+  offset: 0, 0
+  index: -1
+body_a
+  rotate: false
+  xy: 2, 3
+  size: 67, 49
+  orig: 67, 49
+  offset: 0, 0
+  index: -1
+body_b
+  rotate: false
+  xy: 121, 105
+  size: 65, 52
+  orig: 65, 52
+  offset: 0, 0
+  index: -1
+face_01
+  rotate: true
+  xy: 170, 62
+  size: 41, 18
+  orig: 41, 18
+  offset: 0, 0
+  index: -1
+face_02
+  rotate: false
+  xy: 121, 68
+  size: 47, 35
+  orig: 47, 35
+  offset: 0, 0
+  index: -1
+hair_01
+  rotate: false
+  xy: 97, 159
+  size: 107, 108
+  orig: 107, 108
+  offset: 0, 0
+  index: -1
+hair_03
+  rotate: false
+  xy: 2, 54
+  size: 53, 87
+  orig: 53, 87
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 57, 67
+  size: 74, 62
+  orig: 74, 62
+  offset: 0, 0
+  index: -1
+leg_a
+  rotate: true
+  xy: 118, 23
+  size: 20, 25
+  orig: 20, 25
+  offset: 0, 0
+  index: -1
+leg_b
+  rotate: true
+  xy: 190, 61
+  size: 31, 24
+  orig: 31, 24
+  offset: 0, 0
+  index: -1
+mouth_01
+  rotate: false
+  xy: 71, 43
+  size: 43, 22
+  orig: 43, 22
+  offset: 0, 0
+  index: -1
+mouth_02
+  rotate: false
+  xy: 71, 23
+  size: 45, 18
+  orig: 45, 18
+  offset: 0, 0
+  index: -1
+voice
+  rotate: false
+  xy: 2, 143
+  size: 93, 124
+  orig: 93, 124
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,503 @@
+
+Season_15051.png
+size: 977,772
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Cup_coffee_
+  rotate: false
+  xy: 892, 2
+  size: 21, 7
+  orig: 21, 7
+  offset: 0, 0
+  index: -1
+bear_01_body_attack
+  rotate: false
+  xy: 401, 529
+  size: 356, 241
+  orig: 356, 241
+  offset: 0, 0
+  index: -1
+bear_01_body_default
+  rotate: false
+  xy: 2, 515
+  size: 397, 255
+  orig: 397, 255
+  offset: 0, 0
+  index: -1
+bear_01_eyeB_default
+  rotate: false
+  xy: 233, 6
+  size: 52, 11
+  orig: 52, 11
+  offset: 0, 0
+  index: -1
+bear_01_eye_damage
+  rotate: true
+  xy: 934, 606
+  size: 71, 34
+  orig: 71, 34
+  offset: 0, 0
+  index: -1
+bear_01_eye_default
+  rotate: false
+  xy: 233, 19
+  size: 75, 34
+  orig: 75, 34
+  offset: 0, 0
+  index: -1
+bear_01_head
+  rotate: true
+  xy: 181, 228
+  size: 285, 256
+  orig: 285, 256
+  offset: 0, 0
+  index: -1
+bear_01_leg_01_l_attack
+  rotate: false
+  xy: 709, 265
+  size: 129, 60
+  orig: 129, 60
+  offset: 0, 0
+  index: -1
+bear_01_leg_01_l_default
+  rotate: false
+  xy: 815, 331
+  size: 88, 124
+  orig: 88, 124
+  offset: 0, 0
+  index: -1
+bear_01_leg_01_r_attack
+  rotate: true
+  xy: 905, 241
+  size: 104, 70
+  orig: 104, 70
+  offset: 0, 0
+  index: -1
+bear_01_leg_01_r_default
+  rotate: false
+  xy: 905, 347
+  size: 70, 108
+  orig: 70, 108
+  offset: 0, 0
+  index: -1
+bear_01_leg_02_l_attack
+  rotate: false
+  xy: 709, 327
+  size: 104, 128
+  orig: 104, 128
+  offset: 0, 0
+  index: -1
+bear_01_leg_02_l_default
+  rotate: true
+  xy: 438, 116
+  size: 99, 169
+  orig: 99, 169
+  offset: 0, 0
+  index: -1
+bear_01_leg_02_r
+  rotate: true
+  xy: 438, 10
+  size: 104, 138
+  orig: 104, 138
+  offset: 0, 0
+  index: -1
+bear_01_tail
+  rotate: false
+  xy: 919, 66
+  size: 55, 40
+  orig: 55, 40
+  offset: 0, 0
+  index: -1
+bear_02_eyeB_default
+  rotate: false
+  xy: 919, 47
+  size: 54, 17
+  orig: 54, 17
+  offset: 0, 0
+  index: -1
+bear_02_eye_damage
+  rotate: true
+  xy: 934, 472
+  size: 61, 35
+  orig: 61, 35
+  offset: 0, 0
+  index: -1
+bear_02_eye_default
+  rotate: false
+  xy: 310, 18
+  size: 74, 35
+  orig: 74, 35
+  offset: 0, 0
+  index: -1
+bear_02_head
+  rotate: false
+  xy: 439, 269
+  size: 268, 258
+  orig: 268, 258
+  offset: 0, 0
+  index: -1
+chocowave1
+  rotate: true
+  xy: 759, 457
+  size: 313, 173
+  orig: 313, 173
+  offset: 0, 0
+  index: -1
+coffee_Eff
+  rotate: false
+  xy: 386, 20
+  size: 47, 33
+  orig: 47, 33
+  offset: 0, 0
+  index: -1
+dog_01_body
+  rotate: false
+  xy: 919, 108
+  size: 56, 67
+  orig: 56, 67
+  offset: 0, 0
+  index: -1
+dog_01_eye_attack
+  rotate: false
+  xy: 287, 2
+  size: 21, 15
+  orig: 21, 15
+  offset: 0, 0
+  index: -1
+dog_02_eye_attack
+  rotate: false
+  xy: 287, 2
+  size: 21, 15
+  orig: 21, 15
+  offset: 0, 0
+  index: -1
+dog_01_eye_damage
+  rotate: false
+  xy: 153, 55
+  size: 18, 13
+  orig: 18, 13
+  offset: 0, 0
+  index: -1
+dog_01_eye_default
+  rotate: true
+  xy: 960, 24
+  size: 21, 15
+  orig: 21, 15
+  offset: 0, 0
+  index: -1
+dog_01_head_attack
+  rotate: false
+  xy: 792, 114
+  size: 66, 70
+  orig: 66, 70
+  offset: 0, 0
+  index: -1
+dog_01_head_damage
+  rotate: false
+  xy: 860, 39
+  size: 57, 65
+  orig: 57, 65
+  offset: 0, 0
+  index: -1
+dog_01_head_default
+  rotate: false
+  xy: 860, 106
+  size: 57, 69
+  orig: 57, 69
+  offset: 0, 0
+  index: -1
+dog_01_leg_02
+  rotate: false
+  xy: 817, 7
+  size: 37, 33
+  orig: 37, 33
+  offset: 0, 0
+  index: -1
+dog_01_tail
+  rotate: false
+  xy: 386, 2
+  size: 43, 16
+  orig: 43, 16
+  offset: 0, 0
+  index: -1
+dog_02_eye_damage
+  rotate: false
+  xy: 310, 2
+  size: 17, 14
+  orig: 17, 14
+  offset: 0, 0
+  index: -1
+dog_02_eye_default
+  rotate: true
+  xy: 884, 279
+  size: 21, 15
+  orig: 21, 15
+  offset: 0, 0
+  index: -1
+dog_02_head_attack
+  rotate: false
+  xy: 792, 42
+  size: 66, 70
+  orig: 66, 70
+  offset: 0, 0
+  index: -1
+dog_02_head_damage
+  rotate: true
+  xy: 791, 186
+  size: 77, 67
+  orig: 77, 67
+  offset: 0, 0
+  index: -1
+dog_02_head_default
+  rotate: true
+  xy: 718, 50
+  size: 77, 72
+  orig: 77, 72
+  offset: 0, 0
+  index: -1
+dog_eff
+  rotate: true
+  xy: 919, 8
+  size: 37, 39
+  orig: 37, 39
+  offset: 0, 0
+  index: -1
+eff_attackchoco1
+  rotate: false
+  xy: 2, 10
+  size: 149, 68
+  orig: 149, 68
+  offset: 0, 0
+  index: -1
+eff_attackchoco2
+  rotate: false
+  xy: 578, 29
+  size: 94, 18
+  orig: 94, 18
+  offset: 0, 0
+  index: -1
+eff_attackchoco3
+  rotate: true
+  xy: 199, 2
+  size: 51, 32
+  orig: 51, 32
+  offset: 0, 0
+  index: -1
+eff_attackchoco4
+  rotate: false
+  xy: 722, 32
+  size: 58, 16
+  orig: 58, 16
+  offset: 0, 0
+  index: -1
+eff_attackchoco5
+  rotate: true
+  xy: 674, 27
+  size: 20, 46
+  orig: 20, 46
+  offset: 0, 0
+  index: -1
+eff_attackchoco6
+  rotate: false
+  xy: 934, 535
+  size: 39, 69
+  orig: 39, 69
+  offset: 0, 0
+  index: -1
+eff_choco1
+  rotate: true
+  xy: 934, 679
+  size: 91, 27
+  orig: 91, 27
+  offset: 0, 0
+  index: -1
+eff_choco10
+  rotate: true
+  xy: 679, 8
+  size: 17, 31
+  orig: 17, 31
+  offset: 0, 0
+  index: -1
+eff_choco2
+  rotate: true
+  xy: 884, 302
+  size: 27, 19
+  orig: 27, 19
+  offset: 0, 0
+  index: -1
+eff_choco3
+  rotate: false
+  xy: 754, 10
+  size: 16, 20
+  orig: 16, 20
+  offset: 0, 0
+  index: -1
+eff_choco4
+  rotate: false
+  xy: 934, 457
+  size: 39, 13
+  orig: 39, 13
+  offset: 0, 0
+  index: -1
+eff_choco5
+  rotate: false
+  xy: 856, 6
+  size: 34, 31
+  orig: 34, 31
+  offset: 0, 0
+  index: -1
+eff_choco6
+  rotate: true
+  xy: 932, 178
+  size: 61, 35
+  orig: 61, 35
+  offset: 0, 0
+  index: -1
+eff_choco7
+  rotate: true
+  xy: 709, 457
+  size: 28, 34
+  orig: 28, 34
+  offset: 0, 0
+  index: -1
+eff_choco8
+  rotate: false
+  xy: 710, 129
+  size: 75, 39
+  orig: 75, 39
+  offset: 0, 0
+  index: -1
+eff_choco9
+  rotate: false
+  xy: 578, 9
+  size: 61, 18
+  orig: 61, 18
+  offset: 0, 0
+  index: -1
+eff_snow
+  rotate: false
+  xy: 609, 115
+  size: 99, 100
+  orig: 99, 100
+  offset: 0, 0
+  index: -1
+rope_01
+  rotate: true
+  xy: 2, 80
+  size: 433, 177
+  orig: 433, 177
+  offset: 0, 0
+  index: -1
+sled_01
+  rotate: false
+  xy: 181, 55
+  size: 255, 171
+  orig: 255, 171
+  offset: 0, 0
+  index: -1
+sled_02
+  rotate: false
+  xy: 439, 217
+  size: 219, 50
+  orig: 219, 50
+  offset: 0, 0
+  index: -1
+snowlady_arm_l
+  rotate: false
+  xy: 153, 2
+  size: 44, 51
+  orig: 44, 51
+  offset: 0, 0
+  index: -1
+snowlady_arm_r01
+  rotate: false
+  xy: 709, 487
+  size: 48, 40
+  orig: 48, 40
+  offset: 0, 0
+  index: -1
+snowlady_arm_r_02
+  rotate: true
+  xy: 782, 2
+  size: 35, 33
+  orig: 35, 33
+  offset: 0, 0
+  index: -1
+snowlady_body
+  rotate: false
+  xy: 860, 177
+  size: 70, 62
+  orig: 70, 62
+  offset: 0, 0
+  index: -1
+snowlady_cup_01
+  rotate: false
+  xy: 860, 243
+  size: 31, 27
+  orig: 31, 27
+  offset: 0, 0
+  index: -1
+snowlady_cup_02
+  rotate: false
+  xy: 892, 11
+  size: 24, 26
+  orig: 24, 26
+  offset: 0, 0
+  index: -1
+snowlady_eyes
+  rotate: false
+  xy: 153, 70
+  size: 26, 8
+  orig: 26, 8
+  offset: 0, 0
+  index: -1
+snowlady_face_cocoa
+  rotate: false
+  xy: 840, 265
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+snowlady_face_damage
+  rotate: true
+  xy: 722, 4
+  size: 26, 30
+  orig: 26, 30
+  offset: 0, 0
+  index: -1
+snowlady_face_default
+  rotate: false
+  xy: 641, 2
+  size: 36, 23
+  orig: 36, 23
+  offset: 0, 0
+  index: -1
+snowlady_hair
+  rotate: false
+  xy: 660, 217
+  size: 35, 50
+  orig: 35, 50
+  offset: 0, 0
+  index: -1
+snowlady_head
+  rotate: false
+  xy: 710, 170
+  size: 79, 93
+  orig: 79, 93
+  offset: 0, 0
+  index: -1
+snowlady_robe
+  rotate: false
+  xy: 578, 49
+  size: 138, 64
+  orig: 138, 64
+  offset: 0, 0
+  index: -1
+snowlasy_cap
+  rotate: false
+  xy: 840, 272
+  size: 42, 57
+  orig: 42, 57
+  offset: 0, 0
+  index: -1

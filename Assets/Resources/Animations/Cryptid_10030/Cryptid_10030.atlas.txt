@@ -1,0 +1,139 @@
+
+Cryptid_10030.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 66
+  size: 165, 60
+  orig: 165, 60
+  offset: 0, 0
+  index: -1
+eff_ice1
+  rotate: false
+  xy: 2, 2
+  size: 95, 29
+  orig: 95, 29
+  offset: 0, 0
+  index: -1
+eff_ice2
+  rotate: false
+  xy: 337, 48
+  size: 58, 24
+  orig: 58, 24
+  offset: 0, 0
+  index: -1
+eff_ice3
+  rotate: false
+  xy: 169, 89
+  size: 169, 37
+  orig: 169, 37
+  offset: 0, 0
+  index: -1
+eff_ice4
+  rotate: false
+  xy: 2, 33
+  size: 123, 31
+  orig: 123, 31
+  offset: 0, 0
+  index: -1
+eye
+  rotate: true
+  xy: 99, 2
+  size: 29, 20
+  orig: 29, 20
+  offset: 0, 0
+  index: -1
+eye_attack
+  rotate: true
+  xy: 121, 2
+  size: 29, 20
+  orig: 29, 20
+  offset: 0, 0
+  index: -1
+hand
+  rotate: false
+  xy: 255, 2
+  size: 33, 25
+  orig: 33, 25
+  offset: 0, 0
+  index: -1
+hand_R
+  rotate: false
+  xy: 255, 2
+  size: 33, 25
+  orig: 33, 25
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 340, 74
+  size: 97, 52
+  orig: 97, 52
+  offset: 0, 0
+  index: -1
+head_attack_1
+  rotate: true
+  xy: 169, 9
+  size: 78, 84
+  orig: 78, 84
+  offset: 0, 0
+  index: -1
+head_attacｋ_2
+  rotate: true
+  xy: 439, 75
+  size: 51, 70
+  orig: 51, 70
+  offset: 0, 0
+  index: -1
+ice_1
+  rotate: false
+  xy: 290, 21
+  size: 14, 6
+  orig: 14, 6
+  offset: 0, 0
+  index: -1
+ice_2
+  rotate: false
+  xy: 326, 44
+  size: 9, 4
+  orig: 9, 4
+  offset: 0, 0
+  index: -1
+ice_3
+  rotate: false
+  xy: 397, 68
+  size: 14, 4
+  orig: 14, 4
+  offset: 0, 0
+  index: -1
+leg
+  rotate: false
+  xy: 127, 37
+  size: 30, 27
+  orig: 30, 27
+  offset: 0, 0
+  index: -1
+leg_R
+  rotate: false
+  xy: 127, 37
+  size: 30, 27
+  orig: 30, 27
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: false
+  xy: 255, 29
+  size: 69, 19
+  orig: 69, 19
+  offset: 0, 0
+  index: -1
+tail
+  rotate: false
+  xy: 255, 50
+  size: 80, 37
+  orig: 80, 37
+  offset: 0, 0
+  index: -1

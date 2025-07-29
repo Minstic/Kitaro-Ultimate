@@ -1,0 +1,223 @@
+
+World_10081.png
+size: 1009,581
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dinosaur_arm
+  rotate: true
+  xy: 134, 2
+  size: 30, 43
+  orig: 30, 43
+  offset: 0, 0
+  index: -1
+dinosaur_body
+  rotate: true
+  xy: 820, 15
+  size: 212, 187
+  orig: 212, 187
+  offset: 0, 0
+  index: -1
+dinosaur_head_Hair2
+  rotate: true
+  xy: 278, 89
+  size: 83, 34
+  orig: 83, 34
+  offset: 0, 0
+  index: -1
+dinosaur_head_attack
+  rotate: true
+  xy: 319, 71
+  size: 303, 194
+  orig: 303, 194
+  offset: 0, 0
+  index: -1
+dinosaur_head_attack_re
+  rotate: false
+  xy: 515, 68
+  size: 303, 194
+  orig: 303, 194
+  offset: 0, 0
+  index: -1
+dinosaur_head_default
+  rotate: true
+  xy: 636, 264
+  size: 315, 200
+  orig: 315, 200
+  offset: 0, 0
+  index: -1
+dinosaur_head_default_ef
+  rotate: false
+  xy: 2, 376
+  size: 315, 203
+  orig: 315, 203
+  offset: 0, 0
+  index: -1
+dinosaur_head_default_ef_re
+  rotate: false
+  xy: 319, 376
+  size: 315, 203
+  orig: 315, 203
+  offset: 0, 0
+  index: -1
+dinosaur_head_default_re
+  rotate: false
+  xy: 2, 174
+  size: 315, 200
+  orig: 315, 200
+  offset: 0, 0
+  index: -1
+dinosaur_leg_l
+  rotate: false
+  xy: 949, 299
+  size: 57, 62
+  orig: 57, 62
+  offset: 0, 0
+  index: -1
+dinosaur_leg_l_up
+  rotate: false
+  xy: 838, 248
+  size: 109, 113
+  orig: 109, 113
+  offset: 0, 0
+  index: -1
+dinosaur_leg_r
+  rotate: true
+  xy: 549, 5
+  size: 61, 88
+  orig: 61, 88
+  offset: 0, 0
+  index: -1
+dinosaur_leg_r_up
+  rotate: false
+  xy: 337, 6
+  size: 65, 63
+  orig: 65, 63
+  offset: 0, 0
+  index: -1
+dinosaur_tail
+  rotate: false
+  xy: 2, 90
+  size: 145, 82
+  orig: 145, 82
+  offset: 0, 0
+  index: -1
+eff
+  rotate: false
+  xy: 485, 4
+  size: 62, 62
+  orig: 62, 62
+  offset: 0, 0
+  index: -1
+eff_dust
+  rotate: false
+  xy: 2, 7
+  size: 130, 81
+  orig: 130, 81
+  offset: 0, 0
+  index: -1
+eff_mouth
+  rotate: false
+  xy: 838, 363
+  size: 146, 216
+  orig: 146, 216
+  offset: 0, 0
+  index: -1
+hurari_arm_01
+  rotate: true
+  xy: 949, 229
+  size: 68, 53
+  orig: 68, 53
+  offset: 0, 0
+  index: -1
+hurari_arm_02
+  rotate: false
+  xy: 404, 7
+  size: 79, 62
+  orig: 79, 62
+  offset: 0, 0
+  index: -1
+hurari_body_01
+  rotate: true
+  xy: 149, 34
+  size: 138, 60
+  orig: 138, 60
+  offset: 0, 0
+  index: -1
+hurari_body_02
+  rotate: false
+  xy: 211, 9
+  size: 124, 60
+  orig: 124, 60
+  offset: 0, 0
+  index: -1
+hurari_eye_default
+  rotate: false
+  xy: 986, 501
+  size: 13, 14
+  orig: 13, 14
+  offset: 0, 0
+  index: -1
+hurari_head_01
+  rotate: false
+  xy: 709, 6
+  size: 74, 60
+  orig: 74, 60
+  offset: 0, 0
+  index: -1
+hurari_head_02
+  rotate: false
+  xy: 639, 5
+  size: 68, 61
+  orig: 68, 61
+  offset: 0, 0
+  index: -1
+hurari_neck
+  rotate: false
+  xy: 557, 266
+  size: 39, 38
+  orig: 39, 38
+  offset: 0, 0
+  index: -1
+ke_arm
+  rotate: true
+  xy: 986, 484
+  size: 15, 11
+  orig: 15, 11
+  offset: 0, 0
+  index: -1
+ke_body
+  rotate: true
+  xy: 211, 101
+  size: 71, 65
+  orig: 71, 65
+  offset: 0, 0
+  index: -1
+ke_eye_damage
+  rotate: true
+  xy: 986, 549
+  size: 30, 21
+  orig: 30, 21
+  offset: 0, 0
+  index: -1
+ke_eye_default
+  rotate: true
+  xy: 986, 517
+  size: 30, 21
+  orig: 30, 21
+  offset: 0, 0
+  index: -1
+ke_head
+  rotate: false
+  xy: 515, 306
+  size: 89, 68
+  orig: 89, 68
+  offset: 0, 0
+  index: -1
+ke_mouth
+  rotate: true
+  xy: 515, 266
+  size: 38, 40
+  orig: 38, 40
+  offset: 0, 0
+  index: -1

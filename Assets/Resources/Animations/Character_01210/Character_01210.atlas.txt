@@ -1,0 +1,83 @@
+
+Character_01210.png
+size: 256,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: true
+  xy: 93, 2
+  size: 24, 21
+  orig: 24, 21
+  offset: 0, 0
+  index: -1
+ef_A1
+  rotate: true
+  xy: 101, 36
+  size: 26, 35
+  orig: 26, 35
+  offset: 0, 0
+  index: -1
+ef_A2
+  rotate: false
+  xy: 2, 23
+  size: 31, 39
+  orig: 31, 39
+  offset: 0, 0
+  index: -1
+ef_A3
+  rotate: false
+  xy: 35, 27
+  size: 33, 35
+  orig: 33, 35
+  offset: 0, 0
+  index: -1
+ef_B1
+  rotate: true
+  xy: 171, 37
+  size: 25, 30
+  orig: 25, 30
+  offset: 0, 0
+  index: -1
+ef_B2
+  rotate: true
+  xy: 138, 34
+  size: 28, 31
+  orig: 28, 31
+  offset: 0, 0
+  index: -1
+ef_B3
+  rotate: false
+  xy: 70, 28
+  size: 29, 34
+  orig: 29, 34
+  offset: 0, 0
+  index: -1
+ef_C1
+  rotate: false
+  xy: 203, 25
+  size: 24, 21
+  orig: 24, 21
+  offset: 0, 0
+  index: -1
+ef_C2
+  rotate: false
+  xy: 203, 48
+  size: 32, 14
+  orig: 32, 14
+  offset: 0, 0
+  index: -1
+ef_C3
+  rotate: false
+  xy: 2, 8
+  size: 30, 13
+  orig: 30, 13
+  offset: 0, 0
+  index: -1
+ef_body
+  rotate: true
+  xy: 70, 2
+  size: 24, 21
+  orig: 24, 21
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,125 @@
+
+BattleCat_20041.png
+size: 344,267
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+attack_face1
+  rotate: false
+  xy: 273, 61
+  size: 54, 111
+  orig: 54, 111
+  offset: 0, 0
+  index: -1
+attack_face2
+  rotate: false
+  xy: 173, 13
+  size: 52, 33
+  orig: 52, 33
+  offset: 0, 0
+  index: -1
+body_attack
+  rotate: false
+  xy: 2, 123
+  size: 166, 142
+  orig: 166, 142
+  offset: 0, 0
+  index: -1
+body_default
+  rotate: false
+  xy: 170, 174
+  size: 169, 91
+  orig: 169, 91
+  offset: 0, 0
+  index: -1
+body_default2
+  rotate: false
+  xy: 2, 30
+  size: 169, 91
+  orig: 169, 91
+  offset: 0, 0
+  index: -1
+ear
+  rotate: false
+  xy: 329, 121
+  size: 13, 22
+  orig: 13, 22
+  offset: 0, 0
+  index: -1
+eff_tail
+  rotate: true
+  xy: 227, 5
+  size: 41, 50
+  orig: 41, 50
+  offset: 0, 0
+  index: -1
+eff_top
+  rotate: false
+  xy: 173, 48
+  size: 98, 124
+  orig: 98, 124
+  offset: 0, 0
+  index: -1
+eff_under
+  rotate: false
+  xy: 279, 38
+  size: 36, 21
+  orig: 36, 21
+  offset: 0, 0
+  index: -1
+eye
+  rotate: true
+  xy: 329, 145
+  size: 27, 7
+  orig: 27, 7
+  offset: 0, 0
+  index: -1
+leg_back_top
+  rotate: false
+  xy: 279, 8
+  size: 19, 28
+  orig: 19, 28
+  offset: 0, 0
+  index: -1
+leg_back_under01
+  rotate: true
+  xy: 85, 12
+  size: 16, 41
+  orig: 16, 41
+  offset: 0, 0
+  index: -1
+leg_back_under02
+  rotate: true
+  xy: 2, 2
+  size: 26, 37
+  orig: 26, 37
+  offset: 0, 0
+  index: -1
+leg_front_top
+  rotate: false
+  xy: 300, 13
+  size: 18, 23
+  orig: 18, 23
+  offset: 0, 0
+  index: -1
+leg_front_under01
+  rotate: true
+  xy: 41, 9
+  size: 19, 42
+  orig: 19, 42
+  offset: 0, 0
+  index: -1
+leg_front_under02
+  rotate: true
+  xy: 128, 4
+  size: 24, 37
+  orig: 24, 37
+  offset: 0, 0
+  index: -1
+mouth_default
+  rotate: false
+  xy: 320, 37
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1

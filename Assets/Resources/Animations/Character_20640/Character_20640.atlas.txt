@@ -1,0 +1,125 @@
+
+Character_20640.png
+size: 970,629
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body1
+  rotate: true
+  xy: 243, 269
+  size: 358, 238
+  orig: 358, 238
+  offset: 0, 0
+  index: -1
+body2
+  rotate: true
+  xy: 2, 266
+  size: 361, 239
+  orig: 361, 239
+  offset: 0, 0
+  index: -1
+body_ef
+  rotate: true
+  xy: 483, 272
+  size: 355, 232
+  orig: 355, 232
+  offset: 0, 0
+  index: -1
+body_ef2
+  rotate: false
+  xy: 352, 31
+  size: 355, 236
+  orig: 355, 236
+  offset: 0, 0
+  index: -1
+eff_atk1
+  rotate: true
+  xy: 2, 12
+  size: 252, 115
+  orig: 252, 115
+  offset: 0, 0
+  index: -1
+eff_atk2
+  rotate: true
+  xy: 240, 19
+  size: 245, 110
+  orig: 245, 110
+  offset: 0, 0
+  index: -1
+eff_atk3
+  rotate: true
+  xy: 119, 13
+  size: 251, 119
+  orig: 251, 119
+  offset: 0, 0
+  index: -1
+eff_atk_hit1
+  rotate: true
+  xy: 802, 10
+  size: 206, 73
+  orig: 206, 73
+  offset: 0, 0
+  index: -1
+eff_atk_hit2
+  rotate: false
+  xy: 717, 314
+  size: 206, 86
+  orig: 206, 86
+  offset: 0, 0
+  index: -1
+eff_atk_hit3
+  rotate: false
+  xy: 802, 218
+  size: 166, 94
+  orig: 166, 94
+  offset: 0, 0
+  index: -1
+eff_atk_hit4
+  rotate: false
+  xy: 717, 486
+  size: 223, 89
+  orig: 223, 89
+  offset: 0, 0
+  index: -1
+hair
+  rotate: false
+  xy: 717, 577
+  size: 224, 50
+  orig: 224, 50
+  offset: 0, 0
+  index: -1
+hair2
+  rotate: false
+  xy: 717, 402
+  size: 221, 82
+  orig: 221, 82
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 717, 5
+  size: 307, 83
+  orig: 307, 83
+  offset: 0, 0
+  index: -1
+miken_damage
+  rotate: false
+  xy: 240, 3
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+mouth_damage
+  rotate: false
+  xy: 352, 2
+  size: 188, 27
+  orig: 188, 27
+  offset: 0, 0
+  index: -1
+mouth_default
+  rotate: true
+  xy: 877, 59
+  size: 157, 51
+  orig: 157, 51
+  offset: 0, 0
+  index: -1

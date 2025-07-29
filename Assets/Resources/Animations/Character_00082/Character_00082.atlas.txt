@@ -1,0 +1,104 @@
+
+Character_00082.png
+size: 487,204
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_l
+  rotate: false
+  xy: 392, 59
+  size: 12, 16
+  orig: 12, 16
+  offset: 0, 0
+  index: -1
+arm_r
+  rotate: true
+  xy: 304, 22
+  size: 10, 14
+  orig: 10, 14
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 206, 21
+  size: 96, 98
+  orig: 96, 98
+  offset: 0, 0
+  index: -1
+body_02
+  rotate: false
+  xy: 206, 121
+  size: 215, 81
+  orig: 215, 81
+  offset: 0, 0
+  index: -1
+body_03
+  rotate: true
+  xy: 2, 7
+  size: 195, 202
+  orig: 195, 202
+  offset: 0, 0
+  index: -1
+eff_flower_a1
+  rotate: false
+  xy: 255, 3
+  size: 18, 16
+  orig: 18, 16
+  offset: 0, 0
+  index: -1
+eff_flower_b1
+  rotate: false
+  xy: 275, 7
+  size: 13, 12
+  orig: 13, 12
+  offset: 0, 0
+  index: -1
+eff_fragrance
+  rotate: false
+  xy: 304, 34
+  size: 86, 85
+  orig: 86, 85
+  offset: 0, 0
+  index: -1
+eff_orb_a1
+  rotate: false
+  xy: 475, 192
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+eff_orb_b1
+  rotate: false
+  xy: 392, 47
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+eff_orb_c1
+  rotate: false
+  xy: 290, 9
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+face_damage
+  rotate: true
+  xy: 392, 77
+  size: 42, 18
+  orig: 42, 18
+  offset: 0, 0
+  index: -1
+face_default
+  rotate: false
+  xy: 206, 2
+  size: 47, 17
+  orig: 47, 17
+  offset: 0, 0
+  index: -1
+tail_default
+  rotate: true
+  xy: 423, 79
+  size: 123, 50
+  orig: 123, 50
+  offset: 0, 0
+  index: -1

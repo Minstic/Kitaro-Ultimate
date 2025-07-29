@@ -1,0 +1,13 @@
+
+Character_00319.png
+size: 160,222
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 2
+  size: 156, 218
+  orig: 156, 218
+  offset: 0, 0
+  index: -1

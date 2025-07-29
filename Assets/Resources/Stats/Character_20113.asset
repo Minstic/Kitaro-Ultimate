@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c1ab2b1b2f492bb4d825b1f0fb5efb22, type: 3}
+  m_Name: Character_20113
+  m_EditorClassIdentifier: 
+  HP: 320000
+  HB: 4
+  Speed: 25
+  AtkRange: 1250
+  MinLD: 0
+  MaxLD: 0
+  Atk: 4800
+  Atk2: 0
+  Atk3: 0
+  AreaAtk: 1
+  TBA: 5
+  AttacksAllies: 0
+  rarity: 6
+  Cost: 7000
+  CD: 320
+  UnitRole: 18
+  MaxLevel: 40
+  MaxPlusLevel: 0
+  HPMaginificationLvl30: 40
+  AtkMaginificationLvl30: 100
+  MinLayer: 0
+  MaxLayer: 3
+  animOffset: 1
+  SelfTrait: 4
+  TargetTraits: 0
+  SecondaryType: 512
+  TraitAbilityData:
+  - UnlockAtPlus: 0
+    Ability: 6
+    Percent: 100
+    Power: 0
+    DurationSeconds: 4
+    Distance: 0
+  NeutralAbilityData:
+  - UnlockAtPlus: 0
+    Ability: 4
+    Percent: 100
+    Power: 0
+    DurationSeconds: 0
+    Distance: 0
+    NumberOfTimes: 0
+    UnitID: 
+    yabaSize: 0
+    yabaTrait: 0
+    subTarget: 0
+    SurgeElement: 0
+    SurgeAbilities: []
+  StatsBoost: []

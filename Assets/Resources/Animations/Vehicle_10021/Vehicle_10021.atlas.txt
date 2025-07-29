@@ -1,0 +1,580 @@
+
+Vehicle_10021.png
+size: 993,630
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+airplane_body
+  rotate: false
+  xy: 2, 206
+  size: 536, 193
+  orig: 536, 193
+  offset: 0, 0
+  index: -1
+airplane_body_re
+  rotate: false
+  xy: 2, 11
+  size: 536, 193
+  orig: 536, 193
+  offset: 0, 0
+  index: -1
+airplane_cockpit
+  rotate: true
+  xy: 848, 429
+  size: 199, 91
+  orig: 199, 91
+  offset: 0, 0
+  index: -1
+airplane_lid
+  rotate: true
+  xy: 941, 494
+  size: 134, 45
+  orig: 134, 45
+  offset: 0, 0
+  index: -1
+airplane_pole_l
+  rotate: true
+  xy: 540, 19
+  size: 88, 118
+  orig: 88, 118
+  offset: 0, 0
+  index: -1
+airplane_pole_r
+  rotate: true
+  xy: 695, 117
+  size: 59, 96
+  orig: 59, 96
+  offset: 0, 0
+  index: -1
+airplane_propeller_l
+  rotate: true
+  xy: 695, 178
+  size: 181, 145
+  orig: 181, 145
+  offset: 0, 0
+  index: -1
+airplane_propeller_s
+  rotate: false
+  xy: 793, 116
+  size: 57, 60
+  orig: 57, 60
+  offset: 0, 0
+  index: -1
+airplane_tail_01
+  rotate: true
+  xy: 727, 361
+  size: 267, 119
+  orig: 267, 119
+  offset: 0, 0
+  index: -1
+airplane_tail_02
+  rotate: false
+  xy: 660, 2
+  size: 67, 107
+  orig: 67, 107
+  offset: 0, 0
+  index: -1
+airplane_wing_l
+  rotate: true
+  xy: 651, 111
+  size: 288, 42
+  orig: 288, 42
+  offset: 0, 0
+  index: -1
+airplane_wing_r
+  rotate: true
+  xy: 842, 251
+  size: 107, 27
+  orig: 107, 27
+  offset: 0, 0
+  index: -1
+airplane_wing_t
+  rotate: false
+  xy: 2, 401
+  size: 723, 227
+  orig: 723, 227
+  offset: 0, 0
+  index: -1
+blast_dust_01
+  rotate: false
+  xy: 978, 181
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+blast_dust_02
+  rotate: true
+  xy: 877, 2
+  size: 5, 17
+  orig: 5, 17
+  offset: 0, 0
+  index: -1
+blast_dust_03
+  rotate: false
+  xy: 896, 2
+  size: 16, 5
+  orig: 16, 5
+  offset: 0, 0
+  index: -1
+blast_dust_04
+  rotate: false
+  xy: 988, 617
+  size: 3, 4
+  orig: 3, 4
+  offset: 0, 0
+  index: -1
+blast_dust_05
+  rotate: false
+  xy: 988, 623
+  size: 3, 5
+  orig: 3, 5
+  offset: 0, 0
+  index: -1
+blast_orb_01
+  rotate: true
+  xy: 716, 381
+  size: 18, 9
+  orig: 18, 9
+  offset: 0, 0
+  index: -1
+blast_orb_02
+  rotate: false
+  xy: 983, 308
+  size: 8, 6
+  orig: 8, 6
+  offset: 0, 0
+  index: -1
+blast_orb_03
+  rotate: false
+  xy: 914, 2
+  size: 13, 5
+  orig: 13, 5
+  offset: 0, 0
+  index: -1
+blast_puf_01
+  rotate: false
+  xy: 893, 93
+  size: 36, 31
+  orig: 36, 31
+  offset: 0, 0
+  index: -1
+blast_puf_02
+  rotate: true
+  xy: 953, 221
+  size: 31, 38
+  orig: 31, 38
+  offset: 0, 0
+  index: -1
+blast_put_03
+  rotate: false
+  xy: 946, 8
+  size: 21, 17
+  orig: 21, 17
+  offset: 0, 0
+  index: -1
+blast_smoke_01
+  rotate: true
+  xy: 842, 178
+  size: 71, 44
+  orig: 71, 44
+  offset: 0, 0
+  index: -1
+blast_smoke_02
+  rotate: true
+  xy: 871, 288
+  size: 70, 56
+  orig: 70, 56
+  offset: 0, 0
+  index: -1
+blast_smoke_03
+  rotate: false
+  xy: 848, 360
+  size: 91, 67
+  orig: 91, 67
+  offset: 0, 0
+  index: -1
+blast_smoke_04
+  rotate: true
+  xy: 888, 180
+  size: 69, 42
+  orig: 69, 42
+  offset: 0, 0
+  index: -1
+blast_spike_01
+  rotate: false
+  xy: 871, 251
+  size: 60, 35
+  orig: 60, 35
+  offset: 0, 0
+  index: -1
+blast_spike_02
+  rotate: true
+  xy: 941, 377
+  size: 51, 50
+  orig: 51, 50
+  offset: 0, 0
+  index: -1
+blast_spike_03
+  rotate: false
+  xy: 872, 107
+  size: 19, 69
+  orig: 19, 69
+  offset: 0, 0
+  index: -1
+blast_spike_04
+  rotate: true
+  xy: 933, 254
+  size: 35, 49
+  orig: 35, 49
+  offset: 0, 0
+  index: -1
+blast_spike_05
+  rotate: false
+  xy: 953, 196
+  size: 37, 23
+  orig: 37, 23
+  offset: 0, 0
+  index: -1
+bomber_banana
+  rotate: false
+  xy: 929, 291
+  size: 52, 44
+  orig: 52, 44
+  offset: 0, 0
+  index: -1
+bomber_mango
+  rotate: false
+  xy: 931, 93
+  size: 40, 30
+  orig: 40, 30
+  offset: 0, 0
+  index: -1
+bomber_orange
+  rotate: true
+  xy: 857, 16
+  size: 25, 27
+  orig: 25, 27
+  offset: 0, 0
+  index: -1
+bomber_pine
+  rotate: false
+  xy: 729, 49
+  size: 55, 66
+  orig: 55, 66
+  offset: 0, 0
+  index: -1
+bomber_pitaya
+  rotate: true
+  xy: 941, 337
+  size: 38, 50
+  orig: 38, 50
+  offset: 0, 0
+  index: -1
+bomber_star01
+  rotate: false
+  xy: 939, 67
+  size: 23, 24
+  orig: 23, 24
+  offset: 0, 0
+  index: -1
+bomber_star02
+  rotate: true
+  xy: 939, 45
+  size: 20, 23
+  orig: 20, 23
+  offset: 0, 0
+  index: -1
+bomber_yashi
+  rotate: true
+  xy: 893, 126
+  size: 52, 36
+  orig: 52, 36
+  offset: 0, 0
+  index: -1
+ittan_arm_l
+  rotate: false
+  xy: 964, 36
+  size: 17, 20
+  orig: 17, 20
+  offset: 0, 0
+  index: -1
+ittan_arm_r
+  rotate: true
+  xy: 927, 9
+  size: 16, 17
+  orig: 16, 17
+  offset: 0, 0
+  index: -1
+ittan_body
+  rotate: true
+  xy: 540, 109
+  size: 290, 109
+  orig: 290, 109
+  offset: 0, 0
+  index: -1
+ittan_face_dam
+  rotate: true
+  xy: 931, 125
+  size: 53, 25
+  orig: 53, 25
+  offset: 0, 0
+  index: -1
+ittan_face_def
+  rotate: true
+  xy: 958, 128
+  size: 50, 23
+  orig: 50, 23
+  offset: 0, 0
+  index: -1
+ittan_knot
+  rotate: false
+  xy: 902, 9
+  size: 23, 22
+  orig: 23, 22
+  offset: 0, 0
+  index: -1
+ittan_sweat_01
+  rotate: true
+  xy: 861, 2
+  size: 12, 14
+  orig: 12, 14
+  offset: 0, 0
+  index: -1
+ittan_sweat_02
+  rotate: false
+  xy: 973, 95
+  size: 11, 13
+  orig: 11, 13
+  offset: 0, 0
+  index: -1
+ittan_sweat_03
+  rotate: true
+  xy: 716, 368
+  size: 11, 9
+  orig: 11, 9
+  offset: 0, 0
+  index: -1
+ittan_sweat_04
+  rotate: false
+  xy: 817, 2
+  size: 22, 11
+  orig: 22, 11
+  offset: 0, 0
+  index: -1
+ittan_tail
+  rotate: true
+  xy: 852, 95
+  size: 81, 18
+  orig: 81, 18
+  offset: 0, 0
+  index: -1
+kiji_arm_l_a
+  rotate: false
+  xy: 929, 348
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+kiji_arm_r_a
+  rotate: false
+  xy: 929, 337
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+kiji_black_l_a
+  rotate: false
+  xy: 716, 361
+  size: 6, 5
+  orig: 6, 5
+  offset: 0, 0
+  index: -1
+kiji_black_l_b
+  rotate: true
+  xy: 983, 326
+  size: 9, 8
+  orig: 9, 8
+  offset: 0, 0
+  index: -1
+kiji_black_r_a
+  rotate: true
+  xy: 27, 2
+  size: 7, 6
+  orig: 7, 6
+  offset: 0, 0
+  index: -1
+kiji_black_r_b
+  rotate: false
+  xy: 983, 316
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+kiji_body_a
+  rotate: false
+  xy: 729, 2
+  size: 61, 45
+  orig: 61, 45
+  offset: 0, 0
+  index: -1
+kiji_body_b
+  rotate: false
+  xy: 786, 65
+  size: 64, 49
+  orig: 64, 49
+  offset: 0, 0
+  index: -1
+kiji_body_c
+  rotate: false
+  xy: 792, 15
+  size: 63, 48
+  orig: 63, 48
+  offset: 0, 0
+  index: -1
+kiji_body_d
+  rotate: true
+  xy: 941, 430
+  size: 62, 50
+  orig: 62, 50
+  offset: 0, 0
+  index: -1
+kiji_cheek_a
+  rotate: false
+  xy: 608, 3
+  size: 46, 14
+  orig: 46, 14
+  offset: 0, 0
+  index: -1
+kiji_cheek_b
+  rotate: true
+  xy: 932, 195
+  size: 54, 19
+  orig: 54, 19
+  offset: 0, 0
+  index: -1
+kiji_eye_dam_a
+  rotate: false
+  xy: 852, 67
+  size: 39, 26
+  orig: 39, 26
+  offset: 0, 0
+  index: -1
+kiji_eye_dam_b
+  rotate: false
+  xy: 857, 43
+  size: 44, 22
+  orig: 44, 22
+  offset: 0, 0
+  index: -1
+kiji_eye_dam_c
+  rotate: false
+  xy: 893, 67
+  size: 44, 24
+  orig: 44, 24
+  offset: 0, 0
+  index: -1
+kiji_eye_def_a
+  rotate: true
+  xy: 886, 9
+  size: 32, 14
+  orig: 32, 14
+  offset: 0, 0
+  index: -1
+kiji_eye_def_b
+  rotate: false
+  xy: 903, 33
+  size: 32, 14
+  orig: 32, 14
+  offset: 0, 0
+  index: -1
+kiji_eye_def_c
+  rotate: true
+  xy: 695, 361
+  size: 38, 19
+  orig: 38, 19
+  offset: 0, 0
+  index: -1
+kiji_face_eff_a
+  rotate: false
+  xy: 973, 110
+  size: 18, 16
+  orig: 18, 16
+  offset: 0, 0
+  index: -1
+kiji_foot_l_a
+  rotate: true
+  xy: 15, 2
+  size: 7, 10
+  orig: 7, 10
+  offset: 0, 0
+  index: -1
+kiji_foot_r_a
+  rotate: true
+  xy: 2, 2
+  size: 7, 11
+  orig: 7, 11
+  offset: 0, 0
+  index: -1
+kiji_lip_dam_a
+  rotate: true
+  xy: 969, 15
+  size: 19, 14
+  orig: 19, 14
+  offset: 0, 0
+  index: -1
+kiji_lip_dam_b
+  rotate: false
+  xy: 932, 180
+  size: 44, 13
+  orig: 44, 13
+  offset: 0, 0
+  index: -1
+kiji_lip_dam_c
+  rotate: false
+  xy: 937, 27
+  size: 23, 16
+  orig: 23, 16
+  offset: 0, 0
+  index: -1
+kiji_lip_dam_d
+  rotate: false
+  xy: 578, 2
+  size: 28, 15
+  orig: 28, 15
+  offset: 0, 0
+  index: -1
+kiji_lip_def_a
+  rotate: false
+  xy: 792, 2
+  size: 23, 11
+  orig: 23, 11
+  offset: 0, 0
+  index: -1
+kiji_lip_def_b
+  rotate: false
+  xy: 540, 2
+  size: 36, 15
+  orig: 36, 15
+  offset: 0, 0
+  index: -1
+kiji_lip_def_c
+  rotate: true
+  xy: 964, 58
+  size: 33, 13
+  orig: 33, 13
+  offset: 0, 0
+  index: -1
+kiji_lip_def_d
+  rotate: false
+  xy: 841, 2
+  size: 18, 11
+  orig: 18, 11
+  offset: 0, 0
+  index: -1
+kiji_lip_def_e
+  rotate: false
+  xy: 903, 49
+  size: 34, 16
+  orig: 34, 16
+  offset: 0, 0
+  index: -1
